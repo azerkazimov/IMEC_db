@@ -1,9 +1,42 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "nav-bar": [
+      {
+          "id": 1,
+          "name": "Service",
+          "category": "service",
+          "path": "/service",
+          "items": [
+              "Service Page",
+              "Single Page"
+          ]
+      },
+      {
+          "id": 2,
+          "name": "Product",
+          "category": "product",
+          "path": "/product",
+          "items": [
+              "Product-1",
+              "Product-2",
+              "Product-3"
+          ]
+      },
+      {
+          "id": 3,
+          "name": "Industry",
+          "category": "industry",
+          "path": "/industry",
+          "items": [
+              "industry-item-1",
+              "industry-item-2",
+              "industry-item-3"
+          ]
+      },
+      {
+          "id": 4,
+          "name": "Company",
+          "category": "company",
+          "path": "/company"
+      }
+  ]
 }
