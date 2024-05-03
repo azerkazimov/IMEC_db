@@ -14,9 +14,9 @@
           "id": 2,
           "name": "Product",
           "category": "product",
-          "path": "/product",
+          "path": "/product-list",
           "items": [
-              "Product-1",
+              "Product Overview",
               "Product-2",
               "Product-3"
           ]
@@ -39,4 +39,5 @@
           "path": "/company"
       }
   ]
+  
 }
