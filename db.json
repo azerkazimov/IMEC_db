@@ -17,7 +17,7 @@
         "path": "/product-overview",
         "items": [
           { "id": 3, "name": "Product Overview", "path": "/product" },
-          { "id": 4, "name": "Product Catalog", "path": "/product-2" },
+          { "id": 4, "name": "Product Catalog", "path": "/product" },
           { "id": 5, "name": "Product-3", "path": "/product-3" }
         ]
       },
