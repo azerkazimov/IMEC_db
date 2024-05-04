@@ -1,43 +1,43 @@
 {
-  "nav-bar": [
+    "nav-bar": [
       {
-          "id": 1,
-          "name": "Service",
-          "category": "service",
-          "path": "/service",
-          "items": [
-              "Service Page",
-              "Single Page"
-          ]
+        "id": 1,
+        "name": "Service",
+        "category": "service",
+        "path": "/service",
+        "items": [
+          { "id": 1, "name": "Service Overview", "path": "/service-overview" },
+          { "id": 2, "name": "Single Service", "path": "/single-service" }
+        ]
       },
       {
-          "id": 2,
-          "name": "Product",
-          "category": "product",
-          "path": "/product-list",
-          "items": [
-              "Product Overview",
-              "Product-2",
-              "Product-3"
-          ]
+        "id": 2,
+        "name": "Product",
+        "category": "product",
+        "path": "/product-list",
+        "items": [
+          { "id": 3, "name": "Product Overview", "path": "/product-overview" },
+          { "id": 4, "name": "Product-2", "path": "/product-2" },
+          { "id": 5, "name": "Product-3", "path": "/product-3" }
+        ]
       },
       {
-          "id": 3,
-          "name": "Industry",
-          "category": "industry",
-          "path": "/industry",
-          "items": [
-              "industry-item-1",
-              "industry-item-2",
-              "industry-item-3"
-          ]
+        "id": 3,
+        "name": "Industry",
+        "category": "industry",
+        "path": "/industry",
+        "items": [
+          { "id": 6, "name": "Industry Item 1", "path": "/industry-item-1" },
+          { "id": 7, "name": "Industry Item 2", "path": "/industry-item-2" },
+          { "id": 8, "name": "Industry Item 3", "path": "/industry-item-3" }
+        ]
       },
       {
-          "id": 4,
-          "name": "Company",
-          "category": "company",
-          "path": "/company"
+        "id": 4,
+        "name": "Company",
+        "category": "company",
+        "path": "/company"
       }
-  ]
+    ]
+  }
   
-}
