@@ -74,7 +74,7 @@
     "products": [
         {
             "id": 132,
-            "title": "lorem",
+            "title": "Pump",
             "mainCategory": "pump",
             "description": "Lorem ipsum dolar sit amet",
             "subCategory": "vertical-pump",
@@ -104,7 +104,7 @@
         },
         {
             "id": 133,
-            "title": "lorem",
+            "title": "Pump",
             "mainCategory": "pump",
             "description": "Lorem ipsum dolar sit amet",
             "subCategory": "slurry-pump",
@@ -134,7 +134,7 @@
         },
         {
             "id": 134,
-            "title": "lorem",
+            "title": "Pump",
             "mainCategory": "pump",
             "description": "Lorem ipsum dolar sit amet",
             "subCategory": "vacuum-pump",
