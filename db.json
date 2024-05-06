@@ -90,7 +90,7 @@
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
-            "subCatId":"sub1"
+            "subCatId": "sub1"
         },
         {
             "id": 8766,
@@ -98,7 +98,7 @@
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
-            "subCatId":"sub1"
+            "subCatId": "sub1"
         },
         {
             "id": 8767,
@@ -106,7 +106,7 @@
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
-            "subCatId":"sub1"
+            "subCatId": "sub1"
         },
         {
             "id": 8768,
@@ -114,7 +114,7 @@
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
-            "subCatId":"sub2"
+            "subCatId": "sub2"
         },
         {
             "id": 8769,
@@ -122,7 +122,7 @@
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
-            "subCatId":"sub2"
+            "subCatId": "sub2"
         },
         {
             "id": 8770,
@@ -130,7 +130,7 @@
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
-            "subCatId":"sub2"
+            "subCatId": "sub2"
         },
         {
             "id": 8771,
@@ -138,7 +138,7 @@
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
-            "subCatId":"sub3"
+            "subCatId": "sub3"
         },
         {
             "id": 8772,
@@ -146,7 +146,7 @@
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
-            "subCatId":"sub3"
+            "subCatId": "sub3"
         },
         {
             "id": 8773,
@@ -154,7 +154,7 @@
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
-            "subCatId":"sub3"
+            "subCatId": "sub3"
         },
         {
             "id": 8771,
@@ -162,7 +162,7 @@
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
-            "subCatId":"sub4"
+            "subCatId": "sub4"
         },
         {
             "id": 8772,
@@ -170,7 +170,7 @@
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
-            "subCatId":"sub4"
+            "subCatId": "sub4"
         },
         {
             "id": 8773,
@@ -178,29 +178,33 @@
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
-            "subCatId":"sub4"
+            "subCatId": "sub4"
         }
     ],
     "subCategories": [
         {
             "id": "sub1",
             "name": "Vertical Pump",
-            "categoryId": "1"
+            "categoryId": "1",
+            "description": "Lorem ipsum dolar sit amet"
         },
         {
-            "id":"sub2",
+            "id": "sub2",
             "name": "Slurry Pump",
-            "categoryId": "1"            
+            "categoryId": "1",
+            "description": "Lorem ipsum dolar sit amet"
         },
         {
-            "id":"sub3",
+            "id": "sub3",
             "name": "Vacuum Pump",
-            "categoryId": "1"
+            "categoryId": "1",
+            "description": "Lorem ipsum dolar sit amet"
         },
         {
-            "id":"sub4",
+            "id": "sub4",
             "name": "bear 1 ",
-            "categoryId": "2"
+            "categoryId": "2",
+            "description": "Lorem ipsum dolar sit amet"
         }
     ]
 }
