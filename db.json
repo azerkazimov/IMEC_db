@@ -71,90 +71,124 @@
             "path": "/company"
         }
     ],
+    "categories": [
+        {
+            "id": "1",
+            "title": "Pump",
+            "description": "Lorem ipsum dolar sit amet"
+        },
+        {
+            "id": "2",
+            "title": "Bears",
+            "description": "Lorem ipsum dolar sit amet"
+        }
+    ],
     "products": [
         {
-            "id": 132,
-            "title": "Pump",
-            "mainCategory": "pump",
-            "description": "Lorem ipsum dolar sit amet",
-            "subCategories": [
+            "name": "Vertical Pump",
+            "categoryId": "1",
+            "productItems": [
                 {
-                    "name": "Vertical Pump",
-                    "productItems": [
-                        {
-                            "id": 8765,
-                            "name": "vertical pump 1",
-                            "img": "../src",
-                            "description": "Lorem ipsum dolar sit amet",
-                            "brand": "brand-name"
-                        },
-                        {
-                            "id": 8766,
-                            "name": "vertical pump 2",
-                            "img": "../src",
-                            "description": "Lorem ipsum dolar sit amet",
-                            "brand": "brand-name"
-                        },
-                        {
-                            "id": 8767,
-                            "name": "vertical pump 3",
-                            "img": "../src",
-                            "description": "Lorem ipsum dolar sit amet",
-                            "brand": "brand-name"
-                        }
-                    ]
+                    "id": 8765,
+                    "name": "vertical pump 1",
+                    "img": "../src",
+                    "description": "Lorem ipsum dolar sit amet",
+                    "brand": "brand-name"
                 },
                 {
-                    "name": "Slurry Pump",
-                    "productItems": [
-                        {
-                            "id": 8768,
-                            "name": "slurry pump 1",
-                            "img": "../src",
-                            "description": "Lorem ipsum dolar sit amet",
-                            "brand": "brand-name"
-                        },
-                        {
-                            "id": 8769,
-                            "name": "slurry pump 2",
-                            "img": "../src",
-                            "description": "Lorem ipsum dolar sit amet",
-                            "brand": "brand-name"
-                        },
-                        {
-                            "id": 8770,
-                            "name": "slurry pump 3",
-                            "img": "../src",
-                            "description": "Lorem ipsum dolar sit amet",
-                            "brand": "brand-name"
-                        }
-                    ]
+                    "id": 8766,
+                    "name": "vertical pump 2",
+                    "img": "../src",
+                    "description": "Lorem ipsum dolar sit amet",
+                    "brand": "brand-name"
                 },
                 {
-                    "name": "Vacuum Pump",
-                    "productItems": [
-                        {
-                            "id": 8771,
-                            "name": "vacuum pump 1",
-                            "img": "../src",
-                            "description": "Lorem ipsum dolar sit amet",
-                            "brand": "brand-name"
-                        },
-                        {
-                            "id": 8772,
-                            "name": "vacuum pump 2",
-                            "img": "../src",
-                            "description": "Lorem ipsum dolar sit amet",
-                            "brand": "brand-name"
-                        },
-                        {
-                            "id": 8773,
-                            "name": "vacuum pump 3",
-                            "img": "../src",
-                            "description": "Lorem ipsum dolar sit amet",
-                            "brand": "brand-name"
-                        }
-                    ]
+                    "id": 8767,
+                    "name": "vertical pump 3",
+                    "img": "../src",
+                    "description": "Lorem ipsum dolar sit amet",
+                    "brand": "brand-name"
+                }
+            ]
+        },
+        {
+            "name": "Slurry Pump",
+            "categoryId": "1",
+            "productItems": [
+                {
+                    "id": 8768,
+                    "name": "slurry pump 1",
+                    "img": "../src",
+                    "description": "Lorem ipsum dolar sit amet",
+                    "brand": "brand-name"
+                },
+                {
+                    "id": 8769,
+                    "name": "slurry pump 2",
+                    "img": "../src",
+                    "description": "Lorem ipsum dolar sit amet",
+                    "brand": "brand-name"
+                },
+                {
+                    "id": 8770,
+                    "name": "slurry pump 3",
+                    "img": "../src",
+                    "description": "Lorem ipsum dolar sit amet",
+                    "brand": "brand-name"
+                }
+            ]
+        },
+        {
+            "name": "Vacuum Pump",
+            "categoryId": "1",
+            "productItems": [
+                {
+                    "id": 8771,
+                    "name": "vacuum pump 1",
+                    "img": "../src",
+                    "description": "Lorem ipsum dolar sit amet",
+                    "brand": "brand-name"
+                },
+                {
+                    "id": 8772,
+                    "name": "vacuum pump 2",
+                    "img": "../src",
+                    "description": "Lorem ipsum dolar sit amet",
+                    "brand": "brand-name"
+                },
+                {
+                    "id": 8773,
+                    "name": "vacuum pump 3",
+                    "img": "../src",
+                    "description": "Lorem ipsum dolar sit amet",
+                    "brand": "brand-name"
+                }
+            ]
+        },
+        {
+            "name": "bear 1 ",
+            "categoryId": "2",
+            "productItems": [
+                {
+                    "id": 8771,
+                    "name": "vacuum pump 1",
+                    "img": "../src",
+                    "description": "Lorem ipsum dolar sit amet",
+                    "brand": "brand-name"
+                },
+                {
+                    "id": 8772,
+                    "name": "vacuum pump 2",
+                    "img": "../src",
+                    "description": "Lorem ipsum dolar sit amet",
+                    "brand": "brand-name"
+                },
+                {
+                    "id": 8773,
+                    "name": "vacuum pump 3",
+                    "img": "../src",
+                    "description": "Lorem ipsum dolar sit amet",
+                    "brand": "brand-name"
                 }
             ]
         }
