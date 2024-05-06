@@ -71,96 +71,95 @@
             "path": "/company"
         }
     ],
-    "products": [
-        {
+    {
+        "products": [
+          {
             "id": 132,
             "title": "Pump",
             "mainCategory": "pump",
             "description": "Lorem ipsum dolar sit amet",
-            "subCategory": "vertical-pump",
-            "productItems": [
-                {
+            "subCategories": [
+              {
+                "name": "Vertical Pump",
+                "productItems": [
+                  {
                     "id": 8765,
                     "name": "vertical pump 1",
                     "img": "../src",
                     "description": "Lorem ipsum dolar sit amet",
                     "brand": "brand-name"
-                },
-                {
+                  },
+                  {
                     "id": 8766,
                     "name": "vertical pump 2",
                     "img": "../src",
                     "description": "Lorem ipsum dolar sit amet",
                     "brand": "brand-name"
-                },
-                {
+                  },
+                  {
                     "id": 8767,
                     "name": "vertical pump 3",
                     "img": "../src",
                     "description": "Lorem ipsum dolar sit amet",
                     "brand": "brand-name"
-                }
-            ]
-        },
-        {
-            "id": 133,
-            "title": "Pump",
-            "mainCategory": "pump",
-            "description": "Lorem ipsum dolar sit amet",
-            "subCategory": "slurry-pump",
-            "productItems": [
-                {
+                  }
+                ]
+              },
+              {
+                "name": "Slurry Pump",
+                "productItems": [
+                  {
                     "id": 8768,
                     "name": "slurry pump 1",
                     "img": "../src",
                     "description": "Lorem ipsum dolar sit amet",
                     "brand": "brand-name"
-                },
-                {
+                  },
+                  {
                     "id": 8769,
                     "name": "slurry pump 2",
                     "img": "../src",
                     "description": "Lorem ipsum dolar sit amet",
                     "brand": "brand-name"
-                },
-                {
+                  },
+                  {
                     "id": 8770,
                     "name": "slurry pump 3",
                     "img": "../src",
                     "description": "Lorem ipsum dolar sit amet",
                     "brand": "brand-name"
-                }
-            ]
-        },
-        {
-            "id": 134,
-            "title": "Pump",
-            "mainCategory": "pump",
-            "description": "Lorem ipsum dolar sit amet",
-            "subCategory": "vacuum-pump",
-            "productItems": [
-                {
+                  }
+                ]
+              },
+              {
+                "name": "Vacuum Pump",
+                "productItems": [
+                  {
                     "id": 8771,
                     "name": "vacuum pump 1",
                     "img": "../src",
                     "description": "Lorem ipsum dolar sit amet",
                     "brand": "brand-name"
-                },
-                {
+                  },
+                  {
                     "id": 8772,
                     "name": "vacuum pump 2",
                     "img": "../src",
                     "description": "Lorem ipsum dolar sit amet",
                     "brand": "brand-name"
-                },
-                {
+                  },
+                  {
                     "id": 8773,
                     "name": "vacuum pump 3",
                     "img": "../src",
                     "description": "Lorem ipsum dolar sit amet",
                     "brand": "brand-name"
-                }
+                  }
+                ]
+              }
             ]
-        }
-    ]
+          }
+        ]
+      }
+      
 }
