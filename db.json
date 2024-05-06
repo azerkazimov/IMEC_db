@@ -1,43 +1,166 @@
 {
     "nav-bar": [
-      {
-        "id": 1,
-        "name": "Service",
-        "category": "service",
-        "path": "/service",
-        "items": [
-          { "id": 1, "name": "Service Overview", "path": "/service-overview" },
-          { "id": 2, "name": "Single Service", "path": "/single-service" }
-        ]
-      },
-      {
-        "id": 2,
-        "name": "Product",
-        "category": "product",
-        "path": "/product-overview",
-        "items": [
-          { "id": 3, "name": "Product Overview", "path": "/product" },
-          { "id": 4, "name": "Product Catalog", "path": "/product" },
-          { "id": 5, "name": "Brands", "path": "/brands" }
-        ]
-      },
-      {
-        "id": 3,
-        "name": "Industry",
-        "category": "industry",
-        "path": "/industry",
-        "items": [
-          { "id": 6, "name": "Industry Item 1", "path": "/industry-item-1" },
-          { "id": 7, "name": "Industry Item 2", "path": "/industry-item-2" },
-          { "id": 8, "name": "Industry Item 3", "path": "/industry-item-3" }
-        ]
-      },
-      {
-        "id": 4,
-        "name": "Company",
-        "category": "company",
-        "path": "/company"
-      }
+        {
+            "id": 1,
+            "name": "Service",
+            "category": "service",
+            "path": "/service",
+            "items": [
+                {
+                    "id": 1,
+                    "name": "Service Overview",
+                    "path": "/service-overview"
+                },
+                {
+                    "id": 2,
+                    "name": "Single Service",
+                    "path": "/single-service"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Product",
+            "category": "product",
+            "path": "/product-overview",
+            "items": [
+                {
+                    "id": 3,
+                    "name": "Product Overview",
+                    "path": "/product"
+                },
+                {
+                    "id": 4,
+                    "name": "Product Catalog",
+                    "path": "/product"
+                },
+                {
+                    "id": 5,
+                    "name": "Brands",
+                    "path": "/brands"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Industry",
+            "category": "industry",
+            "path": "/industry",
+            "items": [
+                {
+                    "id": 6,
+                    "name": "Industry Item 1",
+                    "path": "/industry-item-1"
+                },
+                {
+                    "id": 7,
+                    "name": "Industry Item 2",
+                    "path": "/industry-item-2"
+                },
+                {
+                    "id": 8,
+                    "name": "Industry Item 3",
+                    "path": "/industry-item-3"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Company",
+            "category": "company",
+            "path": "/company"
+        }
+    ],
+    "products": [
+        {
+            "id": 132,
+            "title": "lorem",
+            "mainCategory": "pump",
+            "description": "Lorem ipsum dolar sit amet",
+            "subCategory": "vertical-pump",
+            "productItems": [
+                {
+                    "id": 8765,
+                    "name": "vertical pump 1",
+                    "img": "../src",
+                    "description": "Lorem ipsum dolar sit amet",
+                    "brand": "brand-name"
+                },
+                {
+                    "id": 8766,
+                    "name": "vertical pump 2",
+                    "img": "../src",
+                    "description": "Lorem ipsum dolar sit amet",
+                    "brand": "brand-name"
+                },
+                {
+                    "id": 8767,
+                    "name": "vertical pump 3",
+                    "img": "../src",
+                    "description": "Lorem ipsum dolar sit amet",
+                    "brand": "brand-name"
+                }
+            ]
+        },
+        {
+            "id": 133,
+            "title": "lorem",
+            "mainCategory": "pump",
+            "description": "Lorem ipsum dolar sit amet",
+            "subCategory": "slurry-pump",
+            "productItems": [
+                {
+                    "id": 8768,
+                    "name": "slurry pump 1",
+                    "img": "../src",
+                    "description": "Lorem ipsum dolar sit amet",
+                    "brand": "brand-name"
+                },
+                {
+                    "id": 8769,
+                    "name": "slurry pump 2",
+                    "img": "../src",
+                    "description": "Lorem ipsum dolar sit amet",
+                    "brand": "brand-name"
+                },
+                {
+                    "id": 8770,
+                    "name": "slurry pump 3",
+                    "img": "../src",
+                    "description": "Lorem ipsum dolar sit amet",
+                    "brand": "brand-name"
+                }
+            ]
+        },
+        {
+            "id": 134,
+            "title": "lorem",
+            "mainCategory": "pump",
+            "description": "Lorem ipsum dolar sit amet",
+            "subCategory": "vacuum-pump",
+            "productItems": [
+                {
+                    "id": 8771,
+                    "name": "vacuum pump 1",
+                    "img": "../src",
+                    "description": "Lorem ipsum dolar sit amet",
+                    "brand": "brand-name"
+                },
+                {
+                    "id": 8772,
+                    "name": "vacuum pump 2",
+                    "img": "../src",
+                    "description": "Lorem ipsum dolar sit amet",
+                    "brand": "brand-name"
+                },
+                {
+                    "id": 8773,
+                    "name": "vacuum pump 3",
+                    "img": "../src",
+                    "description": "Lorem ipsum dolar sit amet",
+                    "brand": "brand-name"
+                }
+            ]
+        }
     ]
-  }
-  
+}
