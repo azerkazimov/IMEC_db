@@ -81,7 +81,7 @@
         {
             "id": "2",
             "title": "Bears",
-            "img": "imec-db/image/pump/pump.jpg",
+            "img": "./imec-db/image/pump/pump.jpg",
             "description": "Lorem ipsum dolar sit amet"
         },
         {
