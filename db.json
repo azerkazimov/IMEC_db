@@ -75,6 +75,7 @@
         {
             "id": "1",
             "title": "Pump",
+            "img": "../images/pump/pump.png",
             "description": "Lorem ipsum dolar sit amet"
         },
         {
@@ -98,6 +99,33 @@
             "description": "Lorem ipsum dolar sit amet"
         }
     ],
+    "subCategories": [
+        {
+            "id": "sub1",
+            "name": "Vertical Pump",
+            "categoryId": "1",
+            "description": "Lorem ipsum dolar sit amet"
+        },
+        {
+            "id": "sub2",
+            "name": "Slurry Pump",
+            "categoryId": "1",
+            "description": "Lorem ipsum dolar sit amet"
+        },
+        {
+            "id": "sub3",
+            "name": "Vacuum Pump",
+            "categoryId": "1",
+            "description": "Lorem ipsum dolar sit amet"
+        },
+        {
+            "id": "sub4",
+            "name": "bear 1 ",
+            "categoryId": "2",
+            "description": "Lorem ipsum dolar sit amet"
+        }
+    ]
+
     "products": [
         {
             "id": 8765,
@@ -196,30 +224,4 @@
             "subCatId": "sub4"
         }
     ],
-    "subCategories": [
-        {
-            "id": "sub1",
-            "name": "Vertical Pump",
-            "categoryId": "1",
-            "description": "Lorem ipsum dolar sit amet"
-        },
-        {
-            "id": "sub2",
-            "name": "Slurry Pump",
-            "categoryId": "1",
-            "description": "Lorem ipsum dolar sit amet"
-        },
-        {
-            "id": "sub3",
-            "name": "Vacuum Pump",
-            "categoryId": "1",
-            "description": "Lorem ipsum dolar sit amet"
-        },
-        {
-            "id": "sub4",
-            "name": "bear 1 ",
-            "categoryId": "2",
-            "description": "Lorem ipsum dolar sit amet"
-        }
-    ]
 }
