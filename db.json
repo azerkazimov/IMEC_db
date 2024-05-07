@@ -124,7 +124,7 @@
             "categoryId": "2",
             "description": "Lorem ipsum dolar sit amet"
         }
-    ]
+    ],
 
     "products": [
         {
@@ -223,5 +223,5 @@
             "brand": "brand-name",
             "subCatId": "sub4"
         }
-    ],
+    ]
 }
