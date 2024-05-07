@@ -75,7 +75,7 @@
         {
             "id": "1",
             "title": "Pump",
-            "img": "../../images/pump/pump.png",
+            "img": "images/pump/pump.png",
             "description": "Lorem ipsum dolar sit pump"
         },
         {
@@ -125,7 +125,6 @@
             "description": "Lorem ipsum dolar sit amet"
         }
     ],
-
     "products": [
         {
             "id": 8765,
