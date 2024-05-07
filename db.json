@@ -93,7 +93,7 @@
         {
             "id": "4",
             "title": "Valve",
-            "img": "image/pump/pump.jpg",
+            "img": "/image/pump/pump.jpg",
             "description": "Lorem ipsum dolar sit valse"
         },
         {
