@@ -81,25 +81,25 @@
         {
             "id": "2",
             "title": "Bears",
-            "img": "/public/image/pump/pump.jpg",
+            "img": "./public/image/pump/pump.jpg",
             "description": "Lorem ipsum dolar let amet"
         },
         {
             "id": "3",
             "title": "V-belt",
-            "img": "public/image/pump/pump.jpg",
+            "img": "./public/image/pump/pump.jpg",
             "description": "Lorem ipsum dolar sit v-belt"
         },
         {
             "id": "4",
             "title": "Valve",
-            "img": "/image/pump/pump.jpg",
+            "img": "./public/image/pump/pump.jpg",
             "description": "Lorem ipsum dolar sit valse"
         },
         {
             "id": "5",
             "title": "HDPE",
-            "img": "image/pump/pump.jpg",
+            "img": "./public/image/pump/pump.jpg",
             "description": "Lorem ipsum dolar sit amet"
         }
     ],
