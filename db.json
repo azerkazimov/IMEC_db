@@ -75,19 +75,19 @@
         {
             "id": "1",
             "title": "Pump",
-            "img": "../pump.jpg",
+            "img": "./public/image/pump/pump.jpg",
             "description": "Lorem ipsum dolar is pump"
         },
         {
             "id": "2",
             "title": "Bears",
-            "img": "./pump/pump.jpg",
+            "img": "/public/image/pump/pump.jpg",
             "description": "Lorem ipsum dolar let amet"
         },
         {
             "id": "3",
             "title": "V-belt",
-            "img": "image/pump/pump.jpg",
+            "img": "public/image/pump/pump.jpg",
             "description": "Lorem ipsum dolar sit v-belt"
         },
         {
