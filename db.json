@@ -75,13 +75,13 @@
         {
             "id": "1",
             "title": "Pump",
-            "img": "image/pump/pump.jpg",
+            "img": "/image/pump/pump.jpg",
             "description": "Lorem ipsum dolar is pump"
         },
         {
             "id": "2",
             "title": "Bears",
-            "img": "./imec-db/image/pump/pump.jpg",
+            "img": "/imec-db/image/pump/pump.jpg",
             "description": "Lorem ipsum dolar let amet"
         },
         {
