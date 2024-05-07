@@ -75,7 +75,7 @@
         {
             "id": "1",
             "title": "Pump",
-            "img": "images/pump/pump.png",
+            "img": "..images/pump/pump.png",
             "description": "Lorem ipsum dolar sit pump"
         },
         {
