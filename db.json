@@ -75,7 +75,7 @@
         {
             "id": "1",
             "title": "Pump",
-            "img": "images/pump/pump.png",
+            "img": "./images/pump/pump.png",
             "description": "Lorem ipsum dolar sit amet"
         },
         {
@@ -86,12 +86,12 @@
         {
             "id": "3",
             "title": "V-belt",
-            "description": "Lorem ipsum dolar sit amet"
+            "description": "Lorem ipsum dolar sit v-belt"
         },
         {
             "id": "4",
             "title": "Valve",
-            "description": "Lorem ipsum dolar sit amet"
+            "description": "Lorem ipsum dolar sit valse"
         },
         {
             "id": "5",
