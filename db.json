@@ -109,184 +109,239 @@
             "category": "pump",
             "name": "Centrifugal",
             "categoryId": "1",
-            "description": "Centrifugal Pump"
+            "description": "A centrifugal pump is a mechanical device designed to move a fluid by converting rotational kinetic energy into hydrodynamic energy."
         },
         {
             "id": "sub2",
             "category": "pump",
             "name": "Vertical Centrifugal",
             "categoryId": "1",
-            "description": "Vertical Centrifugal Pump"
+            "description": "A vertical centrifugal pump is a type of centrifugal pump where the shaft is in the vertical position."
         },
         {
             "id": "sub3",
             "category": "pump",
             "name": "Horizontal Centrifugal",
             "categoryId": "1",
-            "description": "Horizontal Centrifugal Pump"
+            "description": "A horizontal centrifugal pump is a type of centrifugal pump where the shaft is in the horizontal position."
         },
         {
             "id": "sub4",
             "category": "pump",
             "name": "Submersible",
             "categoryId": "1",
-            "description": "Submersible Pump"
+            "description": "A submersible pump is a device that has a hermetically sealed motor close-coupled to the pump body, designed to be submerged in the fluid to be pumped."
         },
         {
             "id": "sub5",
             "category": "pump",
             "name": "Fire Hydrant",
             "categoryId": "1",
-            "description": "Fire Hydrant Pump"
+            "description": "A fire hydrant pump is a component of the fire suppression system that supplies water to the sprinkler system in case of a fire."
         },
         {
             "id": "sub6",
             "category": "pump",
             "name": "Diaphragm",
             "categoryId": "1",
-            "description": "Diaphragm Pump"
+            "description": "A diaphragm pump is a type of positive displacement pump that uses a flexible diaphragm to pump a fluid."
         },
         {
             "id": "sub7",
             "category": "pump",
             "name": "Gear",
             "categoryId": "1",
-            "description": "Gear Pump"
+            "description": "A gear pump is a type of positive displacement pump that uses gears to pump fluid by displacement."
         },
         {
             "id": "sub8",
             "category": "pump",
             "name": "Peristaltic",
             "categoryId": "1",
-            "description": "Peristaltic Pump"
+            "description": "A peristaltic pump is a type of positive displacement pump that uses a flexible tube to pump fluid."
         },
         {
             "id": "sub9",
             "category": "pump",
             "name": "Lobe",
             "categoryId": "1",
-            "description": "Lobe Pump"
+            "description": "A lobe pump is a type of positive displacement pump that uses rotating lobes to move fluid through the pump."
         },
         {
             "id": "sub10",
             "category": "pump",
             "name": "Piston",
             "categoryId": "1",
-            "description": "Piston Pump"
+            "description": "A piston pump is a type of positive displacement pump that uses pistons to move fluid through the pump."
         },
         {
             "id": "sub11",
             "category": "pump",
             "name": "Vacuum",
             "categoryId": "1",
-            "description": "Vacuum pump"
+            "description": "A vacuum pump is a device that removes gas molecules from a sealed volume to create a partial vacuum."
         },
         {
             "id": "sub12",
             "category": "bear",
             "name": "Deep groove ball bearings",
             "categoryId": "2",
-            "description": "Deep groove ball bearings"
+            "description": "Deep groove ball bearings are the most common type of rolling-element bearing. They have a deep groove raceway for high speeds and radial loads."
         },
         {
             "id": "sub13",
             "category": "bear",
             "name": "Cylindrical roller bearings",
             "categoryId": "2",
-            "description": "Cylindrical roller bearings"
+            "description": "Cylindrical roller bearings are a type of rolling-element bearing that uses cylinders to maintain separation between the moving parts of the bearing."
         },
         {
             "id": "sub14",
             "category": "bear",
             "name": "Tapered roller bearings",
             "categoryId": "2",
-            "description": "Tapered roller bearings"
+            "description": "Tapered roller bearings are a type of rolling-element bearing that can support high radial and axial loads in one direction."
         },
         {
             "id": "sub15",
             "category": "bear",
             "name": "Thrust ball bearings",
             "categoryId": "2",
-            "description": "Thrust ball bearings"
+            "description": "Thrust ball bearings are a type of rolling-element bearing that is designed to support axial loads in one direction."
         },
         {
             "id": "sub16",
             "category": "bear",
             "name": "Thrust roller bearings",
             "categoryId": "2",
-            "description": "Thrust roller bearings"
+            "description": "Thrust roller bearings are a type of rolling-element bearing that is designed to support axial loads in one direction."
         },
         {
             "id": "sub17",
             "category": "bear",
             "name": "Needle roller bearings",
             "categoryId": "2",
-            "description": "Needle roller bearings"
+            "description": "Needle roller bearings are a type of rolling-element bearing that uses long, thin cylindrical rollers to support high radial loads."
         },
         {
             "id": "sub18",
             "category": "bear",
             "name": "Plain bearings",
             "categoryId": "2",
-            "description": "Plain bearings"
+            "description": "Plain bearings are a type of bearing that relies on a sliding motion between two surfaces to support a load."
         },
         {
             "id": "sub19",
             "category": "bear",
             "name": "Magnetic bearings",
             "categoryId": "2",
-            "description": "Magnetic bearings"
+            "description": "Magnetic bearings are a type of bearing that uses magnetic fields to support a load without physical contact."
         },
         {
             "id": "sub20",
             "category": "v-belt",
             "name": "Classic V-belt",
             "categoryId": "3",
-            "description": "Classic V-belt"
+            "description": "A classic V-belt is a type of drive belt that has a trapezoidal cross-section and is designed to transmit power between two shafts."
         },
         {
             "id": "sub21",
             "category": "v-belt",
             "name": "Classic Banded V-belt",
             "categoryId": "3",
-            "description": "Classic Banded V-belt"
+            "description": "A classic banded V-belt is a type of drive belt that has multiple V-belts joined together by a band to increase strength and stability."
         },
         {
             "id": "sub22",
             "category": "v-belt",
             "name": "Wedge V-belt",
             "categoryId": "3",
-            "description": "Wedge V-belt"
+            "description": "A wedge V-belt is a type of drive belt that has a wedge-shaped cross-section for increased power transmission."
         },
         {
             "id": "sub23",
             "category": "v-belt",
             "name": "Classic Notched V-belt",
             "categoryId": "3",
-            "description": "Classic Notched V-belt"
+            "description": "A classic notched V-belt is a type of drive belt that has notches on the inner side to improve flexibility and reduce heat buildup."
         },
         {
             "id": "sub24",
             "category": "v-belt",
             "name": "Wedge Notched V-belt",
             "categoryId": "3",
-            "description": "Wedge Notched V-belt"
+            "description": "A wedge notched V-belt is a type of drive belt that has notches on the inner side and a wedge-shaped cross-section for increased power transmission."
         },
         {
             "id": "sub25",
             "category": "v-belt",
             "name": "V-Rib/Multi V-belt",
             "categoryId": "3",
-            "description": "V-Rib/Multi V-belt"
+            "description": "A V-rib/multi V-belt is a type of drive belt that has multiple V-shaped ribs on one side for increased traction and power transmission."
         },
         {
             "id": "sub26",
             "category": "v-belt",
             "name": "Classic Double V-belt",
             "categoryId": "3",
-            "description": "Classic Double V-belt"
+            "description": "A classic double V-belt is a type of drive belt that has two V-belts joined together to transmit power between two shafts."
+        },
+        {
+            "id": "sub27",
+            "category": "valve",
+            "name": "Globe Valve",
+            "categoryId": "4",
+            "description": "A globe valve is a type of valve used for regulating flow in a pipeline, consisting of a movable disc-type element and a stationary ring seat in a generally spherical body."
+        },
+        {
+            "id": "sub28",
+            "category": "valve",
+            "name": "Gate Valve",
+            "categoryId": "4",
+            "description": "A gate valve is a type of valve that uses a flat, wedge-shaped gate to control the flow of fluid through a pipe or duct."
+        },
+        {
+            "id": "sub29",
+            "category": "valve",
+            "name": "Control Valve",
+            "categoryId": "4",
+            "description": "A control valve is a valve used to control fluid flow by varying the size of the flow passage as directed by a signal from a controller."
+        },
+        {
+            "id": "sub30",
+            "category": "valve",
+            "name": "Flow Regulation Valve",
+            "categoryId": "4",
+            "description": "A flow regulation valve is a type of valve used to regulate or control the flow rate of a fluid."
+        },
+        {
+            "id": "sub31",
+            "category": "valve",
+            "name": "Back Pressure Valve",
+            "categoryId": "4",
+            "description": "A back pressure valve is a type of valve that is used to maintain pressure in a system."
+        },
+        {
+            "id": "sub32",
+            "category": "valve",
+            "name": "Y-Type Valve",
+            "categoryId": "4",
+            "description": "A Y-type valve is a type of valve that is shaped like the letter Y."
+        },
+        {
+            "id": "sub33",
+            "category": "valve",
+            "name": "Knife Gate Valve",
+            "categoryId": "4",
+            "description": "A knife gate valve is a type of valve designed for use in demanding environments such as slurries or powder."
+        },
+        {
+            "id": "sub34",
+            "category": "valve",
+            "name": "Check Valve",
+            "categoryId": "4",
+            "description": "A check valve is a valve that allows fluid to flow through it in only one direction."
         }
-
     ],
     "products": [
         {
