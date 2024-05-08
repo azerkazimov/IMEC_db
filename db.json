@@ -103,92 +103,176 @@
             "description": "Lorem ipsum dolar sit amet"
         }
     ],
-    "pumpCategories": [
-        {
-            "id": "sub1",
-            "name": "Dynamic Pumps",
-            "categoryId": "1",
-            "description": "Lorem ipsum dolar sit amet"
-        },
-        {
-            "id": "sub2",
-            "name": "Positive Displacement Pumps",
-            "categoryId": "1",
-            "description": "Lorem ipsum dolar sit amet"
-        }
-    ],
     "subCategories": [
         {
-            "id": "pump1",
+            "id": "sub1",
             "name": "Centrifugal",
-            "subCagegoryId": "sub1",
+            "categoryId": "1",
             "description": "Centrifugal Pump"
         },
         {
-            "id": "pump2",
+            "id": "sub2",
             "name": "Vertical Centrifugal",
-            "subCagegoryId": "sub1",
+            "categoryId": "1",
             "description": "Vertical Centrifugal Pump"
         },
         {
-            "id": "pump3",
+            "id": "sub3",
             "name": "Horizontal Centrifugal",
-            "subCagegoryId": "sub1",
+            "categoryId": "1",
             "description": "Horizontal Centrifugal Pump"
         },
         {
-            "id": "pump4",
+            "id": "sub4",
             "name": "Submersible",
-            "subCagegoryId": "sub1",
+            "categoryId": "1",
             "description": "Submersible Pump"
         },
         {
-            "id": "pump5",
+            "id": "sub5",
             "name": "Fire Hydrant",
-            "subCagegoryId": "sub1",
+            "categoryId": "1",
             "description": "Fire Hydrant Pump"
         },
         {
-            "id": "pump6",
+            "id": "sub6",
             "name": "Diaphragm",
-            "subCagegoryId": "sub2",
+            "categoryId": "1",
             "description": "Diaphragm Pump"
         },
         {
-            "id": "pump7",
+            "id": "sub7",
             "name": "Gear",
-            "subCagegoryId": "sub2",
+            "categoryId": "1",
             "description": "Gear Pump"
         },
         {
-            "id": "pump8",
+            "id": "sub8",
             "name": "Peristaltic",
-            "subCagegoryId": "sub2",
+            "categoryId": "1",
             "description": "Peristaltic Pump"
         },
         {
-            "id": "pump9",
+            "id": "sub9",
             "name": "Lobe",
-            "subCagegoryId": "sub2",
+            "categoryId": "1",
             "description": "Lobe Pump"
         },
         {
-            "id": "pump10",
+            "id": "sub10",
             "name": "Piston",
-            "subCagegoryId": "sub2",
+            "categoryId": "1",
             "description": "Piston Pump"
         },
         {
-            "id": "sub3",
+            "id": "sub11",
             "name": "Vacuum Pump",
             "categoryId": "1",
             "description": "Lorem ipsum dolar sit amet"
         },
         {
-            "id": "sub4",
+            "id": "sub12",
             "name": "bear 1 ",
             "categoryId": "2",
             "description": "Lorem ipsum dolar sit amet"
+        }
+    ],
+    "products": [
+        {
+            "id": 8765,
+            "name": "vertical pump 1",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub1"
+        },
+        {
+            "id": 8766,
+            "name": "vertical pump 2",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub1"
+        },
+        {
+            "id": 8767,
+            "name": "vertical pump 3",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub1"
+        },
+        {
+            "id": 8768,
+            "name": "slurry pump 1",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub2"
+        },
+        {
+            "id": 8769,
+            "name": "slurry pump 2",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub2"
+        },
+        {
+            "id": 8770,
+            "name": "slurry pump 3",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub2"
+        },
+        {
+            "id": 8771,
+            "name": "vacuum pump 1",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub3"
+        },
+        {
+            "id": 8772,
+            "name": "vacuum pump 2",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub3"
+        },
+        {
+            "id": 8773,
+            "name": "vacuum pump 3",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub3"
+        },
+        {
+            "id": 8771,
+            "name": "vacuum pump 1",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub4"
+        },
+        {
+            "id": 8772,
+            "name": "vacuum pump 2",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub4"
+        },
+        {
+            "id": 8773,
+            "name": "vacuum pump 3",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub4"
         }
     ]
 }
