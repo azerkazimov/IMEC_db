@@ -348,82 +348,82 @@
             "name": "HDPE Pipes",
             "categoryId": "5",
             "description": "HDPE pipes are a type of plastic pipes made from high-density polyethylene resin, used for various applications including water supply, drainage, and gas distribution."
-          },
-          {
+        },
+        {
             "id": "sub36",
             "category": "hdpe",
             "name": "HDPE Butt Fusion Fittings",
             "categoryId": "5",
             "description": "HDPE butt fusion fittings are used to join HDPE pipes together using a process called butt fusion, ensuring a strong and leak-proof connection."
-          },
-          {
+        },
+        {
             "id": "sub37",
             "category": "hdpe",
             "name": "HDPE Compression Fittings",
             "categoryId": "5",
             "description": "HDPE compression fittings are used to join HDPE pipes together using compression, providing a quick and easy installation method without the need for heat or solvent welding."
-          },
-          {
+        },
+        {
             "id": "sub38",
             "category": "hdpe",
             "name": "HDPE Compression Valves",
             "categoryId": "5",
             "description": "HDPE compression valves are used to control the flow of fluid in HDPE piping systems, providing a reliable and leak-proof solution."
-          },
-          {
+        },
+        {
             "id": "sub39",
             "category": "hdpe",
             "name": "HDPE Welding Butt Machine",
             "categoryId": "5",
             "description": "HDPE welding butt machines are used to fuse HDPE pipes together using a butt fusion process, ensuring a strong and durable joint."
-          },
-          {
+        },
+        {
             "id": "sub40",
             "category": "upvc",
             "name": "U-PVC Pipe",
             "categoryId": "5",
             "description": "U-PVC pipes are a type of plastic pipes made from unplasticized polyvinyl chloride resin, commonly used for plumbing and drainage applications."
-          },
-          {
+        },
+        {
             "id": "sub41",
             "category": "upvc",
             "name": "U-PVC Fittings and Valves",
             "categoryId": "5",
             "description": "U-PVC fittings and valves are used to connect and control the flow of fluid in U-PVC piping systems, providing a reliable and durable solution for various applications."
-          },
-          {
+        },
+        {
             "id": "sub42",
             "category": "victaulic",
             "name": "Victaulic Coupling",
             "categoryId": "5",
             "description": "Victaulic couplings are mechanical pipe connectors used to join pipes together without the need for welding or threading, providing a quick and easy installation method."
-          },
-          {
+        },
+        {
             "id": "sub43",
             "category": "corrugated",
             "name": "Corrugated Pipe",
             "categoryId": "5",
             "description": "Corrugated pipes are flexible pipes with a corrugated exterior, commonly used for drainage and sewer systems due to their ability to withstand soil movement and pressure."
-          },
-          {
+        },
+        {
             "id": "sub44",
             "category": "hdpe",
             "name": "HDPE Membranes",
             "categoryId": "5",
             "description": "HDPE membranes are thin sheets made from high-density polyethylene resin, used for waterproofing and protection against moisture penetration in various construction applications."
-          },
-          {
+        },
+        {
             "id": "sub45",
             "category": "pipefloats",
             "name": "Pipefloats",
             "categoryId": "5",
             "description": "Pipefloats are floating devices used to support pipelines and prevent them from sinking or shifting in water, ensuring the stability and safety of underwater pipelines."
-          }
+        }
     ],
     "products": [
         {
             "id": 8765,
-            "name": "vertical pump 1",
+            "name": "Centrifugal Pump 1",
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
@@ -431,7 +431,7 @@
         },
         {
             "id": 8766,
-            "name": "vertical pump 2",
+            "name": "Centrifugal Pump 2",
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
@@ -439,7 +439,7 @@
         },
         {
             "id": 8767,
-            "name": "vertical pump 3",
+            "name": "Centrifugal Pump 3",
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
@@ -447,7 +447,7 @@
         },
         {
             "id": 8768,
-            "name": "slurry pump 1",
+            "name": "Vertical Centrifugal Pump 1",
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
@@ -455,7 +455,7 @@
         },
         {
             "id": 8769,
-            "name": "slurry pump 2",
+            "name": "Vertical Centrifugal Pump 2",
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
@@ -463,7 +463,7 @@
         },
         {
             "id": 8770,
-            "name": "slurry pump 3",
+            "name": "Vertical Centrifugal Pump 3",
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
@@ -471,7 +471,7 @@
         },
         {
             "id": 8771,
-            "name": "vacuum pump 1",
+            "name": "Horizontal Centrifugal Pump 1",
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
@@ -479,7 +479,7 @@
         },
         {
             "id": 8772,
-            "name": "vacuum pump 2",
+            "name": "Horizontal Centrifugal Pump 2",
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
@@ -487,35 +487,107 @@
         },
         {
             "id": 8773,
-            "name": "vacuum pump 3",
+            "name": "Horizontal Centrifugal Pump 3",
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
             "subCatId": "sub3"
         },
         {
-            "id": 8771,
-            "name": "vacuum pump 1",
+            "id": 8774,
+            "name": "Submersible Pump 1",
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
             "subCatId": "sub4"
         },
         {
-            "id": 8772,
-            "name": "vacuum pump 2",
+            "id": 8775,
+            "name": "Submersible Pump 2",
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
             "subCatId": "sub4"
         },
         {
-            "id": 8773,
-            "name": "vacuum pump 3",
+            "id": 8776,
+            "name": "Submersible Pump 3",
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
             "subCatId": "sub4"
+        },
+        {
+            "id": 8777,
+            "name": "Fire Hydrant Pump 1",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub5"
+        },
+        {
+            "id": 8778,
+            "name": "Fire Hydrant Pump 2",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub5"
+        },
+        {
+            "id": 8779,
+            "name": "Fire Hydrant Pump 3",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub5"
+        },
+        {
+            "id": 8780,
+            "name": "Diaphragm Pump 1",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub6"
+        },
+        {
+            "id": 8781,
+            "name": "Diaphragm Pump 2",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub6"
+        },
+        {
+            "id": 8782,
+            "name": "Diaphragm Pump 3",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub6"
+        },
+        {
+            "id": 8783,
+            "name": "Gear Pump 1",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub7"
+        },
+        {
+            "id": 8784,
+            "name": "Gear Pump 2",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub7"
+        },
+        {
+            "id": 8785,
+            "name": "Gear Pump 3",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub7"
         }
     ]
 }
