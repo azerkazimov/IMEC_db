@@ -379,28 +379,28 @@
         },
         {
             "id": "sub40",
-            "category": "upvc",
+            "category": "hdpe",
             "name": "U-PVC Pipe",
             "categoryId": "5",
             "description": "U-PVC pipes are a type of plastic pipes made from unplasticized polyvinyl chloride resin, commonly used for plumbing and drainage applications."
         },
         {
             "id": "sub41",
-            "category": "upvc",
+            "category": "hdpe",
             "name": "U-PVC Fittings and Valves",
             "categoryId": "5",
             "description": "U-PVC fittings and valves are used to connect and control the flow of fluid in U-PVC piping systems, providing a reliable and durable solution for various applications."
         },
         {
             "id": "sub42",
-            "category": "victaulic",
+            "category": "hdpe",
             "name": "Victaulic Coupling",
             "categoryId": "5",
             "description": "Victaulic couplings are mechanical pipe connectors used to join pipes together without the need for welding or threading, providing a quick and easy installation method."
         },
         {
             "id": "sub43",
-            "category": "corrugated",
+            "category": "hdpe",
             "name": "Corrugated Pipe",
             "categoryId": "5",
             "description": "Corrugated pipes are flexible pipes with a corrugated exterior, commonly used for drainage and sewer systems due to their ability to withstand soil movement and pressure."
@@ -414,7 +414,7 @@
         },
         {
             "id": "sub45",
-            "category": "pipefloats",
+            "category": "hdpe",
             "name": "Pipefloats",
             "categoryId": "5",
             "description": "Pipefloats are floating devices used to support pipelines and prevent them from sinking or shifting in water, ensuring the stability and safety of underwater pipelines."
@@ -588,6 +588,918 @@
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
             "subCatId": "sub7"
-        }
+        },
+        {
+            "id": 8786,
+            "name": "Peristaltic Pump 1",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub8"
+          },
+          {
+            "id": 8787,
+            "name": "Peristaltic Pump 2",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub8"
+          },
+          {
+            "id": 8788,
+            "name": "Peristaltic Pump 3",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub8"
+          },
+          {
+            "id": 8789,
+            "name": "Lobe Pump 1",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub9"
+          },
+          {
+            "id": 8790,
+            "name": "Lobe Pump 2",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub9"
+          },
+          {
+            "id": 8791,
+            "name": "Lobe Pump 3",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub9"
+          },
+          {
+            "id": 8792,
+            "name": "Piston Pump 1",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub10"
+          },
+          {
+            "id": 8793,
+            "name": "Piston Pump 2",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub10"
+          },
+          {
+            "id": 8794,
+            "name": "Piston Pump 3",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub10"
+          },
+          {
+            "id": 8795,
+            "name": "Vacuum Pump 1",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub11"
+          },
+          {
+            "id": 8796,
+            "name": "Vacuum Pump 2",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub11"
+          },
+          {
+            "id": 8797,
+            "name": "Vacuum Pump 3",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub11"
+          },
+          {
+            "id": 8798,
+            "name": "Deep Groove Ball Bearing 1",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub12"
+          },
+          {
+            "id": 8799,
+            "name": "Deep Groove Ball Bearing 2",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub12"
+          },
+          {
+            "id": 8800,
+            "name": "Deep Groove Ball Bearing 3",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub12"
+          },
+          {
+            "id": 8801,
+            "name": "Cylindrical Roller Bearing 1",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub13"
+          },
+          {
+            "id": 8802,
+            "name": "Cylindrical Roller Bearing 2",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub13"
+          },
+          {
+            "id": 8803,
+            "name": "Cylindrical Roller Bearing 3",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub13"
+          },
+          {
+            "id": 8804,
+            "name": "Tapered Roller Bearing 1",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub14"
+          },
+          {
+            "id": 8805,
+            "name": "Tapered Roller Bearing 2",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub14"
+          },
+          {
+            "id": 8806,
+            "name": "Tapered Roller Bearing 3",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub14"
+          },
+          {
+            "id": 8807,
+            "name": "Thrust Ball Bearing 1",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub15"
+          },
+          {
+            "id": 8808,
+            "name": "Thrust Ball Bearing 2",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub15"
+          },
+          {
+            "id": 8809,
+            "name": "Thrust Ball Bearing 3",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub15"
+          },
+          {
+            "id": 8810,
+            "name": "Thrust Roller Bearing 1",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub16"
+          },
+          {
+            "id": 8811,
+            "name": "Thrust Roller Bearing 2",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub16"
+          },
+          {
+            "id": 8812,
+            "name": "Thrust Roller Bearing 3",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub16"
+          },
+          {
+            "id": 8813,
+            "name": "Needle Roller Bearing 1",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub17"
+          },
+          {
+            "id": 8814,
+            "name": "Needle Roller Bearing 2",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub17"
+          },
+          {
+            "id": 8815,
+            "name": "Needle Roller Bearing 3",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub17"
+          },
+          {
+            "id": 8816,
+            "name": "Plain Bearing 1",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub18"
+          },
+          {
+            "id": 8817,
+            "name": "Plain Bearing 2",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub18"
+          },
+          {
+            "id": 8818,
+            "name": "Plain Bearing 3",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub18"
+          },
+          {
+            "id": 8819,
+            "name": "Magnetic Bearing 1",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub19"
+          },
+          {
+            "id": 8820,
+            "name": "Magnetic Bearing 2",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub19"
+          },
+          {
+            "id": 8821,
+            "name": "Magnetic Bearing 3",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub19"
+          },
+          {
+            "id": 8822,
+            "name": "Classic V-belt 1",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub20"
+          },
+          {
+            "id": 8823,
+            "name": "Classic V-belt 2",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub20"
+          },
+          {
+            "id": 8824,
+            "name": "Classic V-belt 3",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub20"
+          },
+          {
+            "id": 8825,
+            "name": "Classic Banded V-belt 1",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub21"
+          },
+          {
+            "id": 8826,
+            "name": "Classic Banded V-belt 2",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub21"
+          },
+          {
+            "id": 8827,
+            "name": "Classic Banded V-belt 3",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub21"
+          },
+          {
+            "id": 8828,
+            "name": "Wedge V-belt 1",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub22"
+          },
+          {
+            "id": 8829,
+            "name": "Wedge V-belt 2",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub22"
+          },
+          {
+            "id": 8830,
+            "name": "Wedge V-belt 3",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub22"
+          },
+          {
+            "id": 8831,
+            "name": "Classic Notched V-belt 1",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub23"
+          },
+          {
+            "id": 8832,
+            "name": "Classic Notched V-belt 2",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub23"
+          },
+          {
+            "id": 8833,
+            "name": "Classic Notched V-belt 3",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub23"
+          },
+          {
+            "id": 8834,
+            "name": "Wedge Notched V-belt 1",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub24"
+          },
+          {
+            "id": 8835,
+            "name": "Wedge Notched V-belt 2",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub24"
+          },
+          {
+            "id": 8836,
+            "name": "Wedge Notched V-belt 3",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub24"
+          },
+          {
+            "id": 8837,
+            "name": "V-Rib/Multi V-belt 1",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub25"
+          },
+          {
+            "id": 8838,
+            "name": "V-Rib/Multi V-belt 2",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub25"
+          },
+          {
+            "id": 8839,
+            "name": "V-Rib/Multi V-belt 3",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub25"
+          },
+          {
+            "id": 8840,
+            "name": "Classic Double V-belt 1",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub26"
+          },
+          {
+            "id": 8841,
+            "name": "Classic Double V-belt 2",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub26"
+          },
+          {
+            "id": 8842,
+            "name": "Classic Double V-belt 3",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub26"
+          },
+          {
+            "id": 8843,
+            "name": "Globe Valve 1",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub27"
+          },
+          {
+            "id": 8844,
+            "name": "Globe Valve 2",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub27"
+          },
+          {
+            "id": 8845,
+            "name": "Globe Valve 3",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub27"
+          },
+          {
+            "id": 8846,
+            "name": "Gate Valve 1",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub28"
+          },
+          {
+            "id": 8847,
+            "name": "Gate Valve 2",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub28"
+          },
+          {
+            "id": 8848,
+            "name": "Gate Valve 3",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub28"
+          },
+          {
+            "id": 8849,
+            "name": "Control Valve 1",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub29"
+          },
+          {
+            "id": 8850,
+            "name": "Control Valve 2",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub29"
+          },
+          {
+            "id": 8851,
+            "name": "Control Valve 3",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub29"
+          },
+          {
+            "id": 8852,
+            "name": "Flow Regulation Valve 1",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub30"
+          },
+          {
+            "id": 8853,
+            "name": "Flow Regulation Valve 2",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub30"
+          },
+          {
+            "id": 8854,
+            "name": "Flow Regulation Valve 3",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub30"
+          },
+          {
+            "id": 8855,
+            "name": "Back Pressure Valve 1",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub31"
+          },
+          {
+            "id": 8856,
+            "name": "Back Pressure Valve 2",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub31"
+          },
+          {
+            "id": 8857,
+            "name": "Back Pressure Valve 3",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub31"
+          },
+          {
+            "id": 8858,
+            "name": "Y-Type Valve 1",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub32"
+          },
+          {
+            "id": 8859,
+            "name": "Y-Type Valve 2",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub32"
+          },
+          {
+            "id": 8860,
+            "name": "Y-Type Valve 3",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub32"
+          },
+          {
+            "id": 8861,
+            "name": "Knife Gate Valve 1",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub33"
+          },
+          {
+            "id": 8862,
+            "name": "Knife Gate Valve 2",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub33"
+          },
+          {
+            "id": 8863,
+            "name": "Knife Gate Valve 3",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub33"
+          },
+          {
+            "id": 8864,
+            "name": "Check Valve 1",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub34"
+          },
+          {
+            "id": 8865,
+            "name": "Check Valve 2",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub34"
+          },
+          {
+            "id": 8866,
+            "name": "Check Valve 3",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub34"
+          },
+          {
+            "id": 8867,
+            "name": "HDPE Pipes 1",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub35"
+          },
+          {
+            "id": 8868,
+            "name": "HDPE Pipes 2",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub35"
+          },
+          {
+            "id": 8869,
+            "name": "HDPE Pipes 3",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub35"
+          },
+          {
+            "id": 8870,
+            "name": "HDPE Butt Fusion Fittings 1",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub36"
+          },
+          {
+            "id": 8871,
+            "name": "HDPE Butt Fusion Fittings 2",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub36"
+          },
+          {
+            "id": 8872,
+            "name": "HDPE Butt Fusion Fittings 3",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub36"
+          },
+          {
+            "id": 8873,
+            "name": "HDPE Compression Fittings 1",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub37"
+          },
+          {
+            "id": 8874,
+            "name": "HDPE Compression Fittings 2",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub37"
+          },
+          {
+            "id": 8875,
+            "name": "HDPE Compression Fittings 3",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub37"
+          },
+          {
+            "id": 8876,
+            "name": "HDPE Compression Valves 1",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub38"
+          },
+          {
+            "id": 8877,
+            "name": "HDPE Compression Valves 2",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub38"
+          },
+          {
+            "id": 8878,
+            "name": "HDPE Compression Valves 3",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub38"
+          },
+          {
+            "id": 8879,
+            "name": "HDPE Welding Butt Machine 1",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub39"
+          },
+          {
+            "id": 8880,
+            "name": "HDPE Welding Butt Machine 2",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub39"
+          },
+          {
+            "id": 8881,
+            "name": "HDPE Welding Butt Machine 3",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub39"
+          },
+          {
+            "id": 8882,
+            "name": "U-PVC Pipe 1",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub40"
+          },
+          {
+            "id": 8883,
+            "name": "U-PVC Pipe 2",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub40"
+          },
+          {
+            "id": 8884,
+            "name": "U-PVC Pipe 3",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub40"
+          },
+          {
+            "id": 8885,
+            "name": "U-PVC Fittings and Valves 1",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub41"
+          },
+          {
+            "id": 8886,
+            "name": "U-PVC Fittings and Valves 2",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub41"
+          },
+          {
+            "id": 8887,
+            "name": "U-PVC Fittings and Valves 3",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub41"
+          },
+          {
+            "id": 8888,
+            "name": "Victaulic Coupling 1",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub42"
+          },
+          {
+            "id": 8889,
+            "name": "Victaulic Coupling 2",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub42"
+          },
+          {
+            "id": 8890,
+            "name": "Victaulic Coupling 3",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub42"
+          },
+          {
+            "id": 8891,
+            "name": "Corrugated Pipe 1",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub43"
+          },
+          {
+            "id": 8892,
+            "name": "Corrugated Pipe 2",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub43"
+          },
+          {
+            "id": 8893,
+            "name": "Corrugated Pipe 3",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub43"
+          },
+          {
+            "id": 8894,
+            "name": "HDPE Membranes 1",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub44"
+          },
+          {
+            "id": 8895,
+            "name": "HDPE Membranes 2",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub44"
+          },
+          {
+            "id": 8896,
+            "name": "HDPE Membranes 3",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub44"
+          },
+          {
+            "id": 8897,
+            "name": "Pipefloats 1",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub45"
+          },
+          {
+            "id": 8898,
+            "name": "Pipefloats 2",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub45"
+          },
+          {
+            "id": 8899,
+            "name": "Pipefloats 3",
+            "img": "../src",
+            "description": "Lorem ipsum dolar sit amet",
+            "brand": "brand-name",
+            "subCatId": "sub45"
+          }
     ]
 }
