@@ -721,6 +721,7 @@
           {
             "id": 8798,
             "name": "Deep Groove Ball Bearing 1",
+            "category": "bears",
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
@@ -729,6 +730,7 @@
           {
             "id": 8799,
             "name": "Deep Groove Ball Bearing 2",
+            "category": "bears",
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
@@ -737,6 +739,7 @@
           {
             "id": 8800,
             "name": "Deep Groove Ball Bearing 3",
+            "category": "bears",
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
@@ -745,6 +748,7 @@
           {
             "id": 8801,
             "name": "Cylindrical Roller Bearing 1",
+            "category": "bears",
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
@@ -753,6 +757,7 @@
           {
             "id": 8802,
             "name": "Cylindrical Roller Bearing 2",
+            "category": "bears",
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
@@ -761,6 +766,7 @@
           {
             "id": 8803,
             "name": "Cylindrical Roller Bearing 3",
+            "category": "bears",
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
@@ -769,6 +775,7 @@
           {
             "id": 8804,
             "name": "Tapered Roller Bearing 1",
+            "category": "bears",
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
@@ -777,6 +784,7 @@
           {
             "id": 8805,
             "name": "Tapered Roller Bearing 2",
+            "category": "bears",
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
@@ -785,6 +793,7 @@
           {
             "id": 8806,
             "name": "Tapered Roller Bearing 3",
+            "category": "bears",
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
@@ -793,6 +802,7 @@
           {
             "id": 8807,
             "name": "Thrust Ball Bearing 1",
+            "category": "bears",
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
@@ -801,6 +811,7 @@
           {
             "id": 8808,
             "name": "Thrust Ball Bearing 2",
+            "category": "bears",
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
@@ -809,6 +820,7 @@
           {
             "id": 8809,
             "name": "Thrust Ball Bearing 3",
+            "category": "bears",
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
@@ -817,6 +829,7 @@
           {
             "id": 8810,
             "name": "Thrust Roller Bearing 1",
+            "category": "bears",
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
@@ -825,6 +838,7 @@
           {
             "id": 8811,
             "name": "Thrust Roller Bearing 2",
+            "category": "bears",
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
@@ -833,6 +847,7 @@
           {
             "id": 8812,
             "name": "Thrust Roller Bearing 3",
+            "category": "bears",
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
@@ -841,6 +856,7 @@
           {
             "id": 8813,
             "name": "Needle Roller Bearing 1",
+            "category": "bears",
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
@@ -849,6 +865,7 @@
           {
             "id": 8814,
             "name": "Needle Roller Bearing 2",
+            "category": "bears",
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
@@ -857,6 +874,7 @@
           {
             "id": 8815,
             "name": "Needle Roller Bearing 3",
+            "category": "bears",
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
@@ -865,6 +883,7 @@
           {
             "id": 8816,
             "name": "Plain Bearing 1",
+            "category": "bears",
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
@@ -873,6 +892,7 @@
           {
             "id": 8817,
             "name": "Plain Bearing 2",
+            "category": "bears",
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
@@ -881,6 +901,7 @@
           {
             "id": 8818,
             "name": "Plain Bearing 3",
+            "category": "bears",
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
@@ -889,6 +910,7 @@
           {
             "id": 8819,
             "name": "Magnetic Bearing 1",
+            "category": "bears",
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
@@ -897,6 +919,7 @@
           {
             "id": 8820,
             "name": "Magnetic Bearing 2",
+            "category": "bears",
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
@@ -905,6 +928,7 @@
           {
             "id": 8821,
             "name": "Magnetic Bearing 3",
+            "category": "bears",
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
@@ -913,6 +937,7 @@
           {
             "id": 8822,
             "name": "Classic V-belt 1",
+            "category": "v-belt",
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
@@ -921,6 +946,7 @@
           {
             "id": 8823,
             "name": "Classic V-belt 2",
+            "category": "v-belt",
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
@@ -929,6 +955,7 @@
           {
             "id": 8824,
             "name": "Classic V-belt 3",
+            "category": "v-belt",
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
@@ -937,6 +964,7 @@
           {
             "id": 8825,
             "name": "Classic Banded V-belt 1",
+            "category": "v-belt",
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
@@ -945,6 +973,7 @@
           {
             "id": 8826,
             "name": "Classic Banded V-belt 2",
+            "category": "v-belt",
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
@@ -953,6 +982,7 @@
           {
             "id": 8827,
             "name": "Classic Banded V-belt 3",
+            "category": "v-belt",
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
@@ -961,6 +991,7 @@
           {
             "id": 8828,
             "name": "Wedge V-belt 1",
+            "category": "v-belt",
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
@@ -969,6 +1000,7 @@
           {
             "id": 8829,
             "name": "Wedge V-belt 2",
+            "category": "v-belt",
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
@@ -977,6 +1009,7 @@
           {
             "id": 8830,
             "name": "Wedge V-belt 3",
+            "category": "v-belt",
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
@@ -985,6 +1018,7 @@
           {
             "id": 8831,
             "name": "Classic Notched V-belt 1",
+            "category": "v-belt",
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
@@ -993,6 +1027,7 @@
           {
             "id": 8832,
             "name": "Classic Notched V-belt 2",
+            "category": "v-belt",
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
@@ -1001,6 +1036,7 @@
           {
             "id": 8833,
             "name": "Classic Notched V-belt 3",
+            "category": "v-belt",
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
@@ -1009,6 +1045,7 @@
           {
             "id": 8834,
             "name": "Wedge Notched V-belt 1",
+            "category": "v-belt",
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
@@ -1017,6 +1054,7 @@
           {
             "id": 8835,
             "name": "Wedge Notched V-belt 2",
+            "category": "v-belt",
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
@@ -1025,6 +1063,7 @@
           {
             "id": 8836,
             "name": "Wedge Notched V-belt 3",
+            "category": "v-belt",
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
@@ -1033,6 +1072,7 @@
           {
             "id": 8837,
             "name": "V-Rib/Multi V-belt 1",
+            "category": "v-belt",
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
@@ -1041,6 +1081,7 @@
           {
             "id": 8838,
             "name": "V-Rib/Multi V-belt 2",
+            "category": "v-belt",
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
@@ -1049,6 +1090,7 @@
           {
             "id": 8839,
             "name": "V-Rib/Multi V-belt 3",
+            "category": "v-belt",
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
@@ -1057,6 +1099,7 @@
           {
             "id": 8840,
             "name": "Classic Double V-belt 1",
+            "category": "v-belt",
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
@@ -1065,6 +1108,7 @@
           {
             "id": 8841,
             "name": "Classic Double V-belt 2",
+            "category": "v-belt",
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
@@ -1073,6 +1117,7 @@
           {
             "id": 8842,
             "name": "Classic Double V-belt 3",
+            "category": "v-belt",
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
@@ -1081,6 +1126,7 @@
           {
             "id": 8843,
             "name": "Globe Valve 1",
+            "category": "valve",
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
@@ -1089,6 +1135,7 @@
           {
             "id": 8844,
             "name": "Globe Valve 2",
+            "category": "valve",
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
@@ -1097,6 +1144,7 @@
           {
             "id": 8845,
             "name": "Globe Valve 3",
+            "category": "valve",
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
@@ -1105,6 +1153,7 @@
           {
             "id": 8846,
             "name": "Gate Valve 1",
+            "category": "valve",
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
@@ -1113,6 +1162,7 @@
           {
             "id": 8847,
             "name": "Gate Valve 2",
+            "category": "valve",
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
@@ -1121,6 +1171,7 @@
           {
             "id": 8848,
             "name": "Gate Valve 3",
+            "category": "valve",
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
@@ -1129,6 +1180,7 @@
           {
             "id": 8849,
             "name": "Control Valve 1",
+            "category": "valve",
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
@@ -1137,6 +1189,7 @@
           {
             "id": 8850,
             "name": "Control Valve 2",
+            "category": "valve",
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
@@ -1145,6 +1198,7 @@
           {
             "id": 8851,
             "name": "Control Valve 3",
+            "category": "valve",
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
@@ -1153,6 +1207,7 @@
           {
             "id": 8852,
             "name": "Flow Regulation Valve 1",
+            "category": "valve",
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
@@ -1161,6 +1216,7 @@
           {
             "id": 8853,
             "name": "Flow Regulation Valve 2",
+            "category": "valve",
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
@@ -1169,6 +1225,7 @@
           {
             "id": 8854,
             "name": "Flow Regulation Valve 3",
+            "category": "valve",
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
@@ -1177,6 +1234,7 @@
           {
             "id": 8855,
             "name": "Back Pressure Valve 1",
+            "category": "valve",
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
@@ -1185,6 +1243,7 @@
           {
             "id": 8856,
             "name": "Back Pressure Valve 2",
+            "category": "valve",
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
@@ -1193,6 +1252,7 @@
           {
             "id": 8857,
             "name": "Back Pressure Valve 3",
+            "category": "valve",
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
@@ -1201,6 +1261,7 @@
           {
             "id": 8858,
             "name": "Y-Type Valve 1",
+            "category": "valve",
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
@@ -1209,6 +1270,7 @@
           {
             "id": 8859,
             "name": "Y-Type Valve 2",
+            "category": "valve",
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
@@ -1217,6 +1279,7 @@
           {
             "id": 8860,
             "name": "Y-Type Valve 3",
+            "category": "valve",
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
@@ -1225,6 +1288,7 @@
           {
             "id": 8861,
             "name": "Knife Gate Valve 1",
+            "category": "valve",
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
@@ -1233,6 +1297,7 @@
           {
             "id": 8862,
             "name": "Knife Gate Valve 2",
+            "category": "valve",
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
@@ -1241,6 +1306,7 @@
           {
             "id": 8863,
             "name": "Knife Gate Valve 3",
+            "category": "valve",
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
@@ -1249,6 +1315,7 @@
           {
             "id": 8864,
             "name": "Check Valve 1",
+            "category": "valve",
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
@@ -1257,6 +1324,7 @@
           {
             "id": 8865,
             "name": "Check Valve 2",
+            "category": "valve",
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
@@ -1265,6 +1333,7 @@
           {
             "id": 8866,
             "name": "Check Valve 3",
+            "category": "valve",
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
@@ -1273,6 +1342,7 @@
           {
             "id": 8867,
             "name": "HDPE Pipes 1",
+            "category": "hdpe",
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
@@ -1281,6 +1351,7 @@
           {
             "id": 8868,
             "name": "HDPE Pipes 2",
+            "category": "hdpe",
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
@@ -1289,6 +1360,7 @@
           {
             "id": 8869,
             "name": "HDPE Pipes 3",
+            "category": "hdpe",
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
@@ -1297,6 +1369,7 @@
           {
             "id": 8870,
             "name": "HDPE Butt Fusion Fittings 1",
+            "category": "hdpe",
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
@@ -1305,6 +1378,7 @@
           {
             "id": 8871,
             "name": "HDPE Butt Fusion Fittings 2",
+            "category": "hdpe",
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
@@ -1313,6 +1387,7 @@
           {
             "id": 8872,
             "name": "HDPE Butt Fusion Fittings 3",
+            "category": "hdpe",
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
@@ -1321,6 +1396,7 @@
           {
             "id": 8873,
             "name": "HDPE Compression Fittings 1",
+            "category": "hdpe",
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
@@ -1329,6 +1405,7 @@
           {
             "id": 8874,
             "name": "HDPE Compression Fittings 2",
+            "category": "hdpe",
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
@@ -1337,6 +1414,7 @@
           {
             "id": 8875,
             "name": "HDPE Compression Fittings 3",
+            "category": "hdpe",
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
@@ -1345,6 +1423,7 @@
           {
             "id": 8876,
             "name": "HDPE Compression Valves 1",
+            "category": "hdpe",
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
@@ -1353,6 +1432,7 @@
           {
             "id": 8877,
             "name": "HDPE Compression Valves 2",
+            "category": "hdpe",
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
@@ -1361,6 +1441,7 @@
           {
             "id": 8878,
             "name": "HDPE Compression Valves 3",
+            "category": "hdpe",
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
@@ -1369,6 +1450,7 @@
           {
             "id": 8879,
             "name": "HDPE Welding Butt Machine 1",
+            "category": "hdpe",
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
@@ -1377,6 +1459,7 @@
           {
             "id": 8880,
             "name": "HDPE Welding Butt Machine 2",
+            "category": "hdpe",
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
@@ -1385,6 +1468,7 @@
           {
             "id": 8881,
             "name": "HDPE Welding Butt Machine 3",
+            "category": "hdpe",
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
@@ -1393,6 +1477,7 @@
           {
             "id": 8882,
             "name": "U-PVC Pipe 1",
+            "category": "hdpe",
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
@@ -1401,6 +1486,7 @@
           {
             "id": 8883,
             "name": "U-PVC Pipe 2",
+            "category": "hdpe",
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
@@ -1409,6 +1495,7 @@
           {
             "id": 8884,
             "name": "U-PVC Pipe 3",
+            "category": "hdpe",
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
@@ -1417,6 +1504,7 @@
           {
             "id": 8885,
             "name": "U-PVC Fittings and Valves 1",
+            "category": "hdpe",
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
@@ -1425,6 +1513,7 @@
           {
             "id": 8886,
             "name": "U-PVC Fittings and Valves 2",
+            "category": "hdpe",
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
@@ -1433,6 +1522,7 @@
           {
             "id": 8887,
             "name": "U-PVC Fittings and Valves 3",
+            "category": "hdpe",
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
@@ -1441,6 +1531,7 @@
           {
             "id": 8888,
             "name": "Victaulic Coupling 1",
+            "category": "hdpe",
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
@@ -1449,6 +1540,7 @@
           {
             "id": 8889,
             "name": "Victaulic Coupling 2",
+            "category": "hdpe",
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
@@ -1457,6 +1549,7 @@
           {
             "id": 8890,
             "name": "Victaulic Coupling 3",
+            "category": "hdpe",
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
@@ -1465,6 +1558,7 @@
           {
             "id": 8891,
             "name": "Corrugated Pipe 1",
+            "category": "hdpe",
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
@@ -1473,6 +1567,7 @@
           {
             "id": 8892,
             "name": "Corrugated Pipe 2",
+            "category": "hdpe",
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
@@ -1481,6 +1576,7 @@
           {
             "id": 8893,
             "name": "Corrugated Pipe 3",
+            "category": "hdpe",
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
@@ -1489,6 +1585,7 @@
           {
             "id": 8894,
             "name": "HDPE Membranes 1",
+            "category": "hdpe",
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
@@ -1497,6 +1594,7 @@
           {
             "id": 8895,
             "name": "HDPE Membranes 2",
+            "category": "hdpe",
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
@@ -1505,6 +1603,7 @@
           {
             "id": 8896,
             "name": "HDPE Membranes 3",
+            "category": "hdpe",
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
@@ -1513,6 +1612,7 @@
           {
             "id": 8897,
             "name": "Pipefloats 1",
+            "category": "hdpe",
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
@@ -1521,6 +1621,7 @@
           {
             "id": 8898,
             "name": "Pipefloats 2",
+            "category": "hdpe",
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
@@ -1529,6 +1630,7 @@
           {
             "id": 8899,
             "name": "Pipefloats 3",
+            "category": "hdpe",
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
