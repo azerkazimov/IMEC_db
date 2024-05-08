@@ -106,118 +106,187 @@
     "subCategories": [
         {
             "id": "sub1",
+            "category": "pump",
             "name": "Centrifugal",
             "categoryId": "1",
             "description": "Centrifugal Pump"
         },
         {
             "id": "sub2",
+            "category": "pump",
             "name": "Vertical Centrifugal",
             "categoryId": "1",
             "description": "Vertical Centrifugal Pump"
         },
         {
             "id": "sub3",
+            "category": "pump",
             "name": "Horizontal Centrifugal",
             "categoryId": "1",
             "description": "Horizontal Centrifugal Pump"
         },
         {
             "id": "sub4",
+            "category": "pump",
             "name": "Submersible",
             "categoryId": "1",
             "description": "Submersible Pump"
         },
         {
             "id": "sub5",
+            "category": "pump",
             "name": "Fire Hydrant",
             "categoryId": "1",
             "description": "Fire Hydrant Pump"
         },
         {
             "id": "sub6",
+            "category": "pump",
             "name": "Diaphragm",
             "categoryId": "1",
             "description": "Diaphragm Pump"
         },
         {
             "id": "sub7",
+            "category": "pump",
             "name": "Gear",
             "categoryId": "1",
             "description": "Gear Pump"
         },
         {
             "id": "sub8",
+            "category": "pump",
             "name": "Peristaltic",
             "categoryId": "1",
             "description": "Peristaltic Pump"
         },
         {
             "id": "sub9",
+            "category": "pump",
             "name": "Lobe",
             "categoryId": "1",
             "description": "Lobe Pump"
         },
         {
             "id": "sub10",
+            "category": "pump",
             "name": "Piston",
             "categoryId": "1",
             "description": "Piston Pump"
         },
         {
             "id": "sub11",
+            "category": "pump",
             "name": "Vacuum",
             "categoryId": "1",
             "description": "Vacuum pump"
         },
         {
             "id": "sub12",
+            "category": "bear",
             "name": "Deep groove ball bearings",
             "categoryId": "2",
             "description": "Deep groove ball bearings"
         },
         {
             "id": "sub13",
+            "category": "bear",
             "name": "Cylindrical roller bearings",
             "categoryId": "2",
             "description": "Cylindrical roller bearings"
         },
         {
             "id": "sub14",
+            "category": "bear",
             "name": "Tapered roller bearings",
             "categoryId": "2",
             "description": "Tapered roller bearings"
         },
         {
             "id": "sub15",
+            "category": "bear",
             "name": "Thrust ball bearings",
             "categoryId": "2",
             "description": "Thrust ball bearings"
         },
         {
             "id": "sub16",
+            "category": "bear",
             "name": "Thrust roller bearings",
             "categoryId": "2",
             "description": "Thrust roller bearings"
         },
         {
             "id": "sub17",
+            "category": "bear",
             "name": "Needle roller bearings",
             "categoryId": "2",
             "description": "Needle roller bearings"
         },
         {
             "id": "sub18",
+            "category": "bear",
             "name": "Plain bearings",
             "categoryId": "2",
             "description": "Plain bearings"
         },
         {
             "id": "sub19",
+            "category": "bear",
             "name": "Magnetic bearings",
             "categoryId": "2",
             "description": "Magnetic bearings"
+        },
+        {
+            "id": "sub20",
+            "category": "v-belt",
+            "name": "Classic V-belt",
+            "categoryId": "3",
+            "description": "Classic V-belt"
+        },
+        {
+            "id": "sub21",
+            "category": "v-belt",
+            "name": "Classic Banded V-belt",
+            "categoryId": "3",
+            "description": "Classic Banded V-belt"
+        },
+        {
+            "id": "sub22",
+            "category": "v-belt",
+            "name": "Wedge V-belt",
+            "categoryId": "3",
+            "description": "Wedge V-belt"
+        },
+        {
+            "id": "sub23",
+            "category": "v-belt",
+            "name": "Classic Notched V-belt",
+            "categoryId": "3",
+            "description": "Classic Notched V-belt"
+        },
+        {
+            "id": "sub24",
+            "category": "v-belt",
+            "name": "Wedge Notched V-belt",
+            "categoryId": "3",
+            "description": "Wedge Notched V-belt"
+        },
+        {
+            "id": "sub25",
+            "category": "v-belt",
+            "name": "V-Rib/Multi V-belt",
+            "categoryId": "3",
+            "description": "V-Rib/Multi V-belt"
+        },
+        {
+            "id": "sub26",
+            "category": "v-belt",
+            "name": "Classic Double V-belt",
+            "categoryId": "3",
+            "description": "Classic Double V-belt"
         }
+
     ],
     "products": [
         {
