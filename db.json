@@ -166,15 +166,57 @@
         },
         {
             "id": "sub11",
-            "name": "Vacuum Pump",
+            "name": "Vacuum",
             "categoryId": "1",
-            "description": "Lorem ipsum dolar sit amet"
+            "description": "Vacuum pump"
         },
         {
             "id": "sub12",
-            "name": "bear 1 ",
+            "name": "Deep groove ball bearings",
             "categoryId": "2",
-            "description": "Lorem ipsum dolar sit amet"
+            "description": "Deep groove ball bearings"
+        },
+        {
+            "id": "sub13",
+            "name": "Cylindrical roller bearings",
+            "categoryId": "2",
+            "description": "Cylindrical roller bearings"
+        },
+        {
+            "id": "sub14",
+            "name": "Tapered roller bearings",
+            "categoryId": "2",
+            "description": "Tapered roller bearings"
+        },
+        {
+            "id": "sub15",
+            "name": "Thrust ball bearings",
+            "categoryId": "2",
+            "description": "Thrust ball bearings"
+        },
+        {
+            "id": "sub16",
+            "name": "Thrust roller bearings",
+            "categoryId": "2",
+            "description": "Thrust roller bearings"
+        },
+        {
+            "id": "sub17",
+            "name": "Needle roller bearings",
+            "categoryId": "2",
+            "description": "Needle roller bearings"
+        },
+        {
+            "id": "sub18",
+            "name": "Plain bearings",
+            "categoryId": "2",
+            "description": "Plain bearings"
+        },
+        {
+            "id": "sub19",
+            "name": "Magnetic bearings",
+            "categoryId": "2",
+            "description": "Magnetic bearings"
         }
     ],
     "products": [
