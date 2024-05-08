@@ -424,6 +424,7 @@
         {
             "id": 8765,
             "name": "Centrifugal Pump 1",
+            "category": "pump",
             "img": "../src",
             "description": "Lorem ipsum dolar sit amet",
             "brand": "brand-name",
