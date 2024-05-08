@@ -341,7 +341,84 @@
             "name": "Check Valve",
             "categoryId": "4",
             "description": "A check valve is a valve that allows fluid to flow through it in only one direction."
-        }
+        },
+        {
+            "id": "sub35",
+            "category": "hdpe",
+            "name": "HDPE Pipes",
+            "categoryId": "5",
+            "description": "HDPE pipes are a type of plastic pipes made from high-density polyethylene resin, used for various applications including water supply, drainage, and gas distribution."
+          },
+          {
+            "id": "sub36",
+            "category": "hdpe",
+            "name": "HDPE Butt Fusion Fittings",
+            "categoryId": "5",
+            "description": "HDPE butt fusion fittings are used to join HDPE pipes together using a process called butt fusion, ensuring a strong and leak-proof connection."
+          },
+          {
+            "id": "sub37",
+            "category": "hdpe",
+            "name": "HDPE Compression Fittings",
+            "categoryId": "5",
+            "description": "HDPE compression fittings are used to join HDPE pipes together using compression, providing a quick and easy installation method without the need for heat or solvent welding."
+          },
+          {
+            "id": "sub38",
+            "category": "hdpe",
+            "name": "HDPE Compression Valves",
+            "categoryId": "5",
+            "description": "HDPE compression valves are used to control the flow of fluid in HDPE piping systems, providing a reliable and leak-proof solution."
+          },
+          {
+            "id": "sub39",
+            "category": "hdpe",
+            "name": "HDPE Welding Butt Machine",
+            "categoryId": "5",
+            "description": "HDPE welding butt machines are used to fuse HDPE pipes together using a butt fusion process, ensuring a strong and durable joint."
+          },
+          {
+            "id": "sub40",
+            "category": "upvc",
+            "name": "U-PVC Pipe",
+            "categoryId": "5",
+            "description": "U-PVC pipes are a type of plastic pipes made from unplasticized polyvinyl chloride resin, commonly used for plumbing and drainage applications."
+          },
+          {
+            "id": "sub41",
+            "category": "upvc",
+            "name": "U-PVC Fittings and Valves",
+            "categoryId": "5",
+            "description": "U-PVC fittings and valves are used to connect and control the flow of fluid in U-PVC piping systems, providing a reliable and durable solution for various applications."
+          },
+          {
+            "id": "sub42",
+            "category": "victaulic",
+            "name": "Victaulic Coupling",
+            "categoryId": "5",
+            "description": "Victaulic couplings are mechanical pipe connectors used to join pipes together without the need for welding or threading, providing a quick and easy installation method."
+          },
+          {
+            "id": "sub43",
+            "category": "corrugated",
+            "name": "Corrugated Pipe",
+            "categoryId": "5",
+            "description": "Corrugated pipes are flexible pipes with a corrugated exterior, commonly used for drainage and sewer systems due to their ability to withstand soil movement and pressure."
+          },
+          {
+            "id": "sub44",
+            "category": "hdpe",
+            "name": "HDPE Membranes",
+            "categoryId": "5",
+            "description": "HDPE membranes are thin sheets made from high-density polyethylene resin, used for waterproofing and protection against moisture penetration in various construction applications."
+          },
+          {
+            "id": "sub45",
+            "category": "pipefloats",
+            "name": "Pipefloats",
+            "categoryId": "5",
+            "description": "Pipefloats are floating devices used to support pipelines and prevent them from sinking or shifting in water, ensuring the stability and safety of underwater pipelines."
+          }
     ],
     "products": [
         {
