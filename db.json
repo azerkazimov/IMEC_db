@@ -103,18 +103,80 @@
             "description": "Lorem ipsum dolar sit amet"
         }
     ],
-    "subCategories": [
+    "pumpCategories": [
         {
             "id": "sub1",
-            "name": "Vertical Pump",
+            "name": "Dynamic Pumps",
             "categoryId": "1",
             "description": "Lorem ipsum dolar sit amet"
         },
         {
             "id": "sub2",
-            "name": "Slurry Pump",
+            "name": "Positive Displacement Pumps",
             "categoryId": "1",
             "description": "Lorem ipsum dolar sit amet"
+        }
+    ],
+    "subCategories": [
+        {
+            "id": "pump1",
+            "name": "Centrifugal",
+            "subCagegoryId": "sub1",
+            "description": "Centrifugal Pump"
+        },
+        {
+            "id": "pump2",
+            "name": "Vertical Centrifugal",
+            "subCagegoryId": "sub1",
+            "description": "Vertical Centrifugal Pump"
+        },
+        {
+            "id": "pump3",
+            "name": "Horizontal Centrifugal",
+            "subCagegoryId": "sub1",
+            "description": "Horizontal Centrifugal Pump"
+        },
+        {
+            "id": "pump4",
+            "name": "Submersible",
+            "subCagegoryId": "sub1",
+            "description": "Submersible Pump"
+        },
+        {
+            "id": "pump5",
+            "name": "Fire Hydrant",
+            "subCagegoryId": "sub1",
+            "description": "Fire Hydrant Pump"
+        },
+        {
+            "id": "pump6",
+            "name": "Diaphragm",
+            "subCagegoryId": "sub2",
+            "description": "Diaphragm Pump"
+        },
+        {
+            "id": "pump7",
+            "name": "Gear",
+            "subCagegoryId": "sub2",
+            "description": "Gear Pump"
+        },
+        {
+            "id": "pump8",
+            "name": "Peristaltic",
+            "subCagegoryId": "sub2",
+            "description": "Peristaltic Pump"
+        },
+        {
+            "id": "pump9",
+            "name": "Lobe",
+            "subCagegoryId": "sub2",
+            "description": "Lobe Pump"
+        },
+        {
+            "id": "pump10",
+            "name": "Piston",
+            "subCagegoryId": "sub2",
+            "description": "Piston Pump"
         },
         {
             "id": "sub3",
