@@ -26,13 +26,13 @@
             "items": [
                 {
                     "id": 3,
-                    "name": "Product Overview",
-                    "path": "/categories"
+                    "name": "Products Overview",
+                    "path": "/products"
                 },
                 {
                     "id": 4,
-                    "name": "Product Catalog",
-                    "path": "/products"
+                    "name": "Products Catalog",
+                    "path": "/categories"
                 },
                 {
                     "id": 5,
