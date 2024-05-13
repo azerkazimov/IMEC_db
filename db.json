@@ -27,12 +27,12 @@
                 {
                     "id": 3,
                     "name": "Products Overview",
-                    "path": "/products"
+                    "path": "/categories"
                 },
                 {
                     "id": 4,
-                    "name": "Products Catalog",
-                    "path": "/categories"
+                    "name": "Product Catalog",
+                    "path": "/products"
                 },
                 {
                     "id": 5,
