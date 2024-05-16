@@ -32,7 +32,7 @@
         {
           "id": 4,
           "name": "Product Catalogue",
-          "path": "/catalogue"
+          "path": "/catalogueue"
         },
         {
           "id": 5,
@@ -1641,37 +1641,37 @@
     {
       "id": "1511",
       "title": "Bearing Catalogue",
-      "path": "/catalog/Bearing_catalogue.pdf"
+      "pdfSrc": "/catalogue/Bearing_catalogue.pdf"
     },
     {
       "id": "1512",
       "title": "Falcon Catalogue",
-      "path": "/catalog/Falcon_datasheet.pdf"
+      "pdfSrc": "/catalogue/Falcon_datasheet.pdf"
     },
     {
       "id": "1513",
       "title": "HDPE Catalogue",
-      "path": "/catalog/HDPE_catalogue.pdf"
+      "pdfSrc": "/catalogue/HDPE_catalogue.pdf"
     },
     {
       "id": "1514",
       "title": "IMEC Catalogue",
-      "path": "/catalog/IMEC_catalogue.pdf"
+      "pdfSrc": "/catalogue/IMEC_catalogue.pdf"
     },
     {
       "id": "1515",
       "title": "Pump Catalogue",
-      "path": "/catalog/Pump_catalogue.pdf"
+      "pdfSrc": "/catalogue/Pump_catalogue.pdf"
     },
     {
       "id": "1516",
       "title": "V-belt Catalogue",
-      "path": "/catalog/V-belt_catalogue.pdf"
+      "pdfSrc": "/catalogue/V-belt_catalogue.pdf"
     },
     {
       "id": "1517",
       "title": "Valve Catalogue",
-      "path": "/catalog/Valve_catalogue.pdf"
+      "pdfSrc": "/catalogue/Valve_catalogue.pdf"
     }
   ]
 }
