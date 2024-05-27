@@ -22,7 +22,7 @@
       "id": 2,
       "name": "Product",
       "category": "product",
-      "path": "/products/category/:category",
+      "path": "/products",
       "items": [
         {
           "id": 3,
