@@ -766,7 +766,7 @@
     {
       "id": 8798,
       "name": "Deep Groove Ball Bearing 1",
-      "category": "bears",
+      "category": "bearings",
       "img": "/image/pump/pump.jpg",
       "description": "Lorem ipsum dolar sit amet",
       "brand": "brand-name",
@@ -775,7 +775,7 @@
     {
       "id": 8799,
       "name": "Deep Groove Ball Bearing 2",
-      "category": "bears",
+      "category": "bearings",
       "img": "/image/pump/pump.jpg",
       "description": "Lorem ipsum dolar sit amet",
       "brand": "brand-name",
@@ -784,7 +784,7 @@
     {
       "id": 8800,
       "name": "Deep Groove Ball Bearing 3",
-      "category": "bears",
+      "category": "bearings",
       "img": "/image/pump/pump.jpg",
       "description": "Lorem ipsum dolar sit amet",
       "brand": "brand-name",
@@ -793,7 +793,7 @@
     {
       "id": 8801,
       "name": "Cylindrical Roller Bearing 1",
-      "category": "bears",
+      "category": "bearings",
       "img": "/image/pump/pump.jpg",
       "description": "Lorem ipsum dolar sit amet",
       "brand": "brand-name",
@@ -802,7 +802,7 @@
     {
       "id": 8802,
       "name": "Cylindrical Roller Bearing 2",
-      "category": "bears",
+      "category": "bearings",
       "img": "/image/pump/pump.jpg",
       "description": "Lorem ipsum dolar sit amet",
       "brand": "brand-name",
@@ -811,7 +811,7 @@
     {
       "id": 8803,
       "name": "Cylindrical Roller Bearing 3",
-      "category": "bears",
+      "category": "bearings",
       "img": "/image/pump/pump.jpg",
       "description": "Lorem ipsum dolar sit amet",
       "brand": "brand-name",
@@ -820,7 +820,7 @@
     {
       "id": 8804,
       "name": "Tapered Roller Bearing 1",
-      "category": "bears",
+      "category": "bearings",
       "img": "/image/pump/pump.jpg",
       "description": "Lorem ipsum dolar sit amet",
       "brand": "brand-name",
@@ -829,7 +829,7 @@
     {
       "id": 8805,
       "name": "Tapered Roller Bearing 2",
-      "category": "bears",
+      "category": "bearings",
       "img": "/image/pump/pump.jpg",
       "description": "Lorem ipsum dolar sit amet",
       "brand": "brand-name",
@@ -838,7 +838,7 @@
     {
       "id": 8806,
       "name": "Tapered Roller Bearing 3",
-      "category": "bears",
+      "category": "bearings",
       "img": "/image/pump/pump.jpg",
       "description": "Lorem ipsum dolar sit amet",
       "brand": "brand-name",
@@ -847,7 +847,7 @@
     {
       "id": 8807,
       "name": "Thrust Ball Bearing 1",
-      "category": "bears",
+      "category": "bearings",
       "img": "/image/pump/pump.jpg",
       "description": "Lorem ipsum dolar sit amet",
       "brand": "brand-name",
@@ -856,7 +856,7 @@
     {
       "id": 8808,
       "name": "Thrust Ball Bearing 2",
-      "category": "bears",
+      "category": "bearings",
       "img": "/image/pump/pump.jpg",
       "description": "Lorem ipsum dolar sit amet",
       "brand": "brand-name",
@@ -865,7 +865,7 @@
     {
       "id": 8809,
       "name": "Thrust Ball Bearing 3",
-      "category": "bears",
+      "category": "bearings",
       "img": "/image/pump/pump.jpg",
       "description": "Lorem ipsum dolar sit amet",
       "brand": "brand-name",
@@ -874,7 +874,7 @@
     {
       "id": 8810,
       "name": "Thrust Roller Bearing 1",
-      "category": "bears",
+      "category": "bearings",
       "img": "/image/pump/pump.jpg",
       "description": "Lorem ipsum dolar sit amet",
       "brand": "brand-name",
@@ -883,7 +883,7 @@
     {
       "id": 8811,
       "name": "Thrust Roller Bearing 2",
-      "category": "bears",
+      "category": "bearings",
       "img": "/image/pump/pump.jpg",
       "description": "Lorem ipsum dolar sit amet",
       "brand": "brand-name",
@@ -892,7 +892,7 @@
     {
       "id": 8812,
       "name": "Thrust Roller Bearing 3",
-      "category": "bears",
+      "category": "bearings",
       "img": "/image/pump/pump.jpg",
       "description": "Lorem ipsum dolar sit amet",
       "brand": "brand-name",
@@ -901,7 +901,7 @@
     {
       "id": 8813,
       "name": "Needle Roller Bearing 1",
-      "category": "bears",
+      "category": "bearings",
       "img": "/image/pump/pump.jpg",
       "description": "Lorem ipsum dolar sit amet",
       "brand": "brand-name",
@@ -910,7 +910,7 @@
     {
       "id": 8814,
       "name": "Needle Roller Bearing 2",
-      "category": "bears",
+      "category": "bearings",
       "img": "/image/pump/pump.jpg",
       "description": "Lorem ipsum dolar sit amet",
       "brand": "brand-name",
@@ -919,7 +919,7 @@
     {
       "id": 8815,
       "name": "Needle Roller Bearing 3",
-      "category": "bears",
+      "category": "bearings",
       "img": "/image/pump/pump.jpg",
       "description": "Lorem ipsum dolar sit amet",
       "brand": "brand-name",
@@ -928,7 +928,7 @@
     {
       "id": 8816,
       "name": "Plain Bearing 1",
-      "category": "bears",
+      "category": "bearings",
       "img": "/image/pump/pump.jpg",
       "description": "Lorem ipsum dolar sit amet",
       "brand": "brand-name",
@@ -937,7 +937,7 @@
     {
       "id": 8817,
       "name": "Plain Bearing 2",
-      "category": "bears",
+      "category": "bearings",
       "img": "/image/pump/pump.jpg",
       "description": "Lorem ipsum dolar sit amet",
       "brand": "brand-name",
@@ -946,7 +946,7 @@
     {
       "id": 8818,
       "name": "Plain Bearing 3",
-      "category": "bears",
+      "category": "bearings",
       "img": "/image/pump/pump.jpg",
       "description": "Lorem ipsum dolar sit amet",
       "brand": "brand-name",
@@ -955,7 +955,7 @@
     {
       "id": 8819,
       "name": "Magnetic Bearing 1",
-      "category": "bears",
+      "category": "bearings",
       "img": "/image/pump/pump.jpg",
       "description": "Lorem ipsum dolar sit amet",
       "brand": "brand-name",
@@ -964,7 +964,7 @@
     {
       "id": 8820,
       "name": "Magnetic Bearing 2",
-      "category": "bears",
+      "category": "bearings",
       "img": "/image/pump/pump.jpg",
       "description": "Lorem ipsum dolar sit amet",
       "brand": "brand-name",
@@ -973,7 +973,7 @@
     {
       "id": 8821,
       "name": "Magnetic Bearing 3",
-      "category": "bears",
+      "category": "bearings",
       "img": "/image/pump/pump.jpg",
       "description": "Lorem ipsum dolar sit amet",
       "brand": "brand-name",
