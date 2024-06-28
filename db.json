@@ -2,1684 +2,483 @@
   "nav-bar": [
     {
       "id": 1,
-      "name": "Service",
-      "category": "service",
-      "path": "/service",
+      "name": "IMEC ENGINEERING COMPANY",
+      "category": "engineering",
+      "path": "/engineering",
       "items": [
         {
           "id": 1,
-          "name": "Service Overview",
-          "path": "/service-overview"
+          "name": "ABOUT IMEC",
+          "path": "/about-imec"
         },
         {
           "id": 2,
-          "name": "Single Service",
-          "path": "/single-service"
+          "name": "PARTNERSHIP AGREEMENT",
+          "path": "/partnership-agreement"
+        },
+        {
+          "id": 3,
+          "name": "INDUSTRIES",
+          "path": "/industries"
         }
       ]
     },
     {
       "id": 2,
-      "name": "Product",
+      "name": "PRODUCTS & SYSTEMS",
       "category": "product",
       "path": "/products",
       "items": [
         {
-          "id": 3,
-          "name": "Products Overview",
-          "path": "/categories"
-        },
-        {
           "id": 4,
-          "name": "Product Catalogue",
-          "path": "/catalogue"
+          "name": "SPARE PARTS GROUP",
+          "path": "/spare-parts-group"
         },
         {
           "id": 5,
-          "name": "Brands",
-          "path": "/brands"
+          "name": "PRODUCTS",
+          "path": "/products"
+        },
+        {
+          "id": 6,
+          "name": "DEVİCES & PRODUCT",
+          "path": "/devices-product"
         }
       ]
     },
     {
       "id": 3,
-      "name": "Industry",
-      "category": "industry",
-      "path": "/industry",
+      "name": "MAINTENANCE SOLUTIONS & SERVICE",
+      "category": "maintenance",
+      "path": "/maintenance",
       "items": [
         {
-          "id": 6,
-          "name": "Industry Item 1",
-          "path": "/industry-item-1"
-        },
-        {
           "id": 7,
-          "name": "Industry Item 2",
-          "path": "/industry-item-2"
+          "name": "Service",
+          "path": "/maintenance-service"
         },
         {
           "id": 8,
-          "name": "Industry Item 3",
-          "path": "/industry-item-3"
+          "name": "Repair",
+          "path": "/maintenance-repair"
         }
       ]
     },
     {
       "id": 4,
-      "name": "Company",
-      "category": "company",
-      "path": "/company"
+      "name": "PROCESS OPTIMIZATION & DESIGN",
+      "category": "process",
+      "path": "/process-optimization"
+    },
+    {
+      "id": 5,
+      "name": "CUSTOMER SUPPORT",
+      "category": "support",
+      "path": "/support"
     }
   ],
   "categories": [
     {
       "id": "1",
-      "title": "Pump",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar is pump"
+      "title": "About IMEC"
     },
     {
       "id": "2",
-      "title": "Bearing",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar let amet"
+      "title": "Partnership Agreement"
     },
     {
       "id": "3",
-      "title": "V-belt",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit v-belt"
+      "title": "Industries"
     },
     {
       "id": "4",
-      "title": "Valve",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit valse"
+      "title": "Spare Part Group"
     },
     {
       "id": "5",
-      "title": "HDPE",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet"
+      "title": "Product"
+    },
+    {
+      "id": "6",
+      "title": "Devices & Product"
+    },
+    {
+      "id": "7",
+      "title": "Service"
+    },
+    {
+      "id": "8",
+      "title": "Repair"
+    },
+    {
+      "id": "9",
+      "title": "Process Optimization"
+    },
+    {
+      "id": "10",
+      "title": "Customer Support"
     }
   ],
   "subCategories": [
     {
       "id": "sub1",
-      "category": "pump",
-      "name": "Centrifugal",
-      "categoryId": "1",
-      "image": "/image/bear/grove-bear.png",
-      "description": "A centrifugal pump is a mechanical device designed to move a fluid by converting rotational kinetic energy into hydrodynamic energy."
+      "category": "partner",
+      "name": "RHOSONIC",
+      "categoryId": "2"
     },
     {
       "id": "sub2",
-      "category": "pump",
-      "name": "Vertical Centrifugal",
-      "categoryId": "1",
-      "image": "/image/bear/grove-bear.png",
-      "description": "A vertical centrifugal pump is a type of centrifugal pump where the shaft is in the vertical position."
+      "category": "partner",
+      "name": "RI-SE",
+      "categoryId": "2"
     },
     {
       "id": "sub3",
-      "category": "pump",
-      "name": "Horizontal Centrifugal",
-      "categoryId": "1",
-      "image": "/image/bear/grove-bear.png",
-      "description": "A horizontal centrifugal pump is a type of centrifugal pump where the shaft is in the horizontal position."
+      "category": "partner",
+      "name": "DEEP MİNERAL PROSES TEKNOLİJİ",
+      "categoryId": "2"
     },
     {
       "id": "sub4",
-      "category": "pump",
-      "name": "Submersible",
-      "categoryId": "1",
-      "image": "/image/bear/grove-bear.png",
-      "description": "A submersible pump is a device that has a hermetically sealed motor close-coupled to the pump body, designed to be submerged in the fluid to be pumped."
+      "category": "industries",
+      "name": "MINING & MINERALS",
+      "categoryId": "3"
     },
     {
       "id": "sub5",
-      "category": "pump",
-      "name": "Fire Hydrant",
-      "categoryId": "1",
-      "image": "/image/bear/grove-bear.png",
-      "description": "A fire hydrant pump is a component of the fire suppression system that supplies water to the sprinkler system in case of a fire."
+      "category": "industries",
+      "name": "OIL & GAS",
+      "categoryId": "3"
     },
     {
       "id": "sub6",
-      "category": "pump",
-      "name": "Diaphragm",
-      "categoryId": "1",
-      "image": "/image/bear/grove-bear.png",
-      "description": "A diaphragm pump is a type of positive displacement pump that uses a flexible diaphragm to pump a fluid."
+      "category": "industries",
+      "name": "CEMENT",
+      "categoryId": "3"
     },
     {
       "id": "sub7",
-      "category": "pump",
-      "name": "Gear",
-      "categoryId": "1",
-      "image": "/image/bear/grove-bear.png",
-      "description": "A gear pump is a type of positive displacement pump that uses gears to pump fluid by displacement."
+      "category": "industries",
+      "name": "POWER PLANTS",
+      "categoryId": "3"
     },
     {
       "id": "sub8",
-      "category": "pump",
-      "name": "Peristaltic",
-      "categoryId": "1",
-      "image": "/image/bear/grove-bear.png",
-      "description": "A peristaltic pump is a type of positive displacement pump that uses a flexible tube to pump fluid."
+      "category": "industries",
+      "name": "METALLURGY",
+      "categoryId": "3"
     },
     {
       "id": "sub9",
-      "category": "pump",
-      "name": "Lobe",
-      "categoryId": "1",
-      "image": "/image/bear/grove-bear.png",
-      "description": "A lobe pump is a type of positive displacement pump that uses rotating lobes to move fluid through the pump."
+      "category": "industries",
+      "name": "DEFENSE ",
+      "categoryId": "3"
     },
     {
       "id": "sub10",
-      "category": "pump",
-      "name": "Piston",
-      "categoryId": "1",
-      "image": "/image/bear/grove-bear.png",
-      "description": "A piston pump is a type of positive displacement pump that uses pistons to move fluid through the pump."
+      "category": "industries",
+      "name": "AGRİCULTURE ",
+      "categoryId": "3"
     },
     {
       "id": "sub11",
-      "category": "pump",
-      "name": "Vacuum",
-      "categoryId": "1",
-      "image": "/image/bear/grove-bear.png",
-      "description": "A vacuum pump is a device that removes gas molecules from a sealed volume to create a partial vacuum."
+      "category": "industries",
+      "name": "CHEMICALS ",
+      "categoryId": "3"
     },
     {
       "id": "sub12",
-      "category": "bear",
-      "name": "Deep groove ball bearings",
-      "categoryId": "2",
-      "image": "/image/bear/grove-bear.png",
-      "description": "Deep groove ball bearings are the most common type of rolling-element bearing. They have a deep groove raceway for high speeds and radial loads."
+      "category": "parts",
+      "name": "BEARINGS GROUP",
+      "categoryId": "4"
+    },
+    {
+      "id": "sub12",
+      "category": "parts",
+      "name": "HYDRAULIC & PNEUMATIC GROUP",
+      "categoryId": "4"
     },
     {
       "id": "sub13",
-      "category": "bear",
-      "name": "Cylindrical roller bearings",
-      "categoryId": "2",
-      "image": "/image/bear/grove-bear.png",
-      "description": "Cylindrical roller bearings are a type of rolling-element bearing that uses cylinders to maintain separation between the moving parts of the bearing."
+      "category": "parts",
+      "name": "HOSE & CLAMPS GROUP",
+      "categoryId": "4"
     },
     {
       "id": "sub14",
-      "category": "bear",
-      "name": "Tapered roller bearings",
-      "categoryId": "2",
-      "image": "/image/bear/grove-bear.png",
-      "description": "Tapered roller bearings are a type of rolling-element bearing that can support high radial and axial loads in one direction."
+      "category": "parts",
+      "name": "TUBINGS GROUP",
+      "categoryId": "4"
     },
     {
       "id": "sub15",
-      "category": "bear",
-      "name": "Thrust ball bearings",
-      "categoryId": "2",
-      "image": "/image/bear/grove-bear.png",
-      "description": "Thrust ball bearings are a type of rolling-element bearing that is designed to support axial loads in one direction."
+      "category": "parts",
+      "name": "PIPE & FITTINGS GROUP",
+      "categoryId": "4"
     },
     {
       "id": "sub16",
-      "category": "bear",
-      "name": "Thrust roller bearings",
-      "categoryId": "2",
-      "image": "/image/bear/grove-bear.png",
-      "description": "Thrust roller bearings are a type of rolling-element bearing that is designed to support axial loads in one direction."
+      "category": "parts",
+      "name": "METAL & PLATES GROUP",
+      "categoryId": "4"
     },
     {
       "id": "sub17",
-      "category": "bear",
-      "name": "Needle roller bearings",
-      "categoryId": "2",
-      "image": "/image/bear/grove-bear.png",
-      "description": "Needle roller bearings are a type of rolling-element bearing that uses long, thin cylindrical rollers to support high radial loads."
+      "category": "parts",
+      "name": "GASKETS GROUP",
+      "categoryId": "4"
     },
     {
       "id": "sub18",
-      "category": "bear",
-      "name": "Plain bearings",
-      "categoryId": "2",
-      "image": "/image/bear/grove-bear.png",
-      "description": "Plain bearings are a type of bearing that relies on a sliding motion between two surfaces to support a load."
+      "category": "parts",
+      "name": "VALVES GROUP",
+      "categoryId": "4"
     },
     {
       "id": "sub19",
-      "category": "bear",
-      "name": "Magnetic bearings",
-      "categoryId": "2",
-      "image": "/image/bear/grove-bear.png",
-      "description": "Magnetic bearings are a type of bearing that uses magnetic fields to support a load without physical contact."
+      "category": "parts",
+      "name": "AUTOMATION & ELECTRICAL GROUP",
+      "categoryId": "4"
     },
     {
       "id": "sub20",
-      "category": "v-belt",
-      "name": "Classic V-belt",
-      "categoryId": "3",
-      "image": "/image/bear/grove-bear.png",
-      "description": "A classic V-belt is a type of drive belt that has a trapezoidal cross-section and is designed to transmit power between two shafts."
+      "category": "parts",
+      "name": "FASTENERS GROUP",
+      "categoryId": "4"
     },
     {
       "id": "sub21",
-      "category": "v-belt",
-      "name": "Classic Banded V-belt",
-      "categoryId": "3",
-      "image": "/image/bear/grove-bear.png",
-      "description": "A classic banded V-belt is a type of drive belt that has multiple V-belts joined together by a band to increase strength and stability."
+      "category": "parts",
+      "name": "FIRE FIGHTING SYSTEM GROUP",
+      "categoryId": "4"
     },
     {
       "id": "sub22",
-      "category": "v-belt",
-      "name": "Wedge V-belt",
-      "categoryId": "3",
-      "image": "/image/bear/grove-bear.png",
-      "description": "A wedge V-belt is a type of drive belt that has a wedge-shaped cross-section for increased power transmission."
+      "category": "parts",
+      "name": "PUMPS GROUP",
+      "categoryId": "4"
     },
     {
       "id": "sub23",
-      "category": "v-belt",
-      "name": "Classic Notched V-belt",
-      "categoryId": "3",
-      "image": "/image/bear/grove-bear.png",
-      "description": "A classic notched V-belt is a type of drive belt that has notches on the inner side to improve flexibility and reduce heat buildup."
+      "category": "parts",
+      "name": "BELTS GROUP",
+      "categoryId": "4"
     },
     {
       "id": "sub24",
-      "category": "v-belt",
-      "name": "Wedge Notched V-belt",
-      "categoryId": "3",
-      "image": "/image/bear/grove-bear.png",
-      "description": "A wedge notched V-belt is a type of drive belt that has notches on the inner side and a wedge-shaped cross-section for increased power transmission."
+      "category": "parts",
+      "name": "PLASTICS GROUP",
+      "categoryId": "4"
     },
     {
       "id": "sub25",
-      "category": "v-belt",
-      "name": "V-Rib/Multi V-belt",
-      "categoryId": "3",
-      "image": "/image/bear/grove-bear.png",
-      "description": "A V-rib/multi V-belt is a type of drive belt that has multiple V-shaped ribs on one side for increased traction and power transmission."
+      "category": "parts",
+      "name": "FILTERS GROUP",
+      "categoryId": "4"
     },
     {
       "id": "sub26",
-      "category": "v-belt",
-      "name": "Classic Double V-belt",
-      "categoryId": "3",
-      "image": "/image/bear/grove-bear.png",
-      "description": "A classic double V-belt is a type of drive belt that has two V-belts joined together to transmit power between two shafts."
+      "category": "product",
+      "name": "INTER STAGE SCREENS",
+      "categoryId": "5"
     },
     {
       "id": "sub27",
-      "category": "valve",
-      "name": "Globe Valve",
-      "categoryId": "4",
-      "image": "/image/bear/grove-bear.png",
-      "description": "A globe valve is a type of valve used for regulating flow in a pipeline, consisting of a movable disc-type element and a stationary ring seat in a generally spherical body."
+      "category": "product",
+      "name": "AGITATORS",
+      "categoryId": "5"
     },
     {
       "id": "sub28",
-      "category": "valve",
-      "name": "Gate Valve",
-      "categoryId": "4",
-      "image": "/image/bear/grove-bear.png",
-      "description": "A gate valve is a type of valve that uses a flat, wedge-shaped gate to control the flow of fluid through a pipe or duct."
+      "category": "product",
+      "name": "FLOTATION CELLS",
+      "categoryId": "5"
     },
     {
       "id": "sub29",
-      "category": "valve",
-      "name": "Control Valve",
-      "categoryId": "4",
-      "image": "/image/bear/grove-bear.png",
-      "description": "A control valve is a valve used to control fluid flow by varying the size of the flow passage as directed by a signal from a controller."
+      "category": "product",
+      "name": "TICKENER",
+      "categoryId": "5"
     },
     {
       "id": "sub30",
-      "category": "valve",
-      "name": "Flow Regulation Valve",
-      "categoryId": "4",
-      "image": "/image/bear/grove-bear.png",
-      "description": "A flow regulation valve is a type of valve used to regulate or control the flow rate of a fluid."
+      "category": "product",
+      "name": "SLURRY PUMPS",
+      "categoryId": "5"
     },
     {
       "id": "sub31",
-      "category": "valve",
-      "name": "Back Pressure Valve",
-      "categoryId": "4",
-      "image": "/image/bear/grove-bear.png",
-      "description": "A back pressure valve is a type of valve that is used to maintain pressure in a system."
+      "category": "product",
+      "name": "SLURRY DENSITY METER",
+      "categoryId": "5"
     },
     {
       "id": "sub32",
-      "category": "valve",
-      "name": "Y-Type Valve",
-      "categoryId": "4",
-      "image": "/image/bear/grove-bear.png",
-      "description": "A Y-type valve is a type of valve that is shaped like the letter Y."
+      "category": "product",
+      "name": "CHEMICAL DENSITY METER",
+      "categoryId": "5"
     },
     {
       "id": "sub33",
-      "category": "valve",
-      "name": "Knife Gate Valve",
-      "categoryId": "4",
-      "image": "/image/bear/grove-bear.png",
-      "description": "A knife gate valve is a type of valve designed for use in demanding environments such as slurries or powder."
+      "category": "product",
+      "name": "CHEMICAL CONCENTRATION METER",
+      "categoryId": "5"
     },
     {
       "id": "sub34",
-      "category": "valve",
-      "name": "Check Valve",
-      "categoryId": "4",
-      "image": "/image/bear/grove-bear.png",
-      "description": "A check valve is a valve that allows fluid to flow through it in only one direction."
+      "category": "product",
+      "name": "VALVES",
+      "categoryId": "5"
     },
     {
       "id": "sub35",
-      "category": "hdpe",
-      "name": "HDPE Pipes",
-      "categoryId": "5",
-      "image": "/image/bear/grove-bear.png",
-      "description": "HDPE pipes are a type of plastic pipes made from high-density polyethylene resin, used for various applications including water supply, drainage, and gas distribution."
+      "category": "product",
+      "name": "PARTICLE SIZE ANALYZER",
+      "categoryId": "5"
     },
     {
       "id": "sub36",
-      "category": "hdpe",
-      "name": "HDPE Butt Fusion Fittings",
-      "categoryId": "5",
-      "image": "/image/bear/grove-bear.png",
-      "description": "HDPE butt fusion fittings are used to join HDPE pipes together using a process called butt fusion, ensuring a strong and leak-proof connection."
+      "category": "product",
+      "name": "CRUSHERS",
+      "categoryId": "5"
     },
     {
       "id": "sub37",
-      "category": "hdpe",
-      "name": "HDPE Compression Fittings",
-      "categoryId": "5",
-      "image": "/image/bear/grove-bear.png",
-      "description": "HDPE compression fittings are used to join HDPE pipes together using compression, providing a quick and easy installation method without the need for heat or solvent welding."
+      "category": "device",
+      "name": "VIBRATION ANALYZERS",
+      "categoryId": "6"
     },
     {
       "id": "sub38",
-      "category": "hdpe",
-      "name": "HDPE Compression Valves",
-      "categoryId": "5",
-      "image": "/image/bear/grove-bear.png",
-      "description": "HDPE compression valves are used to control the flow of fluid in HDPE piping systems, providing a reliable and leak-proof solution."
+      "category": "device",
+      "name": "ALIGNMENT DEVICES",
+      "categoryId": "6"
     },
     {
       "id": "sub39",
-      "category": "hdpe",
-      "name": "HDPE Welding Butt Machine",
-      "categoryId": "5",
-      "image": "/image/bear/grove-bear.png",
-      "description": "HDPE welding butt machines are used to fuse HDPE pipes together using a butt fusion process, ensuring a strong and durable joint."
+      "category": "device",
+      "name": "ULTRASONIC ANALYZERS",
+      "categoryId": "6"
     },
     {
       "id": "sub40",
-      "category": "hdpe",
-      "name": "U-PVC Pipe",
-      "categoryId": "5",
-      "image": "/image/bear/grove-bear.png",
-      "description": "U-PVC pipes are a type of plastic pipes made from unplasticized polyvinyl chloride resin, commonly used for plumbing and drainage applications."
+      "category": "device",
+      "name": "MOTION AMPLIFICATION",
+      "categoryId": "6"
     },
     {
       "id": "sub41",
-      "category": "hdpe",
-      "name": "U-PVC Fittings and Valves",
-      "categoryId": "5",
-      "image": "/image/bear/grove-bear.png",
-      "description": "U-PVC fittings and valves are used to connect and control the flow of fluid in U-PVC piping systems, providing a reliable and durable solution for various applications."
+      "category": "device",
+      "name": "THERMAL CAMERA",
+      "categoryId": "6"
     },
     {
       "id": "sub42",
-      "category": "hdpe",
-      "name": "Victaulic Coupling",
-      "categoryId": "5",
-      "image": "/image/bear/grove-bear.png",
-      "description": "Victaulic couplings are mechanical pipe connectors used to join pipes together without the need for welding or threading, providing a quick and easy installation method."
+      "category": "device",
+      "name": "VIBRATION SENSORS",
+      "categoryId": "6"
     },
     {
       "id": "sub43",
-      "category": "hdpe",
-      "name": "Corrugated Pipe",
-      "categoryId": "5",
-      "image": "/image/bear/grove-bear.png",
-      "description": "Corrugated pipes are flexible pipes with a corrugated exterior, commonly used for drainage and sewer systems due to their ability to withstand soil movement and pressure."
+      "category": "device",
+      "name": "OIL ANALYSIS",
+      "categoryId": "6"
     },
     {
       "id": "sub44",
-      "category": "hdpe",
-      "name": "HDPE Membranes",
-      "categoryId": "5",
-      "image": "/image/bear/grove-bear.png",
-      "description": "HDPE membranes are thin sheets made from high-density polyethylene resin, used for waterproofing and protection against moisture penetration in various construction applications."
+      "category": "device",
+      "name": "GAS CAMERA",
+      "categoryId": "6"
     },
     {
       "id": "sub45",
-      "category": "hdpe",
-      "name": "Pipefloats",
-      "categoryId": "5",
-      "image": "/image/bear/grove-bear.png",
-      "description": "Pipefloats are floating devices used to support pipelines and prevent them from sinking or shifting in water, ensuring the stability and safety of underwater pipelines."
-    }
-  ],
-  "products": [
-    {
-      "id": 8765,
-      "name": "Centrifugal Pump 1",
-      "category": "pump",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub1"
-    },
-    {
-      "id": 8766,
-      "name": "Centrifugal Pump 2",
-      "category": "pump",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub1"
-    },
-    {
-      "id": 8767,
-      "name": "Centrifugal Pump 3",
-      "category": "pump",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub1"
-    },
-    {
-      "id": 8768,
-      "name": "Vertical Centrifugal Pump 1",
-      "category": "pump",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub2"
-    },
-    {
-      "id": 8769,
-      "name": "Vertical Centrifugal Pump 2",
-      "category": "pump",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub2"
-    },
-    {
-      "id": 8770,
-      "name": "Vertical Centrifugal Pump 3",
-      "category": "pump",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub2"
-    },
-    {
-      "id": 8771,
-      "name": "Horizontal Centrifugal Pump 1",
-      "category": "pump",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub3"
-    },
-    {
-      "id": 8772,
-      "name": "Horizontal Centrifugal Pump 2",
-      "category": "pump",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub3"
-    },
-    {
-      "id": 8773,
-      "name": "Horizontal Centrifugal Pump 3",
-      "category": "pump",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub3"
-    },
-    {
-      "id": 8774,
-      "name": "Submersible Pump 1",
-      "category": "pump",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub4"
-    },
-    {
-      "id": 8775,
-      "name": "Submersible Pump 2",
-      "category": "pump",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub4"
-    },
-    {
-      "id": 8776,
-      "name": "Submersible Pump 3",
-      "category": "pump",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub4"
-    },
-    {
-      "id": 8777,
-      "name": "Fire Hydrant Pump 1",
-      "category": "pump",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub5"
-    },
-    {
-      "id": 8778,
-      "name": "Fire Hydrant Pump 2",
-      "category": "pump",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub5"
-    },
-    {
-      "id": 8779,
-      "name": "Fire Hydrant Pump 3",
-      "category": "pump",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub5"
-    },
-    {
-      "id": 8780,
-      "name": "Diaphragm Pump 1",
-      "category": "pump",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub6"
-    },
-    {
-      "id": 8781,
-      "name": "Diaphragm Pump 2",
-      "category": "pump",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub6"
-    },
-    {
-      "id": 8782,
-      "name": "Diaphragm Pump 3",
-      "category": "pump",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub6"
-    },
-    {
-      "id": 8783,
-      "name": "Gear Pump 1",
-      "category": "pump",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub7"
-    },
-    {
-      "id": 8784,
-      "name": "Gear Pump 2",
-      "category": "pump",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub7"
-    },
-    {
-      "id": 8785,
-      "name": "Gear Pump 3",
-      "category": "pump",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub7"
-    },
-    {
-      "id": 8786,
-      "name": "Peristaltic Pump 1",
-      "category": "pump",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub8"
-    },
-    {
-      "id": 8787,
-      "name": "Peristaltic Pump 2",
-      "category": "pump",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub8"
-    },
-    {
-      "id": 8788,
-      "name": "Peristaltic Pump 3",
-      "category": "pump",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub8"
-    },
-    {
-      "id": 8789,
-      "name": "Lobe Pump 1",
-      "category": "pump",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub9"
-    },
-    {
-      "id": 8790,
-      "name": "Lobe Pump 2",
-      "category": "pump",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub9"
-    },
-    {
-      "id": 8791,
-      "name": "Lobe Pump 3",
-      "category": "pump",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub9"
-    },
-    {
-      "id": 8792,
-      "name": "Piston Pump 1",
-      "category": "pump",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub10"
-    },
-    {
-      "id": 8793,
-      "name": "Piston Pump 2",
-      "category": "pump",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub10"
-    },
-    {
-      "id": 8794,
-      "name": "Piston Pump 3",
-      "category": "pump",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub10"
-    },
-    {
-      "id": 8795,
-      "name": "Vacuum Pump 1",
-      "category": "pump",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub11"
-    },
-    {
-      "id": 8796,
-      "name": "Vacuum Pump 2",
-      "category": "pump",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub11"
-    },
-    {
-      "id": 8797,
-      "name": "Vacuum Pump 3",
-      "category": "pump",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub11"
-    },
-    {
-      "id": 8798,
-      "name": "Deep Groove Ball Bearing 1",
-      "category": "bearings",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub12"
-    },
-    {
-      "id": 8799,
-      "name": "Deep Groove Ball Bearing 2",
-      "category": "bearings",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub12"
-    },
-    {
-      "id": 8800,
-      "name": "Deep Groove Ball Bearing 3",
-      "category": "bearings",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub12"
-    },
-    {
-      "id": 8801,
-      "name": "Cylindrical Roller Bearing 1",
-      "category": "bearings",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub13"
-    },
-    {
-      "id": 8802,
-      "name": "Cylindrical Roller Bearing 2",
-      "category": "bearings",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub13"
-    },
-    {
-      "id": 8803,
-      "name": "Cylindrical Roller Bearing 3",
-      "category": "bearings",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub13"
-    },
-    {
-      "id": 8804,
-      "name": "Tapered Roller Bearing 1",
-      "category": "bearings",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub14"
-    },
-    {
-      "id": 8805,
-      "name": "Tapered Roller Bearing 2",
-      "category": "bearings",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub14"
-    },
-    {
-      "id": 8806,
-      "name": "Tapered Roller Bearing 3",
-      "category": "bearings",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub14"
-    },
-    {
-      "id": 8807,
-      "name": "Thrust Ball Bearing 1",
-      "category": "bearings",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub15"
-    },
-    {
-      "id": 8808,
-      "name": "Thrust Ball Bearing 2",
-      "category": "bearings",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub15"
-    },
-    {
-      "id": 8809,
-      "name": "Thrust Ball Bearing 3",
-      "category": "bearings",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub15"
-    },
-    {
-      "id": 8810,
-      "name": "Thrust Roller Bearing 1",
-      "category": "bearings",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub16"
-    },
-    {
-      "id": 8811,
-      "name": "Thrust Roller Bearing 2",
-      "category": "bearings",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub16"
-    },
-    {
-      "id": 8812,
-      "name": "Thrust Roller Bearing 3",
-      "category": "bearings",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub16"
-    },
-    {
-      "id": 8813,
-      "name": "Needle Roller Bearing 1",
-      "category": "bearings",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub17"
-    },
-    {
-      "id": 8814,
-      "name": "Needle Roller Bearing 2",
-      "category": "bearings",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub17"
-    },
-    {
-      "id": 8815,
-      "name": "Needle Roller Bearing 3",
-      "category": "bearings",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub17"
-    },
-    {
-      "id": 8816,
-      "name": "Plain Bearing 1",
-      "category": "bearings",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub18"
-    },
-    {
-      "id": 8817,
-      "name": "Plain Bearing 2",
-      "category": "bearings",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub18"
-    },
-    {
-      "id": 8818,
-      "name": "Plain Bearing 3",
-      "category": "bearings",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub18"
-    },
-    {
-      "id": 8819,
-      "name": "Magnetic Bearing 1",
-      "category": "bearings",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub19"
-    },
-    {
-      "id": 8820,
-      "name": "Magnetic Bearing 2",
-      "category": "bearings",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub19"
-    },
-    {
-      "id": 8821,
-      "name": "Magnetic Bearing 3",
-      "category": "bearings",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub19"
-    },
-    {
-      "id": 8822,
-      "name": "Classic V-belt 1",
-      "category": "v-belt",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub20"
-    },
-    {
-      "id": 8823,
-      "name": "Classic V-belt 2",
-      "category": "v-belt",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub20"
-    },
-    {
-      "id": 8824,
-      "name": "Classic V-belt 3",
-      "category": "v-belt",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub20"
-    },
-    {
-      "id": 8825,
-      "name": "Classic Banded V-belt 1",
-      "category": "v-belt",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub21"
-    },
-    {
-      "id": 8826,
-      "name": "Classic Banded V-belt 2",
-      "category": "v-belt",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub21"
-    },
-    {
-      "id": 8827,
-      "name": "Classic Banded V-belt 3",
-      "category": "v-belt",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub21"
-    },
-    {
-      "id": 8828,
-      "name": "Wedge V-belt 1",
-      "category": "v-belt",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub22"
-    },
-    {
-      "id": 8829,
-      "name": "Wedge V-belt 2",
-      "category": "v-belt",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub22"
-    },
-    {
-      "id": 8830,
-      "name": "Wedge V-belt 3",
-      "category": "v-belt",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub22"
-    },
-    {
-      "id": 8831,
-      "name": "Classic Notched V-belt 1",
-      "category": "v-belt",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub23"
-    },
-    {
-      "id": 8832,
-      "name": "Classic Notched V-belt 2",
-      "category": "v-belt",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub23"
-    },
-    {
-      "id": 8833,
-      "name": "Classic Notched V-belt 3",
-      "category": "v-belt",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub23"
-    },
-    {
-      "id": 8834,
-      "name": "Wedge Notched V-belt 1",
-      "category": "v-belt",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub24"
-    },
-    {
-      "id": 8835,
-      "name": "Wedge Notched V-belt 2",
-      "category": "v-belt",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub24"
-    },
-    {
-      "id": 8836,
-      "name": "Wedge Notched V-belt 3",
-      "category": "v-belt",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub24"
-    },
-    {
-      "id": 8837,
-      "name": "V-Rib/Multi V-belt 1",
-      "category": "v-belt",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub25"
-    },
-    {
-      "id": 8838,
-      "name": "V-Rib/Multi V-belt 2",
-      "category": "v-belt",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub25"
-    },
-    {
-      "id": 8839,
-      "name": "V-Rib/Multi V-belt 3",
-      "category": "v-belt",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub25"
-    },
-    {
-      "id": 8840,
-      "name": "Classic Double V-belt 1",
-      "category": "v-belt",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub26"
-    },
-    {
-      "id": 8841,
-      "name": "Classic Double V-belt 2",
-      "category": "v-belt",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub26"
-    },
-    {
-      "id": 8842,
-      "name": "Classic Double V-belt 3",
-      "category": "v-belt",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub26"
-    },
-    {
-      "id": 8843,
-      "name": "Globe Valve 1",
-      "category": "valve",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub27"
-    },
-    {
-      "id": 8844,
-      "name": "Globe Valve 2",
-      "category": "valve",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub27"
-    },
-    {
-      "id": 8845,
-      "name": "Globe Valve 3",
-      "category": "valve",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub27"
-    },
-    {
-      "id": 8846,
-      "name": "Gate Valve 1",
-      "category": "valve",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub28"
-    },
-    {
-      "id": 8847,
-      "name": "Gate Valve 2",
-      "category": "valve",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub28"
-    },
-    {
-      "id": 8848,
-      "name": "Gate Valve 3",
-      "category": "valve",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub28"
-    },
-    {
-      "id": 8849,
-      "name": "Control Valve 1",
-      "category": "valve",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub29"
-    },
-    {
-      "id": 8850,
-      "name": "Control Valve 2",
-      "category": "valve",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub29"
-    },
-    {
-      "id": 8851,
-      "name": "Control Valve 3",
-      "category": "valve",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub29"
-    },
-    {
-      "id": 8852,
-      "name": "Flow Regulation Valve 1",
-      "category": "valve",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub30"
-    },
-    {
-      "id": 8853,
-      "name": "Flow Regulation Valve 2",
-      "category": "valve",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub30"
-    },
-    {
-      "id": 8854,
-      "name": "Flow Regulation Valve 3",
-      "category": "valve",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub30"
-    },
-    {
-      "id": 8855,
-      "name": "Back Pressure Valve 1",
-      "category": "valve",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub31"
-    },
-    {
-      "id": 8856,
-      "name": "Back Pressure Valve 2",
-      "category": "valve",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub31"
-    },
-    {
-      "id": 8857,
-      "name": "Back Pressure Valve 3",
-      "category": "valve",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub31"
-    },
-    {
-      "id": 8858,
-      "name": "Y-Type Valve 1",
-      "category": "valve",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub32"
-    },
-    {
-      "id": 8859,
-      "name": "Y-Type Valve 2",
-      "category": "valve",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub32"
-    },
-    {
-      "id": 8860,
-      "name": "Y-Type Valve 3",
-      "category": "valve",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub32"
-    },
-    {
-      "id": 8861,
-      "name": "Knife Gate Valve 1",
-      "category": "valve",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub33"
-    },
-    {
-      "id": 8862,
-      "name": "Knife Gate Valve 2",
-      "category": "valve",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub33"
-    },
-    {
-      "id": 8863,
-      "name": "Knife Gate Valve 3",
-      "category": "valve",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub33"
-    },
-    {
-      "id": 8864,
-      "name": "Check Valve 1",
-      "category": "valve",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub34"
-    },
-    {
-      "id": 8865,
-      "name": "Check Valve 2",
-      "category": "valve",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub34"
-    },
-    {
-      "id": 8866,
-      "name": "Check Valve 3",
-      "category": "valve",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub34"
-    },
-    {
-      "id": 8867,
-      "name": "HDPE Pipes 1",
-      "category": "hdpe",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub35"
-    },
-    {
-      "id": 8868,
-      "name": "HDPE Pipes 2",
-      "category": "hdpe",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub35"
-    },
-    {
-      "id": 8869,
-      "name": "HDPE Pipes 3",
-      "category": "hdpe",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub35"
-    },
-    {
-      "id": 8870,
-      "name": "HDPE Butt Fusion Fittings 1",
-      "category": "hdpe",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub36"
-    },
-    {
-      "id": 8871,
-      "name": "HDPE Butt Fusion Fittings 2",
-      "category": "hdpe",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub36"
-    },
-    {
-      "id": 8872,
-      "name": "HDPE Butt Fusion Fittings 3",
-      "category": "hdpe",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub36"
-    },
-    {
-      "id": 8873,
-      "name": "HDPE Compression Fittings 1",
-      "category": "hdpe",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub37"
-    },
-    {
-      "id": 8874,
-      "name": "HDPE Compression Fittings 2",
-      "category": "hdpe",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub37"
-    },
-    {
-      "id": 8875,
-      "name": "HDPE Compression Fittings 3",
-      "category": "hdpe",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub37"
-    },
-    {
-      "id": 8876,
-      "name": "HDPE Compression Valves 1",
-      "category": "hdpe",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub38"
-    },
-    {
-      "id": 8877,
-      "name": "HDPE Compression Valves 2",
-      "category": "hdpe",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub38"
-    },
-    {
-      "id": 8878,
-      "name": "HDPE Compression Valves 3",
-      "category": "hdpe",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub38"
-    },
-    {
-      "id": 8879,
-      "name": "HDPE Welding Butt Machine 1",
-      "category": "hdpe",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub39"
-    },
-    {
-      "id": 8880,
-      "name": "HDPE Welding Butt Machine 2",
-      "category": "hdpe",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub39"
-    },
-    {
-      "id": 8881,
-      "name": "HDPE Welding Butt Machine 3",
-      "category": "hdpe",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub39"
-    },
-    {
-      "id": 8882,
-      "name": "U-PVC Pipe 1",
-      "category": "hdpe",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub40"
-    },
-    {
-      "id": 8883,
-      "name": "U-PVC Pipe 2",
-      "category": "hdpe",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub40"
-    },
-    {
-      "id": 8884,
-      "name": "U-PVC Pipe 3",
-      "category": "hdpe",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub40"
-    },
-    {
-      "id": 8885,
-      "name": "U-PVC Fittings and Valves 1",
-      "category": "hdpe",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub41"
+      "category": "device",
+      "name": "ON-SITE BALANCING DEVICES",
+      "categoryId": "6"
     },
     {
-      "id": 8886,
-      "name": "U-PVC Fittings and Valves 2",
-      "category": "hdpe",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub41"
+      "id": "sub46",
+      "category": "service",
+      "name": "RDI MOTION AMPLIFICATION",
+      "categoryId": "7"
     },
     {
-      "id": 8887,
-      "name": "U-PVC Fittings and Valves 3",
-      "category": "hdpe",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub41"
+      "id": "sub47",
+      "category": "service",
+      "name": "PERIODIC STATUS MONITORING",
+      "categoryId": "7"
     },
     {
-      "id": 8888,
-      "name": "Victaulic Coupling 1",
-      "category": "hdpe",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub42"
+      "id": "sub48",
+      "category": "service",
+      "name": "ADVANCES SERVICES",
+      "categoryId": "7"
     },
     {
-      "id": 8889,
-      "name": "Victaulic Coupling 2",
-      "category": "hdpe",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub42"
+      "id": "sub49",
+      "category": "service",
+      "name": "SPECIAL SERVICES FOR FACILITIES ",
+      "categoryId": "7"
     },
     {
-      "id": 8890,
-      "name": "Victaulic Coupling 3",
-      "category": "hdpe",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub42"
+      "id": "sub50",
+      "category": "service",
+      "name": "PRECISION MAINTENANCE SERVICES",
+      "categoryId": "7"
     },
     {
-      "id": 8891,
-      "name": "Corrugated Pipe 1",
-      "category": "hdpe",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub43"
+      "id": "sub51",
+      "category": "service",
+      "name": "COMPRESSOR SERVICES",
+      "categoryId": "7"
     },
     {
-      "id": 8892,
-      "name": "Corrugated Pipe 2",
-      "category": "hdpe",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub43"
+      "id": "sub51",
+      "category": "repair",
+      "name": "PUMP",
+      "categoryId": "8"
     },
     {
-      "id": 8893,
-      "name": "Corrugated Pipe 3",
-      "category": "hdpe",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub43"
+      "id": "sub52",
+      "category": "repair",
+      "name": "GEARBOX",
+      "categoryId": "8"
     },
     {
-      "id": 8894,
-      "name": "HDPE Membranes 1",
-      "category": "hdpe",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub44"
+      "id": "sub53",
+      "category": "repair",
+      "name": "REPAIR FOR HEAVY DUTY BELTS",
+      "categoryId": "8"
     },
     {
-      "id": 8895,
-      "name": "HDPE Membranes 2",
-      "category": "hdpe",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub44"
+      "id": "sub54",
+      "category": "optimization",
+      "name": "REPAIR FOR HEAVY DUTY BELTS",
+      "categoryId": "9"
     },
     {
-      "id": 8896,
-      "name": "HDPE Membranes 3",
-      "category": "hdpe",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub44"
+      "id": "sub55",
+      "category": "optimization",
+      "name": "INSTALLATION & COMMISSIONING",
+      "categoryId": "9"
     },
     {
-      "id": 8897,
-      "name": "Pipefloats 1",
-      "category": "hdpe",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub45"
+      "id": "sub56",
+      "category": "optimization",
+      "name": "CONSULTATION & PLANING",
+      "categoryId": "9"
     },
     {
-      "id": 8898,
-      "name": "Pipefloats 2",
-      "category": "hdpe",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub45"
+      "id": "sub57",
+      "category": "optimization",
+      "name": "IMEC SALES",
+      "categoryId": "10"
     },
     {
-      "id": 8899,
-      "name": "Pipefloats 3",
-      "category": "hdpe",
-      "img": "/image/pump/pump.jpg",
-      "description": "Lorem ipsum dolar sit amet",
-      "brand": "brand-name",
-      "subCatId": "sub45"
+      "id": "sub58",
+      "category": "optimization",
+      "name": "IMEC SERVICES",
+      "categoryId": "10"
     }
   ],
   "catalogue": [
