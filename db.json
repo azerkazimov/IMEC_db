@@ -1,5 +1,5 @@
 {
-  "nav-bar": [
+  "navBar": [
     {
       "id": 1,
       "name": "IMEC ENGINEERING COMPANY",
@@ -41,7 +41,7 @@
         },
         {
           "id": 6,
-          "name": "DEVİCES & PRODUCT",
+          "name": "DEVICES & PRODUCT",
           "path": "/devices-product"
         }
       ]
@@ -77,408 +77,366 @@
       "path": "/support"
     }
   ],
-  "categories": [
-    {
-      "id": "1",
-      "title": "About IMEC"
-    },
-    {
-      "id": "2",
-      "title": "Partnership Agreement"
-    },
-    {
-      "id": "3",
-      "title": "Industries"
-    },
-    {
-      "id": "4",
-      "title": "Spare Part Group"
-    },
-    {
-      "id": "5",
-      "title": "Product"
-    },
-    {
-      "id": "6",
-      "title": "Devices & Product"
-    },
-    {
-      "id": "7",
-      "title": "Service"
-    },
-    {
-      "id": "8",
-      "title": "Repair"
-    },
-    {
-      "id": "9",
-      "title": "Process Optimization"
-    },
-    {
-      "id": "10",
-      "title": "Customer Support"
-    }
-  ],
   "subCategories": [
     {
       "id": "sub1",
       "category": "partner",
       "name": "RHOSONIC",
-      "categoryId": "2"
+      "categoryId": 2
     },
     {
       "id": "sub2",
       "category": "partner",
       "name": "RI-SE",
-      "categoryId": "2"
+      "categoryId": 2
     },
     {
       "id": "sub3",
       "category": "partner",
-      "name": "DEEP MİNERAL PROSES TEKNOLİJİ",
-      "categoryId": "2"
+      "name": "DEEP MINERAL PROCESS TECHNOLOGY",
+      "categoryId": 2
     },
     {
       "id": "sub4",
       "category": "industries",
       "name": "MINING & MINERALS",
-      "categoryId": "3"
+      "categoryId": 3
     },
     {
       "id": "sub5",
       "category": "industries",
       "name": "OIL & GAS",
-      "categoryId": "3"
+      "categoryId": 3
     },
     {
       "id": "sub6",
       "category": "industries",
       "name": "CEMENT",
-      "categoryId": "3"
+      "categoryId": 3
     },
     {
       "id": "sub7",
       "category": "industries",
       "name": "POWER PLANTS",
-      "categoryId": "3"
+      "categoryId": 3
     },
     {
       "id": "sub8",
       "category": "industries",
       "name": "METALLURGY",
-      "categoryId": "3"
+      "categoryId": 3
     },
     {
       "id": "sub9",
       "category": "industries",
       "name": "DEFENSE ",
-      "categoryId": "3"
+      "categoryId": 3
     },
     {
       "id": "sub10",
       "category": "industries",
       "name": "AGRİCULTURE ",
-      "categoryId": "3"
+      "categoryId": 3
     },
     {
       "id": "sub11",
       "category": "industries",
       "name": "CHEMICALS ",
-      "categoryId": "3"
+      "categoryId": 3
     },
     {
       "id": "sub12",
       "category": "parts",
       "name": "BEARINGS GROUP",
-      "categoryId": "4"
+      "categoryId": 4
     },
     {
       "id": "sub12",
       "category": "parts",
       "name": "HYDRAULIC & PNEUMATIC GROUP",
-      "categoryId": "4"
+      "categoryId": 4
     },
     {
       "id": "sub13",
       "category": "parts",
       "name": "HOSE & CLAMPS GROUP",
-      "categoryId": "4"
+      "categoryId": 4
     },
     {
       "id": "sub14",
       "category": "parts",
       "name": "TUBINGS GROUP",
-      "categoryId": "4"
+      "categoryId": 4
     },
     {
       "id": "sub15",
       "category": "parts",
       "name": "PIPE & FITTINGS GROUP",
-      "categoryId": "4"
+      "categoryId": 4
     },
     {
       "id": "sub16",
       "category": "parts",
       "name": "METAL & PLATES GROUP",
-      "categoryId": "4"
+      "categoryId": 4
     },
     {
       "id": "sub17",
       "category": "parts",
       "name": "GASKETS GROUP",
-      "categoryId": "4"
+      "categoryId": 4
     },
     {
       "id": "sub18",
       "category": "parts",
       "name": "VALVES GROUP",
-      "categoryId": "4"
+      "categoryId": 4
     },
     {
       "id": "sub19",
       "category": "parts",
       "name": "AUTOMATION & ELECTRICAL GROUP",
-      "categoryId": "4"
+      "categoryId": 4
     },
     {
       "id": "sub20",
       "category": "parts",
       "name": "FASTENERS GROUP",
-      "categoryId": "4"
+      "categoryId": 4
     },
     {
       "id": "sub21",
       "category": "parts",
       "name": "FIRE FIGHTING SYSTEM GROUP",
-      "categoryId": "4"
+      "categoryId": 4
     },
     {
       "id": "sub22",
       "category": "parts",
       "name": "PUMPS GROUP",
-      "categoryId": "4"
+      "categoryId": 4
     },
     {
       "id": "sub23",
       "category": "parts",
       "name": "BELTS GROUP",
-      "categoryId": "4"
+      "categoryId": 4
     },
     {
       "id": "sub24",
       "category": "parts",
       "name": "PLASTICS GROUP",
-      "categoryId": "4"
+      "categoryId": 4
     },
     {
       "id": "sub25",
       "category": "parts",
       "name": "FILTERS GROUP",
-      "categoryId": "4"
+      "categoryId": 4
     },
     {
       "id": "sub26",
       "category": "product",
       "name": "INTER STAGE SCREENS",
-      "categoryId": "5"
+      "categoryId": 5
     },
     {
       "id": "sub27",
       "category": "product",
       "name": "AGITATORS",
-      "categoryId": "5"
+      "categoryId": 5
     },
     {
       "id": "sub28",
       "category": "product",
       "name": "FLOTATION CELLS",
-      "categoryId": "5"
+      "categoryId": 5
     },
     {
       "id": "sub29",
       "category": "product",
       "name": "TICKENER",
-      "categoryId": "5"
+      "categoryId": 5
     },
     {
       "id": "sub30",
       "category": "product",
       "name": "SLURRY PUMPS",
-      "categoryId": "5"
+      "categoryId": 5
     },
     {
       "id": "sub31",
       "category": "product",
       "name": "SLURRY DENSITY METER",
-      "categoryId": "5"
+      "categoryId": 5
     },
     {
       "id": "sub32",
       "category": "product",
       "name": "CHEMICAL DENSITY METER",
-      "categoryId": "5"
+      "categoryId": 5
     },
     {
       "id": "sub33",
       "category": "product",
       "name": "CHEMICAL CONCENTRATION METER",
-      "categoryId": "5"
+      "categoryId": 5
     },
     {
       "id": "sub34",
       "category": "product",
       "name": "VALVES",
-      "categoryId": "5"
+      "categoryId": 5
     },
     {
       "id": "sub35",
       "category": "product",
       "name": "PARTICLE SIZE ANALYZER",
-      "categoryId": "5"
+      "categoryId": 5
     },
     {
       "id": "sub36",
       "category": "product",
       "name": "CRUSHERS",
-      "categoryId": "5"
+      "categoryId": 5
     },
     {
       "id": "sub37",
       "category": "device",
       "name": "VIBRATION ANALYZERS",
-      "categoryId": "6"
+      "categoryId": 6
     },
     {
       "id": "sub38",
       "category": "device",
       "name": "ALIGNMENT DEVICES",
-      "categoryId": "6"
+      "categoryId": 6
     },
     {
       "id": "sub39",
       "category": "device",
       "name": "ULTRASONIC ANALYZERS",
-      "categoryId": "6"
+      "categoryId": 6
     },
     {
       "id": "sub40",
       "category": "device",
       "name": "MOTION AMPLIFICATION",
-      "categoryId": "6"
+      "categoryId": 6
     },
     {
       "id": "sub41",
       "category": "device",
       "name": "THERMAL CAMERA",
-      "categoryId": "6"
+      "categoryId": 6
     },
     {
       "id": "sub42",
       "category": "device",
       "name": "VIBRATION SENSORS",
-      "categoryId": "6"
+      "categoryId": 6
     },
     {
       "id": "sub43",
       "category": "device",
       "name": "OIL ANALYSIS",
-      "categoryId": "6"
+      "categoryId": 6
     },
     {
       "id": "sub44",
       "category": "device",
       "name": "GAS CAMERA",
-      "categoryId": "6"
+      "categoryId": 6
     },
     {
       "id": "sub45",
       "category": "device",
       "name": "ON-SITE BALANCING DEVICES",
-      "categoryId": "6"
+      "categoryId": 6
     },
     {
       "id": "sub46",
       "category": "service",
       "name": "RDI MOTION AMPLIFICATION",
-      "categoryId": "7"
+      "categoryId": 7
     },
     {
       "id": "sub47",
       "category": "service",
       "name": "PERIODIC STATUS MONITORING",
-      "categoryId": "7"
+      "categoryId": 7
     },
     {
       "id": "sub48",
       "category": "service",
       "name": "ADVANCES SERVICES",
-      "categoryId": "7"
+      "categoryId": 7
     },
     {
       "id": "sub49",
       "category": "service",
       "name": "SPECIAL SERVICES FOR FACILITIES ",
-      "categoryId": "7"
+      "categoryId": 7
     },
     {
       "id": "sub50",
       "category": "service",
       "name": "PRECISION MAINTENANCE SERVICES",
-      "categoryId": "7"
+      "categoryId": 7
     },
     {
       "id": "sub51",
       "category": "service",
       "name": "COMPRESSOR SERVICES",
-      "categoryId": "7"
+      "categoryId": 7
     },
     {
       "id": "sub51",
       "category": "repair",
       "name": "PUMP",
-      "categoryId": "8"
+      "categoryId": 8
     },
     {
       "id": "sub52",
       "category": "repair",
       "name": "GEARBOX",
-      "categoryId": "8"
+      "categoryId": 8
     },
     {
       "id": "sub53",
       "category": "repair",
       "name": "REPAIR FOR HEAVY DUTY BELTS",
-      "categoryId": "8"
+      "categoryId": 8
     },
     {
       "id": "sub54",
       "category": "optimization",
       "name": "REPAIR FOR HEAVY DUTY BELTS",
-      "categoryId": "9"
+      "categoryId": 9
     },
     {
       "id": "sub55",
       "category": "optimization",
       "name": "INSTALLATION & COMMISSIONING",
-      "categoryId": "9"
+      "categoryId": 9
     },
     {
       "id": "sub56",
       "category": "optimization",
       "name": "CONSULTATION & PLANING",
-      "categoryId": "9"
+      "categoryId": 9
     },
     {
       "id": "sub57",
       "category": "optimization",
       "name": "IMEC SALES",
-      "categoryId": "10"
+      "categoryId": 10
     },
     {
       "id": "sub58",
       "category": "optimization",
       "name": "IMEC SERVICES",
-      "categoryId": "10"
+      "categoryId": 10
     }
   ],
   "catalogue": [
