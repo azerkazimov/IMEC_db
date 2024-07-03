@@ -1,7 +1,7 @@
 {
   "navBar": [
     {
-      "id": 1,
+      "id": 11,
       "name": "IMEC ENGINEERING COMPANY",
       "category": "engineering",
       "path": "/engineering",
@@ -24,7 +24,7 @@
       ]
     },
     {
-      "id": 2,
+      "id": 12,
       "name": "PRODUCTS & SYSTEMS",
       "category": "product",
       "path": "/products",
@@ -47,7 +47,7 @@
       ]
     },
     {
-      "id": 3,
+      "id": 13,
       "name": "MAINTENANCE SOLUTIONS & SERVICE",
       "category": "maintenance",
       "path": "/maintenance",
@@ -65,13 +65,13 @@
       ]
     },
     {
-      "id": 4,
+      "id": 14,
       "name": "PROCESS OPTIMIZATION & DESIGN",
       "category": "process",
       "path": "/process-optimization"
     },
     {
-      "id": 5,
+      "id": 15,
       "name": "CUSTOMER SUPPORT",
       "category": "support",
       "path": "/support"
