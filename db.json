@@ -1,80 +1,134 @@
 {
   "navBar": [
     {
-      "id": 11,
+      "id": 1,
       "name": "IMEC ENGINEERING COMPANY",
       "category": "engineering",
       "path": "/engineering",
       "items": [
         {
-          "id": 1,
+          "id": 11,
           "name": "ABOUT IMEC",
           "path": "/about-imec"
         },
         {
-          "id": 2,
+          "id": 12,
           "name": "PARTNERSHIP AGREEMENT",
-          "path": "/partnership-agreement"
+          "path": "/partnership-agreement",
+          "subItems": [
+            { "id": 121, "name": "Rhosonics", "path": "/partnership-agreement/rhosonics" },
+            { "id": 122, "name": "Rise", "path": "/partnership-agreement/rise" },
+            { "id": 123, "name": "Deep Mineral Process Teknology", "path": "/partnership-agreement/deep-mineral-process-teknology" },
+            { "id": 124, "name": "Marquimm", "path": "/partnership-agreement/marquimm" }
+          ]
         },
         {
-          "id": 3,
+          "id": 13,
           "name": "INDUSTRIES",
-          "path": "/industries"
+          "path": "/industries",
+          "subItems": [
+            { "id": 131, "name": "Mining & Minerals", "path": "/industries/mining-minerals" },
+            { "id": 132, "name": "Oil & Gas", "path": "/industries/oil-gas" },
+            { "id": 133, "name": "Cement", "path": "/industries/cement" },
+            { "id": 134, "name": "Power Plants", "path": "/industries/power-plants" },
+            { "id": 135, "name": "Metallurgy", "path": "/industries/metallurgy" },
+            { "id": 136, "name": "Defense", "path": "/industries/defense" },
+            { "id": 137, "name": "Agricultural", "path": "/industries/agricultural" },
+            { "id": 138, "name": "Chemicals", "path": "/industries/chemicals" }
+          ]
         }
       ]
     },
     {
-      "id": 12,
-      "name": "PRODUCTS & SYSTEMS",
-      "category": "product",
+      "id": 2,
+      "name": "PRODUCT & SYSTEM",
+      "category": "products",
       "path": "/products",
       "items": [
         {
-          "id": 4,
+          "id": 21,
           "name": "SPARE PARTS GROUP",
-          "path": "/spare-parts-group"
+          "path": "/spare-parts-group",
+          "subItems": [
+            { "id": 211, "name": "Bearings Group", "path": "/spare-parts-group/bearings-group" },
+            { "id": 212, "name": "Rubbing Group", "path": "/spare-parts-group/rubbing-group" },
+            { "id": 213, "name": "Valves Group", "path": "/spare-parts-group/valves-group" },
+            { "id": 214, "name": "Pumps Group", "path": "/spare-parts-group/pumps-group" },
+            { "id": 215, "name": "Plastics Group", "path": "/spare-parts-group/plastics-group" }
+          ]
         },
         {
-          "id": 5,
+          "id": 22,
           "name": "PRODUCTS",
-          "path": "/products"
+          "path": "/products-list",
+          "subItems": [
+            { "id": 221, "name": "Agitators", "path": "/products/agitators" },
+            { "id": 222, "name": "Flotation Cells", "path": "/products/flotation-cells" },
+            { "id": 223, "name": "Tickener", "path": "/products/tickener" },
+            { "id": 224, "name": "Slurry Pump", "path": "/products/slurry-pump" },
+            { "id": 225, "name": "Valves", "path": "/products/valves" },
+            { "id": 226, "name": "Crusher", "path": "/products/crusher" }
+          ]
         },
         {
-          "id": 6,
+          "id": 23,
           "name": "DEVICES & PRODUCT",
-          "path": "/devices-product"
+          "path": "/devices-product",
+          "subItems": [
+            { "id": 231, "name": "Vibration Analyzer", "path": "/devices-product/vibration-analyzer" },
+            { "id": 232, "name": "Alignment Devices", "path": "/devices-product/alignment-devices" }
+          ]
         }
       ]
     },
     {
-      "id": 13,
-      "name": "MAINTENANCE SOLUTIONS & SERVICE",
+      "id": 3,
+      "name": "MAINTENANCE SOLUTION & SERVICE",
       "category": "maintenance",
       "path": "/maintenance",
       "items": [
         {
-          "id": 7,
-          "name": "Service",
-          "path": "/maintenance-service"
+          "id": 31,
+          "name": "SERVICE",
+          "path": "/maintenance/service",
+          "subItems": [
+            { "id": 311, "name": "Advanced Service", "path": "/maintenance/service/advanced-service" },
+            { "id": 312, "name": "Compressor Service", "path": "/maintenance/service/compressor-service" },
+            { "id": 313, "name": "Special Service", "path": "/maintenance/service/special-service" }
+          ]
         },
         {
-          "id": 8,
-          "name": "Repair",
-          "path": "/maintenance-repair"
+          "id": 32,
+          "name": "REPAIR",
+          "path": "/maintenance/repair",
+          "subItems": [
+            { "id": 321, "name": "Pump", "path": "/maintenance/repair/pump" },
+            { "id": 322, "name": "Gearbox", "path": "/maintenance/repair/gearbox" },
+            { "id": 323, "name": "Duty Belts", "path": "/maintenance/repair/duty-belts" }
+          ]
         }
       ]
     },
     {
-      "id": 14,
+      "id": 4,
       "name": "PROCESS OPTIMIZATION & DESIGN",
       "category": "process",
-      "path": "/process-optimization"
+      "path": "/process-optimization",
+      "items": [
+        { "id": 41, "name": "Design & Construction Plant", "path": "/process-optimization/design-construction-plant" },
+        { "id": 42, "name": "Installation", "path": "/process-optimization/installation" },
+        { "id": 43, "name": "Consultation", "path": "/process-optimization/consultation" }
+      ]
     },
     {
-      "id": 15,
+      "id": 5,
       "name": "CUSTOMER SUPPORT",
       "category": "support",
-      "path": "/support"
+      "path": "/support",
+      "items": [
+        { "id": 51, "name": "Sales", "path": "/support/sales" },
+        { "id": 52, "name": "Service", "path": "/support/service" }
+      ]
     }
   ],
   "subCategories": [
