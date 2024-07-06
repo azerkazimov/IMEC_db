@@ -245,15 +245,15 @@
           "name": "DEVICES & PRODUCT",
           "path": "/devices-product",
           "subItems": [
-            { "id": 231, "name": "Vibration Analyzer", "path": "/devices-product/vibration-analyzer" },
-            { "id": 232, "name": "Alignment Devices", "path": "/devices-product/alignment-devices" },
-            { "id": 233, "name": "Ultrasonic Analyzer", "path": "/devices-product/ultrasonic-analyzer" },
-            { "id": 234, "name": "Motion Amplification", "path": "/devices-product/motion-amplification" },
-            { "id": 235, "name": "Thermal Camera", "path": "/devices-product/thermal-camera" },
-            { "id": 236, "name": "Vibration Sensors", "path": "/devices-product/vibration-sensors" },
-            { "id": 237, "name": "Oil Analysis", "path": "/devices-product/oil-analysis" },
-            { "id": 238, "name": "Gas Camera", "path": "/devices-product/gas-camera" },
-            { "id": 239, "name": "On-Site Balancing Devices", "path": "/devices-product/balancing" }
+            { "id": 231, "name": "Vibration Analyzer", "path": "/devices-product/vibration-analyzer", "img":"/image/devices/vibration-analyzer.jpg" },
+            { "id": 232, "name": "Alignment Devices", "path": "/devices-product/alignment-devices", "img":"/image/devices/aligment-devices.png" },
+            { "id": 233, "name": "Ultrasonic Analyzer", "path": "/devices-product/ultrasonic-analyzer", "img":"/image/devices/ultrasonic-analyzer.png" },
+            { "id": 234, "name": "Motion Amplification", "path": "/devices-product/motion-amplification", "img":"/image/devices/motion-amplification.png" },
+            { "id": 235, "name": "Thermal Camera", "path": "/devices-product/thermal-camera", "img":"/image/devices/thermal-camera.png" },
+            { "id": 236, "name": "Vibration Sensors", "path": "/devices-product/vibration-sensors", "img":"/image/devices/vibration-sensors.jpg" },
+            { "id": 237, "name": "Oil Analysis", "path": "/devices-product/oil-analysis", "img":"/image/devices/oil-analysis.jpg" },
+            { "id": 238, "name": "Gas Camera", "path": "/devices-product/gas-camera", "img":"/image/devices/gas-camera.png" },
+            { "id": 239, "name": "On-Site Balancing Devices", "path": "/devices-product/balancing", "img":"/image/devices/balancing-devices.jpg" }
           ]
         }
       ]
