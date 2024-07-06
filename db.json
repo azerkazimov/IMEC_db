@@ -192,5 +192,71 @@
       "title": "Valve Catalogue",
       "pdfSrc": "/catalogue/Valve_catalogue.pdf"
     }
+  ],
+  "products": [
+    {
+      "id": 2,
+      "name": "PRODUCT & SYSTEM",
+      "category": "products",
+      "path": "/products",
+      "items": [
+        {
+          "id": 21,
+          "name": "SPARE PARTS GROUP",
+          "path": "/spare-parts-group",
+          "subItems": [
+            { "id": 2101, "name": "Bearings Group", "path": "/spare-parts-group/bearings-group" },
+            { "id": 2102, "name": "Belts Group", "path": "/spare-parts-group/belts-group" },
+            { "id": 2103, "name": "Valves Group", "path": "/spare-parts-group/valves-group" },
+            { "id": 2104, "name": "Pumps Group", "path": "/spare-parts-group/pumps-group" },
+            { "id": 2105, "name": "Plastics Group", "path": "/spare-parts-group/plastics-group" },
+            { "id": 2106, "name": "Hydraulic & Pneumatic Group", "path": "/spare-parts-group/hydraulic-pneumatic-group" },
+            { "id": 2107, "name": "Hose & Glamps Group", "path": "/spare-parts-group/hose-glamps-group" },
+            { "id": 2108, "name": "Tubbings Group", "path": "/spare-parts-group/tubbings-group" },
+            { "id": 2109, "name": "Pipe & Fitting Group", "path": "/spare-parts-group/pipe-fitting-group" },
+            { "id": 2110, "name": "Metal & Plates Group", "path": "/spare-parts-group/metal-plates-group" },
+            { "id": 2111, "name": "Automation & Electrical Group", "path": "/spare-parts-group/electrical-group" },
+            { "id": 2112, "name": "Gaskets Group", "path": "/spare-parts-group/gaskets-group" },
+            { "id": 2113, "name": "Fasteners Group", "path": "/spare-parts-group/fasteners-group" },
+            { "id": 2114, "name": "Fire Fighting System Group", "path": "/spare-parts-group/fire-system-group" },
+            { "id": 2115, "name": "Filters Group", "path": "/spare-parts-group/filters-group" }
+          ]
+        },
+        {
+          "id": 22,
+          "name": "PRODUCTS",
+          "path": "/products-list",
+          "subItems": [
+            { "id": 2201, "name": "Agitators", "path": "/products/agitators" },
+            { "id": 2202, "name": "Flotation Cells", "path": "/products/flotation-cells" },
+            { "id": 2203, "name": "Tickener", "path": "/products/tickener" },
+            { "id": 2204, "name": "Slurry Pump", "path": "/products/slurry-pump" },
+            { "id": 2205, "name": "Valves", "path": "/products/valves" },
+            { "id": 2206, "name": "Crusher", "path": "/products/crusher" },
+            { "id": 2207, "name": "Inner Stage Screens", "path": "/products/inner-stage-screens" },
+            { "id": 2208, "name": "Slurry Density Meter", "path": "/products/slurry-density-metet" },
+            { "id": 2209, "name": "Chemical Density Meter", "path": "/products/chemical-density-metet" },
+            { "id": 2210, "name": "Chemical Concentration Meter", "path": "/products/chemical-concentration-metet" },
+            { "id": 2211, "name": "Particle Size Analyzer", "path": "/products/particle-size-analyzer" }
+          ]
+        },
+        {
+          "id": 23,
+          "name": "DEVICES & PRODUCT",
+          "path": "/devices-product",
+          "subItems": [
+            { "id": 231, "name": "Vibration Analyzer", "path": "/devices-product/vibration-analyzer" },
+            { "id": 232, "name": "Alignment Devices", "path": "/devices-product/alignment-devices" },
+            { "id": 233, "name": "Ultrasonic Analyzer", "path": "/devices-product/ultrasonic-analyzer" },
+            { "id": 234, "name": "Motion Amplification", "path": "/devices-product/motion-amplification" },
+            { "id": 235, "name": "Thermal Camera", "path": "/devices-product/thermal-camera" },
+            { "id": 236, "name": "Vibration Sensors", "path": "/devices-product/vibration-sensors" },
+            { "id": 237, "name": "Oil Analysis", "path": "/devices-product/oil-analysis" },
+            { "id": 238, "name": "Gas Camera", "path": "/devices-product/gas-camera" },
+            { "id": 239, "name": "On-Site Balancing Devices", "path": "/devices-product/balancing" }
+          ]
+        }
+      ]
+    }
   ]
 }
