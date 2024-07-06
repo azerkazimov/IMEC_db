@@ -253,7 +253,7 @@
             { "id": 236, "name": "Vibration Sensors", "path": "/devices-product/vibration-sensors", "img":"/image/devices/vibration-sensors.jpg" },
             { "id": 237, "name": "Oil Analysis", "path": "/devices-product/oil-analysis", "img":"/image/devices/oil-analysis.jpg" },
             { "id": 238, "name": "Gas Camera", "path": "/devices-product/gas-camera", "img":"/image/devices/gas-camera.png" },
-            { "id": 239, "name": "On-Site Balancing Devices", "path": "/devices-product/balancing", "img":"/image/devices/balancing-devices.jpg" }
+            { "id": 239, "name": "On-Site Balancing Devices", "path": "/devices-product/balancing", "img":"/image/devices/balancing-devices.png" }
           ]
         }
       ]
