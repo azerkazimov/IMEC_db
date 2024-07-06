@@ -232,7 +232,7 @@
             { "id": 2203, "name": "Thickener", "path": "/products/thickener", "img":"/image/thickener/thickener.png" },
             { "id": 2204, "name": "Slurry Pump", "path": "/products/slurry-pump", "img":"/image/slurry-pump/slurry-pump.jpg" },
             { "id": 2205, "name": "Valves", "path": "/products/valves", "img":"/image/valve/valve.jpg" },
-            { "id": 2206, "name": "Crusher", "path": "/products/crusher", "img":"/image/crusher/crusher.png" },
+            { "id": 2206, "name": "Crusher", "path": "/products/crusher", "img":"/image/crusher/crusher.jpg" },
             { "id": 2207, "name": "Inner Stage Screens", "path": "/products/inner-stage-screens", "img":"/image/screen/screen.jpg" },
             { "id": 2208, "name": "Slurry Density Meter", "path": "/products/slurry-density-metet", "img":"/image/density/density.jpg" },
             { "id": 2209, "name": "Chemical Density Meter", "path": "/products/chemical-density-metet", "img":"/image/density/chemical-density.png"  },
