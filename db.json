@@ -205,7 +205,7 @@
           "name": "SPARE PARTS GROUP",
           "path": "/spare-parts-group",
           "subItems": [
-            { "id": 2101, "name": "Bearings Group", "path": "/spare-parts-group/bearings-group", "img":"/image/bear/bearing-group.jpg" },
+            { "id": 2101, "name": "Bearings Group", "path": "/spare-parts-group/bearings-group", "img":"./image/bear/bearing-group.jpg" },
             { "id": 2102, "name": "Belts Group", "path": "/spare-parts-group/belts-group" },
             { "id": 2103, "name": "Valves Group", "path": "/spare-parts-group/valves-group" },
             { "id": 2104, "name": "Pumps Group", "path": "/spare-parts-group/pumps-group" },
