@@ -227,17 +227,17 @@
           "name": "PRODUCTS",
           "path": "/products-list",
           "subItems": [
-            { "id": 2201, "name": "Agitators", "path": "/products/agitators" },
-            { "id": 2202, "name": "Flotation Cells", "path": "/products/flotation-cells" },
-            { "id": 2203, "name": "Tickener", "path": "/products/tickener" },
-            { "id": 2204, "name": "Slurry Pump", "path": "/products/slurry-pump" },
-            { "id": 2205, "name": "Valves", "path": "/products/valves" },
-            { "id": 2206, "name": "Crusher", "path": "/products/crusher" },
-            { "id": 2207, "name": "Inner Stage Screens", "path": "/products/inner-stage-screens" },
-            { "id": 2208, "name": "Slurry Density Meter", "path": "/products/slurry-density-metet" },
-            { "id": 2209, "name": "Chemical Density Meter", "path": "/products/chemical-density-metet" },
-            { "id": 2210, "name": "Chemical Concentration Meter", "path": "/products/chemical-concentration-metet" },
-            { "id": 2211, "name": "Particle Size Analyzer", "path": "/products/particle-size-analyzer" }
+            { "id": 2201, "name": "Agitators", "path": "/products/agitators", "img":"/image/agitator/agitator.jpg" },
+            { "id": 2202, "name": "Flotation Cells", "path": "/products/flotation-cells", "img":"/image/flotation-cell/flotation-cell.jpg" },
+            { "id": 2203, "name": "Thickener", "path": "/products/thickener", "img":"/image/thickener/thickener.png" },
+            { "id": 2204, "name": "Slurry Pump", "path": "/products/slurry-pump", "img":"/image/slurry-pump/slurry-pump.jpg" },
+            { "id": 2205, "name": "Valves", "path": "/products/valves", "img":"/image/valve/valve.jpg" },
+            { "id": 2206, "name": "Crusher", "path": "/products/crusher", "img":"/image/crusher/crusher.png" },
+            { "id": 2207, "name": "Inner Stage Screens", "path": "/products/inner-stage-screens", "img":"/image/screen/screen.jpg" },
+            { "id": 2208, "name": "Slurry Density Meter", "path": "/products/slurry-density-metet", "img":"/image/density/density.jpg" },
+            { "id": 2209, "name": "Chemical Density Meter", "path": "/products/chemical-density-metet", "img":"/image/density/chemical-density.png"  },
+            { "id": 2210, "name": "Chemical Concentration Meter", "path": "/products/chemical-concentration-metet", "img":"/image/density/chemical-concentration.png"  },
+            { "id": 2211, "name": "Particle Size Analyzer", "path": "/products/particle-size-analyzer", "img":"/image/density/mastersizer.jpg"  }
           ]
         },
         {
