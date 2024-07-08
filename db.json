@@ -263,22 +263,22 @@
     {
       "id": 4011,
       "title": "Rhosonics",
-      "path": "/image/partner/rhosonics-logo.png"
+      "img": "/image/partners/rhosonics-logo.png"
     },
     {
       "id": 4012,
       "title": "Ri-Se",
-      "path": "/image/partner/rhosonics-logo.png"
+      "img": "/image/partners/rhosonics-logo.png"
     },
     {
       "id": 4013,
       "title": "Deep Mineral Process Teknology",
-      "path": "/image/partner/mt-logo.png"
+      "img": "/image/partners/mt-logo.png"
     },
     {
       "id": 4014,
       "title": "Marquimm",
-      "path": "/image/partner/marquimm-logo.png"
+      "img": "/image/partners/marquimm-logo.png"
     }
   ]
 }
