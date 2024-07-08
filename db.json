@@ -280,5 +280,47 @@
       "title": "Marquimm",
       "img": "/image/partners/marquimm-logo.png"
     }
+  ],
+  "industies":[
+    {
+      "id": 5011,
+      "title": "Mining & Minerals",
+      "img": "/image/industries/mining.jpg"
+    },
+    {
+      "id": 5012,
+      "title": "Oil & Gas",
+      "img": "/image/industries/oil.jpg"
+    },
+    {
+      "id": 5013,
+      "title": "Cement",
+      "img": "/image/industries/cement.jpg"
+    },
+    {
+      "id": 5014,
+      "title": "Power Plants",
+      "img": "/image/industries/power.jpg"
+    },
+    {
+      "id": 5015,
+      "title": "Metallurgy",
+      "img": "/image/industries/metallurgy.jpg"
+    },
+    {
+      "id": 5016,
+      "title": "Defence",
+      "img": "/image/industries/defence.jpg"
+    },
+    {
+      "id": 5017,
+      "title": "Agriculture",
+      "img": "/image/industries/agroculture.jpg"
+    },
+    {
+      "id": 5018,
+      "title": "Chemicals",
+      "img": "/image/industries/chemical.jpg"
+    }
   ]
 }
