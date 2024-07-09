@@ -698,42 +698,50 @@
     {
       "id": 5011,
       "title": "Mining & Minerals",
-      "img": "/image/industries/mining.jpg"
+      "img": "/image/industries/mining.jpg",
+      "content": "IMEC offers comprehensive solutions for the mining and minerals industry, including mine planning, design, and state-of-the-art mineral processing. Our custom equipment and innovative approaches ensure efficient and sustainable operations. With a focus on safety, compliance, and tailored solutions, we help our clients achieve higher recovery rates and sustainable practices. Partner with us to leverage industry-leading expertise and drive your mining projects to success. "
     },
     {
       "id": 5012,
       "title": "Oil & Gas",
-      "img": "/image/industries/oil.jpg"
+      "img": "/image/industries/oil.jpg",
+      "content": "IMEC provides exceptional engineering solutions for the oil and gas industry, offering expertise in exploration, production, and refining processes. Our cutting-edge technology and custom-designed equipment ensure efficient and safe operations. We prioritize sustainability and regulatory compliance, delivering tailored solutions to meet the unique challenges of the oil and gas sector. Partner with us to leverage our industry-leading knowledge and drive your projects to success. "
     },
     {
       "id": 5013,
       "title": "Cement",
-      "img": "/image/industries/cement.jpg"
+      "img": "/image/industries/cement.jpg",
+      "content": "IMEC provides exceptional engineering solutions for the oil and gas industry, offering expertise in exploration, production, and refining processes. Our cutting-edge technology and custom-designed equipment ensure efficient and safe operations. We prioritize sustainability and regulatory compliance, delivering tailored solutions to meet the unique challenges of the oil and gas sector. Partner with us to leverage our industry-leading knowledge and drive your projects to success. "
     },
     {
       "id": 5014,
       "title": "Power Plants",
-      "img": "/image/industries/power.jpg"
+      "img": "/image/industries/power.jpg",
+      "content": "IMEC specializes in providing top-tier engineering solutions for power plants, encompassing design, construction, and maintenance services. Our innovative technology and custom equipment ensure optimal efficiency and reliability for your operations. We are committed to sustainability, safety, and regulatory compliance, offering tailored solutions to meet the specific needs of the power generation industry. Partner with us to benefit from our extensive expertise and drive your power plant projects to success."
     },
     {
       "id": 5015,
       "title": "Metallurgy",
-      "img": "/image/industries/metallurgy.jpg"
+      "img": "/image/industries/metallurgy.jpg",
+      "content": ""
     },
     {
       "id": 5016,
       "title": "Defence",
-      "img": "/image/industries/defence.jpg"
+      "img": "/image/industries/defence.jpg",
+      "content": "IMEC offers advanced engineering solutions for the metallurgy industry, including metal extraction, refining, and processing. Our state-of-the-art technology and custom equipment ensure high efficiency and quality in your operations. We focus on sustainability, safety, and regulatory compliance, providing tailored solutions to meet the unique demands of the metallurgy sector. Partner with us to leverage our industry-leading expertise and achieve success in your metallurgy projects."
     },
     {
       "id": 5017,
       "title": "Agriculture",
-      "img": "/image/industries/agroculture.jpg"
+      "img": "/image/industries/agroculture.jpg",
+      "content": "IMEC delivers cutting-edge engineering solutions for the agriculture industry, enhancing efficiency and productivity in farming operations. Our innovative technology and custom equipment are designed to meet the specific needs of modern agriculture, ensuring sustainability and regulatory compliance. We offer tailored solutions for irrigation systems, machinery, and facility design to help you achieve optimal results. Partner with us to leverage our expertise and drive your agricultural projects to success."
     },
     {
       "id": 5018,
       "title": "Chemicals",
-      "img": "/image/industries/chemical.jpg"
+      "img": "/image/industries/chemical.jpg",
+      "content": "IMEC provides top-notch engineering solutions for the chemical industry, specializing in the design, construction, and maintenance of chemical processing facilities. Our innovative technology and custom equipment ensure safety, efficiency, and regulatory compliance in your operations. We offer tailored solutions to meet the unique challenges of chemical production, from process optimization to waste management. Partner with us to leverage our expertise and achieve success in your chemical projects. "
     }
   ],
   "maintenance": [
@@ -788,6 +796,5 @@
         }
       ]
     }
-    
   ]
 }
