@@ -100,77 +100,77 @@
             {
               "id": 2101,
               "name": "Bearings Group",
-              "path": "/spare-parts-group/bearings-group"
+              "path": "/product-item/spare-parts-group/bearings-group"
             },
             {
               "id": 2102,
               "name": "Belts Group",
-              "path": "/spare-parts-group/belts-group"
+              "path": "/product-item/spare-parts-group/belts-group"
             },
             {
               "id": 2103,
               "name": "Valves Group",
-              "path": "/spare-parts-group/valves-group"
+              "path": "/product-item/spare-parts-group/valves-group"
             },
             {
               "id": 2104,
               "name": "Pumps Group",
-              "path": "/spare-parts-group/pumps-group"
+              "path": "/product-item/spare-parts-group/pumps-group"
             },
             {
               "id": 2105,
               "name": "Plastics Group",
-              "path": "/spare-parts-group/plastics-group"
+              "path": "/product-item/spare-parts-group/plastics-group"
             },
             {
               "id": 2106,
               "name": "Hydraulic & Pneumatic Group",
-              "path": "/spare-parts-group/hydraulic-pneumatic-group"
+              "path": "/product-item/spare-parts-group/hydraulic-pneumatic-group"
             },
             {
               "id": 2107,
               "name": "Hose & Glamps Group",
-              "path": "/spare-parts-group/hose-glamps-group"
+              "path": "/product-item/spare-parts-group/hose-glamps-group"
             },
             {
               "id": 2108,
               "name": "Tubbings Group",
-              "path": "/spare-parts-group/tubbings-group"
+              "path": "/product-item/spare-parts-group/tubbings-group"
             },
             {
               "id": 2109,
               "name": "Pipe & Fitting Group",
-              "path": "/spare-parts-group/pipe-fitting-group"
+              "path": "/product-item/spare-parts-group/pipe-fitting-group"
             },
             {
               "id": 2110,
               "name": "Metal & Plates Group",
-              "path": "/spare-parts-group/metal-plates-group"
+              "path": "/product-item/spare-parts-group/metal-plates-group"
             },
             {
               "id": 2111,
               "name": "Automation & Electrical Group",
-              "path": "/spare-parts-group/electrical-group"
+              "path": "/product-item/spare-parts-group/electrical-group"
             },
             {
               "id": 2112,
               "name": "Gaskets Group",
-              "path": "/spare-parts-group/gaskets-group"
+              "path": "/product-item/spare-parts-group/gaskets-group"
             },
             {
               "id": 2113,
               "name": "Fasteners Group",
-              "path": "/spare-parts-group/fasteners-group"
+              "path": "/product-item/spare-parts-group/fasteners-group"
             },
             {
               "id": 2114,
               "name": "Fire Fighting System Group",
-              "path": "/spare-parts-group/fire-system-group"
+              "path": "/product-item/spare-parts-group/fire-system-group"
             },
             {
               "id": 2115,
               "name": "Filters Group",
-              "path": "/spare-parts-group/filters-group"
+              "path": "/product-item/spare-parts-group/filters-group"
             }
           ]
         },
@@ -181,57 +181,57 @@
             {
               "id": 2201,
               "name": "Agitators",
-              "path": "/products/agitators"
+              "path": "/product-item/products/agitators"
             },
             {
               "id": 2202,
               "name": "Flotation Cells",
-              "path": "/products/flotation-cells"
+              "path": "/product-item/products/flotation-cells"
             },
             {
               "id": 2203,
               "name": "Tickener",
-              "path": "/products/tickener"
+              "path": "/product-item/products/tickener"
             },
             {
               "id": 2204,
               "name": "Slurry Pump",
-              "path": "/products/slurry-pump"
+              "path": "/product-item/products/slurry-pump"
             },
             {
               "id": 2205,
               "name": "Valves",
-              "path": "/products/valves"
+              "path": "/product-item/products/valves"
             },
             {
               "id": 2206,
               "name": "Crusher",
-              "path": "/products/crusher"
+              "path": "/product-item/products/crusher"
             },
             {
               "id": 2207,
               "name": "Inner Stage Screens",
-              "path": "/products/inner-stage-screens"
+              "path": "/product-item/products/inner-stage-screens"
             },
             {
               "id": 2208,
               "name": "Slurry Density Meter",
-              "path": "/products/slurry-density-metet"
+              "path": "/product-item/products/slurry-density-metet"
             },
             {
               "id": 2209,
               "name": "Chemical Density Meter",
-              "path": "/products/chemical-density-metet"
+              "path": "/product-item/products/chemical-density-metet"
             },
             {
               "id": 2210,
               "name": "Chemical Concentration Meter",
-              "path": "/products/chemical-concentration-metet"
+              "path": "/product-item/products/chemical-concentration-metet"
             },
             {
               "id": 2211,
               "name": "Particle Size Analyzer",
-              "path": "/products/particle-size-analyzer"
+              "path": "/product-item/products/particle-size-analyzer"
             }
           ]
         },
@@ -242,47 +242,47 @@
             {
               "id": 231,
               "name": "Vibration Analyzer",
-              "path": "/devices-product/vibration-analyzer"
+              "path": "/product-item/devices-product/vibration-analyzer"
             },
             {
               "id": 232,
               "name": "Alignment Devices",
-              "path": "/devices-product/alignment-devices"
+              "path": "/product-item/devices-product/alignment-devices"
             },
             {
               "id": 233,
               "name": "Ultrasonic Analyzer",
-              "path": "/devices-product/ultrasonic-analyzer"
+              "path": "/product-item/devices-product/ultrasonic-analyzer"
             },
             {
               "id": 234,
               "name": "Motion Amplification",
-              "path": "/devices-product/motion-amplification"
+              "path": "/product-item/devices-product/motion-amplification"
             },
             {
               "id": 235,
               "name": "Thermal Camera",
-              "path": "/devices-product/thermal-camera"
+              "path": "/product-item/devices-product/thermal-camera"
             },
             {
               "id": 236,
               "name": "Vibration Sensors",
-              "path": "/devices-product/vibration-sensors"
+              "path": "/product-item/devices-product/vibration-sensors"
             },
             {
               "id": 237,
               "name": "Oil Analysis",
-              "path": "/devices-product/oil-analysis"
+              "path": "/product-item/devices-product/oil-analysis"
             },
             {
               "id": 238,
               "name": "Gas Camera",
-              "path": "/devices-product/gas-camera"
+              "path": "/product-item/devices-product/gas-camera"
             },
             {
               "id": 239,
               "name": "On-Site Balancing Devices",
-              "path": "/devices-product/balancing"
+              "path": "/product-item/devices-product/balancing"
             }
           ]
         }
@@ -448,91 +448,91 @@
             {
               "id": 2101,
               "name": "Bearings Group",
-              "path": "/spare-parts-group/bearings-group",
+              "path": "/product-item/spare-parts-group/bearings-group",
               "img": "/image/bear/bearing-group.jpg"
             },
             {
               "id": 2102,
               "name": "Belts Group",
-              "path": "/spare-parts-group/belts-group",
+              "path": "/product-item/spare-parts-group/belts-group",
               "img": "/image/v-belt/v-belts.jpg"
             },
             {
               "id": 2103,
               "name": "Valves Group",
-              "path": "/spare-parts-group/valves-group",
+              "path": "/product-item/spare-parts-group/valves-group",
               "img": "/image/valve/valves.jpg"
             },
             {
               "id": 2104,
               "name": "Pumps Group",
-              "path": "/spare-parts-group/pumps-group",
+              "path": "/product-item/spare-parts-group/pumps-group",
               "img": "/image/pump/dp-pumps.jpg"
             },
             {
               "id": 2105,
               "name": "Plastics Group",
-              "path": "/spare-parts-group/plastics-group",
+              "path": "/product-item/spare-parts-group/plastics-group",
               "img": "/image/plastics/plastics.jpg"
             },
             {
               "id": 2106,
               "name": "Hydraulic & Pneumatic Group",
-              "path": "/spare-parts-group/hydraulic-pneumatic-group",
+              "path": "/product-item/spare-parts-group/hydraulic-pneumatic-group",
               "img": "/image/hidrolik-pnomatik/hidrolik-pnomatik.jpg"
             },
             {
               "id": 2107,
               "name": "Hose & Glamps Group",
-              "path": "/spare-parts-group/hose-glamps-group",
+              "path": "/product-item/spare-parts-group/hose-glamps-group",
               "img": "/image/hose-glamps/hose-glamps.png"
             },
             {
               "id": 2108,
               "name": "Tubbings Group",
-              "path": "/spare-parts-group/tubbings-group",
+              "path": "/product-item/spare-parts-group/tubbings-group",
               "img": "/image/tubing/tubing.png"
             },
             {
               "id": 2109,
               "name": "Pipe & Fitting Group",
-              "path": "/spare-parts-group/pipe-fitting-group",
+              "path": "/product-item/spare-parts-group/pipe-fitting-group",
               "img": "/image/fitting/fitting.png"
             },
             {
               "id": 2110,
               "name": "Metal & Plates Group",
-              "path": "/spare-parts-group/metal-plates-group",
+              "path": "/product-item/spare-parts-group/metal-plates-group",
               "img": "/image/metal-plates-group/metal-plates-group.jpg"
             },
             {
               "id": 2111,
               "name": "Automation & Electrical Group",
-              "path": "/spare-parts-group/electrical-group",
+              "path": "/product-item/spare-parts-group/electrical-group",
               "img": "/image/electrical/electrical.png"
             },
             {
               "id": 2112,
               "name": "Gaskets Group",
-              "path": "/spare-parts-group/gaskets-group",
+              "path": "/product-item/spare-parts-group/gaskets-group",
               "img": "/image/fitting/fitting.png"
             },
             {
               "id": 2113,
               "name": "Fasteners Group",
-              "path": "/spare-parts-group/fasteners-group",
+              "path": "/product-item/spare-parts-group/fasteners-group",
               "img": "/image/fitting/fitting.png"
             },
             {
               "id": 2114,
               "name": "Fire Fighting System Group",
-              "path": "/spare-parts-group/fire-system-group",
+              "path": "/product-item/spare-parts-group/fire-system-group",
               "img": "/image/fitting/fitting.png"
             },
             {
               "id": 2115,
               "name": "Filters Group",
-              "path": "/spare-parts-group/filters-group",
+              "path": "/product-item/spare-parts-group/filters-group",
               "img": "/image/fitting/fitting.png"
             }
           ]
@@ -544,67 +544,67 @@
             {
               "id": 2201,
               "name": "Agitators",
-              "path": "/products/agitators",
+              "path": "/product-item/products/agitators",
               "img": "/image/agitator/agitator.jpg"
             },
             {
               "id": 2202,
               "name": "Flotation Cells",
-              "path": "/products/flotation-cells",
+              "path": "/product-item/products/flotation-cells",
               "img": "/image/flotation-cell/flotation-cell.jpg"
             },
             {
               "id": 2203,
               "name": "Thickener",
-              "path": "/products/thickener",
+              "path": "/product-item/products/thickener",
               "img": "/image/thickener/thickener.png"
             },
             {
               "id": 2204,
               "name": "Slurry Pump",
-              "path": "/products/slurry-pump",
+              "path": "/product-item/products/slurry-pump",
               "img": "/image/slurry-pump/slurry-pump.jpg"
             },
             {
               "id": 2205,
               "name": "Valves",
-              "path": "/products/valves",
+              "path": "/product-item/products/valves",
               "img": "/image/valve/valve.jpg"
             },
             {
               "id": 2206,
               "name": "Crusher",
-              "path": "/products/crusher",
+              "path": "/product-item/products/crusher",
               "img": "/image/crusher/crusher.jpg"
             },
             {
               "id": 2207,
               "name": "Inner Stage Screens",
-              "path": "/products/inner-stage-screens",
+              "path": "/product-item/products/inner-stage-screens",
               "img": "/image/screen/screen.jpg"
             },
             {
               "id": 2208,
               "name": "Slurry Density Meter",
-              "path": "/products/slurry-density-metet",
+              "path": "/product-item/products/slurry-density-metet",
               "img": "/image/density/density.jpg"
             },
             {
               "id": 2209,
               "name": "Chemical Density Meter",
-              "path": "/products/chemical-density-metet",
+              "path": "/product-item/products/chemical-density-metet",
               "img": "/image/density/chemical-density.png"
             },
             {
               "id": 2210,
               "name": "Chemical Concentration Meter",
-              "path": "/products/chemical-concentration-metet",
+              "path": "/product-item/products/chemical-concentration-metet",
               "img": "/image/density/chemical-concentration.png"
             },
             {
               "id": 2211,
               "name": "Particle Size Analyzer",
-              "path": "/products/particle-size-analyzer",
+              "path": "/product-item/products/particle-size-analyzer",
               "img": "/image/density/mastersizer.jpg"
             }
           ]
@@ -616,55 +616,55 @@
             {
               "id": 231,
               "name": "Vibration Analyzer",
-              "path": "/devices-product/vibration-analyzer",
+              "path": "/product-item/devices-product/vibration-analyzer",
               "img": "/image/devices/vibration-analyzer.jpg"
             },
             {
               "id": 232,
               "name": "Alignment Devices",
-              "path": "/devices-product/alignment-devices",
+              "path": "/product-item/devices-product/alignment-devices",
               "img": "/image/devices/alignment-devices.png"
             },
             {
               "id": 233,
               "name": "Ultrasonic Analyzer",
-              "path": "/devices-product/ultrasonic-analyzer",
+              "path": "/product-item/devices-product/ultrasonic-analyzer",
               "img": "/image/devices/ultrasonic-analyzer.png"
             },
             {
               "id": 234,
               "name": "Motion Amplification",
-              "path": "/devices-product/motion-amplification",
+              "path": "/product-item/devices-product/motion-amplification",
               "img": "/image/devices/motion-amplification.png"
             },
             {
               "id": 235,
               "name": "Thermal Camera",
-              "path": "/devices-product/thermal-camera",
+              "path": "/product-item/devices-product/thermal-camera",
               "img": "/image/devices/thermal-camera.png"
             },
             {
               "id": 236,
               "name": "Vibration Sensors",
-              "path": "/devices-product/vibration-sensors",
+              "path": "/product-item/devices-product/vibration-sensors",
               "img": "/image/devices/vibration-sensors.jpg"
             },
             {
               "id": 237,
               "name": "Oil Analysis",
-              "path": "/devices-product/oil-analysis",
+              "path": "/product-item/devices-product/oil-analysis",
               "img": "/image/devices/oil-analysis.jpg"
             },
             {
               "id": 238,
               "name": "Gas Camera",
-              "path": "/devices-product/gas-camera",
+              "path": "/product-item/devices-product/gas-camera",
               "img": "/image/devices/gas-camera.png"
             },
             {
               "id": 239,
               "name": "On-Site Balancing Devices",
-              "path": "/devices-product/balancing",
+              "path": "/product-item/devices-product/balancing",
               "img": "/image/devices/balancing-devices.jpg"
             }
           ]
