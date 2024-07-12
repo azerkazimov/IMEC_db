@@ -434,7 +434,7 @@
       "pdfSrc": "/catalogue/Valve_catalogue.pdf"
     }
   ],
-  "products": [
+  "products": 
     {
       "id": 2,
       "name": "PRODUCT & SYSTEM",
@@ -674,7 +674,7 @@
         }
       ]
     }
-  ],
+  ,
   "partner": [
     {
       "id": 4011,
