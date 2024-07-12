@@ -449,7 +449,58 @@
               "id": 2101,
               "name": "Bearings Group",
               "path": "/product-item/spare-parts-group/bearings-group",
-              "img": "/image/bear/bearing-group.jpg"
+              "img": "/image/bear/bearing-group.jpg",
+              "sectionImg": "/image/bear/Bearings-Group.jpeg",
+              "types": [
+                {
+                  "id": 210111,
+                  "type": "Deep Grove Ball Bearings"
+                },
+                {
+                  "id": 210112,
+                  "type": "Angular Contact Ball Bearings"
+                },
+                {
+                  "id": 210113,
+                  "type": "Self-Aligning Ball Bearings"
+                },
+                {
+                  "id": 210114,
+                  "type": "Thrust Ball Bearings"
+                },
+                {
+                  "id": 210115,
+                  "type": "Spherical Roller Bearings"
+                },
+                {
+                  "id": 210116,
+                  "type": "Cylindrical Roller Bearings"
+                },
+                {
+                  "id": 210117,
+                  "type": "Tapered Roller Bearings"
+                },
+                {
+                  "id": 210118,
+                  "type": "Needle Roller Bearings"
+                },
+                {
+                  "id": 210119,
+                  "type": "Plain Bearings"
+                },
+                {
+                  "id": 210120,
+                  "type": "Sleeve Bearings"
+                },
+                {
+                  "id": 210121,
+                  "type": "Magnetic Bearings"
+                },
+                {
+                  "id": 210122,
+                  "type": "Plummer and Pillow Blocks"
+                }
+              ]
             },
             {
               "id": 2102,
