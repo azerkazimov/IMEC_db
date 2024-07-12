@@ -541,6 +541,7 @@
         {
           "id": 22,
           "name": "PRODUCTS",
+          "path": "our-products",
           "subItems": [
             {
               "id": 2201,
@@ -613,6 +614,7 @@
         {
           "id": 23,
           "name": "DEVICES & PRODUCT",
+          "path": "devices-product",
           "subItems": [
             {
               "id": 231,
