@@ -812,49 +812,58 @@
         {
           "id": 6011,
           "title": "RDI MOTION AMPLIFICATION",
-          "img": "/image/maintenance/rdi.jpg"
+          "img": "/image/maintenance/rdi.jpg",
+          "path": "/maintenance/service/rdi-motion-amplification"
         },
         {
           "id": 6012,
           "title": "PERIODIC STATUS MONITORING",
-          "img": "/image/maintenance/periodic.jpg"
+          "img": "/image/maintenance/periodic.jpg",
+          "path": "/maintenance/service/periodic-status-monitoring"
         },
         {
           "id": 6013,
           "title": "ADVANCES SERVICES",
-          "img": "/image/maintenance/advanced.jpg"
+          "img": "/image/maintenance/advanced.jpg",
+          "path": "/maintenance/service/advances-services"
         },
         {
           "id": 6014,
           "title": "SPECIAL SERVICES FOR FACILITIES ",
-          "img": "/image/maintenance/facilities.jpg"
+          "img": "/image/maintenance/facilities.jpg",
+          "path": "/maintenance/service/special-service"
         },
         {
           "id": 6015,
           "title": "PRECISION MAINTENANCE SERVICES",
-          "img": "/image/maintenance/maintenance.jpg"
+          "img": "/image/maintenance/maintenance.jpg",
+          "path": "/maintenance/service/precision-maintenance-services"
         },
         {
           "id": 6016,
           "title": "COMPRESSOR SERVICES",
-          "img": "/image/maintenance/compressor.jpg"
+          "img": "/image/maintenance/compressor.jpg",
+          "path": "/maintenance/service/compressor-services"
         }
       ],
       "repair": [
         {
           "id": 6017,
           "title": "Pump",
-          "img": "/image/maintenance/pump.jpg"
+          "img": "/image/maintenance/pump.jpg",
+          "path": "/maintenance/repair/pump"
         },
         {
           "id": 6018,
           "title": "Gear",
-          "img": "/image/maintenance/gear.jpg"
+          "img": "/image/maintenance/gear.jpg",
+          "path": "/maintenance/repair/gearbox"
         },
         {
           "id": 6019,
           "title": "Repair for heavy duty belts",
-          "img": "/image/maintenance/conveyor-repair.jpg"
+          "img": "/image/maintenance/conveyor-repair.jpg",
+          "path": "/maintenance/repair/heavy-duty-belts"
         }
       ]
     }
