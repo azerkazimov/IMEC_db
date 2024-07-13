@@ -947,8 +947,59 @@
             {
               "id": 2109,
               "name": "Pipe & Fitting Group",
+              "title": "IMEC Pipe & Fitting Group: Precision and Reliability in Piping Solutions",
               "path": "/product-item/spare-parts-group/pipe-fitting-group",
-              "img": "/image/fitting/fitting.png"
+              "img": "/image/fitting/Pipe-fitting.jpg",
+              "sectionImg": "/image/fitting/Pipe-and-Fitting.jpg",
+              "description": "IMEC Pipe & Fitting Group offers a wide range of high-quality pipes and fittings designed for various industrial applications. Our extensive product range includes stainless steel pipes, carbon steel pipes, alloy pipes, and a comprehensive selection of fittings such as elbows, tees, reducers, and flanges. Engineered for durability and optimal performance, IMEC piping solutions ensure efficient and reliable fluid transport. Trust IMEC Pipe & Fitting Group for all your piping needs. ",
+              "typesHeader": "IMEC Pipe & Fitting Group: Comprehensive Piping and Fitting Solutions",
+              "typesDescription": "IMEC Pipe & Fitting Group provides a wide range of high-quality piping and fitting products tailored to meet the diverse needs of various industries. Our extensive lineup includes Stainless Steel Pipes, Carbon Steel Pipes, Duplex – Superduplex, Stainless Steel Fittings, Carbon Steel Fittings, Titanium, Inconel, Incoloy, Monel, Hastelloy, and PVDF. Each product is engineered for durability, precision, and optimal performance, ensuring reliable and efficient fluid transport and connection in all applications. Trust IMEC Pipe & Fitting Group for superior piping and fitting solutions tailored to your specific requirements.",
+              "types": [
+                {
+                  "id": 210911,
+                  "type": "Stainless Steel pipe"
+                },
+                {
+                  "id": 210912,
+                  "type": "Carbon Steel pipe"
+                },
+                {
+                  "id": 210913,
+                  "type": "Duplex – Superduplex"
+                },
+                {
+                  "id": 210914,
+                  "type": "Stainless Steel Fitting"
+                },
+                {
+                  "id": 210915,
+                  "type": "Carbon Steel Fitting"
+                },
+                {
+                  "id": 210916,
+                  "type": "Titanium"
+                },
+                {
+                  "id": 210917,
+                  "type": "Inconel"
+                },
+                {
+                  "id": 210918,
+                  "type": "Incoloy"
+                },
+                {
+                  "id": 210919,
+                  "type": "Monel"
+                },
+                {
+                  "id": 210920,
+                  "type": "Hastelloy"
+                },
+                {
+                  "id": 210921,
+                  "type": "Pvdf"
+                }
+              ]
             },
             {
               "id": 2110,
