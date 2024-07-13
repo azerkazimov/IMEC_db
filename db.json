@@ -297,7 +297,6 @@
         {
           "id": 31,
           "name": "SERVICE",
-          "path": "/maintenance/service",
           "subItems": [
             {
               "id": 311,
@@ -334,7 +333,6 @@
         {
           "id": 32,
           "name": "REPAIR",
-          "path": "/maintenance/repair",
           "subItems": [
             {
               "id": 321,
