@@ -833,8 +833,47 @@
             {
               "id": 2107,
               "name": "Hose & Glamps Group",
+              "title": "IMEC Hose & Clamps Group: Secure and Reliable Connections",
               "path": "/product-item/spare-parts-group/hose-glamps-group",
-              "img": "/image/hose-glamps/hose-glamps.png"
+              "img": "/image/hose-glamps/hose-glamps.png",
+              "sectionImg": "/image/hose-glamps/Hose-and-Clamp.jpg",
+              "description": "IMEC Hose & Clamps Group provides high-quality hoses and clamps designed for secure and reliable connections in various industrial applications. Our product range includes hydraulic hoses, industrial hoses, and a variety of clamps, all engineered for durability and optimal performance. Whether you need solutions for high-pressure environments or general-purpose use, IMEC has you covered. Trust IMEC Hose & Clamps Group for all your hose and clamp needs.",
+              "typesHeader": "IMEC Hose & Clamps Group: Versatile Hose and Fitting Solutions",
+              "typesDescription": "IMEC Hose & Clamps Group offers a comprehensive range of hoses and fittings designed to meet the diverse needs of various industries. Our product lineup includes Rubber Hoses, Stainless Flex Hoses, Teflon Hoses, PVC and Polyurethane Hoses, HDPE Hoses, Pneumatic Hoses, Handcuffs, and Fittings. Each product is engineered for durability, reliability, and optimal performance, ensuring secure and efficient connections for all your applications. Trust IMEC Hose & Clamps Group for high-quality hose and fitting solutions tailored to your specific requirements.",
+              "types": [
+                {
+                  "id": 210711,
+                  "type": "Rubber Hoses"
+                },
+                {
+                  "id": 210712,
+                  "type": "Stainless Flex Hoses"
+                },
+                {
+                  "id": 210713,
+                  "type": "Teflon Hoses"
+                },
+                {
+                  "id": 210714,
+                  "type": "PVC and Polyurethane Hoses"
+                },
+                {
+                  "id": 210715,
+                  "type": "HDPE"
+                },
+                {
+                  "id": 210716,
+                  "type": "Pneumatic Hoses"
+                },
+                {
+                  "id": 210717,
+                  "type": "Handcuffs"
+                },
+                {
+                  "id": 210718,
+                  "type": "Fittings"
+                },
+              ]
             },
             {
               "id": 2108,
