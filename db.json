@@ -681,8 +681,103 @@
             {
               "id": 2104,
               "name": "Pumps Group",
+              "title": "IMEC Pump Group: Efficiency and Reliability in Fluid Handling",
               "path": "/product-item/spare-parts-group/pumps-group",
-              "img": "/image/pump/dp-pumps.jpg"
+              "img": "/image/pump/dp-pumps.jpg",
+              "sectionImg": "/image/pump/Pumps-Group.jpg",
+              "description": "IMEC Pump Group provides high-performance pumps for a variety of industrial applications, ensuring efficient and reliable fluid handling. Our extensive product range includes centrifugal pumps, diaphragm pumps, gear pumps, peristaltic pumps, screw pumps, and more. Designed for durability and optimal performance, IMEC pumps meet the rigorous demands of modern industries. Trust IMEC Pump Group for all your pumping solutions.",
+              "typesHeader": "IMEC Pump Group: Comprehensive Pump Solutions for Every Application",
+              "typesDescription": "IMEC Pump Group offers a wide range of high-quality pumps designed to meet the diverse needs of various industries. Our product lineup includes Diaphragm Pumps, Centrifugal Pumps, Piston Pumps, Submersible Pumps, Gear Pumps, Peristaltic Pumps, Lobe Pumps, Positive Displacement Pumps, Reciprocating Pumps, Jet Pumps, Fire Pumps, Progressing Cavity Pumps, Axial-Flow Pumps, Displacement Pumps, Fire Hydrant Systems, Chemical Injection Pumps, Multistage Products, Screw Pumps, ANSI Pumps, Radial Flow Pumps, Turbine Pumps, and Drum Pumps. Each pump is engineered for optimal performance, reliability, and efficiency, ensuring seamless fluid handling across all applications. Trust IMEC Pump Group for superior pump solutions tailored to your specific requirements.",
+              "types": [
+                {
+                  "id": 210411,
+                  "type": "Diaphragm pumps"
+                },
+                {
+                  "id": 210412,
+                  "type": "Centrifugal pump"
+                },
+                {
+                  "id": 210413,
+                  "type": "Piston pumps"
+                },
+                {
+                  "id": 210414,
+                  "type": "Submersible pumps"
+                },
+                {
+                  "id": 210415,
+                  "type": "Gear pumps"
+                },
+                {
+                  "id": 210416,
+                  "type": "Peristaltic pumps"
+                },
+                {
+                  "id": 210417,
+                  "type": "Lobe pumps"
+                },
+                {
+                  "id": 210418,
+                  "type": "Positive displacement pumps"
+                },
+                {
+                  "id": 210419,
+                  "type": "Reciprocating pumps"
+                },
+                {
+                  "id": 210420,
+                  "type": "Jet pumps"
+                },
+                {
+                  "id": 210421,
+                  "type": "Fire pumps"
+                },
+                {
+                  "id": 210422,
+                  "type": "Progressing cavity"
+                },
+                {
+                  "id": 210423,
+                  "type": "Axial-flow pump"
+                },
+                {
+                  "id": 210424,
+                  "type": "Displacement pumps"
+                },
+                {
+                  "id": 210425,
+                  "type": "Fire hydrant systems"
+                },
+                {
+                  "id": 210426,
+                  "type": "Chemical ınjection pumps"
+                },
+                {
+                  "id": 210427,
+                  "type": "Multistage products"
+                },
+                {
+                  "id": 210428,
+                  "type": "Screw pumps"
+                },
+                {
+                  "id": 210429,
+                  "type": "Ansı pumps"
+                },
+                {
+                  "id": 210430,
+                  "type": "Radial flow"
+                },
+                {
+                  "id": 210431,
+                  "type": "Turbine pumps"
+                },
+                {
+                  "id": 210432,
+                  "type": "Drum pump"
+                }
+              ]
             },
             {
               "id": 2105,
