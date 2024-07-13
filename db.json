@@ -584,8 +584,99 @@
             {
               "id": 2103,
               "name": "Valves Group",
+              "title": "IMEC Valve Group: Precision and Reliability in Flow Control",
               "path": "/product-item/spare-parts-group/valves-group",
-              "img": "/image/valve/valves.jpg"
+              "img": "/image/valve/valves.jpg",
+              "sectionImg": "/image/valve/Valve-Group.jpg",
+              "description": "IMEC Valve Group offers high-performance valves designed for a variety of industrial applications, ensuring precise flow control and durability. Our extensive product range includes ball valves, gate valves, globe valves, butterfly valves, check valves, and more. Engineered for optimal performance and reliability, IMEC valves meet the stringent demands of modern industries. Trust IMEC Valve Group for all your valve solutions.",
+              "typesHeader": "IMEC Valve Group: Comprehensive Valve Solutions for All Industrial Needs",
+              "typesDescription": "IMEC Valve Group offers a wide range of high-quality valves designed to meet the diverse requirements of various industries. Our product lineup includes Knife Valves, Pinch Valves, Diaphragm Valves, Plug Valves, Butterfly Valves, Ball Valves, Check Valves, Filters and Strainers, Needle Valves, Gate Valves, Globe Valves, Segment Valves, Control Valves, Safety Valves, Pressure Reducers, Blasting Discs, Electric Actuators, Pneumatic Actuators, Positioners, Solenoid Valves, and Limit Switch Boxes. Each valve is engineered for precision, durability, and reliability, ensuring efficient flow control and seamless operation. Trust IMEC Valve Group for all your valve solutions, tailored to your specific needs.",
+              "types": [
+                {
+                  "id": 210311,
+                  "type": "Knife Valves"
+                },
+                {
+                  "id": 210312,
+                  "type": "Pinch Valves"
+                },
+                {
+                  "id": 210313,
+                  "type": "Diaphragm Valves"
+                },
+                {
+                  "id": 210314,
+                  "type": "Plug Valves"
+                },
+                {
+                  "id": 210315,
+                  "type": "Butterfly Valves"
+                },
+                {
+                  "id": 210316,
+                  "type": "Ball Valves"
+                },
+                {
+                  "id": 210317,
+                  "type": "Check valves"
+                },
+                {
+                  "id": 210318,
+                  "type": "Filter and Strainers"
+                },
+                {
+                  "id": 210319,
+                  "type": "Needle Valves"
+                },
+                {
+                  "id": 210320,
+                  "type": "Gate Valves"
+                },
+                {
+                  "id": 210321,
+                  "type": "Globe Valves"
+                },
+                {
+                  "id": 210322,
+                  "type": "Segment Valves"
+                },
+                {
+                  "id": 210323,
+                  "type": "Control Valves"
+                },
+                {
+                  "id": 210324,
+                  "type": "Safety Valves"
+                },
+                {
+                  "id": 210325,
+                  "type": "Pressure Reducers"
+                },
+                {
+                  "id": 210326,
+                  "type": "Blasting Discs"
+                },
+                {
+                  "id": 210327,
+                  "type": "Electric Actuators"
+                },
+                {
+                  "id": 210328,
+                  "type": "Pneumatic Actuators"
+                },
+                {
+                  "id": 210329,
+                  "type": "Positioners"
+                },
+                {
+                  "id": 210330,
+                  "type": "Solenoid Valves"
+                },
+                {
+                  "id": 210331,
+                  "type": "Limit Switch Box"
+                }
+              ]
             },
             {
               "id": 2104,
