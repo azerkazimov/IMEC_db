@@ -446,6 +446,7 @@
             {
               "id": 2101,
               "name": "Bearings Group",
+              "title": "IMEC Bearing Group: Precision and Reliability",
               "path": "/product-item/spare-parts-group/bearings-group",
               "img": "/image/bear/bearing-group.jpg",
               "sectionImg": "/image/bear/Bearings-Group.jpeg",
@@ -506,8 +507,79 @@
             {
               "id": 2102,
               "name": "Belts Group",
+              "title": "IMEC Belt Group: Precision and Durability",
               "path": "/product-item/spare-parts-group/belts-group",
-              "img": "/image/v-belt/v-belts.jpg"
+              "img": "/image/v-belt/v-belts.jpg",
+              "sectionImg": "/image/v-belt/Belt-Group.jpg",
+              "description": "IMEC Bearing Group specializes in providing high-quality bearings for various industrial applications. Our precision-engineered bearings ensure optimal performance, durability, and reliability in demanding environments. We offer a wide range of custom and standard bearings tailored to meet your specific needs, backed by our commitment to innovation and excellence. Trust IMEC Bearing Group for all your bearing solutions.",
+              "typesHeader": "IMEC Belt Group: Comprehensive Belt Solutions for All Industrial Applications",
+              "typesDescription": "IMEC Belt Group offers a diverse range of high-quality belts designed to meet the needs of various industries. Our product lineup includes Cleated Belt Conveyors, Filter Belts, V-Belts, Round Belts, Flat Belts, Rubber Belts, Timing Belts, Belt Drives, Balata Belts, Synchronous Belts, Cross Belt Drives, Jockey Pulleys, Light Duty Conveyors, Quarter Turn Drives, Stepped Cone Pulleys, and Conveyor Belts. Each type of belt is engineered for optimal performance, durability, and reliability, ensuring efficient and seamless operations across all applications. Trust IMEC Belt Group for superior belt solutions tailored to your specific requirements.",
+              "types": [
+                {
+                  "id": 210211,
+                  "type": "Cleated belt conveyors"
+                },
+                {
+                  "id": 210212,
+                  "type": "Filter belts"
+                },
+                {
+                  "id": 210213,
+                  "type": "V-belt"
+                },
+                {
+                  "id": 210214,
+                  "type": "Round belts"
+                },
+                {
+                  "id": 210215,
+                  "type": "Flat belts"
+                },
+                {
+                  "id": 210216,
+                  "type": "Rubber Belts"
+                },
+                {
+                  "id": 210217,
+                  "type": "Timing belt"
+                },
+                {
+                  "id": 210218,
+                  "type": "Belt drive"
+                },
+                {
+                  "id": 210219,
+                  "type": "Balata belts"
+                },
+                {
+                  "id": 210220,
+                  "type": "Synchronous belts"
+                },
+                {
+                  "id": 210221,
+                  "type": "Cross belt drive"
+                },
+                {
+                  "id": 210222,
+                  "type": "Jockey Pulley"
+                },
+                {
+                  "id": 210223,
+                  "type": "Light duty conveyors"
+                },
+                {
+                  "id": 210224,
+                  "type": "Quarter turn drive"
+                },
+                {
+                  "id": 210225,
+                  "type": "Stepped cone pulley"
+                },
+                {
+                  "id": 210226,
+                  "type": "Conveyer Belt"
+                }
+              ]
             },
             {
               "id": 2103,
