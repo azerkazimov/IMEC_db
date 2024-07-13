@@ -788,8 +788,47 @@
             {
               "id": 2106,
               "name": "Hydraulic & Pneumatic Group",
+              "title": "IMEC Hydraulics & Pneumatics: Precision and Power in Fluid Dynamics",
               "path": "/product-item/spare-parts-group/hydraulic-pneumatic-group",
-              "img": "/image/hidrolik-pnomatik/hidrolik-pnomatik.jpg"
+              "img": "/image/hidrolik-pnomatik/hidrolik-pnomatik.jpg",
+              "sectionImg": "/image/hidrolik-pnomatik/Hydraulics-&-Pneumatics.jpg",
+              "description": "IMEC Hydraulics & Pneumatics provides top-quality solutions for fluid power applications, ensuring superior performance and reliability. Our extensive product range includes hydraulic pumps, cylinders, valves, hoses, fittings, pneumatic actuators, compressors, and more. Engineered for durability and efficiency, IMEC products meet the demanding needs of modern industries. Trust IMEC Hydraulics & Pneumatics for all your fluid power solutions. ",
+              "typesHeader": "IMEC Hydraulics & Pneumatics: Trusted Brands for Superior Fluid Power Solutions",
+              "typesDescription": "IMEC Hydraulics & Pneumatics offers a comprehensive selection of products from leading brands, including Parker, Rexroth, Stauff, Benteler, Norgren, Asco, Burkert, and Festo. These industry-leading manufacturers provide top-quality hydraulic and pneumatic components designed for optimal performance, reliability, and efficiency in various applications. Trust IMEC for access to the best fluid power solutions available.",
+              "types": [
+                {
+                  "id": 210611,
+                  "type": "Parker"
+                },
+                {
+                  "id": 210612,
+                  "type": "Rexroth"
+                },
+                {
+                  "id": 210613,
+                  "type": "Stauff"
+                },
+                {
+                  "id": 210614,
+                  "type": "Benteler"
+                },
+                {
+                  "id": 210615,
+                  "type": "Norgren"
+                },
+                {
+                  "id": 210616,
+                  "type": "Asco"
+                },
+                {
+                  "id": 210617,
+                  "type": "Burkert"
+                },
+                {
+                  "id": 210618,
+                  "type": "Festo"
+                }
+              ]
             },
             {
               "id": 2107,
