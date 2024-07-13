@@ -872,14 +872,77 @@
                 {
                   "id": 210718,
                   "type": "Fittings"
-                },
+                }
               ]
             },
             {
               "id": 2108,
               "name": "Tubbings Group",
+              "title": "IMEC Tubing Group: Precision and Durability in Fluid Transfer",
               "path": "/product-item/spare-parts-group/tubbings-group",
-              "img": "/image/tubing/tubing.png"
+              "img": "/image/tubing/tubing.jpg",
+              "sectionImg": "/image/tubing/Tubing-Group.jpg",
+              "description": "IMEC Tubing Group provides high-quality tubing solutions for a wide range of industrial applications. Our extensive product range includes stainless steel tubing, copper tubing, plastic tubing, and specialty tubing, all engineered for durability and optimal performance. Whether you need tubing for high-pressure, high-temperature, or chemical-resistant environments, IMEC has the solution. Trust IMEC Tubing Group for all your tubing needs. ",
+              "typesHeader": "IMEC Tubing Group: Comprehensive Tubing and Fitting Solutions",
+              "typesDescription": "IMEC Tubing Group offers a diverse range of high-quality tubing and fittings designed to meet the specific needs of various industries. Our product lineup includes Bulkhead Female Unions, Bulkhead Male Unions, Stainless Steel Bulkhead Unions, Tubing Valves, Manifolds, Tubing Check Valves, Tubing Safety Valves, Tubing Regulators, Flexible Metal - Teflon Hoses, Condensate Pots, Air Headers, Bright Tubes and Coils, Quick Couplings, and Tube Couplers. Each product is engineered for precision, durability, and reliability, ensuring efficient and secure fluid transfer and connection in all applications. Trust IMEC Tubing Group for superior tubing and fitting solutions tailored to your requirements.",
+              "types": [
+                {
+                  "id": 210811,
+                  "type": "Bulkhead Female Union"
+                },
+                {
+                  "id": 210812,
+                  "type": "Bulkhead Male Union"
+                },
+                {
+                  "id": 210813,
+                  "type": "Stainless Steel Bulkhead Union"
+                },
+                {
+                  "id": 210814,
+                  "type": "Tubing Valve"
+                },
+                {
+                  "id": 210815,
+                  "type": "Manifold"
+                },
+                {
+                  "id": 210816,
+                  "type": "Tubing Check Valve"
+                },
+                {
+                  "id": 210817,
+                  "type": "Tubing Safety Valve"
+                },
+                {
+                  "id": 210818,
+                  "type": "Tubing Regulator"
+                },
+                {
+                  "id": 210819,
+                  "type": "Flexible Metal - Teflon Hoses"
+                },
+                {
+                  "id": 210820,
+                  "type": "Condensate Pot"
+                },
+                {
+                  "id": 210821,
+                  "type": "Air Header"
+                },
+                {
+                  "id": 210822,
+                  "type": "Bright Tube and Coil"
+                },
+                {
+                  "id": 210823,
+                  "type": "Quick Coupling"
+                },
+                {
+                  "id": 210824,
+                  "type": "Tube Coupler"
+                }
+              ]
             },
             {
               "id": 2109,
