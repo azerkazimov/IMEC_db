@@ -1332,8 +1332,59 @@
             {
               "id": 2114,
               "name": "Fire Fighting System Group",
+              "title": "IMEC Fire Fighting Group: Advanced Solutions for Fire Safety",
               "path": "/product-item/spare-parts-group/fire-system-group",
-              "img": "/image/fitting/fitting.png"
+              "img": "/image/fire-fight/fire-fight.jpg",
+              "sectionImg": "/image/fire-fight/Fire Fighting Group.jpeg",
+              "description": "IMEC Fire Fighting Group offers high-quality fire fighting equipment and systems designed to ensure optimal safety and reliability in various applications. Our extensive product range includes fire extinguishers, fire hoses, sprinkler systems, fire suppression systems, fire hydrants, and fire detection devices. Engineered for durability and effective performance, IMEC fire fighting solutions meet the stringent demands of modern safety standards. Trust IMEC Fire Fighting Group for comprehensive fire protection tailored to your specific needs. ",
+              "typesHeader": "IMEC Fire Fighting Group: Comprehensive Fire Protection Solutions",
+              "typesDescription": "IMEC Fire Fighting Group provides a wide range of high-quality fire protection products designed to ensure safety and reliability in various applications. Our product lineup includes Fire Valves, Piping, Grooved Fasteners, Connection Flexes, Sprinklers, Fire Hoses, and products from leading brands like Victaulic, Rapidrop, Reliable, Viking, and Genebre. Each product is engineered for durability and effective performance, meeting the stringent demands of modern safety standards. Trust IMEC Fire Fighting Group for comprehensive fire protection solutions tailored to your specific needs.",
+              "types": [
+                {
+                  "id": 211411,
+                  "type": "Fire Valves"
+                },
+                {
+                  "id": 211412,
+                  "type": "Piping"
+                },
+                {
+                  "id": 211413,
+                  "type": "Grooved Fasteners"
+                },
+                {
+                  "id": 211414,
+                  "type": "Connection Flexes"
+                },
+                {
+                  "id": 211415,
+                  "type": "Sprinkler"
+                },
+                {
+                  "id": 211416,
+                  "type": "Fire Hoses"
+                },
+                {
+                  "id": 211417,
+                  "type": "Victaulic"
+                },
+                {
+                  "id": 211418,
+                  "type": "Rapidrop"
+                },
+                {
+                  "id": 211419,
+                  "type": "Reliable"
+                },
+                {
+                  "id": 211420,
+                  "type": "Viking"
+                },
+                {
+                  "id": 211421,
+                  "type": "Genebre"
+                }
+              ]
             },
             {
               "id": 2115,
