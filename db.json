@@ -1004,8 +1004,71 @@
             {
               "id": 2110,
               "name": "Metal & Plates Group",
+              "title": "IMEC Metal & Plates Group: Superior Quality for Diverse Applications",
               "path": "/product-item/spare-parts-group/metal-plates-group",
-              "img": "/image/metal-plates-group/metal-plates-group.jpg"
+              "img": "/image/metal-plates-group/metal-plate.jpg",
+              "sectionImg": "/image/metal-plates-group/Metal-and-Plate.jpg",
+              "description": "IMEC Metal & Plates Group offers a broad range of high-quality metals and plates to meet the needs of various industries. Our product lineup includes stainless steel, carbon steel, aluminum, titanium, and specialty alloys, available in various forms such as sheets, plates, and coils. Engineered for strength, durability, and precision, IMEC metal and plate solutions ensure optimal performance in every application. Trust IMEC Metal & Plates Group for all your metal and plate requirements. ",
+              "typesHeader": "IMEC Metal & Plates Group: Comprehensive Range of High-Quality Materials",
+              "typesDescription": "IMEC Metal & Plates Group offers an extensive selection of top-quality materials to meet the diverse needs of various industries. Our product range includes Stainless Steel 304, Stainless Steel 309, Stainless Steel 310, Stainless Steel 316, Stainless Steel 904, Duplex and Superduplex, Inconel, Incoloy, Monel, Hastelloy, Titanium, CPVC, PVDF, and PPH. Each material is engineered for durability, precision, and optimal performance, ensuring reliable solutions for your specific applications. Trust IMEC Metal & Plates Group for superior materials tailored to your requirements.",
+              "types": [
+                {
+                  "id": 211011,
+                  "type": "Stainless Steel 304"
+                },
+                {
+                  "id": 211012,
+                  "type": "Stainless Steel 309"
+                },
+                {
+                  "id": 211013,
+                  "type": "Stainless Steel 310"
+                },
+                {
+                  "id": 211014,
+                  "type": "Stainless Steel 316"
+                },
+                {
+                  "id": 211015,
+                  "type": "Stainless Steel 904"
+                },
+                {
+                  "id": 211016,
+                  "type": "Duplex, Superduplex"
+                },
+                {
+                  "id": 211017,
+                  "type": "Inconel material"
+                },
+                {
+                  "id": 211018,
+                  "type": "Incoloy material"
+                },
+                {
+                  "id": 211019,
+                  "type": "Monel material"
+                },
+                {
+                  "id": 211020,
+                  "type": "Hastelloy material"
+                },
+                {
+                  "id": 211021,
+                  "type": "Titanyum material"
+                },
+                {
+                  "id": 211022,
+                  "type": "Cpvc"
+                },
+                {
+                  "id": 211023,
+                  "type": "Pvdf"
+                },
+                {
+                  "id": 211024,
+                  "type": "Pph"
+                }
+              ]
             },
             {
               "id": 2111,
