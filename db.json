@@ -1325,9 +1325,40 @@
             },
             {
               "id": 2113,
-              "name": "Fasteners Group",
+              "name": "Connectors Group",
+              "title": "IMEC Connectors Group: Reliable Connection Solutions",
               "path": "/product-item/spare-parts-group/fasteners-group",
-              "img": "/image/fitting/fitting.png"
+              "img": "/image/connector/connector.jpg",
+              "sectionImg": "/image/connector/Connnectors Group.jpeg",
+              "description": "IMEC Connectors Group provides a comprehensive selection of high-quality connectors designed for various industrial applications. Our range includes electrical connectors, hydraulic connectors, pneumatic connectors, quick couplings, and specialized connectors. Engineered for durability and precision, IMEC connectors ensure secure and efficient connections in demanding environments. Trust IMEC Connectors Group for reliable connection solutions tailored to your specific requirements. ",
+              "typesHeader": "IMEC Materials: Premium Industrial Solutions",
+              "typesDescription": "Our selection of materials ensures top performance across various industrial applications. Explore our premium options:",
+              "types": [
+                {
+                  "id": 211311,
+                  "type": "Carbon steel"
+                },
+                {
+                  "id": 211312,
+                  "type": "Stainless"
+                },
+                {
+                  "id": 211313,
+                  "type": "Duplex, Superduplex"
+                },
+                {
+                  "id": 211314,
+                  "type": "Inconel, Incoloy, Monel"
+                },
+                {
+                  "id": 211315,
+                  "type": "Titanium"
+                },
+                {
+                  "id": 211316,
+                  "type": "Teflon"
+                }
+              ]
             },
             {
               "id": 2114,
