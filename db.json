@@ -1073,8 +1073,111 @@
             {
               "id": 2111,
               "name": "Automation & Electrical Group",
+              "title": "IMEC Automation & Electrical Group: Advanced Solutions for Efficiency and Control",
               "path": "/product-item/spare-parts-group/electrical-group",
-              "img": "/image/electrical/electrical.png"
+              "img": "/image/electrical/ABB_Pluto_Product_Group.jpg",
+              "sectionImg": "/image/electrical/Automation and Elektric Group.jpeg",
+              "description": "IMEC Automation & Electrical Group provides state-of-the-art automation and electrical solutions to enhance operational efficiency and control in various industries. Our extensive product range includes sensors, controllers, drives, motors, PLCs, HMIs, and electrical components, all designed for reliability and high performance. Whether you need automation systems for manufacturing, processing, or any other application, IMEC delivers tailored solutions to meet your specific needs. Trust IMEC Automation & Electrical Group for cutting-edge technology and superior service.",
+              "typesHeader": "IMEC Automation & Electrical Group: Leading Brands for Superior Automation and Electrical Solutions",
+              "typesDescription": "IMEC Automation & Electrical Group offers a comprehensive selection of products from industry-leading brands, including ABB, Siemens, Schneider, Yaskawa, Omron, Pilz, Sick, Pepperl+Fuchs, Parker, Ashcroft, Wika, Asco, Burkert, Weg, Leroy Somer, Gamak, Volt, Norgren, Festo, SMC, Prysmian, Nexans, Lapp, and Eaton. These top-tier manufacturers provide high-quality automation and electrical components designed for reliability, efficiency, and optimal performance. Trust IMEC for access to the best automation and electrical solutions tailored to your specific needs.",
+              "types": [
+                {
+                  "id": 211111,
+                  "type": "Abb"
+                },
+                {
+                  "id": 211112,
+                  "type": "Siemens"
+                },
+                {
+                  "id": 211113,
+                  "type": "Schneider"
+                },
+                {
+                  "id": 211114,
+                  "type": "Yaskawa"
+                },
+                {
+                  "id": 211115,
+                  "type": "Omron"
+                },
+                {
+                  "id": 211116,
+                  "type": "Pilz"
+                },
+                {
+                  "id": 211117,
+                  "type": "Sick"
+                },
+                {
+                  "id": 211118,
+                  "type": "Pepperl Fuchs"
+                },
+                {
+                  "id": 211119,
+                  "type": "Parker"
+                },
+                {
+                  "id": 211120,
+                  "type": "Ashcroft"
+                },
+                {
+                  "id": 211121,
+                  "type": "Wika"
+                },
+                {
+                  "id": 211122,
+                  "type": "Asco"
+                },
+                {
+                  "id": 211123,
+                  "type": "Burkert"
+                },
+                {
+                  "id": 211124,
+                  "type": "Weg"
+                },
+                {
+                  "id": 211125,
+                  "type": "Leroy Somer"
+                },
+                {
+                  "id": 211126,
+                  "type": "Gamak"
+                },
+                {
+                  "id": 211127,
+                  "type": "Volt"
+                },
+                {
+                  "id": 211128,
+                  "type": "Norgren"
+                },
+                {
+                  "id": 211129,
+                  "type": "Festo"
+                },
+                {
+                  "id": 211130,
+                  "type": "Smc"
+                },
+                {
+                  "id": 211131,
+                  "type": "Prysmian"
+                },
+                {
+                  "id": 211132,
+                  "type": "Nexans"
+                },
+                {
+                  "id": 211133,
+                  "type": "Lapp"
+                },
+                {
+                  "id": 211134,
+                  "type": "Eaton"
+                }
+              ]
             },
             {
               "id": 2112,
