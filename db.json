@@ -1072,7 +1072,7 @@
             },
             {
               "id": 2111,
-              "name": "Automation & Electrical Group",
+              "name": "Automation & Electrical",
               "title": "IMEC Automation & Electrical Group: Advanced Solutions for Efficiency and Control",
               "path": "/product-item/spare-parts-group/electrical-group",
               "img": "/image/electrical/ABB_Pluto_Product_Group.jpg",
@@ -1182,8 +1182,63 @@
             {
               "id": 2112,
               "name": "Gaskets Group",
+              "title": "IMEC Gaskets Group: Sealing Solutions for Optimal Performance",
               "path": "/product-item/spare-parts-group/gaskets-group",
-              "img": "/image/fitting/fitting.png"
+              "img": "/image/gasket/Gasket-Group.jpg",
+              "sectionImg": "/image/gasket/Gasket and Oil Seal Group.jpg",
+              "description": "IMEC Gaskets Group provides high-quality gaskets designed for reliable sealing in various industrial applications. Our extensive product range includes spiral wound gaskets, ring joint gaskets, sheet gaskets, and custom-made solutions, all engineered for durability and exceptional performance. Whether you need gaskets for high-pressure, high-temperature, or chemical-resistant environments, IMEC has the perfect solution. Trust IMEC Gaskets Group for superior sealing solutions tailored to your specific requirements. ",
+              "typesHeader": "IMEC Gaskets Group: Comprehensive Sealing Solutions",
+              "typesDescription": "IMEC Gaskets Group offers a wide range of high-quality sealing solutions to meet diverse industrial needs. Our extensive product lineup includes Spirally Wound Gaskets, Teflon Gaskets, Klingrite Gaskets, RTJ-Rings, Shaft Seals, Adhesives, O-Rings, Oil Seals, Flexible Lips, Radial Lips, Rotary Shaft Seals, and Sealing and Assembly Chemicals. Each product is designed for durability, reliability, and optimal performance, ensuring secure and efficient sealing in all applications. Trust IMEC Gaskets Group for superior sealing solutions tailored to your specific requirements.",
+              "types": [
+                {
+                  "id": 211211,
+                  "type": "Spirally Wound Gasket"
+                },
+                {
+                  "id": 211212,
+                  "type": "Teflon Gaskets"
+                },
+                {
+                  "id": 211213,
+                  "type": "Klingrite Gaskets"
+                },
+                {
+                  "id": 211214,
+                  "type": "RTJ-Rings"
+                },
+                {
+                  "id": 211215,
+                  "type": "shaft seals"
+                },
+                {
+                  "id": 211216,
+                  "type": "Adhesives"
+                },
+                {
+                  "id": 211217,
+                  "type": "O-ring"
+                },
+                {
+                  "id": 211218,
+                  "type": "Oil Seal"
+                },
+                {
+                  "id": 211219,
+                  "type": "Flexible lip"
+                },
+                {
+                  "id": 211220,
+                  "type": "Radial lip"
+                },
+                {
+                  "id": 211221,
+                  "type": "Rotary shaft seal"
+                },
+                {
+                  "id": 211222,
+                  "type": "Sealing and Assembly Chemicals"
+                }
+              ]
             },
             {
               "id": 2113,
