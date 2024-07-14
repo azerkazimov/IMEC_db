@@ -781,9 +781,92 @@
             },
             {
               "id": 2105,
-              "name": "Plastics Group",
+              "name": "HDPE Group",
+              "title": "IMEC HDPE Group: Durable and Reliable Polyethylene Solutions",
               "path": "/product-item/spare-parts-group/plastics-group",
-              "img": "/image/plastics/plastics.jpg"
+              "img": "/image/hdpe/HDPE-Fittings.jpg",
+              "sectionImg": "/image/hdpe/HDPE Group.jpg",
+              "description": "IMEC HDPE Group offers high-density polyethylene (HDPE) products designed for durability, reliability, and performance in various industrial applications. Our product range includes HDPE pipes, sheets, and fittings, all engineered to withstand demanding conditions and provide long-lasting service. Whether for construction, chemical processing, or water management, IMEC HDPE solutions ensure optimal performance and efficiency. Trust IMEC HDPE Group for all your polyethylene needs. ",
+              "typesHeader": "IMEC HDPE Group: Comprehensive Polyethylene and Plastic Piping Solutions",
+              "typesDescription": "IMEC HDPE Group offers an extensive range of high-quality polyethylene and plastic piping products to meet the diverse needs of various industries. Our product lineup includes HDPE Pipes (Straight and Roll), HDPE Fittings, Plastic Valves, Couplings, Flanges, Connectors, HDPE Valves, Plastic Flanges, Flange Gaskets, PP Pipes, PP Fittings, PPR Pipes, PPR Fittings, PPRC Pipes, PPRC Fittings, Drainage Pipes and Fittings, Irrigation Pipes and Fittings, and Irrigation Systems. Each product is designed for durability, reliability, and optimal performance, ensuring efficient and long-lasting solutions for all your applications. Trust IMEC HDPE Group for superior polyethylene and plastic piping solutions tailored to your specific requirements.",
+              "types": [
+                {
+                  "id": 210511,
+                  "type": "HDPE pipe (straight)"
+                },
+                {
+                  "id": 210512,
+                  "type": "HDPE pipe (Roll)"
+                },
+                {
+                  "id": 210513,
+                  "type": "HDPE fittings"
+                },
+                {
+                  "id": 210514,
+                  "type": "Plastic Valves"
+                },
+                {
+                  "id": 210515,
+                  "type": "Couplings"
+                },
+                {
+                  "id": 210516,
+                  "type": "Flanges"
+                },
+                {
+                  "id": 210517,
+                  "type": "Connectors"
+                },
+                {
+                  "id": 210518,
+                  "type": "HDPE valves"
+                },
+                {
+                  "id": 210519,
+                  "type": "Plastic Flanges"
+                },
+                {
+                  "id": 210520,
+                  "type": "Flange gaskets"
+                },
+                {
+                  "id": 210521,
+                  "type": "PP pipe"
+                },
+                {
+                  "id": 210522,
+                  "type": "PP fittigs"
+                },
+                {
+                  "id": 210523,
+                  "type": "PPR pipe"
+                },
+                {
+                  "id": 210524,
+                  "type": "PPR fitting"
+                },
+                {
+                  "id": 210525,
+                  "type": "PPRC pipe"
+                },
+                {
+                  "id": 210526,
+                  "type": "PPRC fitting"
+                },
+                {
+                  "id": 210527,
+                  "type": "Drenage pipe and fitting"
+                },
+                {
+                  "id": 210528,
+                  "type": "İrrigation pipe and fitting"
+                },
+                {
+                  "id": 210529,
+                  "type": "İrrigation systems"
+                }
+              ]
             },
             {
               "id": 2106,
