@@ -1389,8 +1389,191 @@
             {
               "id": 2115,
               "name": "Filters Group",
+              "title": "IMEC Filters Group: High-Performance Filtration Solutions",
               "path": "/product-item/spare-parts-group/filters-group",
-              "img": "/image/fitting/fitting.png"
+              "img": "/image/fire-fight/fire-fight.jpg",
+              "sectionImg": "/image/fire-fight/Fire Fighting Group.jpeg",
+              "description": "IMEC Filters Group offers a comprehensive range of high-quality filtration products designed to meet the diverse needs of various industries. Our product lineup includes air filters, liquid filters, oil filters, gas filters, and specialty filters, all engineered for maximum efficiency and durability. Whether you need filtration solutions for industrial processes, HVAC systems, or any other application, IMEC delivers reliable and effective products to ensure optimal performance. Trust IMEC Filters Group for superior filtration solutions tailored to your specific requirements. ",
+              "typesHeader": "IMEC Filters Group: Comprehensive Filtration Solutions",
+              "typesDescription": "IMEC Filters Group offers a diverse array of high-performance filtration products tailored to meet the needs of various industries. Our extensive range includes Hydraulic Filters, Return Filters, Suction Filters, Air-Oil Separator Filters, Industrial Oil Filters, Air Dryer Filters, Stainless Steel Cartridges, Basket Type Filters, Bag Filter Housings, Cartridge Filter Housings, Drum Filters, Felt Bag Filters, Cartridge Filters, Roll Filters, Bag Filters, Compact Filters, Hepa Filters, Panel Filters, Gas (Odour) Filtration, Filtration Equipment, Anti-Static Dust Filters, Wire Mesh Antistatic Dust Filters, and many more. Each product is engineered for optimal efficiency and reliability, ensuring clean and safe operational environments. Trust IMEC Filters Group for all your filtration needs.",
+              "types": [
+                {
+                  "id": 211511,
+                  "type": "Hydraulic Filters"
+                },
+                {
+                  "id": 211512,
+                  "type": "Return Filters"
+                },
+                {
+                  "id": 211513,
+                  "type": "Suction Filter"
+                },
+                {
+                  "id": 211514,
+                  "type": "Air-Oil Seperator Filter"
+                },
+                {
+                  "id": 211515,
+                  "type": "Industrial Oil Filters"
+                },
+                {
+                  "id": 211516,
+                  "type": "Air Dryer Filters"
+                },
+                {
+                  "id": 211517,
+                  "type": "Stainless Steel Cartridges"
+                },
+                {
+                  "id": 211518,
+                  "type": "Basket type Filter"
+                },
+                {
+                  "id": 211519,
+                  "type": "Bag Filter Housings"
+                },
+                {
+                  "id": 211520,
+                  "type": "Cartridge Filter Housings"
+                },
+                {
+                  "id": 211521,
+                  "type": "Drum Filters"
+                },
+                {
+                  "id": 211522,
+                  "type": "Felt Bag Filters"
+                },
+                {
+                  "id": 211523,
+                  "type": "Cartridge Filters"
+                },
+                {
+                  "id": 211524,
+                  "type": "Roll Filters"
+                },
+                {
+                  "id": 211525,
+                  "type": "Bag Filters"
+                },
+                {
+                  "id": 211526,
+                  "type": "Compact Filters"
+                },
+                {
+                  "id": 211527,
+                  "type": "Hepa Filters"
+                },
+                {
+                  "id": 211528,
+                  "type": "Panel Filters"
+                },
+                {
+                  "id": 211529,
+                  "type": "Gas (Odour) Filtration"
+                },
+                {
+                  "id": 211530,
+                  "type": "Filtration Equipments"
+                },
+                {
+                  "id": 211531,
+                  "type": "Anti-Static Dust Filter"
+                },
+                {
+                  "id": 211532,
+                  "type": "Wire Mesh Antistatic Dust Filter"
+                },
+                {
+                  "id": 211533,
+                  "type": "Hydraulic Suction Filter"
+                },
+                {
+                  "id": 211534,
+                  "type": "Hydraulic Return Filter"
+                },
+                {
+                  "id": 211535,
+                  "type": "Stainless Steel Housing"
+                },
+                {
+                  "id": 211536,
+                  "type": "Dublex Stainless Steel Housing"
+                },
+                {
+                  "id": 211537,
+                  "type": "Air Dryer Filters"
+                },
+                {
+                  "id": 211538,
+                  "type": "Naturel Gas Filter"
+                },
+                {
+                  "id": 211539,
+                  "type": "Custom Bag Filters"
+                },
+                {
+                  "id": 211540,
+                  "type": "Stainless Steel Filters"
+                },
+                {
+                  "id": 211541,
+                  "type": "Stainless Steel Strainer Filters"
+                },
+                {
+                  "id": 211542,
+                  "type": "Custom Filters"
+                },
+                {
+                  "id": 211543,
+                  "type": "Mining Industry Filters"
+                },
+                {
+                  "id": 211544,
+                  "type": "Basket Filter Elements"
+                },
+                {
+                  "id": 211545,
+                  "type": "Custom Filters"
+                },
+                {
+                  "id": 211546,
+                  "type": "Custom Basket Filters"
+                },
+                {
+                  "id": 211547,
+                  "type": "Dust Collector Filter Elements"
+                },
+                {
+                  "id": 211548,
+                  "type": "Anti-Static Dust Collector Filter Elements"
+                },
+                {
+                  "id": 211549,
+                  "type": "Nano-Coated Powder Filter Elements"
+                },
+                {
+                  "id": 211550,
+                  "type": "Synthetic Dust Filters"
+                },
+                {
+                  "id": 211551,
+                  "type": "Non-Stop Housing Filters"
+                },
+                {
+                  "id": 211552,
+                  "type": "Epoxy Coated Filter Housing"
+                },
+                {
+                  "id": 211553,
+                  "type": "Stainless Steel Line Filters"
+                },
+                {
+                  "id": 211554,
+                  "type": "T-Typle Line Filters"
+                }
+              ]
             }
           ]
         },
