@@ -1857,34 +1857,153 @@
           },
           "img": "/image/maintenance/rdi.jpg",
           "path": "/maintenance/service/rdi-motion-amplification"
-        },        
+        },
         {
           "id": 6012,
           "name": "PERIODIC STATUS MONITORING",
+          "title": "IMEC Periodic Status Monitoring Service",
+          "header": "Maintaining Optimal Performance with Regular Monitoring",
+          "description": "At IMEC, we offer comprehensive Periodic Status Monitoring to ensure the continuous health and efficiency of your machinery and systems. Our service involves regular checks and evaluations to help you proactively manage maintenance and avoid unexpected disruptions.",
+          "content": {
+            "what_is_it": "Periodic Status Monitoring is a systematic approach to regularly assess the condition of your equipment and infrastructure. By conducting scheduled inspections and evaluations, we provide insights into the performance and reliability of your systems, enabling timely interventions and maintenance actions.",
+            "features": [
+              "Scheduled Inspections: Regularly scheduled visits to monitor and assess the condition of your equipment.",
+              "Detailed Reporting: Comprehensive reports on the current status and performance of your machinery.",
+              "Predictive Analysis: Utilizes historical data and trends to predict potential issues before they arise.",
+              "Actionable Insights: Provides recommendations for maintenance and improvements based on monitoring results."
+            ],
+            "benefits": [
+              "Proactive Maintenance: Identifies potential issues early, reducing the risk of unexpected failures and costly repairs.",
+              "Enhanced Longevity: Regular monitoring helps extend the lifespan of your equipment by addressing minor issues before they escalate.",
+              "Cost Efficiency: Minimizes emergency repairs and unplanned downtime, leading to significant cost savings.",
+              "Improved Performance: Ensures equipment operates at peak performance, contributing to higher overall productivity."
+            ],
+            "applications": [
+              "Manufacturing Equipment: Machines and production lines.",
+              "Building Systems: HVAC systems, electrical panels, and plumbing.",
+              "Industrial Infrastructure: Pipelines, tanks, and support structures."
+            ],
+            "why_choose_imec": "IMEC's Periodic Status Monitoring combines expert knowledge with advanced tools to provide reliable and effective monitoring services. Our experienced team is dedicated to helping you maintain optimal performance and reliability of your equipment through proactive and systematic assessments."
+          },
           "img": "/image/maintenance/periodic.jpg",
           "path": "/maintenance/service/periodic-status-monitoring"
         },
         {
           "id": 6013,
           "name": "ADVANCES SERVICES",
+          "title": "IMEC Advanced Services",
+          "header": "Innovative Solutions for Complex Maintenance Challenges",
+          "description": "At IMEC, our Advanced Services are designed to tackle the most complex and demanding maintenance challenges with cutting-edge technologies and expert insights. We provide specialized solutions that go beyond traditional methods to ensure optimal performance and reliability for your systems and equipment.",
+          "content": {
+            "what_is_it": "Advanced Services encompass a range of sophisticated techniques and solutions tailored to address complex maintenance issues. These services leverage the latest technologies and methodologies to provide in-depth analysis, diagnosis, and resolution of advanced equipment and system problems.",
+            "features": [
+              "State-of-the-Art Technology: Utilizes the latest advancements in diagnostic and analytical tools for precise and effective solutions.",
+              "Expert Analysis: Conducted by experienced professionals with specialized knowledge in advanced maintenance techniques.",
+              "Customized Solutions: Tailored approaches to meet the specific needs and challenges of your equipment and systems.",
+              "In-Depth Reporting: Detailed and comprehensive reports providing insights and recommendations for resolving complex issues."
+            ],
+            "benefits": [
+              "Enhanced Problem-Solving: Addresses complex issues with advanced solutions, leading to more effective and lasting results.",
+              "Increased Efficiency: Improves the performance and reliability of your systems through sophisticated diagnostic and repair techniques.",
+              "Reduced Downtime: Minimizes downtime with targeted solutions, helping you maintain continuous operations and productivity.",
+              "Future-Proofing: Ensures your equipment and systems are equipped to handle evolving demands and technological advancements."
+            ],
+            "applications": [
+              "High-Tech Machinery: Advanced manufacturing and production equipment.",
+              "Complex Systems: Integrated systems requiring specialized diagnostics and maintenance.",
+              "Critical Infrastructure: Essential components and systems in industries such as energy, aerospace, and transportation."
+            ],
+            "why_choose_imec": "IMEC's Advanced Services are at the forefront of technological innovation, offering expert solutions for the most challenging maintenance issues. Our dedicated team combines advanced tools and deep industry knowledge to deliver exceptional results and ensure the highest levels of performance and reliability for your systems."
+          },
           "img": "/image/maintenance/advanced.jpg",
           "path": "/maintenance/service/advances-services"
         },
         {
           "id": 6014,
-          "name": "SPECIAL SERVICES FOR FACILITIES ",
+          "name": "SPECIAL SERVICES FOR FACILITIES",
+          "title": "IMEC Special Services for Facilities",
+          "header": "Tailored Solutions for Facility Maintenance and Management",
+          "description": "At IMEC, our Special Services for Facilities provide customized maintenance solutions designed to meet the unique needs of various facilities. We offer a range of specialized services to ensure your facility operates smoothly, efficiently, and safely.",
+          "content": {
+            "what_is_it": "Special Services for Facilities include a variety of tailored maintenance and management solutions aimed at addressing the specific requirements of different types of facilities. These services are designed to enhance the operational efficiency, safety, and longevity of facility systems and infrastructure.",
+            "features": [
+              "Custom Solutions: Tailored services to address the unique needs of your facility, including specialized equipment and infrastructure.",
+              "Expert Consultation: In-depth consultations with facility managers to identify specific challenges and develop targeted solutions.",
+              "Comprehensive Maintenance: Includes preventive, corrective, and predictive maintenance strategies to ensure facility systems are in optimal condition.",
+              "Safety and Compliance: Ensures that all maintenance activities adhere to safety regulations and industry standards."
+            ],
+            "benefits": [
+              "Improved Efficiency: Enhances the performance and reliability of facility systems through customized maintenance strategies.",
+              "Reduced Operational Disruptions: Minimizes downtime and interruptions with targeted maintenance solutions tailored to your facility's needs.",
+              "Cost-Effective Management: Optimizes maintenance spending by addressing specific issues and preventing costly repairs.",
+              "Enhanced Safety: Ensures facilities meet safety standards and regulations, reducing the risk of accidents and hazards."
+            ],
+            "applications": [
+              "Commercial Facilities: Offices, retail spaces, and service centers.",
+              "Industrial Facilities: Manufacturing plants, warehouses, and production facilities.",
+              "Institutional Facilities: Schools, hospitals, and government buildings."
+            ],
+            "why_choose_imec": "IMEC's Special Services for Facilities combine expert knowledge with customized solutions to deliver exceptional maintenance and management outcomes. Our team works closely with you to understand your facility's unique requirements and provide tailored services that ensure optimal performance, safety, and efficiency."
+          },
           "img": "/image/maintenance/facilities.jpg",
           "path": "/maintenance/service/special-service"
         },
         {
           "id": 6015,
           "name": "PRECISION MAINTENANCE SERVICES",
+          "title": "IMEC Precision Maintenance Services",
+          "header": "Achieving Excellence with Expert Maintenance Solutions",
+          "description": "IMEC's Precision Maintenance Services provide advanced maintenance solutions focused on achieving high levels of accuracy and efficiency. Our services are designed to ensure that your equipment and systems operate at peak performance with minimal downtime and optimal reliability.",
+          "content": {
+            "what_is_it": "Precision Maintenance Services involve the use of advanced techniques and tools to perform highly accurate and effective maintenance on your equipment and systems. This approach focuses on fine-tuning and optimizing performance to ensure long-term reliability and efficiency.",
+            "features": [
+              "Advanced Techniques: Utilizes state-of-the-art methods and tools for precise maintenance and calibration.",
+              "Expert Technicians: Performed by highly skilled professionals with expertise in precision maintenance.",
+              "Detailed Analysis: In-depth inspections and diagnostics to identify and address even the smallest issues.",
+              "Customized Solutions: Tailored maintenance plans to meet the specific needs and performance goals of your equipment."
+            ],
+            "benefits": [
+              "Enhanced Performance: Improves the efficiency and functionality of your equipment through precise adjustments and tuning.",
+              "Reduced Downtime: Minimizes unplanned downtime by addressing potential issues before they lead to failures.",
+              "Extended Equipment Life: Ensures your equipment operates at its best, leading to longer service life and reduced need for replacements.",
+              "Cost Savings: Reduces maintenance costs and extends intervals between major repairs through effective precision maintenance."
+            ],
+            "applications": [
+              "High-Precision Machinery: CNC machines, robotics, and other advanced manufacturing equipment.",
+              "Critical Systems: Equipment and systems where accuracy and reliability are essential for operations.",
+              "Aerospace and Defense: Complex systems requiring meticulous maintenance and calibration."
+            ],
+            "why_choose_imec": "IMEC's Precision Maintenance Services offer unparalleled accuracy and expertise, ensuring your equipment operates at its highest level of performance. Our dedicated team of professionals provides tailored solutions and advanced techniques to help you achieve exceptional reliability and efficiency."
+          },
           "img": "/image/maintenance/maintenance.jpg",
           "path": "/maintenance/service/precision-maintenance-services"
         },
         {
           "id": 6016,
           "title": "COMPRESSOR SERVICES",
+          "header": "Expert Solutions for Optimal Compressor Performance",
+          "description": "IMEC provides specialized Compressor Services designed to enhance the efficiency, reliability, and longevity of your compressor systems. Our comprehensive services address all aspects of compressor maintenance and repair to ensure your equipment operates at peak performance.",
+          "content": {
+            "what_is_it": "Compressor Services encompass a range of maintenance, repair, and optimization solutions tailored to compressors of all types and sizes. Our services are aimed at improving performance, reducing downtime, and extending the life of your compressor systems.",
+            "features": [
+              "Comprehensive Maintenance: Includes routine inspections, cleaning, lubrication, and adjustments to keep your compressors running smoothly.",
+              "Expert Repairs: Skilled technicians handle repairs for various compressor issues, including mechanical failures, leaks, and performance problems.",
+              "Performance Optimization: Analyzes and fine-tunes your compressor systems to ensure they operate at maximum efficiency.",
+              "Emergency Services: Provides rapid response and support for urgent compressor issues to minimize downtime and disruption."
+            ],
+            "benefits": [
+              "Improved Efficiency: Enhances the performance and efficiency of your compressor systems, leading to lower energy consumption and costs.",
+              "Increased Reliability: Reduces the risk of unexpected failures and downtime through regular maintenance and timely repairs.",
+              "Extended Equipment Life: Prolongs the lifespan of your compressors by addressing issues early and maintaining optimal operating conditions.",
+              "Cost Savings: Minimizes repair costs and prevents costly breakdowns with proactive maintenance and performance optimization."
+            ],
+            "applications": [
+              "Industrial Compressors: Used in manufacturing, production, and processing facilities.",
+              "HVAC Compressors: Essential for heating, ventilation, and air conditioning systems.",
+              "Oil and Gas Compressors: Critical equipment in oil and gas extraction and processing operations."
+            ],
+            "why_choose_imec": "IMEC's Compressor Services are designed to provide expert care and maintenance for your compressor systems. Our team of experienced professionals delivers tailored solutions to ensure your compressors perform reliably and efficiently, helping you achieve optimal operational performance."
+          },
           "img": "/image/maintenance/compressor.jpg",
           "path": "/maintenance/service/compressor-services"
         }
@@ -1892,19 +2011,91 @@
       "repair": [
         {
           "id": 6017,
-          "name": "Pump",
+          "name": "PUMP",
+          "title": "IMEC Pump Services",
+          "header": "Expert Maintenance and Repair for Pump Systems",
+          "description": "IMEC offers comprehensive Pump Services designed to ensure the optimal performance and reliability of your pump systems. Our expert team provides tailored maintenance and repair solutions to keep your pumps operating efficiently and effectively.",
+          "content": {
+            "what_is_it": "Pump Services involve a range of maintenance and repair solutions for various types of pumps. Our services are focused on improving the performance, efficiency, and longevity of your pump systems through expert care and precise interventions.",
+            "features": [
+              "Routine Maintenance: Regular inspections, cleaning, and servicing to ensure your pumps are in peak condition.",
+              "Expert Repairs: Skilled technicians address mechanical issues, leaks, and performance problems to restore your pumps to full functionality.",
+              "Performance Optimization: Fine-tuning and adjustments to enhance pump efficiency and performance.",
+              "Emergency Support: Rapid response for urgent repair needs to minimize downtime and operational disruption."
+            ],
+            "benefits": [
+              "Enhanced Performance: Improves pump efficiency and operational reliability, leading to cost savings and better performance.",
+              "Reduced Downtime: Minimizes unexpected failures and downtime with proactive maintenance and timely repairs.",
+              "Extended Equipment Life: Prolongs the lifespan of your pumps through regular care and early issue resolution.",
+              "Cost Efficiency: Lowers maintenance costs and prevents costly breakdowns by addressing issues before they escalate."
+            ],
+            "applications": [
+              "Industrial Pumps: Used in manufacturing, processing, and various industrial applications.",
+              "Water Pumps: Essential for water supply systems, irrigation, and wastewater management.",
+              "Oil and Gas Pumps: Critical for operations in the oil and gas industry, including extraction and transportation."
+            ],
+            "why_choose_imec": "IMEC's Pump Services provide expert maintenance and repair tailored to your pump systems' needs. Our experienced professionals deliver effective solutions to ensure your pumps operate efficiently and reliably, helping you maintain smooth and cost-effective operations."
+          },
           "img": "/image/maintenance/pump.jpg",
           "path": "/maintenance/repair/pump"
         },
         {
           "id": 6018,
-          "name": "Gear",
+          "name": "GEAR",
+          "title": "IMEC Gearbox Services",
+          "header": "Precision Maintenance and Repair for Gear Systems",
+          "description": "IMEC provides specialized Gearbox Services designed to ensure the optimal performance and reliability of your gear systems. Our expert team offers comprehensive maintenance and repair solutions to keep your gearboxes running smoothly and efficiently.",
+          "content": {
+            "what_is_it": "Gearbox Services encompass a range of maintenance, repair, and optimization solutions tailored to various types of gear systems. Our services are aimed at enhancing performance, reducing downtime, and extending the life of your gearboxes through precise interventions and expert care.",
+            "features": [
+              "Routine Maintenance: Includes inspections, lubrication, and adjustments to keep your gearboxes in top condition.",
+              "Expert Repairs: Addresses mechanical failures, alignment issues, and other problems to restore optimal function.",
+              "Performance Optimization: Enhances gearbox efficiency and performance through detailed analysis and fine-tuning.",
+              "Emergency Services: Provides rapid support for urgent gearbox issues to minimize downtime and operational impact."
+            ],
+            "benefits": [
+              "Improved Efficiency: Enhances the operational efficiency and performance of your gear systems, leading to better overall functionality.",
+              "Reduced Downtime: Minimizes unexpected breakdowns and downtime with proactive maintenance and timely repairs.",
+              "Extended Equipment Life: Prolongs the lifespan of your gearboxes through regular maintenance and early issue resolution.",
+              "Cost Savings: Reduces maintenance costs and prevents major repairs by addressing issues before they become critical."
+            ],
+            "applications": [
+              "Industrial Gearboxes: Used in manufacturing, processing, and other industrial applications.",
+              "Automotive Gearboxes: Essential for vehicle transmissions and drivetrain systems.",
+              "Aerospace Gearboxes: Critical components in aircraft and aerospace systems."
+            ],
+            "why_choose_imec": "IMEC's Gearbox Services offer expert maintenance and repair tailored to your gear systems' specific needs. Our skilled professionals deliver effective solutions to ensure your gearboxes operate efficiently and reliably, helping you maintain smooth and cost-effective operations."
+          },
           "img": "/image/maintenance/gear.jpg",
           "path": "/maintenance/repair/gearbox"
         },
         {
           "id": 6019,
-          "name": "Repair for heavy duty belts",
+          "name": "REPAIR FOR HEAVY DUTY BELTS",
+          "title": "IMEC Heavy Duty Belt Repair Services",
+          "header": "Reliable Repair Solutions for Heavy Duty Conveyor Belts",
+          "description": "IMEC provides expert repair services for heavy duty belts, ensuring the reliability and efficiency of your conveyor systems. Our specialized solutions address wear and damage to keep your belts operating smoothly and effectively.",
+          "content": {
+            "what_is_it": "Heavy Duty Belt Repair Services involve addressing issues such as wear, damage, and misalignment in conveyor belts used in demanding industrial applications. Our services focus on restoring the performance and extending the life of your belts through expert repairs and maintenance.",
+            "features": [
+              "Comprehensive Repairs: Includes patching, splicing, and reinforcement to fix various types of damage.",
+              "Wear Assessment: Detailed inspections to identify and address areas of wear and potential failure points.",
+              "Realignment and Adjustment: Ensures proper alignment and tension to prevent future issues and optimize performance.",
+              "Emergency Support: Provides rapid response to urgent repair needs to minimize downtime and operational disruption."
+            ],
+            "benefits": [
+              "Enhanced Performance: Restores the functionality and efficiency of your heavy duty belts, ensuring smooth operation.",
+              "Reduced Downtime: Minimizes unexpected belt failures and downtime with timely repairs and maintenance.",
+              "Extended Belt Life: Prolongs the lifespan of your conveyor belts through effective repair and preventive measures.",
+              "Cost Efficiency: Lowers repair costs and prevents major replacements by addressing issues early."
+            ],
+            "applications": [
+              "Industrial Conveyors: Used in manufacturing, mining, and material handling applications.",
+              "Logistics and Warehousing: Essential for transporting goods and materials within facilities.",
+              "Mining and Quarrying: Heavy duty belts used in the extraction and processing of minerals and materials."
+            ],
+            "why_choose_imec": "IMEC's Heavy Duty Belt Repair Services deliver expert solutions to keep your conveyor systems running smoothly. Our experienced technicians provide effective repairs and maintenance to ensure the reliability and longevity of your belts, helping you maintain efficient and cost-effective operations."
+          },
           "img": "/image/maintenance/conveyor-repair.jpg",
           "path": "/maintenance/repair/heavy-duty-belts"
         }
