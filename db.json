@@ -1835,8 +1835,8 @@
           "header": "Enhancing Industrial Maintenance with Precision Motion Analysis",
           "description": "At IMEC, we are committed to providing cutting-edge solutions for industrial maintenance and reliability. Our RDI Motion Amplification Service is a revolutionary technology that amplifies tiny movements to help you identify and diagnose machinery issues with unprecedented clarity and accuracy.",
           "content": {
-            "what_is_motion_amplification": "Motion Amplification is a video-based technology that detects and visualizes subtle movements that are not visible to the naked eye. By amplifying these movements, our system converts them into easy-to-understand visual data, allowing for precise identification of issues in machinery and structures.",
-            "key_features": [
+            "what_is_it": "Motion Amplification is a video-based technology that detects and visualizes subtle movements that are not visible to the naked eye. By amplifying these movements, our system converts them into easy-to-understand visual data, allowing for precise identification of issues in machinery and structures.",
+            "features": [
               "High-Definition Video Analysis: Captures high-resolution video of your machinery in action, ensuring every detail is recorded.",
               "Non-Invasive Technique: Requires no physical contact with your equipment, minimizing downtime and disruption.",
               "Comprehensive Diagnostics: Identifies issues such as misalignment, imbalance, looseness, and structural defects.",
