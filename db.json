@@ -14,27 +14,27 @@
         {
           "id": 12,
           "name": "PARTNERSHIP AGREEMENT",
-          "path": "/partnership-agreement",
+          "path": "/partner",
           "subItems": [
             {
               "id": 121,
               "name": "Rhosonics",
-              "path": "/partnership-agreement/rhosonics"
+              "path": "/partner/rhosonics"
             },
             {
               "id": 122,
               "name": "Ri-Se",
-              "path": "/partnership-agreement/rise"
+              "path": "/partner/rise"
             },
             {
               "id": 123,
               "name": "Deep Mineral Process Teknology",
-              "path": "/partnership-agreement/deep-mineral-process-teknology"
+              "path": "/partner/deep-mineral-process-teknology"
             },
             {
               "id": 124,
               "name": "Marquimm",
-              "path": "/partnership-agreement/marquimm"
+              "path": "/partner/marquimm"
             }
           ]
         },
@@ -1749,7 +1749,7 @@
     {
       "id": 4011,
       "title": "Rhosonics",
-      "path": "/partnership-agreement/rhosonics",
+      "path": "/rhosonics",
       "logo": "/image/partners/rhosonics-logo.png",
       "banner": "/image/partners/rhosonics-bg.png",
       "img": "/image/partners/rhosonics-banner.png",
@@ -1760,7 +1760,7 @@
     {
       "id": 4012,
       "title": "Ri-Se",
-      "path": "/partnership-agreement/rise",
+      "path": "/rise",
       "logo": "/image/partners/rise-logo.png",
       "banner": "/image/partners/rise-bg.png",
       "img": "/image/partners/rise-banner.jpg",
@@ -1771,7 +1771,7 @@
     {
       "id": 4013,
       "title": "Deep Mineral Process Teknology",
-      "path": "/partnership-agreement/deep-mineral-process-teknology",
+      "path": "/deep-mineral-process-teknology",
       "logo": "/image/partners/mt-logo.png",
       "banner": "/image/partners/mt-bg.png",
       "img": "/image/partners/mt-banner.png",
@@ -1782,7 +1782,7 @@
     {
       "id": 4014,
       "title": "Marquimm",
-      "path": "/partnership-agreement/marquimm",
+      "path": "/marquimm",
       "logo": "/image/partners/marquimm-logo.png",
       "banner": "/image/partners/marquimm-bg.jpg",
       "img": "/image/partners/marquimm-banner.jpg",
