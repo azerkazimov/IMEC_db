@@ -1749,22 +1749,42 @@
     {
       "id": 4011,
       "title": "Rhosonics",
-      "img": "/image/partners/rhosonics-logo.png"
+      "logo": "/image/partners/rhosonics-logo.png",
+      "banner": "/image/partners/rhosonics-bg.png",
+      "img": "/image/partners/rhosonics-banner.png",
+      "header": "Rhosonics",
+      "content": "Rhosonics specializes in the development and manufacturing of ultrasonic analyzers for measuring the density and concentration of liquids and slurries. Their innovative solutions serve various industries, including mineral processing, dredging, water and wastewater, pulp and paper, and the semiconductor industry. By offering non-invasive, real-time measurement technologies, Rhosonics helps businesses improve process efficiency, reduce operational costs, and minimize environmental impact. Their products are known for reliability and accuracy, providing valuable data for optimizing industrial processes.",
+      "company": "https://rhosonics.com/"
     },
     {
       "id": 4012,
       "title": "Ri-Se",
-      "img": "/image/partners/rise-logo.png"
+      "logo": "/image/partners/rise-logo.png",
+      "banner": "/image/partners/rise-bg.png",
+      "img": "/image/partners/rise-banner.jpg",
+      "header": "RISE - Industrial Maintenance and Reliability Experts",
+      "content": "RISE (Reliability Innovation Services & Engineering) is a leading provider of advanced solutions for industrial maintenance and reliability. Specializing in cutting-edge technologies such as vibration analysis, motion amplification, ultrasonic testing, and thermography, RISE helps clients enhance operational efficiency and safety. Their expert team offers precise diagnostics, detailed reports, and comprehensive training programs to support predictive maintenance across various industries.",
+      "company": "https://www.ri-se.com/"
     },
     {
       "id": 4013,
       "title": "Deep Mineral Process Teknology",
-      "img": "/image/partners/mt-logo.png"
+      "logo": "/image/partners/mt-logo.png",
+      "banner": "/image/partners/mt-bg.png",
+      "img": "/image/partners/mt-banner.png",
+      "header": "Mineral Process Teknology",
+      "content": "Deep Mineral Proses Teknoloji A.Ş. is dedicated to providing high-quality solutions for the mining industry. The company focuses on offering advanced process equipment and comprehensive services, including thickeners, flotation cells, agitators, and sludge pumps. With a team of expert engineers, Deep Mineral Proses ensures efficient, ethical, and transparent operations across various regions, aiming for excellence in every aspect of their work. Their primary goal is to achieve the highest customer satisfaction and to elevate their services to international standards.",
+      "company": "https://deepmineralproses.com/"
     },
     {
       "id": 4014,
       "title": "Marquimm",
-      "img": "/image/partners/marquimm-logo.png"
+      "logo": "/image/partners/marquimm-logo.png",
+      "banner": "/image/partners/marquimm-bg.jpg",
+      "img": "/image/partners/marquimm-banner.jpg",
+      "header": "Marquimm Description for IMEC Partner Page",
+      "content": "Marquimm, founded in 2012 and integrated into Grupo Interfusao in 2018, is a leading partner in the mining industry in South America. Specializing in metallurgical and mineral processing, Marquimm offers high-quality reagents for flotation and gold-leaching processes, such as collectors, frothers, and leaching reagents. The company also provides advanced on-stream analyzers for particle and bubble size monitoring, enhancing the efficiency and sustainability of mining operations. With a strong focus on innovation and customer support, Marquimm is dedicated to driving growth and reliability in the mining sector.",
+      "company": "https://marquimm.com.br/en/home-english/"
     }
   ],
   "industies": [
