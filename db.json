@@ -1336,27 +1336,111 @@
               "types": [
                 {
                   "id": 211311,
-                  "type": "Carbon steel"
+                  "type": "Hex Nut"
                 },
                 {
                   "id": 211312,
-                  "type": "Stainless"
+                  "type": "Heavy Hex Nut"
                 },
                 {
                   "id": 211313,
-                  "type": "Duplex, Superduplex"
+                  "type": "Nylon Insert Lock Nub"
                 },
                 {
                   "id": 211314,
-                  "type": "Inconel, Incoloy, Monel"
+                  "type": "Jam Nut"
                 },
                 {
                   "id": 211315,
-                  "type": "Titanium"
+                  "type": "Nylon Insert Jam Nut"
                 },
                 {
                   "id": 211316,
-                  "type": "Teflon"
+                  "type": "Wing Nut"
+                },
+                {
+                  "id": 211317,
+                  "type": "Cap Nut"
+                },
+                {
+                  "id": 211318,
+                  "type": "Acorn Nut"
+                },
+                {
+                  "id": 211319,
+                  "type": "Flange Nut"
+                },
+                {
+                  "id": 211320,
+                  "type": "Tee Nut"
+                },
+                {
+                  "id": 211321,
+                  "type": "Hex Head Bolt"
+                },
+                {
+                  "id": 211322,
+                  "type": "Cup Square Bolt"
+                },
+                {
+                  "id": 211323,
+                  "type": "Socket Countersunk"
+                },
+                {
+                  "id": 211324,
+                  "type": "Socket Button Screw"
+                },
+                {
+                  "id": 211325,
+                  "type": "Wood Screw"
+                },
+                {
+                  "id": 211326,
+                  "type": "Lag Bolts"
+                },
+                {
+                  "id": 211327,
+                  "type": "J-Bolts"
+                },
+                {
+                  "id": 211328,
+                  "type": "U-Bolt"
+                },
+                {
+                  "id": 211329,
+                  "type": "Hanger Bolt"
+                },
+                {
+                  "id": 211330,
+                  "type": "Flat Washer"
+                },
+                {
+                  "id": 211331,
+                  "type": "Fender Washer"
+                },
+                {
+                  "id": 211332,
+                  "type": "Finishing Washer"
+                },
+                {
+                  "id": 211333,
+                  "type": "Torgue Washer"
+                },
+                {
+                  "id": 211334,
+                  "type": "Flat Rivet"
+                },
+                {
+                  "id": 211335,
+                  "type": "Counersunk Flat Rivet"
+                },
+                {
+                  "id": 211336,
+                  "type": "Counersunk Round Rivet"
+                },
+                {
+                  "id": 211337,
+                  "type": "Coopers Rivet"
                 }
               ]
             },
