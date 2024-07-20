@@ -1749,7 +1749,7 @@
     {
       "id": 4011,
       "title": "Rhosonics",
-      "path": "/rhosonics",
+      "path": "/partner/rhosonics",
       "logo": "/image/partners/rhosonics-logo.png",
       "banner": "/image/partners/rhosonics-bg.png",
       "img": "/image/partners/rhosonics-banner.png",
@@ -1760,7 +1760,7 @@
     {
       "id": 4012,
       "title": "Ri-Se",
-      "path": "/rise",
+      "path": "/partner/rise",
       "logo": "/image/partners/rise-logo.png",
       "banner": "/image/partners/rise-bg.png",
       "img": "/image/partners/rise-banner.jpg",
@@ -1771,7 +1771,7 @@
     {
       "id": 4013,
       "title": "Deep Mineral Process Teknology",
-      "path": "/deep-mineral-process-teknology",
+      "path": "/partner/deep-mineral-process-teknology",
       "logo": "/image/partners/mt-logo.png",
       "banner": "/image/partners/mt-bg.png",
       "img": "/image/partners/mt-banner.png",
@@ -1782,7 +1782,7 @@
     {
       "id": 4014,
       "title": "Marquimm",
-      "path": "/marquimm",
+      "path": "/partner/marquimm",
       "logo": "/image/partners/marquimm-logo.png",
       "banner": "/image/partners/marquimm-bg.jpg",
       "img": "/image/partners/marquimm-banner.jpg",
