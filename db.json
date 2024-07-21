@@ -385,12 +385,24 @@
         {
           "id": 51,
           "name": "Sales",
-          "path": "/support/sales"
+          "path": "/support/sales",
+          "subItems": [
+            {
+              "id": 5111,
+              "name": "Sales Support"
+            }
+          ]
         },
         {
           "id": 52,
           "name": "Service",
-          "path": "/support/service"
+          "path": "/support/service",
+          "subItems": [
+            {
+              "id": 5211,
+              "name": "Service Support"
+            }
+          ]
         }
       ]
     }
