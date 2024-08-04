@@ -1749,18 +1749,42 @@
             },
             {
               "id": 2203,
-              "name": "",
-              "title": "",
-              "path": "",
-              "img": "",
-              "sectionImg": "",
-              "description": "",
-              "typesHeader": "",
+              "name": "FLOATATION CELLS",
+              "title": "IMEC Flotation Cells: Cutting-Edge Technology for Optimal Mineral Recovery",
+              "path": "/product-item/products/flotation-cells",
+              "img": "/image/flotation-cell/flt-cell_1.png",
+              "sectionImg": "/image/flotation-cell/flt-cell_1.png",
+              "description": "With our EMPR model, developed with the principle of minimum energy consumption, we eliminate energy losses caused by belt pulleys in reducer-driven flotation cells. The EMP® Stator design comes with optional perforated holes. This hole design allows for the creation of smaller air bubbles, which provides a better contact angle with finer ore particles in sweeping and cleaning circuits. Optionally, in the coarse flotation circuit, these holes can be covered with bolted polyurethane caps to create larger air bubbles.",
+              "typesHeader": "Exterior View of IMEC Flotation Cell",
               "typesDescription": "",
               "images": [
                 {
-                  "imgPath": "",
-                  "alt": ""
+                  "imgPath": "/image/flotation-cell/flt-cell_1.png",
+                  "alt": "flotation-cell"
+                },
+                {
+                  "imgPath": "/image/flotation-cell/flt-cell_2.png",
+                  "alt": "flotation-cell"
+                },
+                {
+                  "imgPath": "/image/flotation-cell/flt-cell_3.png",
+                  "alt": "flotation-cell"
+                },
+                {
+                  "imgPath": "/image/flotation-cell/flt-cell_4.png",
+                  "alt": "flotation-cell"
+                },
+                {
+                  "imgPath": "/image/flotation-cell/flt-cell_5.png",
+                  "alt": "flotation-cell"
+                },
+                {
+                  "imgPath": "/image/flotation-cell/flt-cell_6.png",
+                  "alt": "flotation-cell"
+                },
+                {
+                  "imgPath": "/image/flotation-cell/flt-cell_7.png",
+                  "alt": "flotation-cell"
                 }
               ]
             },
