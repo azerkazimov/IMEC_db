@@ -1728,18 +1728,22 @@
             },
             {
               "id": 2202,
-              "name": "",
-              "title": "",
-              "path": "",
-              "img": "",
-              "sectionImg": "",
-              "description": "",
-              "typesHeader": "",
+              "name": "CONDITIONERS",
+              "title": "IMEC Advanced Conditioners: Optimal Performance and Efficiency Solutions",
+              "path": "/product-item/products/conditioners",
+              "img": "/image/condisioner/condisioner_1.png",
+              "sectionImg": "/image/condisioner/condisioner_1.png",
+              "description": "A conditioning tank plays a crucial role in the flotation process by ensuring thorough mixing of chemical reagents with the ore, which is essential for the proper adhesion of surfactants like collectors, frothers, and modifiers to mineral surfaces. It ensures uniform mixing of ore and reagents, leading to consistent material composition for efficient flotation. The tank also provides necessary interaction time for effective reagent adsorption on minerals and helps adjust pH and ionic strength, optimizing the chemical environment for the flotation process. These functions significantly impact overall efficiency and performance.",
+              "typesHeader": "High-Performance Conditioner System for Flotation Processes",
               "typesDescription": "",
               "images": [
                 {
-                  "imgPath": "",
-                  "alt": ""
+                  "imgPath": "/image/condisioner/condisioner_2.png",
+                  "alt": "condisioner"
+                },
+                {
+                  "imgPath": "/image/condisioner/condisioner_3.png",
+                  "alt": "condisioner"
                 }
               ]
             },
@@ -1912,7 +1916,7 @@
                   "alt": ""
                 }
               ]
-            }            
+            }
           ]
         },
         {
