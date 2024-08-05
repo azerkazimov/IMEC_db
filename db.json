@@ -1884,22 +1884,22 @@
               "name": "CHEMICAL DENSITY METER",
               "title": "High-Accuracy Chemical Density Meter for Industrial Applications",
               "path": "/product-item/products/chemical-density-meter",
-              "img": "/image/chemical-density-meter/chemical-density-meter_1",
-              "sectionImg": "/image/chemical-density-meter/chemical-density-meter_1",
+              "img": "/image/chemical-density-meter/chemical-density-meter_1.png",
+              "sectionImg": "/image/chemical-density-meter/chemical-density-meter_1.png",
               "description": "Rhosonics CDM stands for Chemical-based slurry Density Meter, which is a category of instruments that allows for real-time density measurement. The CDMs have a robust design that uses sensors made of highly corrosion and abrasion-resistant materials, enabling them to withstand rough process conditions.In various industries, the Chemical Density Meters are used whenever there is a requirement for measuring chemical-based slurries or liquors. Some of the sectors where this technology is used are Mining, Ore refineries and Pulp & Paper.",
               "typesHeader": "Chemical Density Meter Sensor and Probe Close-Up",
               "typesDescription": "",
               "images": [
                 {
-                  "imgPath": "/image/chemical-density-meter/chemical-density-meter_1",
+                  "imgPath": "/image/chemical-density-meter/chemical-density-meter_1.png",
                   "alt": "chemical density meter"
                 },
                 {
-                  "imgPath": "/image/chemical-density-meter/chemical-density-meter_2",
+                  "imgPath": "/image/chemical-density-meter/chemical-density-meter_2.png",
                   "alt": "chemical density meter"
                 },
                 {
-                  "imgPath": "/image/chemical-density-meter/chemical-density-meter_3",
+                  "imgPath": "/image/chemical-density-meter/chemical-density-meter_3.png",
                   "alt": "chemical density meter"
                 }
               ]
