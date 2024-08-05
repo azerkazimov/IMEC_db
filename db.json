@@ -1844,35 +1844,63 @@
             },
             {
               "id": 2207,
-              "name": "",
-              "title": "",
-              "path": "",
-              "img": "",
-              "sectionImg": "",
-              "description": "",
-              "typesHeader": "",
+              "name": "SLURRY DENSITY METER",
+              "title": "Slurry Density Meter: Precision Measurement for Optimal Process Control",
+              "path": "/product-item/products/slurry-density-meter",
+              "img": "/image/slurry-density/slurry-density_1.png",
+              "sectionImg": "/image/slurry-density/slurry-density_4.png",
+              "description": "The Rhosonics SDM stands for Slurry Density Meter, which is a category of instruments that allows for measuring the density of slurries in real-time. This instrument uses a non-intrusive ultrasonic sensor to measure the real-time density of mineral slurries under high-density levels and at very large pipes. Moreover, the SDMs have a robust design with sensors made of highly abrasion-resistant materials, making them ideal for rough process conditions. Rhosonics helps mineral processing plants and other industries to replace nuclear density gauges by non-hazardous ultrasonic technology. Consequently, operators can achieve process optimization in a safer, more reliable, sustainable, and cost-effective way. This is how Rhosonics contributes to a greener and smarter industry. On November 2nd,2023, Rhosonics released the latest version of the SDM, the SDM ECO. The SDM ECO is an upgrade of the SDM-4 in terms of accuracy, response time, operating temperature range, and sensor design. In addition to that, the SDM ECO can be controlled by a 7’’ touchscreen display, laptop, via optional Wi-Fi, or from anywhere with server access.",
+              "typesHeader": "Slurry Density Meter Flow Measurement Point",
               "typesDescription": "",
               "images": [
                 {
-                  "imgPath": "",
-                  "alt": ""
+                  "imgPath": "/image/slurry-density/slurry-density_1.png",
+                  "alt": "slurry density meter"
+                },
+                {
+                  "imgPath": "/image/slurry-density/slurry-density_2.png",
+                  "alt": "slurry density meter"
+                },
+                {
+                  "imgPath": "/image/slurry-density/slurry-density_3.png",
+                  "alt": "slurry density meter"
+                },
+                {
+                  "imgPath": "/image/slurry-density/slurry-density_4.png",
+                  "alt": "slurry density meter"
+                },
+                {
+                  "imgPath": "/image/slurry-density/slurry-density_5.png",
+                  "alt": "slurry density meter"
+                },
+                {
+                  "imgPath": "/image/slurry-density/slurry-density_6.png",
+                  "alt": "slurry density meter"
                 }
               ]
             },
             {
               "id": 2208,
-              "name": "",
-              "title": "",
-              "path": "",
-              "img": "",
-              "sectionImg": "",
-              "description": "",
-              "typesHeader": "",
+              "name": "CHEMICAL DENSITY METER",
+              "title": "High-Accuracy Chemical Density Meter for Industrial Applications",
+              "path": "/product-item/products/chemical-density-meter",
+              "img": "/image/chemical-density-meter/chemical-density-meter_1",
+              "sectionImg": "/image/chemical-density-meter/chemical-density-meter_1",
+              "description": "Rhosonics CDM stands for Chemical-based slurry Density Meter, which is a category of instruments that allows for real-time density measurement. The CDMs have a robust design that uses sensors made of highly corrosion and abrasion-resistant materials, enabling them to withstand rough process conditions.In various industries, the Chemical Density Meters are used whenever there is a requirement for measuring chemical-based slurries or liquors. Some of the sectors where this technology is used are Mining, Ore refineries and Pulp & Paper.",
+              "typesHeader": "Chemical Density Meter Sensor and Probe Close-Up",
               "typesDescription": "",
               "images": [
                 {
-                  "imgPath": "",
-                  "alt": ""
+                  "imgPath": "/image/chemical-density-meter/chemical-density-meter_1",
+                  "alt": "chemical density meter"
+                },
+                {
+                  "imgPath": "/image/chemical-density-meter/chemical-density-meter_2",
+                  "alt": "chemical density meter"
+                },
+                {
+                  "imgPath": "/image/chemical-density-meter/chemical-density-meter_3",
+                  "alt": "chemical density meter"
                 }
               ]
             },
