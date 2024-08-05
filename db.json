@@ -2484,6 +2484,124 @@
               ]
             },
             {
+              "id": 2217,
+              "name": "Double-Eccentric Butterfly Valve",
+              "title": "Double-Eccentric Butterfly Valve",
+              "path": "/product-item/products/butterfly-valve-double-eccentric",
+              "img": "/image/valve/valve_39.jpg",
+              "sectionImg": "/image/valve/valve_39.jpg",
+              "description": "The SB42R-16D series double-eccentric butterfly valve is engineered for high-efficiency flow control in various industrial environments. It features a durable body and disc, both made from ductile iron (GJS), providing excellent strength and resistance to wear. This valve supports nominal diameters from DN 80 to DN 1400 and operates within a pressure range of PN 10-16. It functions effectively across a temperature range of -25°C to +120°C and offers sealing options with EPDM or NBR to suit different media requirements. The SB42R-16D is designed for bidirectional flow, enhancing its versatility in applications requiring reliable flow control from either direction. Compliant with Class A standards according to GOST 54808-2011, this valve ensures high-quality, dependable performance, making it a robust choice for various flow control applications.",
+              "typesHeader": "",
+              "typesDescription": "Double-Eccentric Butterfly Valve",
+              "types": [
+                {
+                  "id": 221711,
+                  "type": "Series: SB42R-16D"
+                },
+                {
+                  "id": 221712,
+                  "type": "DN: 80-1400"
+                },
+                {
+                  "id": 221713,
+                  "type": "PN: 10-16"
+                },
+                {
+                  "id": 221714,
+                  "type": "Temperature Range: -25°C to +120°C"
+                },
+                {
+                  "id": 221715,
+                  "type": "Body Material: Ductile Iron (GJS)"
+                },
+                {
+                  "id": 221716,
+                  "type": "Disc Material: Ductile Iron (GJS)"
+                },
+                {
+                  "id": 221717,
+                  "type": "Seal Options: EPDM, NBR"
+                },
+                {
+                  "id": 221718,
+                  "type": "Class: A according to GOST 54808-2011"
+                },
+                {
+                  "id": 221719,
+                  "type": "Actuator Mounting: ISO 5211"
+                }
+              ],
+              "images": [
+                {
+                  "imgPath": "/image/valve/valve_39.jpg",
+                  "alt": "Butterfly Valve"
+                },
+                {
+                  "imgPath": "/image/valve/valve_40.jpg",
+                  "alt": "Butterfly Valve"
+                }
+              ]
+            },
+            {
+              "id": 2218,
+              "name": "Wafer-Type Slide Gate Valve",
+              "title": "Wafer-Type Slide Gate Valve",
+              "path": "/product-item/products/slide-gate-valve",
+              "img": "/image/valve/valve_41.jpg",
+              "sectionImg": "/image/valve/valve_41.jpg",
+              "description": "The SG73R-10D series wafer-type slide gate valve is designed for reliable and efficient flow control in a variety of industrial applications. It features a robust body made from ductile iron (GJS) and a durable blade crafted from stainless steel 08X18H10, offering excellent corrosion resistance and strength. This valve supports nominal diameters ranging from DN 50 to DN 1200 and operates within a pressure range of PN 10-16. It is effective across a temperature range of -25°C to +130°C and provides sealing options with EPDM or NBR to accommodate different media and operational needs. The bidirectional flow capability enhances its versatility, making it suitable for applications requiring dependable control in both directions. Compliant with Class A standards according to GOST 54808-2011, the SG73R-10D ensures high-quality, dependable performance.",
+              "typesHeader": "",
+              "typesDescription": "Wafer-Type Slide Gate Valve",
+              "types": [
+                {
+                  "id": 221711,
+                  "type": "Series: SB42R-16D"
+                },
+                {
+                  "id": 221712,
+                  "type": "DN: 80-1400"
+                },
+                {
+                  "id": 221713,
+                  "type": "PN: 10-16"
+                },
+                {
+                  "id": 221714,
+                  "type": "Temperature Range: -25°C to +120°C"
+                },
+                {
+                  "id": 221715,
+                  "type": "Body Material: Ductile Iron (GJS)"
+                },
+                {
+                  "id": 221716,
+                  "type": "Disc Material: Ductile Iron (GJS)"
+                },
+                {
+                  "id": 221717,
+                  "type": "Seal Options: EPDM, NBR"
+                },
+                {
+                  "id": 221718,
+                  "type": "Class: A according to GOST 54808-2011"
+                },
+                {
+                  "id": 221719,
+                  "type": "Actuator Mounting: ISO 5211"
+                }
+              ],
+              "images": [
+                {
+                  "imgPath": "/image/valve/valve_41.jpg",
+                  "alt": "Slide Gate Valve"
+                },
+                {
+                  "imgPath": "/image/valve/valve_42.jpg",
+                  "alt": "Slide Gate Valve"
+                }
+              ]
+            },
+            {
               "id": 2214,
               "name": "",
               "title": "",
