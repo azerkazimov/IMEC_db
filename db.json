@@ -2134,9 +2134,9 @@
             },
             {
               "id": 2213,
-              "name": "",
+              "name": "Rubber-Coated Gate Valve (Light)",
               "title": "Gate Valve with Rubber-Coated Wedge (Light)",
-              "path": "/product-item/products/gate-valve-underground",
+              "path": "/product-item/products/gate-valve-light",
               "img": "/image/valve/valve_13.jpg",
               "sectionImg": "/image/valve/valve_13.jpg",
               "description": "The SG45R-16DL series gate valve is crafted for applications that benefit from a lighter construction, providing reliable performance with ease of installation and handling. Featuring a rubber-coated wedge for excellent sealing and smooth operation, it handles nominal diameters from DN 50 to DN 600 with a pressure rating of PN 16. Operating effectively in temperatures from -10°C to +120°C, the valve's body and wedge are made from ductile iron (GJS), offering robust strength and corrosion resistance. The EPDM coating on the wedge enhances sealing and extends the valve's lifespan. Compliant with Class A standards according to GOST 54808-2011, the SG45R-16DL valve delivers dependable operation, making it ideal for less demanding industrial and infrastructure applications where a lighter option is preferred, with a design that emphasizes performance and ease of maintenance.",
@@ -2192,7 +2192,98 @@
               ]
             },
             {
-              "id": 2211,
+              "id": 2214,
+              "name": "Butterfly Valve",
+              "title": "Wafer-Type Butterfly Valve",
+              "path": "/product-item/products/butterfly-valve",
+              "img": "/image/valve/valve_17.jpg",
+              "sectionImg": "/image/valve/valve_17.jpg",
+              "description": "The SB71R-16D series wafer-type butterfly valve is designed for versatile applications, offering reliable flow control across various industries. It features a durable disc made from ductile iron (GJS), available with nickel plating or in stainless steel, ensuring excellent corrosion resistance and longevity. The valve body, also constructed from ductile iron (GJS), provides robust performance under diverse conditions. With nominal diameters ranging from DN 40 to DN 1200 and a pressure rating of PN 10-16, the valve efficiently operates within a temperature range of -25°C to +120°C. It offers multiple sealing options, including EPDM, NBR, VITON, and PTFE, to suit different media and application needs. Compliant with Class A standards according to GOST 54808-2011, the SB71R-16D valve guarantees high-quality, reliable operation. It is designed for easy integration with various actuators, adhering to the ISO 5211 standard, and is suitable for both manual and automated systems, making it an ideal choice for industries requiring precise and dependable flow control solutions.",
+              "typesHeader": "",
+              "typesDescription": "Wafer-Type Butterfly Valve",
+              "types": [
+                {
+                  "id": 221011,
+                  "type": "Series: SB71R-16D"
+                },
+                {
+                  "id": 221012,
+                  "type": "DN: 40-1200"
+                },
+                {
+                  "id": 221013,
+                  "type": "PN: 10-16"
+                },
+                {
+                  "id": 221014,
+                  "type": "Temperature Range: -25°C to +120°C"
+                },
+                {
+                  "id": 221015,
+                  "type": "Body Material: Ductile Iron (GJS)"
+                },
+                {
+                  "id": 221016,
+                  "type": "Disc Material: Ductile Iron (GJS) with Nickel Plating, Stainless Steel"
+                },
+                {
+                  "id": 221017,
+                  "type": "Seal Options: EPDM, NBR, VITON, PTFE"
+                },
+                {
+                  "id": 221018,
+                  "type": "Class: A according to GOST 54808-2011"
+                },
+                {
+                  "id": 221019,
+                  "type": "Actuator Mounting: ISO 5211"
+                }
+              ],
+              "images": [
+                {
+                  "imgPath": "/image/valve/valve_17.jpg",
+                  "alt": "Butterfly Valve"
+                },
+                {
+                  "imgPath": "/image/valve/valve_18.jpg",
+                  "alt": "Butterfly Valve"
+                },
+                {
+                  "imgPath": "/image/valve/valve_19.jpg",
+                  "alt": "Butterfly Valve"
+                },
+                {
+                  "imgPath": "/image/valve/valve_20.jpg",
+                  "alt": "Butterfly Valve"
+                },
+                {
+                  "imgPath": "/image/valve/valve_21.jpg",
+                  "alt": "Butterfly Valve"
+                },
+                {
+                  "imgPath": "/image/valve/valve_22.jpg",
+                  "alt": "Butterfly Valve"
+                },
+                {
+                  "imgPath": "/image/valve/valve_23.jpg",
+                  "alt": "Butterfly Valve"
+                },
+                {
+                  "imgPath": "/image/valve/valve_24.jpg",
+                  "alt": "Butterfly Valve"
+                },
+                {
+                  "imgPath": "/image/valve/valve_25.jpg",
+                  "alt": "Butterfly Valve"
+                },
+                {
+                  "imgPath": "/image/valve/valve_26.jpg",
+                  "alt": "Butterfly Valve"
+                }
+              ]
+            },
+            {
+              "id": 2214,
               "name": "",
               "title": "",
               "path": "",
