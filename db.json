@@ -1719,7 +1719,7 @@
               "description": "With our EMP model, which has been developed according to the principle of minimum energy consumption, we put an end to energy losses in belt pulleys with reducer-driven photocells. EMP® Staior design comes with holes that can be measured as a 6Ge connected to the heat exchanger. The hole design allows for smaller air bubbles to form, which provides better bonding with finer ore particles in the cleaning and cleaning circuits. Optionally, in the cable flotation circuit, these holes can be closed with polyurethane caps and larger air bubbles can be formed.",
               "typesHeader": "",
               "typesDescription": "",
-              "images":[]
+              "images": []
             },
             {
               "id": 2202,
@@ -2478,7 +2478,6 @@
                 }
               ]
             },
-            
             {
               "id": 2218,
               "name": "Wafer-Type Slide Gate Valve",
@@ -2552,23 +2551,6 @@
             },
             {
               "id": 2220,
-              "name": "",
-              "title": "",
-              "path": "",
-              "img": "",
-              "sectionImg": "",
-              "description": "",
-              "typesHeader": "",
-              "typesDescription": "",
-              "images": [
-                {
-                  "imgPath": "",
-                  "alt": ""
-                }
-              ]
-            },
-            {
-              "id": 2221,
               "name": "Double-Eccentric Butterfly Valve",
               "title": "Double-Eccentric Butterfly Valve",
               "path": "/product-item/products/butterfly-valve-double-eccentric",
@@ -2579,39 +2561,39 @@
               "typesDescription": "Double-Eccentric Butterfly Valve",
               "types": [
                 {
-                  "id": 222111,
+                  "id": 222011,
                   "type": "Series: SB42R-16D"
                 },
                 {
-                  "id": 222112,
+                  "id": 222012,
                   "type": "DN: 80-1400"
                 },
                 {
-                  "id": 222113,
+                  "id": 222013,
                   "type": "PN: 10-16"
                 },
                 {
-                  "id": 222114,
+                  "id": 222014,
                   "type": "Temperature Range: -25°C to +120°C"
                 },
                 {
-                  "id": 222115,
+                  "id": 222015,
                   "type": "Body Material: Ductile Iron (GJS)"
                 },
                 {
-                  "id": 222116,
+                  "id": 222016,
                   "type": "Disc Material: Ductile Iron (GJS)"
                 },
                 {
-                  "id": 222117,
+                  "id": 222017,
                   "type": "Seal Options: EPDM, NBR"
                 },
                 {
-                  "id": 222118,
+                  "id": 222018,
                   "type": "Class: A according to GOST 54808-2011"
                 },
                 {
-                  "id": 222119,
+                  "id": 222019,
                   "type": "Actuator Mounting: ISO 5211"
                 }
               ],
@@ -2625,6 +2607,18 @@
                   "alt": "Butterfly Valve"
                 }
               ]
+            },
+            {
+              "id": 2221,
+              "name": "Jaw Crushers",
+              "title": "Versatile Jaw Crushers for Primary and Secondary Crushing",
+              "path": "/product-item/products/jaw-crusher",
+              "img": "/image/crusher/crusher.jpg",
+              "sectionImg": "/image/crusher/crusher.jpg",
+              "description": "Jaw crushers are engineered to crush stones of all hardness levels, making them versatile machines suitable for a variety of applications. They can serve as both primary crushers, handling large rocks at the initial stage of crushing, and as secondary crushers, further reducing the size of materials after primary crushing. The crushing process in jaw crushers involves applying high pressure, which efficiently breaks down the material due to the machine's working principle.",
+              "typesHeader": "Primary Jaw Crushers:",
+              "typesDescription": "",
+              "images": []
             }
           ]
         },
