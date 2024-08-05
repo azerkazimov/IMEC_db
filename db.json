@@ -2428,39 +2428,39 @@
               "typesDescription": "Symmetric Flanged Cast Iron Butterfly Valve",
               "types": [
                 {
-                  "id": 2217xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx11,
+                  "id": 221711,
                   "type": "Series: SB41R-16D"
                 },
                 {
-                  "id": 2217xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx12,
+                  "id": 221712,
                   "type": "DN: 50-1200"
                 },
                 {
-                  "id": 2217xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx13,
+                  "id": 221713,
                   "type": "PN: 10-16"
                 },
                 {
-                  "id": 2217xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx14,
+                  "id": 221714,
                   "type": "Temperature Range: -25°C to +120°C"
                 },
                 {
-                  "id": 2217xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx15,
+                  "id": 221715,
                   "type": "Body Material: Ductile Iron (GJS)"
                 },
                 {
-                  "id": 2217xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx16,
+                  "id": 221716,
                   "type": "Disc Material: Ductile Iron (GJS) with Nickel Plating, Stainless Steel"
                 },
                 {
-                  "id": 2217xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx17,
+                  "id": 221717,
                   "type": "Seal Options: EPDM, NBR, VITON"
                 },
                 {
-                  "id": 2217xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx18,
+                  "id": 221718,
                   "type": "Class: A according to GOST 54808-2011"
                 },
                 {
-                  "id": 2217xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx19,
+                  "id": 221719,
                   "type": "Actuator Mounting: ISO 5211"
                 }
               ],
