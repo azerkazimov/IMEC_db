@@ -2074,6 +2074,124 @@
               ]
             },
             {
+              "id": 2212,
+              "name": "Rubber-Coated Gate Valve (Underground)",
+              "title": "Gate Valve with Rubber-Coated Wedge (Underground)",
+              "path": "/product-item/products/gate-valve-underground",
+              "img": "/image/valve/valve_09.jpg",
+              "sectionImg": "/image/valve/valve_09.jpg",
+              "description": "The SG45R-16DU series gate valve is engineered for underground applications, delivering robust and reliable performance under challenging conditions. Featuring a rubber-coated wedge for excellent sealing and reduced friction, this valve operates smoothly and efficiently. It is suitable for a broad range of flow requirements, available in nominal diameters from DN 50 to DN 1000 with a pressure rating of PN 16. The valve is versatile across a temperature range of -25°C to +130°C, with its ductile iron (GJS) body and wedge providing strong resistance to corrosion. The EPDM-coated wedge enhances sealing capabilities and extends the valve's lifespan. Compliant with Class A standards as per GOST 54808-2011, the SG45R-16DU ensures high-quality, reliable operation, making it an ideal choice for secure fluid control in critical infrastructure and industrial applications.",
+              "typesHeader": "",
+              "typesDescription": "Gate Valve with Rubber-Coated Wedge (Underground)",
+              "types": [
+                {
+                  "id": 221011,
+                  "type": "Series: SG45R-16DU"
+                },
+                {
+                  "id": 221012,
+                  "type": "DN: 50-1000"
+                },
+                {
+                  "id": 221013,
+                  "type": "PN: 16"
+                },
+                {
+                  "id": 221014,
+                  "type": "Temperature Range: -25°C to +130°C"
+                },
+                {
+                  "id": 221015,
+                  "type": "Body Material: Ductile Iron (GJS)"
+                },
+                {
+                  "id": 221016,
+                  "type": "Wedge Material: Ductile Iron (GJS) coated with EPDM"
+                },
+                {
+                  "id": 221017,
+                  "type": "Class: A according to GOST 54808-2011"
+                }
+              ],
+              "images": [
+                {
+                  "imgPath": "/image/valve/valve_09.jpg",
+                  "alt": "Gate Valve"
+                },
+                {
+                  "imgPath": "/image/valve/valve_10.jpg",
+                  "alt": "Gate Valve"
+                },
+                {
+                  "imgPath": "/image/valve/valve_11.jpg",
+                  "alt": "Gate Valve"
+                },
+                {
+                  "imgPath": "/image/valve/valve_12.jpg",
+                  "alt": "Gate Valve"
+                }
+              ]
+            },
+            {
+              "id": 2213,
+              "name": "",
+              "title": "Gate Valve with Rubber-Coated Wedge (Light)",
+              "path": "/product-item/products/gate-valve-underground",
+              "img": "/image/valve/valve_13.jpg",
+              "sectionImg": "/image/valve/valve_13.jpg",
+              "description": "The SG45R-16DL series gate valve is crafted for applications that benefit from a lighter construction, providing reliable performance with ease of installation and handling. Featuring a rubber-coated wedge for excellent sealing and smooth operation, it handles nominal diameters from DN 50 to DN 600 with a pressure rating of PN 16. Operating effectively in temperatures from -10°C to +120°C, the valve's body and wedge are made from ductile iron (GJS), offering robust strength and corrosion resistance. The EPDM coating on the wedge enhances sealing and extends the valve's lifespan. Compliant with Class A standards according to GOST 54808-2011, the SG45R-16DL valve delivers dependable operation, making it ideal for less demanding industrial and infrastructure applications where a lighter option is preferred, with a design that emphasizes performance and ease of maintenance.",
+              "typesHeader": "",
+              "typesDescription": "Gate Valve with Rubber-Coated Wedge (Light)",
+              "types": [
+                {
+                  "id": 221011,
+                  "type": "Series: SG45R-16DL"
+                },
+                {
+                  "id": 221012,
+                  "type": "DN: 50-600"
+                },
+                {
+                  "id": 221013,
+                  "type": "PN: 16"
+                },
+                {
+                  "id": 221014,
+                  "type": "Temperature Range: -10°C to +120°C"
+                },
+                {
+                  "id": 221015,
+                  "type": "Body Material: Ductile Iron (GJS)"
+                },
+                {
+                  "id": 221016,
+                  "type": "Wedge Material: Ductile Iron (GJS) coated with EPDM"
+                },
+                {
+                  "id": 221017,
+                  "type": "Class: A according to GOST 54808-2011"
+                }
+              ],
+              "images": [
+                {
+                  "imgPath": "/image/valve/valve_13.jpg",
+                  "alt": "Gate Valve"
+                },
+                {
+                  "imgPath": "/image/valve/valve_14.jpg",
+                  "alt": "Gate Valve"
+                },
+                {
+                  "imgPath": "/image/valve/valve_15.jpg",
+                  "alt": "Gate Valve"
+                },
+                {
+                  "imgPath": "/image/valve/valve_16.jpg",
+                  "alt": "Gate Valve"
+                }
+              ]
+            },
+            {
               "id": 2211,
               "name": "",
               "title": "",
