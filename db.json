@@ -2602,24 +2602,19 @@
               ]
             },
             {
-              "id": 2214,
-              "name": "",
-              "title": "",
-              "path": "",
-              "img": "",
-              "sectionImg": "",
-              "description": "",
+              "id": 2219,
+              "name": "Particle Size Analyzer",
+              "title": "PSA – Particle Size Analyzer",
+              "path": "/product-item/products/psa",
+              "img": "/image/psa/psa.png",
+              "sectionImg": "/image/psa/psa.png",
+              "description": "The PSA provides real-time process monitoring in wet streams. Analyzing dozens of pictures per minute it literally looks into the process slurry. Its advanced software provides the Particle Size, images and more; with results displayed directly in the site’s control system.",
               "typesHeader": "",
               "typesDescription": "",
-              "images": [
-                {
-                  "imgPath": "",
-                  "alt": ""
-                }
-              ]
+              "images": []
             },
             {
-              "id": 2212,
+              "id": 2220,
               "name": "",
               "title": "",
               "path": "",
