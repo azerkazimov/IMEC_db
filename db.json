@@ -1906,18 +1906,52 @@
             },
             {
               "id": 2209,
-              "name": "",
-              "title": "",
-              "path": "",
-              "img": "",
-              "sectionImg": "",
-              "description": "",
+              "name": "CHEMICAL CONCENTRATION METER",
+              "title": "High-Performance Chemical Concentration Meter for Reliable Monitoring",
+              "path": "/product-item/products/chemical-concentration-meter",
+              "img": "/image/chemical-concentration-meter/chemical-concentration-meter_01.png",
+              "sectionImg": "/image/chemical-concentration-meter/chemical-concentration-meter_01.png",
+              "description": "Numerous industries use chemical concentrations in their production processes because accurate and reliable measurement is important for process optimization. Therefore, Rhosonics has developed several CCM models that can withstand harsh process conditions and are resistant to a wide range of chemicals.Overall, the Rhosonics Chemical Concentration Meter is a valuable tool for industries that require accurate and reliable measurement of chemical concentration. Its ease of use, accuracy, and efficiency make it an ideal choice for a variety of applications.",
               "typesHeader": "",
-              "typesDescription": "",
+              "typesDescription": "Some of the industries that can benefit from this technology include:",
+              "types": [
+                {
+                  "id": 220911,
+                  "type": "Copper Foil plants for measuring H2SO4 & Cu++ concentrations."
+                },
+                {
+                  "id": 220912,
+                  "type": "Zinc refineries for measuring H2SO4 & Zn concentrations."
+                },
+                {
+                  "id": 220913,
+                  "type": "Breweries’ wastewater treatment plants (WWTPs) for measuring chemical concentrations in the wastewater. In addition, the CCMs are capable of measuring the COD concentration of sugar-based wastewater."
+                },
+                {
+                  "id": 220914,
+                  "type": "Flat Panel Display manufacturing plants for measuring complex chemical mixtures such as TMAH+PR+(CO3)."
+                }
+              ],
               "images": [
                 {
-                  "imgPath": "",
-                  "alt": ""
+                  "imgPath": "/image/chemical-concentration-meter/chemical-concentration-meter_01.png",
+                  "alt": "chemical-concentration-meter"
+                },
+                {
+                  "imgPath": "/image/chemical-concentration-meter/chemical-concentration-meter_02.png",
+                  "alt": "chemical-concentration-meter"
+                },
+                {
+                  "imgPath": "/image/chemical-concentration-meter/chemical-concentration-meter_03.png",
+                  "alt": "chemical-concentration-meter"
+                },
+                {
+                  "imgPath": "/image/chemical-concentration-meter/chemical-concentration-meter_04.png",
+                  "alt": "chemical-concentration-meter"
+                },
+                {
+                  "imgPath": "/image/chemical-concentration-meter/chemical-concentration-meter_05.png",
+                  "alt": "chemical-concentration-meter"
                 }
               ]
             },
