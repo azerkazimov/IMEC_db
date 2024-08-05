@@ -2026,31 +2026,31 @@
               "typesDescription": "Gate Valve with Rubber-Coated Wedge and Double Stem Gland",
               "types": [
                 {
-                  "id": 221011,
+                  "id": 221111,
                   "type": "Series: SG45R-16D"
                 },
                 {
-                  "id": 221012,
+                  "id": 221112,
                   "type": "DN: 50-1000"
                 },
                 {
-                  "id": 221013,
+                  "id": 221113,
                   "type": "PN: 16"
                 },
                 {
-                  "id": 221014,
+                  "id": 221114,
                   "type": "Temperature Range: -25°C to +130°C"
                 },
                 {
-                  "id": 221015,
+                  "id": 221115,
                   "type": "Body Material: Ductile Iron (GJS)"
                 },
                 {
-                  "id": 221016,
+                  "id": 221116,
                   "type": "Wedge Material: Ductile Iron (GJS) coated with EPDM"
                 },
                 {
-                  "id": 221017,
+                  "id": 221117,
                   "type": "Class: A according to GOST 54808-2011"
                 }
               ],
@@ -2085,31 +2085,31 @@
               "typesDescription": "Gate Valve with Rubber-Coated Wedge (Underground)",
               "types": [
                 {
-                  "id": 221011,
+                  "id": 221211,
                   "type": "Series: SG45R-16DU"
                 },
                 {
-                  "id": 221012,
+                  "id": 221212,
                   "type": "DN: 50-1000"
                 },
                 {
-                  "id": 221013,
+                  "id": 221213,
                   "type": "PN: 16"
                 },
                 {
-                  "id": 221014,
+                  "id": 221214,
                   "type": "Temperature Range: -25°C to +130°C"
                 },
                 {
-                  "id": 221015,
+                  "id": 221215,
                   "type": "Body Material: Ductile Iron (GJS)"
                 },
                 {
-                  "id": 221016,
+                  "id": 221216,
                   "type": "Wedge Material: Ductile Iron (GJS) coated with EPDM"
                 },
                 {
-                  "id": 221017,
+                  "id": 221217,
                   "type": "Class: A according to GOST 54808-2011"
                 }
               ],
@@ -2144,31 +2144,31 @@
               "typesDescription": "Gate Valve with Rubber-Coated Wedge (Light)",
               "types": [
                 {
-                  "id": 221011,
+                  "id": 221311,
                   "type": "Series: SG45R-16DL"
                 },
                 {
-                  "id": 221012,
+                  "id": 221312,
                   "type": "DN: 50-600"
                 },
                 {
-                  "id": 221013,
+                  "id": 221313,
                   "type": "PN: 16"
                 },
                 {
-                  "id": 221014,
+                  "id": 221314,
                   "type": "Temperature Range: -10°C to +120°C"
                 },
                 {
-                  "id": 221015,
+                  "id": 221315,
                   "type": "Body Material: Ductile Iron (GJS)"
                 },
                 {
-                  "id": 221016,
+                  "id": 221316,
                   "type": "Wedge Material: Ductile Iron (GJS) coated with EPDM"
                 },
                 {
-                  "id": 221017,
+                  "id": 221317,
                   "type": "Class: A according to GOST 54808-2011"
                 }
               ],
@@ -2203,39 +2203,39 @@
               "typesDescription": "Wafer-Type Butterfly Valve",
               "types": [
                 {
-                  "id": 221011,
+                  "id": 221411,
                   "type": "Series: SB71R-16D"
                 },
                 {
-                  "id": 221012,
+                  "id": 221412,
                   "type": "DN: 40-1200"
                 },
                 {
-                  "id": 221013,
+                  "id": 221413,
                   "type": "PN: 10-16"
                 },
                 {
-                  "id": 221014,
+                  "id": 221414,
                   "type": "Temperature Range: -25°C to +120°C"
                 },
                 {
-                  "id": 221015,
+                  "id": 221415,
                   "type": "Body Material: Ductile Iron (GJS)"
                 },
                 {
-                  "id": 221016,
+                  "id": 221416,
                   "type": "Disc Material: Ductile Iron (GJS) with Nickel Plating, Stainless Steel"
                 },
                 {
-                  "id": 221017,
+                  "id": 221417,
                   "type": "Seal Options: EPDM, NBR, VITON, PTFE"
                 },
                 {
-                  "id": 221018,
+                  "id": 221418,
                   "type": "Class: A according to GOST 54808-2011"
                 },
                 {
-                  "id": 221019,
+                  "id": 221419,
                   "type": "Actuator Mounting: ISO 5211"
                 }
               ],
@@ -2294,39 +2294,39 @@
               "typesDescription": "Wafer-Type Butterfly Valve Eco",
               "types": [
                 {
-                  "id": 221011,
+                  "id": 221511,
                   "type": "Series: SB71R-16E"
                 },
                 {
-                  "id": 221012,
+                  "id": 221512,
                   "type": "DN: 40-1200"
                 },
                 {
-                  "id": 221013,
+                  "id": 221513,
                   "type": "PN: 10-16"
                 },
                 {
-                  "id": 221014,
+                  "id": 221514,
                   "type": "Temperature Range: -10°C to +100°C"
                 },
                 {
-                  "id": 221015,
+                  "id": 221515,
                   "type": "Body Material: Cast Iron"
                 },
                 {
-                  "id": 221016,
+                  "id": 221516,
                   "type": "Disc Material: Cast Iron with Coating, Stainless Steel"
                 },
                 {
-                  "id": 221017,
+                  "id": 221517,
                   "type": "Seal Options: EPDM, NBR, VITON"
                 },
                 {
-                  "id": 221018,
+                  "id": 221518,
                   "type": "Class: A according to GOST 54808-2011"
                 },
                 {
-                  "id": 221019,
+                  "id": 221519,
                   "type": "Actuator Mounting: ISO 5211"
                 }
               ],
@@ -2345,6 +2345,140 @@
                 },
                 {
                   "imgPath": "/image/valve/valve_30.jpg",
+                  "alt": "Butterfly Valve"
+                }
+              ]
+            },
+            {
+              "id": 2216,
+              "name": "Butterfly Valve LT",
+              "title": "Wafer-Type Butterfly Valve LT",
+              "path": "/product-item/products/butterfly-valve-lt",
+              "img": "/image/valve/valve_31.jpg",
+              "sectionImg": "/image/valve/valve_31.jpg",
+              "description": "The SB71R-16L series wafer-type butterfly valve LT is engineered for reliable and efficient flow control in various industrial settings. It features a sturdy construction with a body made from either ductile iron (GJS) or stainless steel, and a disc made from ductile iron with nickel plating or stainless steel, providing excellent durability and resistance to corrosion. This valve supports nominal diameters from DN 40 to DN 1200 and operates within a pressure range of PN 10-16. It performs effectively across a temperature range of -25°C to +120°C and offers multiple sealing options, including EPDM, NBR, VITON, and PTFE, to meet diverse media and application needs. Compliant with Class A standards per GOST 54808-2011, the SB71R-16L ensures high-quality, dependable performance. Designed for easy integration with actuators as per ISO 5211, it is suitable for both manual and automated operations, making it an ideal choice for demanding flow control applications.",
+              "typesHeader": "",
+              "typesDescription": "Wafer-Type Butterfly Valve LT",
+              "types": [
+                {
+                  "id": 221611,
+                  "type": "Series: SB71R-16L"
+                },
+                {
+                  "id": 221612,
+                  "type": "DN: 40-1200"
+                },
+                {
+                  "id": 221613,
+                  "type": "PN: 10-16"
+                },
+                {
+                  "id": 221614,
+                  "type": "Temperature Range: -25°C to +120°C"
+                },
+                {
+                  "id": 221615,
+                  "type": "Body Material: Ductile Iron (GJS) / Stainless Steel"
+                },
+                {
+                  "id": 221616,
+                  "type": "Disc Material: Ductile Iron (GJS) with Nickel Plating, Stainless Steel"
+                },
+                {
+                  "id": 221617,
+                  "type": "Seal Options: EPDM, NBR, VITON, PTFE"
+                },
+                {
+                  "id": 221618,
+                  "type": "Class: A according to GOST 54808-2011"
+                },
+                {
+                  "id": 221619,
+                  "type": "Actuator Mounting: ISO 5211"
+                }
+              ],
+              "images": [
+                {
+                  "imgPath": "/image/valve/valve_31.jpg",
+                  "alt": "Butterfly Valve"
+                },
+                {
+                  "imgPath": "/image/valve/valve_32.jpg",
+                  "alt": "Butterfly Valve"
+                },
+                {
+                  "imgPath": "/image/valve/valve_33.jpg",
+                  "alt": "Butterfly Valve"
+                },
+                {
+                  "imgPath": "/image/valve/valve_34.jpg",
+                  "alt": "Butterfly Valve"
+                }
+              ]
+            },
+            {
+              "id": 2217,
+              "name": "Symmetric Butterfly Valve",
+              "title": "Symmetric Flanged Cast Iron Butterfly Valve",
+              "path": "/product-item/products/butterfly-valve-symmetric",
+              "img": "/image/valve/valve_36.jpg",
+              "sectionImg": "/image/valve/valve_36.jpg",
+              "description": "The SB41R-16D series symmetric flanged butterfly valve is designed for robust and reliable flow control in various industrial applications. Featuring a durable body made from ductile iron (GJS) and a disc available in ductile iron with nickel plating or stainless steel, this valve ensures high performance and excellent corrosion resistance. It supports nominal diameters from DN 50 to DN 1200 and operates within a pressure range of PN 10-16, making it suitable for a broad range of applications. Capable of functioning within a temperature range of -25°C to +120°C, the SB41R-16D offers versatile sealing options, including EPDM, NBR, and VITON, to meet different media and operational requirements. Compliant with Class A standards according to GOST 54808-2011, this valve guarantees reliable, high-quality performance. Designed for compatibility with actuators as per ISO 5211, it is suitable for both manual and automated systems, providing a dependable solution for demanding flow control tasks.",
+              "typesHeader": "",
+              "typesDescription": "Symmetric Flanged Cast Iron Butterfly Valve",
+              "types": [
+                {
+                  "id": 2217xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx11,
+                  "type": "Series: SB41R-16D"
+                },
+                {
+                  "id": 2217xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx12,
+                  "type": "DN: 50-1200"
+                },
+                {
+                  "id": 2217xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx13,
+                  "type": "PN: 10-16"
+                },
+                {
+                  "id": 2217xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx14,
+                  "type": "Temperature Range: -25°C to +120°C"
+                },
+                {
+                  "id": 2217xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx15,
+                  "type": "Body Material: Ductile Iron (GJS)"
+                },
+                {
+                  "id": 2217xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx16,
+                  "type": "Disc Material: Ductile Iron (GJS) with Nickel Plating, Stainless Steel"
+                },
+                {
+                  "id": 2217xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx17,
+                  "type": "Seal Options: EPDM, NBR, VITON"
+                },
+                {
+                  "id": 2217xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx18,
+                  "type": "Class: A according to GOST 54808-2011"
+                },
+                {
+                  "id": 2217xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx19,
+                  "type": "Actuator Mounting: ISO 5211"
+                }
+              ],
+              "images": [
+                {
+                  "imgPath": "/image/valve/valve_36.jpg",
+                  "alt": "Butterfly Valve"
+                },
+                {
+                  "imgPath": "/image/valve/valve_37.jpg",
+                  "alt": "Butterfly Valve"
+                },
+                {
+                  "imgPath": "/image/valve/valve_38.jpg",
+                  "alt": "Butterfly Valve"
+                },
+                {
+                  "imgPath": "/image/valve/valve_35.jpg",
                   "alt": "Butterfly Valve"
                 }
               ]
