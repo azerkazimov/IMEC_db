@@ -1824,19 +1824,27 @@
             },
             {
               "id": 2206,
-              "name": "",
-              "title": "",
-              "path": "",
-              "img": "",
-              "sectionImg": "",
-              "description": "",
-              "typesHeader": "",
+              "name": "SLURRY PUMPS",
+              "title": "High-Efficiency Slurry Pumps for Robust Material Handling",
+              "path": "/product-item/products/tickener",
+              "img": "/image/slurry-pump/slurry-pump_03.png",
+              "sectionImg": "/image/slurry-pump/slurry-pump_02.png",
+              "description": "We manufacture five types of horizontal heavy-duty pumps, namely DMP MD 10.8, DMP MD 8.6, DMP MD 6.4, DMP MD 4.3, and DMP MD 3.2. These pumps are designed to withstand harsh, abrasive environments and are available with high-chrome or rubber linings, and can be equipped with either expeller or wet systems.",
+              "typesHeader": "IMEC Slurry Pump Wet System",
               "typesDescription": "",
               "images": [
                 {
-                  "imgPath": "",
-                  "alt": ""
-                }
+                  "imgPath": "/image/slurry-pump/slurry-pump_04.png",
+                  "alt": "Slurry Pumps"
+                },
+                {
+                  "imgPath": "/image/slurry-pump/slurry-pump_01.png",
+                  "alt": "Slurry Pumps"
+                },
+                {
+                  "imgPath": "/image/slurry-pump/slurry-pump_02.png",
+                  "alt": "Slurry Pumps"
+                },
               ]
             },
             {
