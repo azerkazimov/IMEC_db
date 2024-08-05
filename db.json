@@ -1957,7 +1957,7 @@
             },
             {
               "id": 2210,
-              "name": "VALVES",
+              "name": "Gate Valve DIN F4",
               "title": "Gate Valve with Rubber-Coated Wedge per DIN F4",
               "path": "/product-item/products/gate-valve-dinf4",
               "img": "/image/valve/valve_01.jpg",
@@ -2010,6 +2010,65 @@
                 },
                 {
                   "imgPath": "/image/valve/valve_04.jpg",
+                  "alt": "Gate Valve"
+                }
+              ]
+            },
+            {
+              "id": 2211,
+              "name": "Rubber-Coated Gate Valve ",
+              "title": "Gate Valve with Rubber-Coated Wedge and Double Stem Gland",
+              "path": "/product-item/products/gate-valve-robber",
+              "img": "/image/valve/valve_05.jpg",
+              "sectionImg": "/image/valve/valve_05.jpg",
+              "description": "The SG45R-16DP series gate valve is designed for high-performance and durability in demanding environments. This valve features a double stem gland for enhanced sealing and protection against leakage, making it suitable for applications requiring a high level of reliability. The valve is equipped with a rubber-coated wedge, which provides superior sealing and reduces friction, ensuring smooth operation.",
+              "typesHeader": "",
+              "typesDescription": "Gate Valve with Rubber-Coated Wedge and Double Stem Gland",
+              "types": [
+                {
+                  "id": 221011,
+                  "type": "Series: SG45R-16D"
+                },
+                {
+                  "id": 221012,
+                  "type": "DN: 50-1000"
+                },
+                {
+                  "id": 221013,
+                  "type": "PN: 16"
+                },
+                {
+                  "id": 221014,
+                  "type": "Temperature Range: -25°C to +130°C"
+                },
+                {
+                  "id": 221015,
+                  "type": "Body Material: Ductile Iron (GJS)"
+                },
+                {
+                  "id": 221016,
+                  "type": "Wedge Material: Ductile Iron (GJS) coated with EPDM"
+                },
+                {
+                  "id": 221017,
+                  "type": "Class: A according to GOST 54808-2011"
+                }
+              ],
+              "images": [
+                {
+                  "imgPath": "/image/valve/valve_05.jpg",
+                  "alt": "Gate Valve"
+                },
+                {
+                  "imgPath": "/image/valve/valve_06.jpg",
+                  "alt": "Gate Valve"
+                },
+                {
+                  "imgPath": "/image/valve/valve_07.jpg",
+                  "alt": "Gate Valve"
+                },
+                {
+                  "imgPath": "/image/valve/valve_08.jpg",
                   "alt": "Gate Valve"
                 }
               ]
