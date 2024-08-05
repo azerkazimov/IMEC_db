@@ -2283,6 +2283,73 @@
               ]
             },
             {
+              "id": 2215,
+              "name": "Butterfly Valve Eco",
+              "title": "Wafer-Type Butterfly Valve Eco",
+              "path": "/product-item/products/butterfly-valve-eco",
+              "img": "/image/valve/valve_27.jpg",
+              "sectionImg": "/image/valve/valve_27.jpg",
+              "description": "The SB71R-16E series Eco wafer-type butterfly valve offers a cost-effective and efficient solution for flow control across diverse industries. With a cast iron body and a disc available in cast iron with a protective coating or stainless steel, it delivers reliable performance and durability. Supporting nominal diameters from DN 40 to DN 1200 and a pressure rating of PN 10-16, this valve is versatile for various applications. It operates within a temperature range of -10°C to +100°C and provides multiple sealing options, including EPDM, NBR, and VITON, to suit different media and requirements. Compliant with Class A standards per GOST 54808-2011, it ensures high-quality, dependable operation. Designed for easy integration with actuators according to ISO 5211, the SB71R-16E is ideal for both manual and automated systems, offering a practical and economical choice for reliable flow control solutions.",
+              "typesHeader": "",
+              "typesDescription": "Wafer-Type Butterfly Valve Eco",
+              "types": [
+                {
+                  "id": 221011,
+                  "type": "Series: SB71R-16E"
+                },
+                {
+                  "id": 221012,
+                  "type": "DN: 40-1200"
+                },
+                {
+                  "id": 221013,
+                  "type": "PN: 10-16"
+                },
+                {
+                  "id": 221014,
+                  "type": "Temperature Range: -10°C to +100°C"
+                },
+                {
+                  "id": 221015,
+                  "type": "Body Material: Cast Iron"
+                },
+                {
+                  "id": 221016,
+                  "type": "Disc Material: Cast Iron with Coating, Stainless Steel"
+                },
+                {
+                  "id": 221017,
+                  "type": "Seal Options: EPDM, NBR, VITON"
+                },
+                {
+                  "id": 221018,
+                  "type": "Class: A according to GOST 54808-2011"
+                },
+                {
+                  "id": 221019,
+                  "type": "Actuator Mounting: ISO 5211"
+                }
+              ],
+              "images": [
+                {
+                  "imgPath": "/image/valve/valve_27.jpg",
+                  "alt": "Butterfly Valve"
+                },
+                {
+                  "imgPath": "/image/valve/valve_28.jpg",
+                  "alt": "Butterfly Valve"
+                },
+                {
+                  "imgPath": "/image/valve/valve_29.jpg",
+                  "alt": "Butterfly Valve"
+                },
+                {
+                  "imgPath": "/image/valve/valve_30.jpg",
+                  "alt": "Butterfly Valve"
+                }
+              ]
+            },
+            {
               "id": 2214,
               "name": "",
               "title": "",
