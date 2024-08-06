@@ -2761,6 +2761,90 @@
                       "alt": "Vibration analizer"
                     }
                   ]
+                },
+                {
+                  "name": "Falcon",
+                  "path": "/product-item/devices-product/vibration-analyzer/",
+                  "title": "FALCON: Advanced Vibration Data Collection and Analysis Device",
+                  "description": "FALCON is a high-end vibration data collection and analysis device. It can be configured according to your needs with various optional modules to perform tasks such as on-site balancing, acceleration/deceleration, frequency analysis, modal testing/ODS, and more.",
+                  "img": "/image/vibration/falcon-sensor_1.png",
+                  "sectionImg_1": "/image/vibration/falcon-sensor_1.png",
+                  "sectionImg_2": "/image/vibration/falcon-sensor_13.png",
+                  "sectionImg_3": "/image/vibration/falcon-sensor_4.png",
+                  "sectionImg_4": "/image/vibration/falcon-sensor_6.png",
+                  "sectionImg_5": "/image/vibration/falcon-sensor_14.png",
+                  "head_1": "All Necessary Features in One Device",
+                  "head_2": "Accurex™ Automatic Analysis Module",
+                  "head_3": "Accurex™ Automatic Measurement Setup",
+                  "head_4": "Easy Measurement",
+                  "head_5": "Reliable Design",
+                  "paragraph_1": [
+                    "Instant Results with AI-powered Accurex Algorithm: Provides immediate insights into machine condition and potential failures on-site.",
+                    "Touchscreen and User-Friendly Interface: Easy to operate with intuitive controls.",
+                    "Three-Axis Wireless Sensor: Allows synchronized, fast, and secure measurements from all directions.",
+                    "Fast Vibration Measurement and Analysis: Measuring each bearing takes an average of 8 seconds with the three-axis sensor!",
+                    "Four Different Options with Upgradable Models: Choose from Essential, Smart, Expert, and Ultimate, with the ability to upgrade later.",
+                    "Built-in Stroboscope: Measures and records machine RPM.",
+                    "Built-in Laser Pyrometer: Measures bearing temperatures.",
+                    "Built-in Camera: Reads barcodes for quick and easy location of measurement points and takes photos for your reports.",
+                    "Synchronous 4-Channel Sampling: 102.4 kHz sampling frequency and 80 seconds of measurement time.",
+                    "ATEX Zone II Certified Version: Available for ex-proof areas."
+                  ],
+                  "paragraph_2": "The FALCON device offers instant benefits of predictive maintenance with its Accurex™ automatic diagnostic module, delivering results from the very first measurement. As soon as faults are detected, they are immediately presented to the user, providing guidance for additional tests like bearing lubrication and temperature checks, ensuring a more reliable diagnosis. Based on ISO 10816 standards and ACOEM's over 30 years of experience, this module provides dependable results. Whether your facility has hundreds of critical pieces of equipment or just a few, Accurex helps you quickly assess the overall condition and identify equipment needing closer analysis. Detected faults are presented with their location and a confidence interval (patent pending), offering comprehensive and precise insights.",
+                  "paragraph_3": "FALCON makes it easy for everyone. Your database is quickly and automatically created under your supervision, leaving you to simply take measurements and take maintenance actions based on the results. The measurement configuration and database creation process are seamlessly handled by the user-friendly NEST i4.0 desktop software. You simply enter the machine's tag information, and the software takes care of the rest swiftly and automatically. What used to be tedious is now as easy as child's play. All vibration measurements, including ISO 10816 velocity RMS value, acceleration RMS value, Bearing Defect Factor™, high-resolution FFT, time waveform, and custom parameters, can be added with just a few clicks across the entire database. Creating a database has never been this easy!",
+                  "paragraph_4": "With the wireless three-axis sensor and real-time data processing capabilities, vibration measurement times are significantly reduced. It takes just 8 seconds to obtain high-quality vibration data from the X, Y, and Z directions. The use of facility and machine photos makes locating machines on a route easier than ever. The measurement technician can navigate step-by-step from an overhead view of the facility to the sensor location on the machine using FALCON's large, colorful touchscreen. Alternatively, the technician can quickly correlate the measurement point with the route using the barcode reading system.",
+                  "paragraph_5": "FALCON is designed for industrial use in the toughest environments. It boasts an ATEX Zone 2 certification, IP 65 protection, and can withstand drops from up to 1.2 meters. The device features a large, colorful touchscreen that can be operated even with work gloves, and comes with a rubber case for easier handling and added protection against impacts. Its wireless sensor allows users to operate safely within a range of 10 to 20 meters between the sensor and the device. Measurements can be taken behind protective covers or doors, making it easy to conduct assessments in hot and hazardous environments.",
+                  "typesHeader": "Product images",
+                  "images": [
+                    {
+                      "imgPath": "/image/vibration/falcon-sensor_1.png",
+                      "alt": "Falcon vibration analizer"
+                    },
+                    {
+                      "imgPath": "/image/vibration/falcon-sensor_2.png",
+                      "alt": "Falcon vibration analizer"
+                    },
+                    {
+                      "imgPath": "/image/vibration/falcon-sensor_3.png",
+                      "alt": "Falcon vibration analizer"
+                    },
+                    {
+                      "imgPath": "/image/vibration/falcon-sensor_4.png",
+                      "alt": "Falcon vibration analizer"
+                    },
+                    {
+                      "imgPath": "/image/vibration/falcon-sensor_5.png",
+                      "alt": "Falcon vibration analizer"
+                    },
+                    {
+                      "imgPath": "/image/vibration/falcon-sensor_6.png",
+                      "alt": "Falcon vibration analizer"
+                    },
+                    {
+                      "imgPath": "/image/vibration/falcon-sensor_7.png",
+                      "alt": "Falcon vibration analizer"
+                    },
+                    {
+                      "imgPath": "/image/vibration/falcon-sensor_8.png",
+                      "alt": "Falcon vibration analizer"
+                    },
+                    {
+                      "imgPath": "/image/vibration/falcon-sensor_9.png",
+                      "alt": "Falcon vibration analizer"
+                    },
+                    {
+                      "imgPath": "/image/vibration/falcon-sensor_10.png",
+                      "alt": "Falcon vibration analizer"
+                    },
+                    {
+                      "imgPath": "/image/vibration/falcon-sensor_11.png",
+                      "alt": "Falcon vibration analizer"
+                    },
+                    {
+                      "imgPath": "/image/vibration/falcon-sensor_12.png",
+                      "alt": "Falcon vibration analizer"
+                    }
+                  ]
                 }
               ]
             },
