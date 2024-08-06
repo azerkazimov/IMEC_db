@@ -2715,8 +2715,12 @@
             {
               "id": 231,
               "name": "Vibration Analyzer",
+              "title": "",
               "path": "/product-item/devices-product/vibration-analyzer",
-              "img": "/image/devices/vibration-analyzer.jpg"
+              "img": "/image/devices/vibration-analyzer.jpg",
+              "sectionImg": "",
+              "description": "",
+              "subCats": []
             },
             {
               "id": 232,
