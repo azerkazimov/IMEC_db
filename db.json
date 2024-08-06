@@ -2724,10 +2724,25 @@
               "subCats": [
                 {
                   "name": "NEST i4.0",
-                  "title": "NEST i4.0",
-                  "img": "/image/vibration/vibration_1.png",
-                  "description": "NEST is predictive maintenance software that helps plan maintenance actions by monitoring the condition of rotating equipment. It features a user-friendly interface that guides users from database creation to reporting. Key features include automatic machine tree setup, guided analysis, and access to autonomous reports. Data collected from wireless sensors and processed through AI systems like Accurex™ facilitate the creation of predictive maintenance reports, streamlining and accelerating the process. The software's flexible architecture allows multiple factories to be viewed in a single cloud interface.",
                   "path": "/product-item/devices-product/vibration-analyzer/nest-i4",
+                  "title": "NEST i4.0",
+                  "description": "NEST is a predictive maintenance software that helps you plan maintenance actions by monitoring the condition of rotating equipment. A user-friendly interface has been designed, from creating a database to the reporting step. Key features include automatic machine tree setup, guided analysis, and easy access to autonomous reports. Data collected from wireless sensors and processed through AI systems like Accurex™ make it easier and faster to generate predictive maintenance reports. Thanks to its flexible software architecture, it allows viewing multiple factories on a single cloud interface.",
+                  "img": "/image/vibration/vibration_1.png",
+                  "sectionImg_1": "/image/vibration/vibration_2.png",
+                  "sectionImg_2": "/image/vibration/SetupAuto_1.png",
+                  "sectionImg_3": "/image/vibration/vibration_1.png",
+                  "sectionImg_4": "/image/vibration/worldmap.png",
+                  "sectionImg_5": "",
+                  "head_1": "Quickly Access Big Data",
+                  "head_2": "Autonomous Machine Tree",
+                  "head_3": "Complete Support for Your Analysis Process",
+                  "head_4": "Online Monitoring with NEST DASHBOARD",
+                  "head_5": "",
+                  "paragraph_1": "The NEST i4.0 software provides clear and autonomous dashboards and reports for all employees involved in the maintenance and management processes of rotating equipment. Easily understandable visuals that summarize the entire situation offer information about asset condition to both staff with no vibration analysis knowledge and the most skilled vibration analysts. Reports can be accessed instantly from anywhere in the world through a regular internet connection.",
+                  "paragraph_2": "One of the most laborious and tedious tasks in the predictive maintenance process is creating machine trees for rotating equipment. However, with the autonomous machine tree creation feature offered by NEST i4.0, this process becomes much faster and error-free. All you need to do is use the 'drag and drop' tool to create machine directories and define kinematic information (such as motor power, RPM, etc.). Then, NEST i4.0 will automatically generate measurement tasks based on this information. With this configuration, you can use the Accurex™ automatic analysis tool without errors. Even if you have no vibration data, all the necessary measurement routes for your critical equipment will be ready for use in minutes.",
+                  "paragraph_3": "NEST i4.0 is the most efficient vibration analysis software available on the market. In addition to all traditional analysis tools, users are guided to precise points in their analyses through innovative tools such as the Health Matrix screen, Bearing Defect Factor™, Shock Finder™ for low-speed equipment, HarmoniX™ index, and the Accurex™ AI engine. The Analyst module also features advanced analysis tools such as combined spectrum screens, circular time signals, patent-pending bode ellipses, waterfall charts, and orbit charts. This allows everyone from the least experienced users to the most skilled vibration analysts to access necessary machine health information from a single software.",
+                  "paragraph_4": "In today's world, making data-driven decisions is crucial for increasing the reliability and profitability of facilities. The NEST i4.0 software, with its ability to integrate with cloud systems, allows you to monitor data from factories located in different parts of the world and our country from a centralized software. Additionally, with the NEST Dashboard interface, all assets can be remotely monitored through a single interface using data from one or more remote locations and various data sources such as Falcon, Eagle, or MVX. Fully compliant with new IT requirements for cybersecurity, NEST Dashboard is ideal for central monitoring architecture and can be easily accessed from phones, tablets, and computers with any internet connection.",
+                  "paragraph_5": "",
                   "typeheader": "Product images",
                   "images": [
                     {
@@ -2749,7 +2764,7 @@
                     {
                       "imgPath": "/image/vibration/vibration_5.png",
                       "alt": "Vibration analizer"
-                    },
+                    }
                   ]
                 }
               ]
