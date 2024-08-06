@@ -2764,7 +2764,7 @@
                 },
                 {
                   "name": "Falcon",
-                  "path": "/product-item/devices-product/vibration-analyzer/",
+                  "path": "/product-item/devices-product/vibration-analyzer/falcon",
                   "title": "FALCON: Advanced Vibration Data Collection and Analysis Device",
                   "description": "FALCON is a high-end vibration data collection and analysis device. It can be configured according to your needs with various optional modules to perform tasks such as on-site balancing, acceleration/deceleration, frequency analysis, modal testing/ODS, and more.",
                   "img": "/image/vibration/falcon-sensor_1.png",
