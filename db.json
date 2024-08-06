@@ -2717,9 +2717,9 @@
               "name": "Vibration Analyzer",
               "title": "Advanced Vibration Analyzer for Predictive Maintenance and Diagnostics",
               "path": "/product-item/devices-product/vibration-analyzer",
-              "img": "/image/devices/vibration-analyzer.jpg",
-              "sectionImg": "/image/devices/vibration-analyzer.jpg",
-              "description": "NEST is predictive maintenance software that helps plan maintenance actions by monitoring the condition of rotating equipment. It features a user-friendly interface that guides users from database creation to reporting. Key features include automatic machine tree setup, guided analysis, and access to autonomous reports. Data collected from wireless sensors and processed through AI systems like Accurex™ facilitate the creation of predictive maintenance reports, streamlining and accelerating the process. The software's flexible architecture allows multiple factories to be viewed in a single cloud interface.",
+              "img": "/image/vibration/vibration_1.png",
+              "sectionImg": "/image/vibration/vibration_1.png",
+              "description": "A vibration analyzer is a specialized device used to measure and analyze vibrations in machinery and equipment. It helps in detecting imbalances, misalignments, and other issues in mechanical systems by capturing vibration signals and processing them to determine the frequency and amplitude of the vibrations. The data collected by a vibration analyzer can be used for predictive maintenance, allowing maintenance teams to identify potential problems before they lead to equipment failure. This tool is essential in various industries, including manufacturing, power generation, and automotive, where it aids in ensuring machinery operates efficiently and with minimal downtime.",
               "typesHeader": "Vibration Analyzers:",
               "subCats": [
                 {
