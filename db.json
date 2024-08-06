@@ -2731,13 +2731,25 @@
                   "typeheader": "Product images",
                   "images": [
                     {
-                      "imgPath": "/image/condisioner/condisioner_2.png",
-                      "alt": "condisioner"
+                      "imgPath": "/image/vibration/vibration_1.png",
+                      "alt": "Vibration analizer"
                     },
                     {
-                      "imgPath": "/image/condisioner/condisioner_2.png",
-                      "alt": "condisioner"
-                    }
+                      "imgPath": "/image/vibration/vibration_2.png",
+                      "alt": "Vibration analizer"
+                    },
+                    {
+                      "imgPath": "/image/vibration/vibration_3.png",
+                      "alt": "Vibration analizer"
+                    },
+                    {
+                      "imgPath": "/image/vibration/vibration_4.png",
+                      "alt": "Vibration analizer"
+                    },
+                    {
+                      "imgPath": "/image/vibration/vibration_5.png",
+                      "alt": "Vibration analizer"
+                    },
                   ]
                 }
               ]
