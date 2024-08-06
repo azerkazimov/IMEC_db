@@ -2725,7 +2725,7 @@
                 {
                   "name": "NEST i4.0",
                   "title": "NEST i4.0",
-                  "img": "/image/vibration/vibration.png",
+                  "img": "/image/vibration/vibration_1.png",
                   "description": "NEST is predictive maintenance software that helps plan maintenance actions by monitoring the condition of rotating equipment. It features a user-friendly interface that guides users from database creation to reporting. Key features include automatic machine tree setup, guided analysis, and access to autonomous reports. Data collected from wireless sensors and processed through AI systems like Accurex™ facilitate the creation of predictive maintenance reports, streamlining and accelerating the process. The software's flexible architecture allows multiple factories to be viewed in a single cloud interface.",
                   "path": "/product-item/devices-product/vibration-analyzer/nesti4"
                 }
