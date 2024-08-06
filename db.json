@@ -2618,7 +2618,92 @@
               "description": "Jaw crushers are engineered to crush stones of all hardness levels, making them versatile machines suitable for a variety of applications. They can serve as both primary crushers, handling large rocks at the initial stage of crushing, and as secondary crushers, further reducing the size of materials after primary crushing. The crushing process in jaw crushers involves applying high pressure, which efficiently breaks down the material due to the machine's working principle.",
               "typesHeader": "Primary Jaw Crushers:",
               "typesDescription": "",
-              "images": []
+              "categories": [
+                {
+                  "category": "Primary Jaw Crushers",
+                  "categoryDescription": "These jaw crushers are designed for primary crushing applications, capable of handling large rocks and providing initial size reduction. They are built to withstand high pressures and heavy loads.",
+                  "models": [
+                    {
+                      "model": "Model K02",
+                      "dimention": "610x380",
+                      "setting": "40-150 mm",
+                      "capacity": "20-110 t/h",
+                      "power": "30 kW/1500 rpm",
+                      "weight": "6000 kg"
+                    },
+                    {
+                      "model": "Model K05",
+                      "dimention": "650x500",
+                      "setting": "40-150 mm",
+                      "capacity": "25-110 t/h",
+                      "power": "45 kW/1500 rpm",
+                      "weight": "7000 kg"
+                    },
+                    {
+                      "model": "Model K09",
+                      "dimention": "900x650",
+                      "setting": "60-200 mm",
+                      "capacity": "50-250 t/h",
+                      "power": "75 kW/1500 rpm",
+                      "weight": "11000 kg"
+                    },
+                    {
+                      "model": "Model K07",
+                      "dimention": "1100x850",
+                      "setting": "100-200 mm",
+                      "capacity": "210-550 t/h",
+                      "power": "160 kW/1500 rpm",
+                      "weight": "32000 kg"
+                    },
+                    {
+                      "model": "Model K11",
+                      "dimention": "1300x1000",
+                      "setting": "125-250 mm",
+                      "capacity": "275-600 t/h",
+                      "power": "160 kW/1000 rpm",
+                      "weight": "43000 kg"
+                    },
+                    {
+                      "model": "Model K140",
+                      "dimention": "1400x1100",
+                      "setting": "150-300 mm",
+                      "capacity": "285-700 t/h",
+                      "power": "200 kW/1000 rpm",
+                      "weight": "52000 kg"
+                    }
+                  ]
+                },
+                {
+                  "category": "Secondary Jaw Crushers",
+                  "categoryDescription": "Secondary jaw crushers are used for secondary crushing stages, further reducing the size of materials after primary crushing. They are designed to handle smaller feed sizes and finer output specifications.",
+                  "models": [
+                    {
+                      "model": "Model K04",
+                      "dimention": "900x200",
+                      "setting": "12x60 mm",
+                      "capacity": "10-50 t/h",
+                      "power": "30 kW/1500 rpm",
+                      "weight": "6000 kg"
+                    },
+                    {
+                      "model": "Model K09",
+                      "dimention": "600x300",
+                      "setting": "20-80 mm",
+                      "capacity": "09-75 t/h",
+                      "power": "55 kW/1500 rpm",
+                      "weight": "9000 kg"
+                    },
+                    {
+                      "model": "Model K12",
+                      "dimention": "1100x350",
+                      "setting": "20-100 mm",
+                      "capacity": "30-250 t/h",
+                      "power": "75 kW/1500 rpm",
+                      "weight": "11000 kg"
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
