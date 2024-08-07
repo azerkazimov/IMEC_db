@@ -2845,6 +2845,77 @@
                       "alt": "Falcon vibration analizer"
                     }
                   ]
+                },
+                {
+                  "name": "EAGLE",
+                  "path": "/product-item/devices-product/vibration-analyzer/eagle",
+                  "title": "Remote Wireless Monitoring with EAGLE: Up to 150 Three-Axis Vibration Sensors",
+                  "description": "The EAGLE system allows you to monitor machines in remote, confined, or hazardous locations without laying cables by pairing up to 150 wireless three-axis vibration sensors with a single gateway router.",
+                  "img": "/image/vibration/eagle_1.png",
+                  "sectionImg_1": "/image/vibration/eagle_5.png",
+                  "sectionImg_2": "/image/vibration/eagle_6.png",
+                  "sectionImg_3": "/image/vibration/eagle_7.png",
+                  "sectionImg_4": "/image/vibration/eagle_8.png",
+                  "sectionImg_5": "/image/vibration/eagle_9.png",
+                  "head_1": "All the Features You Need in One Place",
+                  "head_2": "Easy Installation",
+                  "head_3": "Ideal Solution for Your Critical Equipment",
+                  "head_4": "Easy Maintenance",
+                  "head_5": "Suitable for Harsh Environments",
+                  "paragraph_1": [
+                    "Three-axis vibration and temperature measurement with a single sensor",
+                    "Reduces installation costs by eliminating the need for cables",
+                    "±50 g dynamic range, measurement of spectrum, time signal, and envelope spectrum in all directions up to 20 kHz",
+                    "Does not interfere with other wireless networks",
+                    "Can be used with all rotating equipment starting from 100 RPM",
+                    "Suitable for environments with explosion risks due to its EX Proof feature",
+                    "Allows for measurement under special operating parameters (speed, load, etc.) by communicating with a PLC",
+                    "Ideal for monitoring machines in enclosed, hazardous, or hard-to-reach areas",
+                    "Easy maintenance: battery lasts five years under normal operating conditions and is easily replaceable"
+                  ],
+                  "paragraph_2": "It is now possible to enhance the reliability of inaccessible, moving, or protected machines in your facility and improve installation reliability in challenging environments or remote locations. EAGLE is a fully automated wireless sensor. The wireless gateway can be installed up to 100 meters away from the sensor, and the coverage area can be extended using wireless extenders. The transmission of vibration data to the analysis software is done wirelessly with high reliability. EAGLE installation is quick and easy.",
+                  "paragraph_3": "EAGLE is the best-performing wireless system in the vibration analysis market. Its measurement quality makes it suitable for monitoring all machines that rotate faster than 100 RPM. EAGLE is not just a sensor; this intelligent wireless system can process signals: advanced indicators, as well as the envelope spectrum, are calculated within the system, allowing for the recording of measurements when a vibration or bearing temperature alarm occurs. The data storage frequency is automatically adjusted based on the machine's condition. Data can be transmitted to the NEST i4.0 machine health platform, which offers unique and patented methods like the Shock Finder™ filter, and can be used for detailed analysis. You can plan your maintenance activities well in advance of any potential failures.",
+                  "paragraph_4": "EAGLE is optimized for long-term service with high performance and low maintenance costs. The EAGLE battery offers up to 5 years of usability under nominal operating conditions, with one full measurement set per day, without the need for external power supply or maintenance operations. For critical machines, EAGLE can provide an optimal monitoring strategy with frequent alarm monitoring and high-quality data storage (total value, time waveform, FFT, envelope), offering a 2-year lifespan even under these conditions. Additionally, the inexpensive standard battery can be easily replaced on-site by the end user.",
+                  "paragraph_5": "The EAGLE solution is designed to meet industry requirements. Both the EAGLE sensor and extenders are approved for use in explosive Zone 0 (Class I, Div I) environments. The stainless steel body, with very low thermal expansion, ensures safe use even in the harshest environments. With IP67 protection, EAGLE is also resistant to corrosive environments. Being wireless and automatic, EAGLE can be used where wired online systems are not feasible, allowing you to monitor your equipment without the need for portable devices.",
+                  "typesHeader": "Product pictures",
+                  "images": [
+                    {
+                      "imgPath": "/image/vibration/eagle_1.png",
+                      "alt": "Eagle Vibration Analizer"
+                    },
+                    {
+                      "imgPath": "/image/vibration/eagle_2.png",
+                      "alt": "Eagle Vibration Analizer"
+                    },
+                    {
+                      "imgPath": "/image/vibration/eagle_3.png",
+                      "alt": "Eagle Vibration Analizer"
+                    },
+                    {
+                      "imgPath": "/image/vibration/eagle_4.png",
+                      "alt": "Eagle Vibration Analizer"
+                    },
+                    {
+                      "imgPath": "/image/vibration/eagle_5.png",
+                      "alt": "Eagle Vibration Analizer"
+                    },
+                    {
+                      "imgPath": "/image/vibration/eagle_6.png",
+                      "alt": "Eagle Vibration Analizer"
+                    },
+                    {
+                      "imgPath": "/image/vibration/eagle_7.png",
+                      "alt": "Eagle Vibration Analizer"
+                    },
+                    {
+                      "imgPath": "/image/vibration/eagle_8.png",
+                      "alt": "Eagle Vibration Analizer"
+                    },
+                    {
+                      "imgPath": "/image/vibration/eagle_9.png",
+                      "alt": "Eagle Vibration Analizer"
+                    }
+                  ]
                 }
               ]
             },
