@@ -3117,22 +3117,22 @@
                   ]
                 },
                 {
-                  "name": "",
-                  "path": "/product-item/devices-product/",
-                  "title": "",
-                  "description": "",
-                  "img": "/image/",
-                  "sectionImg_1": "/image/",
-                  "sectionImg_2": "/image/",
-                  "sectionImg_3": "/image/",
-                  "sectionImg_4": "/image/",
+                  "name": "FIXTURLASER EXO",
+                  "path": "/product-item/devices-product/fixturlaser-exo",
+                  "title": "FIXTURLASER EXO: Certified Smart Alignment System for Hazardous Areas",
+                  "description": "The FIXTURLASER EXO is a cutting-edge alignment system specifically engineered for use in hazardous environments, offering robust and precise performance. It features advanced technologies such as True Live, which provides continuous real-time updates of machine positioning, and VertiZontal Moves™, allowing for simultaneous alignment adjustments in both horizontal and vertical axes without the need for repeated measurements. The system's EX-certified smart sensors and integrated Bluetooth ensure reliable wireless communication and accurate readings, even in challenging conditions. With its user-friendly, icon-based interface and color-coded displays, the FIXTURLASER EXO simplifies complex alignment tasks, reduces the risk of operator error, and accelerates setup time. This system not only enhances alignment accuracy but also contributes to significant time and cost savings across maintenance and production operations.",
+                  "img": "/image/alignment-devices/exo_1.png",
+                  "sectionImg_1": "/image/alignment-devices/exo_2.png",
+                  "sectionImg_2": "",
+                  "sectionImg_3": "",
+                  "sectionImg_4": "",
                   "sectionImg_5": "",
-                  "head_1": "",
+                  "head_1": "Certified Smart Alignment System for Hazardous Areas",
                   "head_2": "",
                   "head_3": "",
                   "head_4": "",
                   "head_5": "",
-                  "paragraph_1": "",
+                  "paragraph_1": "The FIXTURLASER EXO offers a certified, smart alignment solution designed for hazardous environments, integrating industry-leading features like GuideU, Alignment Intelligence, True Live, and VertiZontal Moves™. These advanced laser-based shaft alignment tools deliver unparalleled ease of use, precision, and cost savings. The True Live feature provides real-time machine positioning updates, ensuring accuracy even if the laser beam is interrupted. The EXO system uses industry-leading EX-certified smart sensors and integrated Bluetooth for seamless wireless communication. With a digital sensor detector and line laser, it eliminates rough alignment and shortens setup times. It also features an internal dual inclinometer for detecting gaps and measuring angular values during horizontal alignment. The intuitive, icon-based, color-coded user interface reduces operator error and simplifies the alignment process, making it accessible for users of all experience levels. VertiZontal Moves™ enables precise adjustments in both horizontal and vertical axes with a single measurement, saving time and ensuring accuracy, which translates to significant cost savings for maintenance and production departments.",
                   "paragraph_2": "",
                   "paragraph_3": "",
                   "paragraph_4": "",
@@ -3140,23 +3140,27 @@
                   "typesHeader": "Product images",
                   "images": [
                     {
-                      "imgPath": "/image/",
+                      "imgPath": "/image/alignment-devices/exo_1.png",
                       "alt": ""
                     },
                     {
-                      "imgPath": "/image/",
+                      "imgPath": "/image/alignment-devices/exo_2.png",
                       "alt": ""
                     },
                     {
-                      "imgPath": "/image/",
+                      "imgPath": "/image/alignment-devices/exo_3.png",
                       "alt": ""
                     },
                     {
-                      "imgPath": "/image/",
+                      "imgPath": "/image/alignment-devices/exo_4.png",
                       "alt": ""
                     },
                     {
-                      "imgPath": "/image/",
+                      "imgPath": "/image/alignment-devices/exo_5.png",
+                      "alt": ""
+                    },
+                    {
+                      "imgPath": "/image/alignment-devices/exo_6.png",
                       "alt": ""
                     }
                   ]
