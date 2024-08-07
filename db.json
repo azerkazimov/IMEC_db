@@ -3167,7 +3167,7 @@
                 },
                 {
                   "name": "RT-300",
-                  "path": "/product-item/devices-product/rt-300",
+                  "path": "/product-item/devices-product/alignment-devices/rt-300",
                   "title": "Shaft Alignment",
                   "description": "Robust Sensor Design: Featuring an IP65-certified sensor design, the system is built to withstand challenging environments. The 30 mm digital sensor detector combined with a line laser eliminates the need for rough alignment and ensures a quick setup process. Pre-mounted fixtures and compact sensors enable rapid installation even in confined spaces.",
                   "img": "/image/alignment-devices/rt-300_1.png",
@@ -3208,7 +3208,7 @@
                 },
                 {
                   "name": "AT 200",
-                  "path": "/product-item/devices-product/at-200",
+                  "path": "/product-item/devices-product/alignment-devices/at-200",
                   "title": "Smart Maintenance for Smart Shaft Alignment",
                   "description": "Integrated with connectivity, mobile devices, and applications, the AT-200 becomes a rapid tool for addressing machine failures and corrective actions. Smart sensors utilize CCD technology for superior measurement performance and precise alignment.",
                   "img": "/image/alignment-devices/at-200_1.png",
@@ -3264,7 +3264,7 @@
                 },
                 {
                   "name": "Fixturlaser NXA Ultimate",
-                  "path": "/product-item/devices-product/nxa-ultimate",
+                  "path": "/product-item/devices-product/alignment-devices/nxa-ultimate",
                   "title": "NXA Ultimate: The Pinnacle of Measurement Tools",
                   "description": "The NXA Ultimate stands out as a premier measurement tool, expertly designed to handle both geometric and shaft alignment applications. This versatile instrument ensures optimal operational conditions by first verifying the flatness of machine foundations and then precisely aligning the machinery post-installation. By addressing both pre-installation and operational alignment, the NXA Ultimate guarantees that your machinery performs at its best.",
                   "img": "/image/alignment-devices/nxa-du_1.png",
@@ -3298,7 +3298,7 @@
                 },
                 {
                   "name": "Fixturlaser EVO",
-                  "path": "/product-item/devices-product/evo",
+                  "path": "/product-item/devices-product/alignment-devices/evo",
                   "title": "EVO Laser Shaft Alignment System",
                   "description": "Meeting today’s demands for multi-disciplinary and efficient technicians, the EVO stands out with its compact size and ease of use. Designed to deliver high efficiency with minimal labor, EVO's compact design ensures effective alignment solutions even in confined spaces, providing precise results with reduced physical intervention.",
                   "img": "/image/alignment-devices/evo_1.png",
@@ -3322,7 +3322,7 @@
                 },
                 {
                   "name": "Fixturlaser ECO",
-                  "path": "/product-item/devices-product/eco",
+                  "path": "/product-item/devices-product/alignment-devices/eco",
                   "title": "Fully Digital Wireless ECO: Dedicated to Horizontal Shaft Alignment",
                   "description": "The ECO is a fully digital wireless entry-level system dedicated to horizontal shaft alignment. Its compact display unit, equipped with a 4” color screen, ensures easy use in confined spaces. The intuitive user interface provides industry-leading ease of use. Combined with wireless sensors and an IP 65 certified design, the ECO offers a cost-effective precision device specifically designed for horizontal shaft alignment.",
                   "img": "/image/alignment-devices/eco_2.png",
@@ -3346,7 +3346,7 @@
                 },
                 {
                   "name": "Lazer Kit",
-                  "path": "/product-item/devices-product/laser-kit",
+                  "path": "/product-item/devices-product/alignment-devices/laser-kit",
                   "title": "Laser Shaft Alignment",
                   "description": "The Laser Kit is designed for affordability without compromising on quality or usability. The system includes two digital smart sensors with 30 mm CCD detectors, providing exceptional alignment precision and repeatability regardless of ambient light conditions. The compact sensor design, only 33 mm thick, allows for easy fitting in even the tightest spaces. The intuitive, text-free graphical user interface ensures ease of use and eliminates language barriers. The software provides real-time guidance throughout the alignment process, with automatic reporting to ensure complete and accurate documentation of all alignment activities. Pre-mounted fixtures and pre-configured setups further enhance the efficiency and ease of use, making the Laser Kit an ideal solution for precise shaft alignment in various industrial applications.",
                   "img": "/image/alignment-devices/laser-kit_3.png",
@@ -3387,7 +3387,7 @@
                 },
                 {
                   "name": "Fixturlaser Level",
-                  "path": "/product-item/devices-product/fixturlaser-level",
+                  "path": "/product-item/devices-product/alignment-devices/fixturlaser-level",
                   "title": "Fixturlaser Level: Precision and Flexibility in Machine Alignment",
                   "description": "Fixturlaser Level is a battery-powered measurement sensor that wirelessly connects to the Fixturlaser NXA display unit via Bluetooth. Designed to level machines or machine parts during installation, it provides accurate measurement results with a wide measurement range (± 50 mm/m) and high precision, measuring angular deviations from the surface with a resolution of up to 0.01 mm/m. The measurement sensors can be mounted using magnetic feet or directly onto a table, offering maximum flexibility.",
                   "img": "/image/alignment-devices/level-rg4_1.png",
@@ -3411,7 +3411,7 @@
                 },
                 {
                   "name": "Acoem SMC EX",
-                  "path": "/product-item/devices-product/acoem-smc-ex",
+                  "path": "/product-item/devices-product/alignment-devices/acoem-smc-ex",
                   "title": "Acoem SMC: Advanced Machine Diagnostics and Alignment",
                   "description": "The Acoem SMC provides rapid and precise machine diagnostics and alignment through advanced technologies. With features like the Accurex™ automatic machine diagnosis, integrated stroboscope, internal camera, three-axis wireless sensor, and laser pyrometer, the Acoem SMC ensures comprehensive and accurate machine evaluations. Designed for ease of use with a limited lifetime warranty, it is an essential tool for maintaining optimal machine performance.",
                   "img": "/image/alignment-devices/acoem_3.png",
@@ -3452,7 +3452,7 @@
                 },
                 {
                   "name": "PAT",
-                  "path": "/product-item/devices-product/pat",
+                  "path": "/product-item/devices-product/alignment-devices/pat",
                   "title": "PAT Laser Alignment System: Precision and Ease in Machine Alignment",
                   "description": "The PAT Laser Alignment System provides precise machine alignment using two visible laser emitters, each equipped with spring-loaded guides that fit pulley grooves. The system simplifies alignment by allowing operators to instantly see parallel offsets, angular errors, and distortions. With easy installation and versatile mounting options, PAT ensures that machine alignment processes are quick and accurate.",
                   "img": "/image/alignment-devices/pat_1.png",
@@ -3476,7 +3476,7 @@
                 },
                 {
                   "name": "NXA Geometry",
-                  "path": "/product-item/devices-product/nxa",
+                  "path": "/product-item/devices-product/alignment-devices/nxa",
                   "title": "GuideU - Adaptive Graphical User Interface",
                   "description": "Acoem’s laser-based geometry systems are distinguished by their industry-leading adaptive graphical user interface, designed for ease of use. Whether used regularly or only a few times a year, our products are developed to be as user-friendly as possible, valuing your time and ensuring efficiency. GuideU's interface accompanies you throughout the entire measurement, adjustment, or alignment process, providing real-time guidance and eliminating the need for second-guessing.",
                   "img": "/image/alignment-devices/nxa_1.png",
