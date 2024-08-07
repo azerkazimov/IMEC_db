@@ -2916,6 +2916,83 @@
                       "alt": "Eagle Vibration Analizer"
                     }
                   ]
+                },
+                {
+                  "name": "mvx-mv-120",
+                  "path": "/product-item/devices-product/vibration-analyzer/mvx-mv-120",
+                  "title": "MVX & MV-120: Advanced Real-Time Condition Monitoring for Critical Rotating Equipment",
+                  "description": "ACOEM online condition monitoring systems are designed for continuous, multi-channel condition monitoring of critical rotating equipment. Real-time automatic analysis of vibration data helps prevent unexpected downtimes caused by faults. Machine condition is continuously and reliably monitored, allowing for early detection of failures and enhancing plant reliability.",
+                  "img": "/image/vibration/mvx_1.png",
+                  "sectionImg_1": "/image/vibration/mvx_11.png",
+                  "sectionImg_2": "/image/vibration/mvx_9.png",
+                  "sectionImg_3": "/image/vibration/mvx_10.png",
+                  "sectionImg_4": "/image/vibration/mvx_6.png",
+                  "head_1": "Real-Time Condition Monitoring",
+                  "head_2": "Ideal System for Complex Machines",
+                  "head_3": "Specialized Technology for Low-Speed Equipment",
+                  "head_4": "Versatile Communication Tools",
+                  "paragraph_1": [
+                    "Real-Time Condition Monitoring System",
+                    "Configurable Channel Count: 12 to 32 channels",
+                    "Shock Finder™ Technology: Enables fault detection on very slow rotating shafts",
+                    "Management of Multiple Operating Conditions: Defined by one or more process parameters",
+                    "Integration with Other ACOEM Devices: Data collected by other ACOEM devices (Falcon or Eagle) can be integrated with data collected by MVX in the NEST interface",
+                    "Compatibility with Existing Protection Systems",
+                    "Seamless Data Collection: Continuous condition monitoring with no gaps, ensuring no events are missed",
+                    "Always on Guard: MVX detects even the slightest abnormalities in real time",
+                    "Pre-Trigger Function: Includes data from before the occurrence of an event by incorporating raw signal measurements",
+                    "Detection of Transient and Non-Repeating Events: Helps in identifying transient issues and avoiding false alarms"
+                  ],
+                  "paragraph_2": "In the era of Industry 4.0, capturing data is straightforward, but reliably analyzing it under variable process conditions is crucial for predicting failures. MVX and MV-120 technology excels in monitoring even the most complex machines in today’s industrial processes. It allows the definition of up to 10 different operating conditions using one or more process parameters, automatically applying data collection strategies, indicators, and alarm thresholds for each condition. With built-in stability parameters, you can be confident that measurements are taken at the optimal moment, ensuring precise and actionable insights.",
+                  "paragraph_3": "Predictive maintenance for low-speed rotating machines is more complex due to the need for high-resolution data and advanced vibration analysis tools, which can challenge many systems and analysts. ACOEM provides an excellent solution for monitoring low-speed equipment with its MVX and MV-120 systems, integrated with NEST software. This technology enables simultaneous recording of data from several shaft rotations of low-speed equipment (<10 RPM) across 32 channels, facilitating the detection of bearing faults through analysis of both low and high-frequency content. The ACOEM Shock Finder™ algorithm, developed through practical applications, enhances the detection of shock vibrations hidden within low-frequency, high-amplitude signals, making it easier to identify bearing damage in low-speed equipment.",
+                  "paragraph_4": "MVX and MV-120 encompass a variety of communication protocols and hardware. They feature two manageable Ethernet ports, allowing separate network connections for NEST software and PLC, with one port used for software communication and the other for PLC interaction. The systems support bidirectional Modbus TCP/IP or Modbus RTU (RS485) for two-way data exchange with PLC and SCADA systems. They offer 4 or 8 alarm outputs or digital inputs, which can be used to activate warning systems or stop machinery, and manage measurements. An OPC Server enables publishing of alarm statuses and expert recommendations through NEST software, while email notifications can be sent to predefined addresses for alarm conditions. Additionally, MVX and MV-120 are compatible with Wi-Fi, 3G-4G, and wired Ethernet communications, with unsent data stored in internal memory to prevent data loss.",
+                  "typesHeader": "Product picture",
+                  "images": [
+                    {
+                      "imgPath": "/image/vibration/mvx_1",
+                      "alt": "mvx-mv-120"
+                    },
+                    {
+                      "imgPath": "/image/vibration/mvx_2",
+                      "alt": "mvx-mv-120"
+                    },
+                    {
+                      "imgPath": "/image/vibration/mvx_3",
+                      "alt": "mvx-mv-120"
+                    },
+                    {
+                      "imgPath": "/image/vibration/mvx_4",
+                      "alt": "mvx-mv-120"
+                    },
+                    {
+                      "imgPath": "/image/vibration/mvx_5",
+                      "alt": "mvx-mv-120"
+                    },
+                    {
+                      "imgPath": "/image/vibration/mvx_6",
+                      "alt": "mvx-mv-120"
+                    },
+                    {
+                      "imgPath": "/image/vibration/mvx_7",
+                      "alt": "mvx-mv-120"
+                    },
+                    {
+                      "imgPath": "/image/vibration/mvx_8",
+                      "alt": "mvx-mv-120"
+                    },
+                    {
+                      "imgPath": "/image/vibration/mvx_9",
+                      "alt": "mvx-mv-120"
+                    },
+                    {
+                      "imgPath": "/image/vibration/mvx_10",
+                      "alt": "mvx-mv-120"
+                    },
+                    {
+                      "imgPath": "/image/vibration/mvx_11",
+                      "alt": "mvx-mv-120"
+                    },
+                  ]
                 }
               ]
             },
