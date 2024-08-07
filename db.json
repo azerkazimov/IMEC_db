@@ -3170,7 +3170,7 @@
                   "path": "/product-item/devices-product/rt-300",
                   "title": "Shaft Alignment",
                   "description": "Robust Sensor Design: Featuring an IP65-certified sensor design, the system is built to withstand challenging environments. The 30 mm digital sensor detector combined with a line laser eliminates the need for rough alignment and ensures a quick setup process. Pre-mounted fixtures and compact sensors enable rapid installation even in confined spaces.",
-                  "img": "/image/alignment-devices/",
+                  "img": "/image/alignment-devices/rt-300_1.png",
                   "sectionImg_1": "/image/alignment-devices/rt-300_1.png",
                   "sectionImg_2": "/image/alignment-devices/rt-300_2.png",
                   "sectionImg_3": "/image/alignment-devices/rt-300_3.png",
@@ -3261,6 +3261,40 @@
                       "alt": "AT 200"
                     }
                   ]
+                },
+                {
+                  "name": "NXA Ultimate",
+                  "path": "/product-item/devices-product/nxa-ultimate",
+                  "title": "NXA Ultimate: The Pinnacle of Measurement Tools",
+                  "description": "The NXA Ultimate stands out as a premier measurement tool, expertly designed to handle both geometric and shaft alignment applications. This versatile instrument ensures optimal operational conditions by first verifying the flatness of machine foundations and then precisely aligning the machinery post-installation. By addressing both pre-installation and operational alignment, the NXA Ultimate guarantees that your machinery performs at its best.",
+                  "img": "/image/alignment-devices/nxa-du_1.png",
+                  "sectionImg_1": "/image/alignment-devices/nxa-du_1.png",
+                  "sectionImg_2": "",
+                  "sectionImg_3": "",
+                  "sectionImg_4": "",
+                  "sectionImg_5": "",
+                  "head_1": "Key Features of NXA Ultimate:",
+                  "head_2": "",
+                  "head_3": "",
+                  "head_4": "",
+                  "head_5": "",
+                  "paragraph_1": [
+                    "Ultra-High Resolution CCD Detectors: Provides unparalleled measurement accuracy.",
+                    "Bluetooth-Enabled Compact Sensor Units: Integrates 30 mm detector surfaces and line lasers for compact yet effective measurements.",
+                    "OmniView™ Technology: Utilizes built-in gyroscopes to display screen data from the user’s perspective, tracking both the user and machine positions.",
+                    "Advanced Sensor Position Tracking: Allows alignment in both vertical and horizontal orientations, even without 180° shaft rotation.",
+                    "Exceptional Power Management: Delivers up to 10 hours of operation on a single charge.",
+                    "Graphical User Interface: Features intuitive icons and color-coded symbols with 3D animations for clear guidance through measurements.",
+                    "Micron-Resolution Measurements: Ensures high precision and minimal corrections.",
+                    "Post-Measurement Evaluation: Processes recorded results to select the optimal reference.",
+                    "Lifetime Warranty: Backed by a limited lifetime warranty for additional reliability."
+                  ],
+                  "paragraph_2": "By incorporating these advanced features, the NXA Ultimate offers an exceptional solution for both routine maintenance and new installations, ensuring precision and efficiency in every measurement.",
+                  "paragraph_3": "",
+                  "paragraph_4": "",
+                  "paragraph_5": "",
+                  "typesHeader": "",
+                  "images": []
                 },
                 {
                   "name": "",
