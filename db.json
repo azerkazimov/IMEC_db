@@ -3345,6 +3345,47 @@
                   "images": []
                 },
                 {
+                  "name": "Lazer Kit",
+                  "path": "/product-item/devices-product/laser-kit",
+                  "title": "Laser Shaft Alignment",
+                  "description": "The Laser Kit is designed for affordability without compromising on quality or usability. The system includes two digital smart sensors with 30 mm CCD detectors, providing exceptional alignment precision and repeatability regardless of ambient light conditions. The compact sensor design, only 33 mm thick, allows for easy fitting in even the tightest spaces. The intuitive, text-free graphical user interface ensures ease of use and eliminates language barriers. The software provides real-time guidance throughout the alignment process, with automatic reporting to ensure complete and accurate documentation of all alignment activities. Pre-mounted fixtures and pre-configured setups further enhance the efficiency and ease of use, making the Laser Kit an ideal solution for precise shaft alignment in various industrial applications.",
+                  "img": "/image/alignment-devices/",
+                  "sectionImg_1": "/image/alignment-devices/laser-kit_1.png",
+                  "sectionImg_2": "/image/alignment-devices/laser-kit_4.png",
+                  "sectionImg_3": "",
+                  "sectionImg_4": "",
+                  "sectionImg_5": "",
+                  "head_1": "Kit Contents: Boxed Laser Kit",
+                  "head_2": "Affordable Innovation in Laser Shaft Alignment",
+                  "head_3": "",
+                  "head_4": "",
+                  "head_5": "",
+                  "paragraph_1": [
+                    "2 digital smart sensors",
+                    "2 complete V-brackets",
+                    "2 chains",
+                    "Power supply with USB port",
+                    "Rod tool",
+                    "Y splitter cable",
+                    "5 m cable"
+                  ],
+                  "paragraph_2": "Laser shaft alignment designed and manufactured for mechanics has finally reached a price level accessible to everyone. Traditionally, low cost has meant sacrificing usability, quality, or both—but not this time! The Laser Kit includes two wireless sensor units utilizing line lasers, minimizing setup time and simplifying the installation process. Pre-mounted on fixtures and pre-configured for the most common setup, these sensors ensure ease of use. The software, operable on a tablet or phone, guides users through the entire alignment process with a completely graphical interface, eliminating language barriers. Automatic reporting includes all relevant information, ensuring no doubt about the alignment status and job completion. With a technical platform shared with our most successful and reliable product, the Laser Kit offers all the essential functions expected from an entry-level laser shaft alignment system, ensuring long and trouble-free operation.",
+                  "paragraph_3": "",
+                  "paragraph_4": "",
+                  "paragraph_5": "",
+                  "typesHeader": "",
+                  "images": [
+                    {
+                      "imgPath": "/image/alignment-devices/laser-kit_3.png",
+                      "alt": "Laser Kit"
+                    },
+                    {
+                      "imgPath": "/image/alignment-devices/laser-kit_2.png",
+                      "alt": "Laser Kit"
+                    }
+                  ]
+                },
+                {
                   "name": "",
                   "path": "/product-item/devices-product/",
                   "title": "",
