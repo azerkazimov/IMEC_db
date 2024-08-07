@@ -3410,6 +3410,47 @@
                   "images": []
                 },
                 {
+                  "name": "Acoem SMC EX",
+                  "path": "/product-item/devices-product/acoem-smc-ex",
+                  "title": "Acoem SMC: Advanced Machine Diagnostics and Alignment",
+                  "description": "The Acoem SMC provides rapid and precise machine diagnostics and alignment through advanced technologies. With features like the Accurex™ automatic machine diagnosis, integrated stroboscope, internal camera, three-axis wireless sensor, and laser pyrometer, the Acoem SMC ensures comprehensive and accurate machine evaluations. Designed for ease of use with a limited lifetime warranty, it is an essential tool for maintaining optimal machine performance.",
+                  "img": "/image/alignment-devices/acoem_3.png",
+                  "sectionImg_1": "/image/alignment-devices/acoem_1.png",
+                  "sectionImg_2": "/image/alignment-devices/acoem_2.png",
+                  "sectionImg_3": "/image/alignment-devices/acoem_5.png",
+                  "sectionImg_4": "/image/alignment-devices/acoem_6.png",
+                  "sectionImg_5": "/image/alignment-devices/acoem_7.png",
+                  "head_1": "Three Simple Steps for Fast and Accurate Machine Diagnosis",
+                  "head_2": "Accurex™ - Automated Machine Diagnosis",
+                  "head_3": "Integrated Stroboscope for RPM Measurement",
+                  "head_4": "Internal Camera for Easy Identification",
+                  "head_5": "Three-Axis Wireless Sensor for Comprehensive Measurements",
+                  "paragraph_1": [
+                    "Select Your Machine: Start by choosing the machine you wish to diagnose from the device's menu.",
+                    "Perform Inspections: The system automatically inspects each predefined point on the machine.",
+                    "Review Diagnostic Report: Access the machine diagnosis report to identify problems and necessary corrective actions."
+                  ],
+                  "paragraph_2": "The Acoem SMC is equipped with the innovative Accurex™ automated machine diagnosis, which is seamlessly integrated into the system. This feature provides extensive, reliable diagnostic results, setting the Acoem SMC apart from other systems. Accurex™ ensures that users receive precise and actionable insights into their machine's condition, enhancing overall maintenance effectiveness.",
+                  "paragraph_3": "The system includes an integrated stroboscope, crucial for accurate RPM measurement. This built-in feature allows for precise determination of RPM values, which is essential for accurate diagnostics and effective machine assessment. The stroboscope enhances the reliability of the diagnostic results by providing accurate RPM data.",
+                  "paragraph_4": "Featuring an internal camera, the Acoem SMC simplifies machine identification, sensor placement, and report viewing. This clear visual aid streamlines the setup process and improves diagnostic accuracy, allowing users to efficiently manage and interpret machine data with minimal effort.",
+                  "paragraph_5": "The Acoem SMC’s three-axis wireless sensor provides measurements in vertical, horizontal, and axial planes. This simultaneous measurement capability ensures a thorough evaluation of machine alignment, offering a fast and efficient diagnostic process. The wireless functionality adds flexibility and convenience, enhancing the overall user experience.",
+                  "typesHeader": "",
+                  "images": [
+                    {
+                      "imgPath": "/image/alignment-devices/acoem_1.png",
+                      "alt": "Acoem SMC EX"
+                    },
+                    {
+                      "imgPath": "/image/alignment-devices/acoem_2.png",
+                      "alt": "Acoem SMC EX"
+                    },
+                    {
+                      "imgPath": "/image/alignment-devices/acoem_3.png",
+                      "alt": "Acoem SMC EX"
+                    }
+                  ]
+                },
+                {
                   "name": "",
                   "path": "/product-item/devices-product/",
                   "title": "",
