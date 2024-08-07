@@ -3475,51 +3475,43 @@
                   "images": []
                 },
                 {
-                  "name": "",
-                  "path": "/product-item/devices-product/",
-                  "title": "",
-                  "description": "",
-                  "img": "/image/alignment-devices/",
-                  "sectionImg_1": "/image/alignment-devices/",
-                  "sectionImg_2": "",
-                  "sectionImg_3": "",
+                  "name": "NXA Geometry",
+                  "path": "/product-item/devices-product/nxa",
+                  "title": "GuideU - Adaptive Graphical User Interface",
+                  "description": "Acoem’s laser-based geometry systems are distinguished by their industry-leading adaptive graphical user interface, designed for ease of use. Whether used regularly or only a few times a year, our products are developed to be as user-friendly as possible, valuing your time and ensuring efficiency. GuideU's interface accompanies you throughout the entire measurement, adjustment, or alignment process, providing real-time guidance and eliminating the need for second-guessing.",
+                  "img": "/image/alignment-devices/nxa_1.png",
+                  "sectionImg_1": "/image/alignment-devices/nxa_4.png",
+                  "sectionImg_2": "/image/alignment-devices/nxa_5.png",
+                  "sectionImg_3": "/image/alignment-devices/nxa_3.png",
                   "sectionImg_4": "",
                   "sectionImg_5": "",
-                  "head_1": "",
-                  "head_2": "",
-                  "head_3": "",
+                  "head_1": "Receiver Options and Sensor Capabilities",
+                  "head_2": "Transmitters",
+                  "head_3": "What’s in the Box?",
                   "head_4": "",
                   "head_5": "",
-                  "paragraph_1": "",
-                  "paragraph_2": "",
-                  "paragraph_3": "",
+                  "paragraph_1": "The NXA Geometry software provides standard accuracy for measurements, supporting applications for both full and half diameters during measurements, and enabling rectangular and circular alignment measurements for foundations and machine beds during installations. It comes in two versions: NXA Geometry Basic and NXA Geometry Full, with the latter including an additional RS sensor unit for enhanced measurement capabilities. The optional R2 sensor unit, used as a reference detector during measurements, features a 2-axis 20 mm PSD detector, slim design, rechargeable Li-Ion batteries, integrated target and directional coordinates, high-precision inclinometer, instant battery check in both open and closed modes, and integrated Bluetooth for wireless connection between the display unit and smart sensor.",
+                  "paragraph_2": "Choose from four different laser transmitters for alignment and/or alignment measurements. The Laser Transmitter T110 is suitable for alignment applications with a rigid design for measurement stability, offering up to 50 m laser distance and features micrometer screws for horizontal and vertical adjustments, and is battery-operated. The Laser Transmitter T111, similar to the T110, operates with an AC adapter. For flatness, squareness, and parallelism applications, the Laser Transmitter T21 offers up to 20 m measurement distance with manual adjustment for the laser turret and is battery-operated. The Laser Transmitter T220 is ideal for the same applications, with a robust design for high measurement stability, offering up to 50 m measurement distance, micrometer screws for precise adjustments, built-in levels for laser transmitter adjustment, and is battery-operated.",
+                  "paragraph_3": "The NXA Geometry Full R2 package includes a display unit, 2 R2 sensors, 2 R2 receiver holders, 2 rotary magnets for sensor holders, a 5m tape measure, 2 angled universal tools, 2 power cables with power supply, a 2 USB port power supply with adapter plugs and an A-micro B USB cable, a USB memory stick, and both the NXA User Manual and NXA Geometry User Manual. The NXA Geometry Basic R2 package includes a display unit, an R2 sensor, an R2 sensor holder, a rotary magnet base for the sensor holder, a 5m tape measure, 2 angled universal tools, 2 power cables with power supply, a 2 USB port power supply with adapter plugs and an A-micro B USB cable, a USB memory stick, and the NXA User Manual and NXA Geometry User Manual.",
                   "paragraph_4": "",
                   "paragraph_5": "",
-                  "typesHeader": "Product images",
+                  "typesHeader": "Transmitters",
                   "images": [
                     {
-                      "imgPath": "/image/alignment-devices/",
-                      "alt": ""
+                      "imgPath": "/image/alignment-devices/nxa_6.png",
+                      "alt": "Transmitters"
                     },
                     {
-                      "imgPath": "/image/alignment-devices/",
-                      "alt": ""
+                      "imgPath": "/image/alignment-devices/nxa_7.png",
+                      "alt": "Transmitters"
                     },
                     {
-                      "imgPath": "/image/alignment-devices/",
-                      "alt": ""
+                      "imgPath": "/image/alignment-devices/nxa_8.png",
+                      "alt": "Transmitters"
                     },
                     {
-                      "imgPath": "/image/alignment-devices/",
-                      "alt": ""
-                    },
-                    {
-                      "imgPath": "/image/alignment-devices/",
-                      "alt": ""
-                    },
-                    {
-                      "imgPath": "/image/alignment-devices/",
-                      "alt": ""
+                      "imgPath": "/image/alignment-devices/nxa_9.png",
+                      "alt": "Transmitters"
                     }
                   ]
                 }
