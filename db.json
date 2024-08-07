@@ -3062,10 +3062,10 @@
               ]
             },
             {
-              "id": 231,
+              "id": 232,
+              "path": "/product-item/devices-product/alignment-devices",
               "name": "Alignment Devices",
               "title": "Precision Alignment Devices: Simplifying Shaft Alignment",
-              "path": "/product-item/devices-product/alignment-devices",
               "img": "/image/alignment-devices/alignment_1.png",
               "sectionImg": "/image/alignment-devices/alignment-devices.png",
               "description": "Precision alignment devices, like the Fixturlaser NXA Pro, streamline both standard and complex shaft alignment tasks. These advanced tools not only handle conventional horizontal and vertical alignments but also tackle unconventional applications with efficiency. Featuring intuitive user interfaces with universal colors and easily understandable symbols, these devices enable users to perform accurate alignments quickly and effortlessly, saving valuable time and reducing labor.",
