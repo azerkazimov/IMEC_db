@@ -3207,6 +3207,62 @@
                   ]
                 },
                 {
+                  "name": "AT 200",
+                  "path": "/product-item/devices-product/at-200",
+                  "title": "Smart Maintenance for Smart Shaft Alignment",
+                  "description": "Integrated with connectivity, mobile devices, and applications, the AT-200 becomes a rapid tool for addressing machine failures and corrective actions. Smart sensors utilize CCD technology for superior measurement performance and precise alignment.",
+                  "img": "/image/alignment-devices/at-200_1.png",
+                  "sectionImg_1": "/image/alignment-devices/at-200_2.png",
+                  "sectionImg_2": "/image/alignment-devices/at-200_3.png",
+                  "sectionImg_3": "",
+                  "sectionImg_4": "",
+                  "sectionImg_5": "",
+                  "head_1": "Smart Alignment Sensor Features:",
+                  "head_2": "Smart Alignment with GuideU",
+                  "head_3": "",
+                  "head_4": "",
+                  "head_5": "",
+                  "paragraph_1": [
+                    "30 mm Digital Sensor Detectors: Capable of measuring long distances and large angular misalignments.",
+                    "Integrated Line Laser: Eliminates the need for rough alignment with a quick setup.",
+                    "Thin Smart Sensors: Among the thinnest available, suitable for tight spaces.",
+                    "Internal Dual Inclinometer: Detects coupling gaps and obtains angular values during horizontal alignment.",
+                    "Integrated Bluetooth: Facilitates wireless communication between the display unit and smart sensors.",
+                    "Digital Signal Processing: Less sensitive to ambient light, with improved point rejection and edge detection.",
+                    "Sunlight-Resistant Detectors: Designed to perform reliably under sunlight.",
+                    "Instant Battery Check: Available in both open and closed modes.",
+                    "IP65 Certified: Durable for harsh environments.",
+                    "Pre-Mounted Support Rods: Ensures quick installation in confined spaces."
+                  ],
+                  "paragraph_2": "The AT-200 stands out as a smart, application-based alignment tool with its patented GuideU adaptive user interface. Leveraging industry-first visible laser beams and inclinometer technology that tracks both shaft positions simultaneously, it eliminates guesswork. Even if the laser beam is interrupted or sensor connections are lost, the intelligent sensors will continue to provide up-to-date machine positioning and accurate real-time values.",
+                  "paragraph_3": "",
+                  "paragraph_4": "",
+                  "paragraph_5": "",
+                  "typesHeader": "Product images",
+                  "images": [
+                    {
+                      "imgPath": "/image/alignment-devices/at-200_1.png",
+                      "alt": "AT 200"
+                    },
+                    {
+                      "imgPath": "/image/alignment-devices/at-200_2.png",
+                      "alt": "AT 200"
+                    },
+                    {
+                      "imgPath": "/image/alignment-devices/at-200_3.png",
+                      "alt": "AT 200"
+                    },
+                    {
+                      "imgPath": "/image/alignment-devices/at-200_4.png",
+                      "alt": "AT 200"
+                    },
+                    {
+                      "imgPath": "/image/alignment-devices/at-200_5.png",
+                      "alt": "AT 200"
+                    }
+                  ]
+                },
+                {
                   "name": "",
                   "path": "/product-item/devices-product/",
                   "title": "",
