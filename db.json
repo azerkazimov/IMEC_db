@@ -3631,10 +3631,55 @@
       "service": [
         {
           "id": 6011,
+          "img": "/image/maintenance/rdi.jpg",
+          "path": "/maintenance/service/rdi-motion-amplification",
           "name": "RDI MOTION AMPLIFICATION",
           "title": "IMEC RDI Motion Amplification Service",
           "header": "Enhancing Industrial Maintenance with Precision Motion Analysis",
           "description": "At IMEC, we are committed to providing cutting-edge solutions for industrial maintenance and reliability. Our RDI Motion Amplification Service is a revolutionary technology that amplifies tiny movements to help you identify and diagnose machinery issues with unprecedented clarity and accuracy.",
+          "subCats": [
+            {
+              "name": "IRIS M",
+              "path": "/maintenance/service/rdi-motion-amplification/iris-m",
+              "title": "Iris M: Revolutionizing Motion Detection with Advanced RDI Technology",
+              "description": "The Iris M platform, developed by RDI Technologies, uncovers movements invisible to the naked eye through its cutting-edge motion amplification software. This revolutionary technology converts subtle vibrations into visible motion, enhancing operational efficiency, reliability, and quality monitoring. By transforming every pixel of the camera into a sensor, Iris M delivers millions of measurements per second without any physical connection, providing real-time insights for improved decision-making.",
+              "img": "/image/maintenance/iris-m-rdi.png",
+              "sectionImg_1": "/image/maintenance/iris-m-rdi.png",
+              "sectionImg_2": "",
+              "sectionImg_3": "",
+              "sectionImg_4": "",
+              "sectionImg_5": "",
+              "head_1": "Live Motion Amplification® Technology",
+              "head_2": "",
+              "head_3": "",
+              "head_4": "",
+              "head_5": "",
+              "paragraph_1": "Iris M offers the groundbreaking capability to visualize even the most subtle movements in real-time using Live Motion Amplification® technology. This feature enables users to monitor and analyze vibrations across various regions simultaneously, making it possible to identify issues with unparalleled precision. The platform also supports advanced data export options and frequency filtering, ensuring comprehensive analysis and stabilization for accurate results. With Iris M, both technical and non-technical personnel can communicate more effectively, leading to faster and more informed decisions, ultimately saving time and money.",
+              "paragraph_2": "",
+              "paragraph_3": "",
+              "paragraph_4": "",
+              "paragraph_5": "",
+              "typesHeader": "",
+              "images": [
+                {
+                  "imgPath": "/image/",
+                  "alt": ""
+                },
+                {
+                  "imgPath": "/image/",
+                  "alt": ""
+                },
+                {
+                  "imgPath": "/image/",
+                  "alt": ""
+                },
+                {
+                  "imgPath": "/image/",
+                  "alt": ""
+                }
+              ]
+            }
+          ],
           "content": {
             "what_is_it": "Motion Amplification is a video-based technology that detects and visualizes subtle movements that are not visible to the naked eye. By amplifying these movements, our system converts them into easy-to-understand visual data, allowing for precise identification of issues in machinery and structures.",
             "features": [
@@ -3655,9 +3700,7 @@
               "Mechanical Systems: Conveyors, gearboxes, and couplings."
             ],
             "why_choose_imec": "IMEC combines advanced technology with expert knowledge to deliver unparalleled motion amplification services. Our team of experienced professionals is dedicated to helping you achieve optimal machinery performance and reliability."
-          },
-          "img": "/image/maintenance/rdi.jpg",
-          "path": "/maintenance/service/rdi-motion-amplification"
+          }
         },
         {
           "id": 6012,
