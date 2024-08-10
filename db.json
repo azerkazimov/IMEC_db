@@ -3631,10 +3631,10 @@
       "service": [
         {
           "id": 6011,
-          "img": "/image/maintenance/rdi.jpg",
-          "path": "/maintenance/service/rdi-motion-amplification",
           "name": "RDI MOTION AMPLIFICATION",
           "title": "IMEC RDI Motion Amplification Service",
+          "path": "/maintenance/service/rdi-motion-amplification",
+          "img": "/image/maintenance/rdi.jpg",
           "header": "Enhancing Industrial Maintenance with Precision Motion Analysis",
           "description": "At IMEC, we are committed to providing cutting-edge solutions for industrial maintenance and reliability. Our RDI Motion Amplification Service is a revolutionary technology that amplifies tiny movements to help you identify and diagnose machinery issues with unprecedented clarity and accuracy.",
           "subCats": [
@@ -3660,24 +3660,7 @@
               "paragraph_4": "",
               "paragraph_5": "",
               "typesHeader": "",
-              "images": [
-                {
-                  "imgPath": "/image/",
-                  "alt": ""
-                },
-                {
-                  "imgPath": "/image/",
-                  "alt": ""
-                },
-                {
-                  "imgPath": "/image/",
-                  "alt": ""
-                },
-                {
-                  "imgPath": "/image/",
-                  "alt": ""
-                }
-              ]
+              "images": []
             }
           ],
           "content": {
