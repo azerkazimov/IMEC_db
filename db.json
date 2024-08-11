@@ -180,8 +180,8 @@
           "subItems": [
             {
               "id": 2201,
-              "name": "Agitators",
-              "path": "/product-item/products/agitators"
+              "name": "Clumping Drum",
+              "path": "/product-item/products/clumping-drum"
             },
             {
               "id": 2202,
@@ -1811,7 +1811,7 @@
               "id": 2206,
               "name": "SLURRY PUMPS",
               "title": "High-Efficiency Slurry Pumps for Robust Material Handling",
-              "path": "/product-item/products/tickener",
+              "path": "/product-item/products/slurry-pump",
               "img": "/image/slurry-pump/slurry-pump_03.png",
               "sectionImg": "/image/slurry-pump/slurry-pump_02.png",
               "description": "We manufacture five types of horizontal heavy-duty pumps, namely DMP MD 10.8, DMP MD 8.6, DMP MD 6.4, DMP MD 4.3, and DMP MD 3.2. These pumps are designed to withstand harsh, abrasive environments and are available with high-chrome or rubber linings, and can be equipped with either expeller or wet systems.",
