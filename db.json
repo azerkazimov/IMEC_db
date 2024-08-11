@@ -4009,9 +4009,9 @@
               "title": "Advanced Diagnostic and Corrective Services for Hydroelectric Turbines",
               "description": "Hydroelectric turbines are complex systems where mechanical, electrical, and hydraulic issues can occur simultaneously. RI-SE offers advanced diagnostic services for Francis, Kaplan, and Pelton turbines, whether in vertical or horizontal configurations. Our expert engineers use cutting-edge methods such as spectrum and orbit analysis, in-situ balancing, and laser alignment to detect and correct abnormalities. All vibration data is compared with the latest standards, ISO 20816-5 and 13373-7, ensuring your equipment's condition is benchmarked against industry best practices.",
               "img": "/image/maintenance/hydroelectric_2.jpg",
-              "sectionImg_1": "/image//maintenance/hydroelectric_1.jpg",
-              "sectionImg_2": "/image//maintenance/hydroelectric_2.jpg",
-              "sectionImg_3": "/image//maintenance/hydroelectric_3.jpg",
+              "sectionImg_1": "/image/maintenance/hydroelectric_1.jpg",
+              "sectionImg_2": "/image/maintenance/hydroelectric_2.jpg",
+              "sectionImg_3": "/image/maintenance/hydroelectric_3.jpg",
               "sectionImg_4": "",
               "sectionImg_5": "",
               "head_1": "Comprehensive Diagnostic Techniques",
@@ -4029,7 +4029,7 @@
             },
             {
               "name": "Wind Turbines",
-              "path": "/maintenance/service/turbines",
+              "path": "/maintenance/service/special-service/turbines",
               "title": "Advanced Diagnostic and Alignment Services for Wind Turbines",
               "description": "Wind turbines are complex systems where mechanical, electrical, and aerodynamic issues can intersect, requiring specialized expertise. RI-SE offers advanced diagnostic services for all sizes and brands of wind turbines, including vibration and torque analysis, and precision shaft alignment. Our expert engineers employ specialized techniques to diagnose issues such as low-speed bearing damage, gear anomalies, nacelle oscillations, and generator faults. All measurements are benchmarked against ISO 10816-21 standards, ensuring your turbines operate reliably and efficiently.",
               "img": "/image/maintenance/turbine_2.jpg",
@@ -4053,7 +4053,7 @@
             },
             {
               "name": "Spindle and Grinding Machines",
-              "path": "/maintenance/service/spindle-&-grinding-machine",
+              "path": "/maintenance/service/special-service/spindle-&-grinding-machine",
               "title": "Predictive Maintenance for Spindles and Grinding Machines",
               "description": "Spindles and grinding machines require specialized predictive maintenance due to their complex internal structures and high operating speeds. RI-SE offers expert predictive maintenance services tailored to these critical machines, utilizing advanced measurement systems and the expertise of experienced engineers. Our services ensure early detection and resolution of issues such as unbalance, bearing damage, and vibration problems, helping to maintain optimal performance and prevent costly downtimes.",
               "img": "/image/maintenance/spindle_1.jpg",
@@ -4102,8 +4102,65 @@
           "id": 6015,
           "name": "PRECISION MAINTENANCE SERVICES",
           "title": "IMEC Precision Maintenance Services",
+          "path": "/maintenance/service/precision-maintenance-services",
+          "img": "/image/maintenance/maintenance.jpg",
           "header": "Achieving Excellence with Expert Maintenance Solutions",
           "description": "IMEC's Precision Maintenance Services provide advanced maintenance solutions focused on achieving high levels of accuracy and efficiency. Our services are designed to ensure that your equipment and systems operate at peak performance with minimal downtime and optimal reliability.",
+          "subCats": [
+            {
+              "name": "Dynamic In-Situ Balancing",
+              "path": "/maintenance/service/precision-maintenance-services/dynamic-balancing",
+              "title": "On-Site Precision Balancing Services",
+              "description": "Ensure the reliability and longevity of your rotating equipment with RI-SE's expert on-site balancing services. By minimizing the impact on production, our certified engineers perform precise balancing at the equipment's nominal speed without the need for disassembly, reducing downtime and improving performance.",
+              "img": "/image/maintenance/dynamic_1.jpg",
+              "sectionImg_1": "/image/maintenance/dynamic_2.jpg",
+              "sectionImg_2": "/image/maintenance/dynamic_3.jpg",
+              "sectionImg_3": "",
+              "sectionImg_4": "",
+              "sectionImg_5": "",
+              "head_1": "Benefits of On-Site Balancing",
+              "head_2": "Equipment Suitable for On-Site Balancing",
+              "head_3": "",
+              "head_4": "",
+              "head_5": "",
+              "paragraph_1": "On-site balancing eliminates the need for costly disassembly and reassembly, allowing for adjustments at the equipment's nominal speed. This process ensures minimal production loss, provides easy comparison of pre- and post-balancing conditions, and offers a cost-effective solution with precise corrective measures.",
+              "paragraph_2": "Our on-site balancing services are ideal for a wide range of equipment, including electric motors, diesel engines, hydroelectric turbines, industrial fans, steam turbines, generators, pumps, couplings, pulleys, and gearboxes. By addressing imbalance issues directly on-site, we help extend the life of your equipment and enhance its operational efficiency.",
+              "paragraph_3": "",
+              "paragraph_4": "",
+              "paragraph_5": "",
+              "typesHeader": "",
+              "images": [
+                {
+                  "imgPath": "/image/maintenance/dynamic_5.jpg",
+                  "alt": "Dynamic In-Situ Balancing"
+                }
+              ]
+            },
+            {
+              "name": "Shaft Alignment Service",
+              "path": "/maintenance/service/precision-maintenance-services/shaft-alignment",
+              "title": "Precision Shaft Alignment Services",
+              "description": "Misalignment in shafts is one of the leading causes of increased forces on components like bearings, shafts, and seals, which can lead to reduced equipment reliability. RI-SE offers precise shaft alignment services using state-of-the-art technology and certified engineers to ensure your rotating equipment operates efficiently and with minimal risk of failure.",
+              "img": "/image/maintenance/shaft_1.jpg",
+              "sectionImg_1": "/image/maintenance/shaft_1.jpg",
+              "sectionImg_2": "/image/maintenance/shaft_2.jpg",
+              "sectionImg_3": "/image/maintenance/shaft_3.jpg",
+              "sectionImg_4": "/image/maintenance/shaft_4.jpg",
+              "sectionImg_5": "/image/maintenance/shaft_5.jpg",
+              "head_1": "Benefits of Laser Shaft Alignment",
+              "head_2": "Applications of Laser Shaft Alignment",
+              "head_3": "Turbine Alignment",
+              "head_4": "Wind Turbine Alignment",
+              "head_5": "Hydroelectric Turbine Alignment",
+              "paragraph_1": " Laser shaft alignment reduces energy consumption, mechanical and thermal loads, and equipment vibration and temperature. It ensures precise alignment that is independent of operator skill, reducing the risk of shaft cracks and fractures, while enhancing rotor stability and extending bearing life by minimizing axial and radial loads.",
+              "paragraph_2": "Laser shaft alignment can be applied to all rotating equipment with coupling connections, such as motor-pump systems, motor-fan assemblies, turbomachinery, and gearboxes. It also accommodates various alignment challenges, including thermal expansion, sliding bearings, and flexible couplings.",
+              "paragraph_3": "We provide precise alignment services for steam and gas turbines, ensuring optimal performance and reliability. Our services cover both horizontal and vertical configurations, adapting to the specific needs of your equipment.",
+              "paragraph_4": " Our engineers specialize in aligning the generator, gearbox, and main bearings of wind turbines, ensuring that these critical components operate in harmony to maximize efficiency and minimize downtime.",
+              "paragraph_5": "We offer alignment services for hydroelectric turbines, including Pelton, Francis, and Kaplan types in both horizontal and vertical configurations. Our precise alignment techniques help maintain the integrity and performance of your turbines, supporting reliable and efficient power generation.",
+              "typesHeader": "",
+              "images": []
+            }
+          ],
           "content": {
             "what_is_it": "Precision Maintenance Services involve the use of advanced techniques and tools to perform highly accurate and effective maintenance on your equipment and systems. This approach focuses on fine-tuning and optimizing performance to ensure long-term reliability and efficiency.",
             "features": [
@@ -4124,9 +4181,7 @@
               "Aerospace and Defense: Complex systems requiring meticulous maintenance and calibration."
             ],
             "why_choose_imec": "IMEC's Precision Maintenance Services offer unparalleled accuracy and expertise, ensuring your equipment operates at its highest level of performance. Our dedicated team of professionals provides tailored solutions and advanced techniques to help you achieve exceptional reliability and efficiency."
-          },
-          "img": "/image/maintenance/maintenance.jpg",
-          "path": "/maintenance/service/precision-maintenance-services"
+          }
         },
         {
           "id": 6016,
