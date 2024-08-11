@@ -4211,6 +4211,390 @@
           },
           "img": "/image/maintenance/compressor.jpg",
           "path": "/maintenance/service/compressor-services"
+        },
+        {
+          "id": 6017,
+          "name": "CONSULTANCY SERVICE",
+          "title": "IMEC Consultancy Services: Expert Solutions for Your Industrial Needs",
+          "path": "/maintenance/service/consultancy-service",
+          "img": "/image/maintenance/acceptance_2.jpg",
+          "header": "Expert Solutions for Your Industrial Needs",
+          "description": "IMEC offers specialized consultancy services designed to optimize your industrial operations. Our team of experts provides tailored solutions that enhance equipment reliability, improve efficiency, and ensure compliance with industry standards. From diagnostics and maintenance strategies to advanced engineering analysis, IMEC is your trusted partner in achieving operational excellence.",
+          "subCats": [
+            {
+              "name": "Acceptance Tests",
+              "path": "/maintenance/service/consultancy-service/acceptance-tests",
+              "title": "Comprehensive Equipment Condition Testing and Expert Reporting Services",
+              "description": "Ensure the reliability and performance of newly installed machinery or equipment before delivering to your customers with our comprehensive condition testing and expert reporting services. Our certified engineers conduct detailed evaluations and provide impartial reports, helping you make informed decisions regarding equipment acceptance or rejection.",
+              "img": "/image/maintenance/acceptance_1.jpg",
+              "sectionImg_1": "/image/maintenance/acceptance_2.jpg",
+              "sectionImg_2": "/image/maintenance/acceptance_3.jpg",
+              "sectionImg_3": "/image/maintenance/acceptance_4.jpg",
+              "sectionImg_4": "",
+              "sectionImg_5": "",
+              "head_1": "For Manufacturing Plants",
+              "head_2": "For Equipment Manufacturers",
+              "head_3": "What Is It?",
+              "head_4": "",
+              "head_5": "",
+              "paragraph_1": "Our certified and highly specialized engineers at RI-SE conduct thorough evaluations and measurements of equipment purchased or maintained for your facility. These evaluations can be performed on-site or at the manufacturer’s or maintenance workshop. During the reporting process, the manufacturer's specified limits, standards, or guidelines are used to assess the equipment's condition. Based on the report, you can make informed decisions regarding the acceptance or rejection of the equipment. RI-SE operates as an independent entity, ensuring that the results are evaluated and reported with integrity and ethical standards.",
+              "paragraph_2": "RI-SE offers detailed assessments and reporting services for the equipment you manufacture or maintain. Our certified and highly specialized engineers conduct these evaluations on-site at your production facility or the installation site. The process involves using your specified limits, standards, or guidelines to assess the condition of the equipment. The resulting report provides critical information that can influence the acceptance or rejection of the equipment. As an independent organization, RI-SE guarantees that the results are objectively evaluated and reported with the highest ethical standards.",
+              "paragraph_3": "This service involves detailed condition testing of new or maintained machinery by RI-SE's certified engineers. It provides manufacturers and facility operators with a comprehensive report on the equipment’s condition, ensuring it meets all necessary standards and guidelines.",
+              "paragraph_4": "",
+              "paragraph_5": "",
+              "typesHeader": "",
+              "images": []
+            },
+            {
+              "name": "Predictive Maintenance Consulting",
+              "path": "/maintenance/service/consultancy-service/predictive-consulting",
+              "title": "Elevate Your Predictive Maintenance Program with Expert Support",
+              "description": "If your facility's predictive maintenance program is either non-existent or not adding value, or if you lack the time to focus on it due to other maintenance and operational tasks, RI-SE is here to help. Our experienced engineers can enhance your predictive maintenance program, regardless of the brands or models of equipment and software you use. Contact us to take your predictive maintenance program to the next level.",
+              "img": "/image/maintenance/acceptance_3.jpg",
+              "sectionImg_1": "/image/maintenance/acceptance_5.jpg",
+              "sectionImg_2": "/image/maintenance/acceptance_2.jpg",
+              "sectionImg_3": "/image/maintenance/acceptance_3.jpg",
+              "sectionImg_4": "",
+              "sectionImg_5": "",
+              "head_1": "Benefits of Our Service",
+              "head_2": "What We Offer",
+              "head_3": "Why Predictive Maintenance?",
+              "head_4": "",
+              "head_5": "",
+              "paragraph_1": [
+                "Expert Guidance: Receive tailored advice from experienced engineers on improving your predictive maintenance practices.",
+                "Customized Solutions: Get recommendations based on your equipment’s specific needs and operating conditions.",
+                "Increased Efficiency: Enhance the effectiveness of your predictive maintenance program, leading to reduced downtime and operational costs.",
+                "Comprehensive Support: Benefit from support across various equipment brands and models, ensuring a holistic approach to maintenance.",
+                "Enhanced Reliability: Improve the reliability and performance of your machinery through optimized maintenance strategies."
+              ],
+              "paragraph_2": "RI-SE provides comprehensive consultancy to enhance your predictive maintenance program. We focus on your specific needs, regardless of the equipment and software brands you use. Our expert engineers will guide you in selecting the right tools and methods for testing based on your machinery’s structure, operating conditions, and production requirements.",
+              "paragraph_3": "Predictive maintenance is essential for optimizing equipment performance and extending operational life. It helps in identifying potential issues before they escalate into serious problems, thereby reducing downtime and maintenance costs. Implementing a robust predictive maintenance program ensures that your machinery operates efficiently and reliably.",
+              "paragraph_4": "",
+              "paragraph_5": "",
+              "typesHeader": "",
+              "images": []
+            }
+          ],
+          "content": {
+            "what_is_it": "IMEC consultancy services are comprehensive support solutions designed to address the unique challenges of industrial operations. We provide expert guidance, diagnostics, and strategic advice to help you optimize performance, reduce downtime, and extend the lifespan of your equipment.",
+            "features": [
+              "IMEC consultancy services are comprehensive support solutions.",
+              "Designed to address the unique challenges of industrial operations.",
+              "Provides expert guidance, diagnostics, and strategic advice.",
+              "Helps optimize performance, reduce downtime, and extend equipment lifespan.  "
+            ],
+            "benefits": [
+              "Applicable across a wide range of industries, including:",
+              "Manufacturing",
+              "Energy",
+              "Transportation",
+              "Supports equipment diagnostics.",
+              "Assists in maintenance planning.",
+              "Delivers process optimization solutions.",
+              "Meets specific industry needs."
+            ],
+            "applications": [
+              "High-Precision Machinery: CNC machines, robotics, and other advanced manufacturing equipment.",
+              "Critical Systems: Equipment and systems where accuracy and reliability are essential for operations.",
+              "Aerospace and Defense: Complex systems requiring meticulous maintenance and calibration."
+            ],
+            "why_choose_imec": "IMEC is committed to delivering results-driven consultancy services. Our team combines deep industry knowledge with innovative technology to provide solutions that are both effective and sustainable. With a focus on quality and customer satisfaction, IMEC is your go-to partner for achieving operational success."
+          }
+        },
+        {
+          "id": 6018,
+          "name": "MLT Group Conveyor Belt Splicing",
+          "title": "Innovative Conveyor Belt Splicing Solutions by MLT Group",
+          "path": "/maintenance/service/conveyor-belt",
+          "img": "/image/maintenance/MLT-Group_1.png",
+          "header": "Revolutionizing Conveyor Belt Splicing Since 1947",
+          "description": "MLT Group specializes in the manufacture of cutting-edge splicing solutions for conveyor belts. Since 1947, MLT has leveraged its extensive expertise to offer a comprehensive range of rubber belt solutions. The company is renowned for its invention of the SUPER-SCREW®* flexible screw splice, a groundbreaking advancement in belt splicing technology.",
+          "subCats": [
+            {
+              "name": "SUPER‑SCREW®* 2024",
+              "path": "/maintenance/service/conveyor-belt/super-screw",
+              "title": "SUPER‑SCREW®* 2024: The Next Evolution in Conveyor Belt Splicing",
+              "description": "SUPER‑SCREW®* 2024 represents a groundbreaking advancement in conveyor belt splicing with its innovative mechanical vulcanization technology. This latest version integrates screws and washers into the belt in a way that makes them invisible on the surface, eliminating wear and interference. MLT Group’s 2024 iteration offers a seamless, durable splice that enhances belt performance and longevity.",
+              "img": "/image/maintenance/MLT-Group_1.png",
+              "sectionImg_1": "/image/maintenance/MLT-Group_4.png",
+              "sectionImg_2": "",
+              "sectionImg_3": "",
+              "sectionImg_4": "",
+              "sectionImg_5": "",
+              "head_1": "Revolutionizing Conveyor Belt Splicing with SUPER‑SCREW®* 2024",
+              "head_2": "",
+              "head_3": "",
+              "head_4": "",
+              "head_5": "",
+              "paragraph_1": "The SUPER‑SCREW®* 2024 is a significant leap forward in conveyor belt splicing technology, featuring mechanical vulcanization that merges screws and washers into the belt, making them virtually invisible. This innovation eliminates traditional wear and interference issues, creating a splice that feels like a natural extension of the belt. Compatible with scrapers and adaptable to various belt thicknesses, it offers exceptional wear and impact resistance for superior durability. With the 2024 model, MLT Group is not just enhancing splicing technology but redefining it, setting new standards for strength and resilience in the industry.",
+              "paragraph_2": "",
+              "paragraph_3": "",
+              "paragraph_4": "",
+              "paragraph_5": "",
+              "typesHeader": "Product images",
+              "images": [
+                {
+                  "imgPath": "/image/maintenance/MLT-Group_1.png",
+                  "alt": "SUPER‑SCREW-2024"
+                },
+                {
+                  "imgPath": "/image/maintenance/MLT-Group_2.png",
+                  "alt": "SUPER‑SCREW-2024"
+                },
+                {
+                  "imgPath": "/image/maintenance/MLT-Group_3.png",
+                  "alt": "SUPER‑SCREW-2024"
+                },
+                {
+                  "imgPath": "/image/maintenance/MLT-Group_4.png",
+                  "alt": "SUPER‑SCREW-2024"
+                }
+              ]
+            },
+            {
+              "name": "SUPER‑SCREW®* Premium",
+              "path": "/maintenance/service/conveyor-belt/super-screw-premium",
+              "title": "SUPER‑SCREW®* Premium: The Ultimate Solution for Heavy-Duty Belt Splicing",
+              "description": "SUPER‑SCREW®* Premium is the first flexible screw splice made from polyurethane, engineered to excel in the most abrasive and demanding environments. This innovative splice offers enhanced abrasion resistance while maintaining the flexibility and strength that SUPER‑SCREW®* is known for.",
+              "img": "/image/maintenance/",
+              "sectionImg_1": "/image/maintenance/",
+              "sectionImg_2": "",
+              "sectionImg_3": "",
+              "sectionImg_4": "",
+              "sectionImg_5": "",
+              "head_1": "Unmatched Durability with SUPER‑SCREW®* Premium",
+              "head_2": "",
+              "head_3": "",
+              "head_4": "",
+              "head_5": "",
+              "paragraph_1": "Designed specifically for the harshest conditions, the SUPER‑SCREW®* Premium sets a new standard in belt splicing. The polyurethane material used in the upper part of this splice delivers exceptional abrasion resistance (15 mm³), addressing the needs of highly abrasive applications without compromising flexibility or strength. This makes the SUPER‑SCREW®* Premium an ideal choice for environments where durability and performance are critical. MLT Group’s commitment to innovation ensures that this splice integrates seamlessly with your belt system, offering a robust and reliable solution for heavy-duty applications.",
+              "paragraph_2": "",
+              "paragraph_3": "",
+              "paragraph_4": "",
+              "paragraph_5": "",
+              "typesHeader": "",
+              "images": [
+                {
+                  "imgPath": "/image/maintenance/MLT-Screw_1.png",
+                  "alt": "SUPER‑SCREW-2024"
+                },
+                {
+                  "imgPath": "/image/maintenance/MLT-Screw_2.png",
+                  "alt": "SUPER‑SCREW-2024"
+                },
+                {
+                  "imgPath": "/image/maintenance/MLT-Screw_3.png",
+                  "alt": "SUPER‑SCREW-2024"
+                }
+              ]
+            },
+            {
+              "name": "SUPER‑SCREW®* Security",
+              "path": "/maintenance/service/conveyor-belt/",
+              "title": "",
+              "description": "",
+              "img": "/image/maintenance/",
+              "sectionImg_1": "/image/maintenance/",
+              "sectionImg_2": "/image/maintenance/",
+              "sectionImg_3": "/image/maintenance/",
+              "sectionImg_4": "",
+              "sectionImg_5": "",
+              "head_1": "",
+              "head_2": "",
+              "head_3": "",
+              "head_4": "",
+              "head_5": "",
+              "paragraph_1": [
+                "",
+                "",
+                "",
+                "",
+                "."
+              ],
+              "paragraph_2": "",
+              "paragraph_3": "",
+              "paragraph_4": "",
+              "paragraph_5": "",
+              "typesHeader": "",
+              "images": []
+            },
+            {
+              "name": "SUPER‑SCREW®* Evolution",
+              "path": "/maintenance/service/conveyor-belt/",
+              "title": "",
+              "description": "",
+              "img": "/image/maintenance/",
+              "sectionImg_1": "/image/maintenance/",
+              "sectionImg_2": "/image/maintenance/",
+              "sectionImg_3": "/image/maintenance/",
+              "sectionImg_4": "",
+              "sectionImg_5": "",
+              "head_1": "",
+              "head_2": "",
+              "head_3": "",
+              "head_4": "",
+              "head_5": "",
+              "paragraph_1": [
+                "",
+                "",
+                "",
+                "",
+                "."
+              ],
+              "paragraph_2": "",
+              "paragraph_3": "",
+              "paragraph_4": "",
+              "paragraph_5": "",
+              "typesHeader": "",
+              "images": []
+            },
+            {
+              "name": "SUPER‑SCREW®* Original",
+              "path": "/maintenance/service/conveyor-belt/",
+              "title": "",
+              "description": "",
+              "img": "/image/maintenance/",
+              "sectionImg_1": "/image/maintenance/",
+              "sectionImg_2": "/image/maintenance/",
+              "sectionImg_3": "/image/maintenance/",
+              "sectionImg_4": "",
+              "sectionImg_5": "",
+              "head_1": "",
+              "head_2": "",
+              "head_3": "",
+              "head_4": "",
+              "head_5": "",
+              "paragraph_1": [
+                "",
+                "",
+                "",
+                "",
+                "."
+              ],
+              "paragraph_2": "",
+              "paragraph_3": "",
+              "paragraph_4": "",
+              "paragraph_5": "",
+              "typesHeader": "",
+              "images": []
+            },
+            {
+              "name": "SUPER‑SCREW®* Primary",
+              "path": "/maintenance/service/conveyor-belt/",
+              "title": "",
+              "description": "",
+              "img": "/image/maintenance/",
+              "sectionImg_1": "/image/maintenance/",
+              "sectionImg_2": "/image/maintenance/",
+              "sectionImg_3": "/image/maintenance/",
+              "sectionImg_4": "",
+              "sectionImg_5": "",
+              "head_1": "",
+              "head_2": "",
+              "head_3": "",
+              "head_4": "",
+              "head_5": "",
+              "paragraph_1": [
+                "",
+                "",
+                "",
+                "",
+                "."
+              ],
+              "paragraph_2": "",
+              "paragraph_3": "",
+              "paragraph_4": "",
+              "paragraph_5": "",
+              "typesHeader": "",
+              "images": []
+            },
+            {
+              "name": "ISC™",
+              "path": "/maintenance/service/conveyor-belt/",
+              "title": "",
+              "description": "",
+              "img": "/image/maintenance/",
+              "sectionImg_1": "/image/maintenance/",
+              "sectionImg_2": "/image/maintenance/",
+              "sectionImg_3": "/image/maintenance/",
+              "sectionImg_4": "",
+              "sectionImg_5": "",
+              "head_1": "",
+              "head_2": "",
+              "head_3": "",
+              "head_4": "",
+              "head_5": "",
+              "paragraph_1": [
+                "",
+                "",
+                "",
+                "",
+                "."
+              ],
+              "paragraph_2": "",
+              "paragraph_3": "",
+              "paragraph_4": "",
+              "paragraph_5": "",
+              "typesHeader": "",
+              "images": []
+            },
+            {
+              "name": "SUPER‑SCREW®* Premium",
+              "path": "/maintenance/service/conveyor-belt/",
+              "title": "",
+              "description": "",
+              "img": "/image/maintenance/",
+              "sectionImg_1": "/image/maintenance/",
+              "sectionImg_2": "/image/maintenance/",
+              "sectionImg_3": "/image/maintenance/",
+              "sectionImg_4": "",
+              "sectionImg_5": "",
+              "head_1": "",
+              "head_2": "",
+              "head_3": "",
+              "head_4": "",
+              "head_5": "",
+              "paragraph_1": [
+                "",
+                "",
+                "",
+                "",
+                "."
+              ],
+              "paragraph_2": "",
+              "paragraph_3": "",
+              "paragraph_4": "",
+              "paragraph_5": "",
+              "typesHeader": "",
+              "images": []
+            }
+          ],
+          "content": {
+            "what_is_it": "MLT Group provides advanced conveyor belt splicing solutions, including the innovative SUPER-SCREW®* flexible screw splice. These solutions are designed to enhance the performance and durability of conveyor belts across various industrial applications.",
+            "features": [
+              "SUPER-SCREW® Flexible Screw Splice:* Innovative and versatile splicing solution.",
+              "Complete Range of Rubber Belt Solutions: Comprehensive selection to meet diverse needs.",
+              "Established Expertise: Over 75 years of experience in belt splicing.",
+              "High-Quality Materials: Durable and reliable splicing components.",
+              "Custom Solutions: Tailored splicing options for specific conveyor belt requirements."
+            ],
+            "benefits": [
+              "Enhanced Durability: Prolongs the lifespan of conveyor belts.",
+              "Increased Efficiency: Reduces downtime and maintenance needs.",
+              "Flexibility: Accommodates various belt types and configurations.",
+              "Technical Innovation: Advanced splicing technology for optimal performance.",
+              "Trusted Expertise: Proven reliability from a long-standing industry leader."
+            ],
+            "applications": [
+              "Mining: Robust splicing solutions for harsh environments.",
+              "Manufacturing: Efficient belt maintenance for production lines.",
+              "Agriculture: Reliable splicing for agricultural conveyor systems.",
+              "Logistics: Durable solutions for material handling conveyors.",
+              "Food Processing: Safe and efficient splicing for food-grade belts."
+            ],
+            "why_choose_imec": "MLT Group stands out for its pioneering technology and extensive experience in conveyor belt splicing. With a commitment to innovation and quality, MLT delivers solutions that enhance conveyor belt performance and reliability. Choose MLT for cutting-edge splicing solutions backed by decades of expertise and industry leadership."
+          }
         }
       ],
       "repair": [
