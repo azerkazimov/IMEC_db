@@ -4428,63 +4428,69 @@
             },
             {
               "name": "SUPER‑SCREW®* Evolution",
-              "path": "/maintenance/service/conveyor-belt/",
-              "title": "",
-              "description": "",
-              "img": "/image/maintenance/",
-              "sectionImg_1": "/image/maintenance/",
-              "sectionImg_2": "/image/maintenance/",
-              "sectionImg_3": "/image/maintenance/",
+              "path": "/maintenance/service/conveyor-belt/super-screw-evolution",
+              "title": "SUPER‑SCREW®* Evolution: The Next Generation of Splices",
+              "description": "SUPER‑SCREW®* Evolution represents the latest advancement in flexible screw splicing technology, offering enhanced flexibility and resistance compared to its predecessor. MLT’s R&D teams have pushed the boundaries of innovation to deliver this next-generation solution for heavy-duty belts.",
+              "img": "/image/maintenance/MLT-Evolution_1.png",
+              "sectionImg_1": "/image/maintenance/MLT-Evolution_1.png",
+              "sectionImg_2": "",
+              "sectionImg_3": "",
               "sectionImg_4": "",
               "sectionImg_5": "",
-              "head_1": "",
+              "head_1": "Experience the Next Generation with SUPER‑SCREW®* Evolution",
               "head_2": "",
               "head_3": "",
               "head_4": "",
               "head_5": "",
-              "paragraph_1": [
-                "",
-                "",
-                "",
-                "",
-                "."
-              ],
+              "paragraph_1": "The SUPER‑SCREW®* Evolution is a groundbreaking development in belt splicing, designed to exceed the capabilities of the original SUPER-SCREW®. With its improved flexibility and durability, this new generation of splices provides superior performance in heavy-duty applications. MLT's commitment to innovation ensures that the SUPER‑SCREW® Evolution delivers exceptional reliability and adaptability, making it the ideal choice for demanding environments. This advanced splice solution not only enhances operational efficiency but also extends the lifespan of your conveyor belts.",
               "paragraph_2": "",
               "paragraph_3": "",
               "paragraph_4": "",
               "paragraph_5": "",
-              "typesHeader": "",
-              "images": []
+              "typesHeader": "Images",
+              "images": [
+                {
+                  "imgPath": "/image/maintenance/MLT-Evolution_1.png",
+                  "alt": "SUPER-SCREW 2024"
+                },
+                {
+                  "imgPath": "/image/maintenance/MLT-Evolution_2.png",
+                  "alt": "SUPER-SCREW 2024"
+                }
+              ]
             },
             {
               "name": "SUPER‑SCREW®* Original",
-              "path": "/maintenance/service/conveyor-belt/",
-              "title": "",
-              "description": "",
-              "img": "/image/maintenance/",
-              "sectionImg_1": "/image/maintenance/",
+              "path": "/maintenance/service/conveyor-belt/super-screw-original",
+              "title": "SUPER‑SCREW®* Original: The Historical Product",
+              "description": "The SUPER‑SCREW®* Original, introduced in 1994 by MLT, is the world’s first flexible screw splice. Renowned for its simplicity and effectiveness, this pioneering product has become a global standard for heavy-duty belt splicing, offering reliable and quick installation in various conditions.",
+              "img": "/image/maintenance/MLT-Original_1.png",
+              "sectionImg_1": "/image/maintenance/MLT-Original_1.png",
               "sectionImg_2": "/image/maintenance/",
               "sectionImg_3": "/image/maintenance/",
               "sectionImg_4": "",
               "sectionImg_5": "",
-              "head_1": "",
+              "head_1": "Discover the Legacy of SUPER‑SCREW®* Original",
               "head_2": "",
               "head_3": "",
               "head_4": "",
               "head_5": "",
-              "paragraph_1": [
-                "",
-                "",
-                "",
-                "",
-                "."
-              ],
+              "paragraph_1": "The SUPER‑SCREW®* Original represents a significant milestone in belt splicing technology, being the very first flexible screw splice developed by MLT. Since its introduction, it has set the benchmark for durability and ease of use, providing a permanent and seamless solution for heavy-duty belts. Its ability to be installed swiftly in diverse environments has made it a trusted choice worldwide, proving its long-standing value and effectiveness in the field.",
               "paragraph_2": "",
               "paragraph_3": "",
               "paragraph_4": "",
               "paragraph_5": "",
               "typesHeader": "",
-              "images": []
+              "images": [
+                {
+                  "imgPath": "/image/maintenance/MLT-Original_1.png",
+                  "alt": "SUPER-SCREW 2024"
+                },
+                {
+                  "imgPath": "/image/maintenance/MLT-Original_2.png",
+                  "alt": "SUPER-SCREW 2024"
+                }
+              ]
             },
             {
               "name": "SUPER‑SCREW®* Primary",
