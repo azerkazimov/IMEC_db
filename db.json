@@ -4494,93 +4494,114 @@
             },
             {
               "name": "SUPER‑SCREW®* Primary",
-              "path": "/maintenance/service/conveyor-belt/",
-              "title": "",
-              "description": "",
-              "img": "/image/maintenance/",
-              "sectionImg_1": "/image/maintenance/",
-              "sectionImg_2": "/image/maintenance/",
-              "sectionImg_3": "/image/maintenance/",
+              "path": "/maintenance/service/conveyor-belt/super-screw-primary",
+              "title": "SUPER‑SCREW®* Original: The Historical Product",
+              "description": "The SUPER‑SCREW®* Original, introduced in 1994 by MLT, is the world’s first flexible screw splice. Renowned for its simplicity and effectiveness, this pioneering product has become a global standard for heavy-duty belt splicing, offering reliable and quick installation in various conditions.",
+              "img": "/image/maintenance/MLT-Primary_1.png",
+              "sectionImg_1": "/image/maintenance/MLT-Primary_1.png",
+              "sectionImg_2": "",
+              "sectionImg_3": "",
               "sectionImg_4": "",
               "sectionImg_5": "",
-              "head_1": "",
+              "head_1": "Discover the Legacy of SUPER‑SCREW®* Original",
               "head_2": "",
               "head_3": "",
               "head_4": "",
               "head_5": "",
-              "paragraph_1": [
-                "",
-                "",
-                "",
-                "",
-                "."
-              ],
+              "paragraph_1": "The SUPER‑SCREW®* Original represents a significant milestone in belt splicing technology, being the very first flexible screw splice developed by MLT. Since its introduction, it has set the benchmark for durability and ease of use, providing a permanent and seamless solution for heavy-duty belts. Its ability to be installed swiftly in diverse environments has made it a trusted choice worldwide, proving its long-standing value and effectiveness in the field.",
               "paragraph_2": "",
               "paragraph_3": "",
               "paragraph_4": "",
               "paragraph_5": "",
               "typesHeader": "",
-              "images": []
+              "images": [
+                {
+                  "imgPath": "/image/maintenance/MLT-Primary_1.png",
+                  "alt": "SUPER-SCREW 2024"
+                },
+                {
+                  "imgPath": "/image/maintenance/MLT-Primary_2.png",
+                  "alt": "SUPER-SCREW 2024"
+                }
+              ]
             },
             {
               "name": "ISC™",
-              "path": "/maintenance/service/conveyor-belt/",
-              "title": "",
-              "description": "",
-              "img": "/image/maintenance/",
-              "sectionImg_1": "/image/maintenance/",
-              "sectionImg_2": "/image/maintenance/",
-              "sectionImg_3": "/image/maintenance/",
+              "path": "/maintenance/service/conveyor-belt/isc",
+              "title": " ISC™: Integrated Screw Connection for Heavy Duty Belts",
+              "description": "The ISC™ (Integrated Screw Connection) represents a groundbreaking advancement in conveyor belt splicing. This innovative lacing solution creates an endless belt by seamlessly screwing its ends together, eliminating any additional thickness. Its efficient design allows for rapid installation in just 20 minutes.",
+              "img": "/image/maintenance/MLT-Isc_1.png",
+              "sectionImg_1": "/image/maintenance/MLT-Isc_1.png",
+              "sectionImg_2": "",
+              "sectionImg_3": "",
               "sectionImg_4": "",
               "sectionImg_5": "",
-              "head_1": "",
+              "head_1": "The Next Generation of Belt Splicing",
               "head_2": "",
               "head_3": "",
               "head_4": "",
               "head_5": "",
-              "paragraph_1": [
-                "",
-                "",
-                "",
-                "",
-                "."
-              ],
+              "paragraph_1": "The ISC™ stands out as a revolutionary solution in the conveyor belt fastener market. Unlike traditional methods, it integrates the screw connection directly into the belt, providing a smooth, uninterrupted splice without added bulk. This streamlined approach ensures quick and efficient installation, with the entire process completed in only 20 minutes, making it ideal for high-demand applications where time and efficiency are critical.",
               "paragraph_2": "",
               "paragraph_3": "",
               "paragraph_4": "",
               "paragraph_5": "",
               "typesHeader": "",
-              "images": []
+              "images": [
+                {
+                  "imgPath": "/image/maintenance/MLT-Isc_1.png",
+                  "alt": "SUPER-SCREW 2024"
+                },
+                {
+                  "imgPath": "/image/maintenance/MLT-Isc_2.png",
+                  "alt": "SUPER-SCREW 2024"
+                },
+                {
+                  "imgPath": "/image/maintenance/MLT-Isc_3.png",
+                  "alt": "SUPER-SCREW 2024"
+                }
+              ]
             },
             {
-              "name": "SUPER‑SCREW®* Premium",
-              "path": "/maintenance/service/conveyor-belt/",
-              "title": "",
-              "description": "",
-              "img": "/image/maintenance/",
-              "sectionImg_1": "/image/maintenance/",
-              "sectionImg_2": "/image/maintenance/",
-              "sectionImg_3": "/image/maintenance/",
+              "name": "MS™ fastener",
+              "path": "/maintenance/service/conveyor-belt/ms",
+              "title": " MS™ Fastener: Innovative Screw-On Solution for Heavy Duty Belts",
+              "description": "The MS™ Fastener offers a cutting-edge approach to belt splicing by allowing belts to be joined through a simple screw-on mechanism. Designed and patented by MLT, this metal fastener is noted for its ease of installation, practicality, and cost-effectiveness, marking a significant advancement in the metal fastener market.",
+              "img": "/image/maintenance/MLT-MS_1.png",
+              "sectionImg_1": "/image/maintenance/MLT-MS_1.png",
+              "sectionImg_2": "",
+              "sectionImg_3": "",
               "sectionImg_4": "",
               "sectionImg_5": "",
-              "head_1": "",
+              "head_1": "The Revolution in Metal Fastening",
               "head_2": "",
               "head_3": "",
               "head_4": "",
               "head_5": "",
-              "paragraph_1": [
-                "",
-                "",
-                "",
-                "",
-                "."
-              ],
+              "paragraph_1": "The MS™ Fastener transforms the traditional approach to belt splicing with its innovative screw-on design. As a patented solution by MLT, it stands out for its simplicity and efficiency in installation. The fastener is not only economical and practical but also enhances safety by minimizing the risk associated with more complex splicing methods. This revolutionary fastener provides a reliable and swift solution for joining heavy-duty belts, setting a new standard in the industry.",
               "paragraph_2": "",
               "paragraph_3": "",
               "paragraph_4": "",
               "paragraph_5": "",
               "typesHeader": "",
-              "images": []
+              "images": [
+                {
+                  "imgPath": "/image/maintenance/MLT-MS_1.png",
+                  "alt": "SUPER-SCREW 2024"
+                },
+                {
+                  "imgPath": "/image/maintenance/MLT-MS_2.png",
+                  "alt": "SUPER-SCREW 2024"
+                },
+                {
+                  "imgPath": "/image/maintenance/MLT-MS_3.png",
+                  "alt": "SUPER-SCREW 2024"
+                },
+                {
+                  "imgPath": "/image/maintenance/MLT-MS_4.png",
+                  "alt": "SUPER-SCREW 2024"
+                }
+              ]
             }
           ],
           "content": {
