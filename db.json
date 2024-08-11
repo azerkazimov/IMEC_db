@@ -4357,8 +4357,8 @@
               "path": "/maintenance/service/conveyor-belt/super-screw-premium",
               "title": "SUPER‑SCREW®* Premium: The Ultimate Solution for Heavy-Duty Belt Splicing",
               "description": "SUPER‑SCREW®* Premium is the first flexible screw splice made from polyurethane, engineered to excel in the most abrasive and demanding environments. This innovative splice offers enhanced abrasion resistance while maintaining the flexibility and strength that SUPER‑SCREW®* is known for.",
-              "img": "/image/maintenance/",
-              "sectionImg_1": "/image/maintenance/",
+              "img": "/image/maintenance/MLT-Screw_1.png",
+              "sectionImg_1": "/image/maintenance/MLT-Screw_1.png",
               "sectionImg_2": "",
               "sectionImg_3": "",
               "sectionImg_4": "",
@@ -4391,33 +4391,40 @@
             },
             {
               "name": "SUPER‑SCREW®* Security",
-              "path": "/maintenance/service/conveyor-belt/",
-              "title": "",
-              "description": "",
-              "img": "/image/maintenance/",
-              "sectionImg_1": "/image/maintenance/",
-              "sectionImg_2": "/image/maintenance/",
-              "sectionImg_3": "/image/maintenance/",
+              "path": "/maintenance/service/conveyor-belt/super-screw-security",
+              "title": "SUPER‑SCREW®* Security: The First Belt Splice with a Safety Indicator",
+              "description": "SUPER‑SCREW®* Security introduces the world's first splice equipped with a safety indicator, designed to enhance maintenance efficiency and minimize conveyor downtime. This innovative splice allows for predictive maintenance, offering a substantial reduction in operational interruptions.",
+              "img": "/image/maintenance/MLT-Security_1.png",
+              "sectionImg_1": "/image/maintenance/MLT-Security_1.png",
+              "sectionImg_2": "",
+              "sectionImg_3": "",
               "sectionImg_4": "",
               "sectionImg_5": "",
-              "head_1": "",
+              "head_1": "Revolutionize Maintenance with SUPER‑SCREW®* Security",
               "head_2": "",
               "head_3": "",
               "head_4": "",
               "head_5": "",
-              "paragraph_1": [
-                "",
-                "",
-                "",
-                "",
-                "."
-              ],
+              "paragraph_1": "The SUPER‑SCREW®* Security splice represents a significant advancement in belt splicing technology. By incorporating a safety indicator, this splice enables you to monitor the condition of the splice and predict when it needs to be replaced. This proactive approach not only helps in optimizing maintenance schedules but also significantly reduces unexpected downtime, ensuring smoother and more reliable conveyor operations. MLT Group's innovative design brings a new level of convenience and efficiency to conveyor maintenance, setting a new benchmark in the industry.",
               "paragraph_2": "",
               "paragraph_3": "",
               "paragraph_4": "",
               "paragraph_5": "",
               "typesHeader": "",
-              "images": []
+              "images": [
+                {
+                  "imgPath": "/image/maintenance/MLT-Security_1.png",
+                  "alt": "SUPER‑SCREW-2024"
+                },
+                {
+                  "imgPath": "/image/maintenance/MLT-Security_2.png",
+                  "alt": "SUPER‑SCREW-2024"
+                },
+                {
+                  "imgPath": "/image/maintenance/MLT-Security_3.png",
+                  "alt": "SUPER‑SCREW-2024"
+                }
+              ]
             },
             {
               "name": "SUPER‑SCREW®* Evolution",
