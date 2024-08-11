@@ -221,17 +221,17 @@
             {
               "id": 2209,
               "name": "Chemical Density Meter",
-              "path": "/product-item/products/chemical-density-metet"
+              "path": "/product-item/products/chemical-density-meter"
             },
             {
               "id": 2210,
               "name": "Chemical Concentration Meter",
-              "path": "/product-item/products/chemical-concentration-metet"
+              "path": "/product-item/products/chemical-concentration-meter"
             },
             {
               "id": 2211,
               "name": "Particle Size Analyzer",
-              "path": "/product-item/products/particle-size-analyzer"
+              "path": "/product-item/products/psa"
             },
             {
               "id": 2212,
