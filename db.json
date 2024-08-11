@@ -200,18 +200,18 @@
             },
             {
               "id": 2205,
-              "name": "Valves",
-              "path": "/product-item/products/valves"
+              "name": "Condicioner",
+              "path": "/product-item/products/condicioners"
             },
             {
               "id": 2206,
-              "name": "Crusher",
-              "path": "/product-item/products/crusher"
+              "name": "Foam Pump",
+              "path": "/product-item/products/foam-pump"
             },
             {
               "id": 2207,
-              "name": "Inner Stage Screens",
-              "path": "/product-item/products/inner-stage-screens"
+              "name": "Jaw Crushers",
+              "path": "/product-item/products/jaw-crusher"
             },
             {
               "id": 2208,
@@ -232,6 +232,56 @@
               "id": 2211,
               "name": "Particle Size Analyzer",
               "path": "/product-item/products/particle-size-analyzer"
+            },
+            {
+              "id": 2212,
+              "name": "Wafer-Type Slide Gate Valve",
+              "path": "/product-item/products/slide-gate-valve"
+            },
+            {
+              "id": 2213,
+              "name": "Double-Eccentric Butterfly Valve",
+              "path": "/product-item/products/butterfly-valve-double-eccentric"
+            },
+            {
+              "id": 2214,
+              "name": "Butterfly Valve",
+              "path": "/product-item/products/butterfly-valve"
+            },
+            {
+              "id": 2215,
+              "name": "Butterfly Valve Eco",
+              "path": "/product-item/products/butterfly-valve-eco"
+            },
+            {
+              "id": 2216,
+              "name": "Butterfly Valve LT",
+              "path": "/product-item/products/butterfly-valve-lt"
+            },
+            {
+              "id": 2217,
+              "name": "Gate Valve DIN F4",
+              "path": "/product-item/products/gate-valve-dinf4"
+            },
+            {
+              "id": 2218,
+              "name": "Rubber-Coated Gate Valve",
+              "path": "/product-item/products/gate-valve-robber"
+            },
+            {
+              "id": 2219,
+              "name": "Rubber-Coated Gate Valve (Underground)",
+              "path": "/product-item/products/gate-valve-underground"
+            },
+            {
+              "id": 2220,
+              "name": "Rubber-Coated Gate Valve (Light)",
+              "path": "/product-item/products/gate-valve-light"
+            },
+            {
+              "id": 2221,
+              "name": "Symmetric Butterfly Valve",
+              "path": "/product-item/products/butterfly-valve-symmetric"
             }
           ]
         },
@@ -2193,39 +2243,39 @@
               "typesDescription": "Wafer-Type Butterfly Valve",
               "types": [
                 {
-                  "id": 221411,
+                  "id": 22111,
                   "type": "Series: SB71R-16D"
                 },
                 {
-                  "id": 221412,
+                  "id": 22112,
                   "type": "DN: 40-1200"
                 },
                 {
-                  "id": 221413,
+                  "id": 22113,
                   "type": "PN: 10-16"
                 },
                 {
-                  "id": 221414,
+                  "id": 22114,
                   "type": "Temperature Range: -25°C to +120°C"
                 },
                 {
-                  "id": 221415,
+                  "id": 22115,
                   "type": "Body Material: Ductile Iron (GJS)"
                 },
                 {
-                  "id": 221416,
+                  "id": 22116,
                   "type": "Disc Material: Ductile Iron (GJS) with Nickel Plating, Stainless Steel"
                 },
                 {
-                  "id": 221417,
+                  "id": 22117,
                   "type": "Seal Options: EPDM, NBR, VITON, PTFE"
                 },
                 {
-                  "id": 221418,
+                  "id": 22118,
                   "type": "Class: A according to GOST 54808-2011"
                 },
                 {
-                  "id": 221419,
+                  "id": 22119,
                   "type": "Actuator Mounting: ISO 5211"
                 }
               ],
