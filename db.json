@@ -377,6 +377,16 @@
               "id": 316,
               "name": "Precision Maintenance Services",
               "path": "/maintenance/service/precision-maintenance-services"
+            },
+            {
+              "id": 317,
+              "name": "MLT Group Conveyor Belt Splicing",
+              "path": "/maintenance/service/conveyor-belt"
+            },
+            {
+              "id": 318,
+              "name": "Consultancy Service",
+              "path": "/maintenance/service/consultancy-service"
             }
           ]
         },
