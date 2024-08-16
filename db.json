@@ -9,7 +9,14 @@
         {
           "id": 11,
           "name": "ABOUT IMEC",
-          "path": "/about-imec"
+          "path": "/about-imec",
+          "subItems": [
+            {
+              "id": 111,
+              "name": "Overview",
+              "path": "/about-imec/overview"
+            }
+          ]
         },
         {
           "id": 12,
