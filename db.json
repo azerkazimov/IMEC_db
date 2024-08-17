@@ -4111,6 +4111,47 @@
                   "images": []
                 },
                 {
+                  "name": "Ultraprobe-100",
+                  "path": "/product-item/devices-product/ultrasonic-analyzers/ultraprobe-100",
+                  "title": "Ultraprobe® 100: Practical Ultrasonic Leak Detection and Diagnostic Device",
+                  "description": "The Ultraprobe® 100 is a practical, cost-effective tool for leak detection, steam trap inspection, and fault diagnosis. Its ease of use and affordability make it ideal for both beginners and professionals.",
+                  "img": "/image/ultrasonic/ultrasonic_49.png",
+                  "sectionImg_1": "/image/ultrasonic/ultrasonic_49.png",
+                  "sectionImg_2": "/image/ultrasonic/ultrasonic_50.png",
+                  "sectionImg_3": "/image/ultrasonic/ultrasonic_51.png",
+                  "sectionImg_4": "",
+                  "sectionImg_5": "",
+                  "head_1": "Ultrasonic Technology for Accurate Inspection",
+                  "head_2": "Available Standard Premium Kits",
+                  "head_3": "Device Features",
+                  "head_4": "",
+                  "head_5": "",
+                  "paragraph_1": [
+                    "Ease of Use: Perfect for beginners with straightforward operation.",
+                    "Cost-Effective: Provides reliable performance at an affordable price.",
+                    "Universal Battery: Comes with a replaceable 9V battery for convenience.",
+                    "Fault Detection: Ideal for locating and indicating issues.",
+                    "Versatility: Ultrasonic sound is adaptable and can be used in various environments.",
+                    "Interference Resistance: Effective in noisy environments and can be blocked or reduced.",
+                    "Early Warning: Detects potential issues early through changes in ultrasonic sound."
+                  ],
+                  "paragraph_2": [
+                    "UP100KT-P (Complete Kit): Includes UP100 with LED bar graph meter, 8-position sensitivity dial, low battery indicator, scanning module, focusing probe, contact stethoscope module, tone generator, battery charger, noise-reducing headphones, replaceable 9V alkaline battery, cordura/nylon case, and comprehensive user manual.",
+                    "UP100SC-P (Stethoscope/Scanner Kit): Features UP100 with LED bar graph meter, 8-position sensitivity dial, low battery indicator, scanning module, focusing probe, contact stethoscope module, noise-reducing headphones, replaceable 9V alkaline battery, cordura/nylon case, and detailed user manual.",
+                    "UP100S-P (Scanner Kit): Includes UP100 with LED bar graph meter, 8-position sensitivity dial, low battery indicator, scanning module, focusing probe, noise-reducing headphones, replaceable 9V alkaline battery, cordura/nylon case, and comprehensive user guide.",
+                    "UP100C-P (Stethoscope Kit): Comes with UP100 featuring LED bar graph meter, 8-position sensitivity dial, low battery indicator, contact stethoscope module, noise-reducing headphones, replaceable 9V alkaline battery, cordura/nylon case, and detailed instruction manual."
+                  ],
+                  "paragraph_3": [
+                    "All Ultraprobe devices are CE certified, ensuring compliance with safety and quality standards.",
+                    "Precision Indicators: Equipped with an 8-position sensitivity dial and a LED bar graph display, with each LED representing a 3 dB level."
+                  ],
+                  "paragraph_4": "",
+                  "paragraph_5": "",
+                  "link_2": "",
+                  "typesHeader": "",
+                  "images": []
+                },
+                {
                   "name": "",
                   "path": "/product-item/devices-product/ultrasonic-analyzers/",
                   "title": "",
