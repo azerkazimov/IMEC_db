@@ -4064,6 +4064,53 @@
                   "images": []
                 },
                 {
+                  "name": "Ultraprobe 2000",
+                  "path": "/product-item/devices-product/ultrasonic-analyzers/ultraprobe-2000",
+                  "title": "Ultraprobe® 2000: The Most Comprehensive Analog Ultrasonic Device",
+                  "description": "The Ultraprobe® 2000 is designed for fast, accurate, and easy use, allowing proficiency in ultrasonic testing within just 15 minutes. Ideal for detecting pressure air leaks, faulty steam traps, and monitoring electrical systems, this device helps prevent machine failures and ensure operational efficiency.",
+                  "img": "/image/ultrasonic/ultrasonic_44.png",
+                  "sectionImg_1": "/image/ultrasonic/ultrasonic_45.png",
+                  "sectionImg_2": "/image/ultrasonic/ultrasonic_46.png",
+                  "sectionImg_3": "/image/ultrasonic/ultrasonic_40.png",
+                  "sectionImg_4": "/image/ultrasonic/ultrasonic_47.png",
+                  "sectionImg_5": "/image/ultrasonic/ultrasonic_48.png",
+                  "head_1": "Why Choose Ultraprobe® 2000?",
+                  "head_2": "Advanced Ultrasonic Technology",
+                  "head_3": "Data Reporting and Modes",
+                  "head_4": "Comprehensive Kit Components",
+                  "head_5": "Expanded Kit Configurations",
+                  "paragraph_1": [
+                    "Ease of Use: Simple and intuitive, with frequency adjustment from 20-100 kHz.",
+                    "Precision Measurement: Analog device with a measurement mode for accurate diagnostics.",
+                    "Problem Detection: Quickly pinpoint and address issues with ease."
+                  ],
+                  "paragraph_2": [
+                    "Versatility: Ultrasonic technology is adaptable and can be used in various environments.",
+                    "Interference Resistance: Effective in noisy environments, with minimal interference from external sounds.",
+                    "Early Warning: Detects potential issues early through changes in ultrasonic sound."
+                  ],
+                  "paragraph_3": [
+                    "Three Reporting Modes: Includes audio channel, dual-mode analog meter, and compatibility with vibration analyzers and sound recorders.",
+                    "ATEX Certification: Available in ATEX or EX models for hazardous environments."
+                  ],
+                  "paragraph_4": [
+                    "Standard Kit Includes: Ultraprobe pistol grip housing, ballistic meter, frequency adjustment dial, numeric calibration sensitivity indicator, single-mode meter selection switch, battery with indicator light, and charger.",
+                    "Additional Accessories: Deluxe noise-reducing headphones, battery charger, warble tone generator, and a durable Halliburton aluminum carrying case.",
+                    "Instruction Manual: Comprehensive guide for efficient use."
+                  ],
+                  "paragraph_5": [
+                    "UP2000LRM (Long Range Kit): Includes a trisonic scanning module, focusing probe, stethoscope probe, extension probe, and warble tone generator.",
+                    "UP2000CFM (Close Focus Kit): Features a trisonic scanning module, focusing probe, stethoscope probe, extension probe, and close focus module.",
+                    "UP2000KT (Standard Kit): Provides essential components for pressure, vacuum, and electrical emission detection.",
+                    "UP2000SC (Stethoscope/Scanner Kit): Combines stethoscope and scanning modules for comprehensive inspections.",
+                    "UP2000S (Scanner Kit): Focuses on scanning capabilities for various ultrasonic sources.",
+                    "UP2000C (Stethoscope Kit): Includes stethoscope probe and extension probe for detailed inspections."
+                  ],
+                  "link_2": "",
+                  "typesHeader": "",
+                  "images": []
+                },
+                {
                   "name": "",
                   "path": "/product-item/devices-product/ultrasonic-analyzers/",
                   "title": "",
