@@ -4357,6 +4357,97 @@
                   "images": []
                 }
               ]
+            },
+            {
+              "id": 235,
+              "name": "THERMAL CAMERA",
+              "title": "Advanced Thermal Imaging Camera: Precision and Performance",
+              "path": "/product-item/devices-product/thermal-camera",
+              "img": "/image/thermal-camera/thermal_1.jpg",
+              "sectionImg": "/image/thermal-camera/thermal_1.jpg",
+              "description": "Our advanced thermal imaging camera combines cutting-edge technology with high-resolution imaging to deliver precise and reliable thermal measurements. Designed for optimal performance in demanding environments, it features an intuitive interface, automatic focusing, and versatile lens options, ensuring superior clarity and flexibility for a range of applications.",
+              "subCats": [
+                {
+                  "name": "FLIR T1020 - Advanced",
+                  "path": "/product-item/devices-product/thermal-camera/flir-t1020-advanced",
+                  "title": "FLIR T1020: Superior Imaging Technology for Extreme Temperatures",
+                  "description": "The FLIR T1020 is the pinnacle of infrared expertise, offering ultra-high resolution with 3.1 MP UltraMax® and a new, agile user interface. This flagship model provides the sharpest images and the highest flexibility, backed by two decades of infrared innovation.",
+                  "img": "/image/thermal-camera/thermal_1.jpg",
+                  "sectionImg_1": "/image/thermal-camera/thermal_1.jpg",
+                  "sectionImg_2": "/image/thermal-camera/thermal_2.jpg",
+                  "sectionImg_3": "/image/thermal-camera/thermal_3.jpg",
+                  "sectionImg_4": "",
+                  "sectionImg_5": "",
+                  "head_1": "Exceptional Measurement Performance",
+                  "head_2": "Technical Specifications",
+                  "head_3": "Included Accessories",
+                  "head_4": "",
+                  "head_5": "",
+                  "paragraph_1": [
+                    "FLIR OSX™ Precision HDIR Optical System: Delivers continuous automatic focusing and high resolution for precise measurements from long distances.",
+                    "Rotatable Optical Block: Provides 120° of rotation for flexible use.",
+                    "High-Resolution LCD Viewfinder: Ensures bright and clear images."
+                  ],
+                  "paragraph_2": [
+                    "Built-In Digital Camera: 5 Mpixel with LED lighting.",
+                    "Color Alarm (Isotherm): Adjustable for below/above settings.",
+                    "Detector Type: Uncooled microbolometer with focal plane array (FPA).",
+                    "Delta Temperature: Temperature difference between measurement functions and reference temperature.",
+                    "Focal Length: 36 mm (1.42 in).",
+                    "Material: Magnesium.",
+                    "IR Resolution: 1024 × 768; up to 3.1 MP with UltraMax.",
+                    "Languages: Arabic, Czech, Danish, Dutch, English, Finnish, French, German, Greek, Hungarian, Italian, Japanese, Korean, Norwegian, Polish, Portuguese, Russian, Simplified Chinese, Swedish, Traditional Chinese, Turkish.",
+                    "Laser: Class 2, auto-visualization.",
+                    "Spectral Range: 7.5–14 µm.",
+                    "Tripod Mount: UNC ¼ “-20.",
+                    "Weight: 2.1 kg (4.6 lb).",
+                    "GPS (Compass): None.",
+                    "Optional Lenses: 7°, 12°, 45°, and 3x zoom lenses.",
+                    "Time-Lapse: From 15 seconds to 24 hours."
+                  ],
+                  "paragraph_3": [
+                    "Lens Batteries (2 pcs).",
+                    "Battery Charger.",
+                    "HDMI-HDMI Cable.",
+                    "Hard Carrying Case.",
+                    "Lens Cap.",
+                    "Neck Strap.",
+                    "File Formats: Standard JPEG, automatically linked to thermal images.",
+                    "Image Storage: Includes standard JPEG images and measurement data on memory card.",
+                    "Image Storage Mode: Thermal and digital images stored together in the same JPEG file; options for storing digital photos as separate JPEG files."
+                  ],
+                  "paragraph_4": "",
+                  "paragraph_5": "",
+                  "link_1": "https://www.youtube.com/embed/OId-tk24-YM?si=uafcPCEBE40tRvg8",
+                  "link_2": "",
+                  "typesHeader": "",
+                  "images": []
+                },
+                {
+                  "name": "",
+                  "path": "/product-item/devices-product/thermal-camera/",
+                  "title": "",
+                  "description": "",
+                  "img": "/image/",
+                  "sectionImg_1": "/image/",
+                  "sectionImg_2": "",
+                  "sectionImg_3": "",
+                  "sectionImg_4": "",
+                  "sectionImg_5": "",
+                  "head_1": "",
+                  "head_2": "",
+                  "head_3": "",
+                  "head_4": "",
+                  "head_5": "",
+                  "paragraph_1": "",
+                  "paragraph_2": "",
+                  "paragraph_3": "",
+                  "paragraph_4": "",
+                  "paragraph_5": "",
+                  "typesHeader": "",
+                  "images": []
+                }
+              ]
             }
           ]
         }
