@@ -3882,6 +3882,101 @@
                   "images": []
                 },
                 {
+                  "name": "Ultraprobe 9000 ATEX",
+                  "path": "/product-item/devices-product/ultrasonic-analyzers/ultraprobe-9000-atex",
+                  "title": "Ultraprobe 9000: Reliable and Safe Inspection with Seamless Data Management",
+                  "description": "The Ultraprobe 9000 is a versatile and easy-to-use digital ultrasonic inspection system that offers precise monitoring, data storage, and management without the need for work permits, even in ATEX or EX zones. Ideal for troubleshooting and preventative maintenance, it allows operators to quickly and easily perform inspections, store data, and manage assets with the Ultratrend DMS™ software. Equipped with unique 'Press and Listen™' technology, it ensures accurate and repeatable digital data, making it perfect for detecting early bearing failures, leaks, and electrical issues.",
+                  "img": "/image/ultrasonic/ultrasonic_21.png",
+                  "sectionImg_1": "/image/ultrasonic/ultrasonic_22.png",
+                  "sectionImg_2": "/image/ultrasonic/ultrasonic_23.png",
+                  "sectionImg_3": "/image/ultrasonic/ultrasonic_24.png",
+                  "sectionImg_4": "/image/ultrasonic/ultrasonic_25.png",
+                  "sectionImg_5": "/image/ultrasonic/ultrasonic_26.png",
+                  "head_1": "Advanced Digital Ultrasonic Inspection",
+                  "head_2": "Comprehensive Data Management",
+                  "head_3": "Versatile Inspection Capabilities",
+                  "head_4": "Safe Operation in Hazardous Zones",
+                  "head_5": "Complete Accessory Kit for Effective Monitoring",
+                  "paragraph_1": [
+                    "Ultraprobe 9000 offers a seamless inspection experience with easy data storage and retrieval.",
+                    "Ideal for troubleshooting and preventative maintenance tasks in various environments.",
+                    "Simple operation with intuitive controls, allowing even new operators to perform inspections quickly."
+                  ],
+                  "paragraph_2": [
+                    "Ultratrend DMS™ software enables effective data management, analysis, and reporting.",
+                    "Easily manage inspection routes, record and upload data via USB, and generate Excel reports.",
+                    "Multiple data views, trend charts, and historical tables provide in-depth analysis capabilities."
+                  ],
+                  "paragraph_3": [
+                    "Detect early bearing failures, lubrication issues, and leaks with precision.",
+                    "Perform electrical system inspections and faulty steam trap checks efficiently.",
+                    "Frequency adjustment from 20-100 kHz ensures accurate data for various ultrasonic applications"
+                  ],
+                  "paragraph_4": [
+                    "Certified for use in ATEX or EX zones, meeting stringent safety standards.",
+                    "FM and CSA approved for Class I, Division 1, Groups C and D environments.",
+                    "Suitable for use in industries requiring strict safety protocols, such as mining and gas processing."
+                  ],
+                  "paragraph_5": [
+                    "Includes all necessary accessories for thorough ultrasonic inspection, including a gun handle body, noise-reducing headphones, and Trisonic scanning module.",
+                    "Comes with a Zero Halliburton aluminum carrying case for protection and portability.",
+                    "Free DMS and Spectralyser software licenses with updates included."
+                  ],
+                  "link_2": "",
+                  "typesHeader": "Product images",
+                  "images": []
+                },
+                {
+                  "name": "Ultraprobe 9000",
+                  "path": "/product-item/devices-product/ultrasonic-analyzers/ultraprobe-9000",
+                  "title": "Efficient and Reliable Ultrasonic Inspection with Ultraprobe 9000",
+                  "description": "The Ultraprobe 9000 is a versatile digital ultrasonic inspection and data management system, designed for easy operation and precise monitoring. Ideal for troubleshooting and preventative maintenance, this device offers a seamless experience with advanced data storage and retrieval, making it a perfect choice for professionals in various industries.",
+                  "img": "/image/ultrasonic/ultrasonic_27.png",
+                  "sectionImg_1": "/image/ultrasonic/ultrasonic_28.png",
+                  "sectionImg_2": "/image/ultrasonic/ultrasonic_29.png",
+                  "sectionImg_3": "/image/ultrasonic/ultrasonic_30.png",
+                  "sectionImg_4": "/image/ultrasonic/ultrasonic_31.png",
+                  "sectionImg_5": "/image/ultrasonic/ultrasonic_32.png",
+                  "head_1": "Advanced Inspection Capabilities",
+                  "head_2": "Intuitive and Easy Operation",
+                  "head_3": "Versatile Data Management",
+                  "head_4": "Safe and Certified for Hazardous Environments",
+                  "head_5": "Comprehensive Accessory Kits",
+                  "paragraph_1": [
+                    "Detect early bearing failures and lubrication issues with precision.",
+                    "Perform comprehensive leak detection and cost reporting using DMS software.",
+                    "Efficiently monitor and assess faulty steam traps and electrical systems."
+                  ],
+                  "paragraph_2": [
+                    "Quick learning curve; most operators become proficient within 15 minutes.",
+                    "Simple interface with easy-to-read display, calibrated decibel readings, and bar graphs.",
+                    "Instant recording of sound intensity changes and peak readings with just one button press."
+                  ],
+                  "paragraph_3": [
+                    "Manage inspection routes, record and upload data via USB with Ultratrend DMS™.",
+                    "View multiple data formats, analyze trend charts, and create Excel reports.",
+                    "Store and retrieve accurate, repeatable digital data effortlessly."
+                  ],
+                  "paragraph_4": [
+                    "Certified for use in ATEX or EX zones, ensuring safe operation in potentially explosive atmospheres.",
+                    "FM and CSA approved for Class I, Division 1 environments; suitable for industries like mining and gas processing.",
+                    "Built for safety with specific configurations for different environmental conditions."
+                  ],
+                  "paragraph_5": [
+                    "Includes all necessary tools for thorough ultrasonic inspection, from scanning modules to stethoscope probes.",
+                    "Comes with a durable Zero Halliburton aluminum carrying case for easy transport.",
+                    "Multiple kit configurations available, tailored to specific inspection needs and environments."
+                  ],
+                  "link_2": "",
+                  "typesHeader": "Product images",
+                  "images": [
+                    {
+                      "imgPath": "/image/ultrasonic/",
+                      "alt": ""
+                    }
+                  ]
+                },
+                {
                   "name": "",
                   "path": "/product-item/devices-product/ultrasonic-analyzers/",
                   "title": "",
