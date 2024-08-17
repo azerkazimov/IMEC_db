@@ -4205,34 +4205,48 @@
                   "images": []
                 },
                 {
-                  "name": "",
-                  "path": "/product-item/devices-product/ultrasonic-analyzers/",
-                  "title": "",
-                  "description": "",
-                  "img": "/image/ultrasonic/",
-                  "sectionImg_1": "/image/ultrasonic/",
-                  "sectionImg_2": "",
-                  "sectionImg_3": "",
+                  "name": "Ultraprobe 201 Grease Caddy",
+                  "path": "/product-item/devices-product/ultrasonic-analyzers/ultraprobe-201-grease-caddy",
+                  "title": "Ultraprobe® 201 Grease Caddy: Precision Lubrication Monitoring Made Easy",
+                  "description": "The Ultraprobe® 201 Grease Caddy is a unique, simultaneous lubrication device that allows for ultrasonic monitoring of excessive lubrication. It converts high-frequency sound waves into audible frequencies, helping you listen to bearing conditions and avoid over-lubrication.",
+                  "img": "/image/ultrasonic/ltrasonic_57.png",
+                  "sectionImg_1": "/image/ultrasonic/ltrasonic_58.png",
+                  "sectionImg_2": "/image/ultrasonic/ltrasonic_59.png",
+                  "sectionImg_3": "/image/ultrasonic/ltrasonic_60.png",
                   "sectionImg_4": "",
                   "sectionImg_5": "",
-                  "head_1": "",
-                  "head_2": "",
-                  "head_3": "",
+                  "head_1": "Why Choose Ultraprobe® 201?",
+                  "head_2": "Key Features",
+                  "head_3": "Standard Kit Includes",
                   "head_4": "",
                   "head_5": "",
-                  "paragraph_1": "",
-                  "paragraph_2": "",
-                  "paragraph_3": "",
+                  "paragraph_1": [
+                    "Avoid Over-Lubrication: Monitor and control lubrication levels accurately.",
+                    "Enhance Equipment Life: Prolong the lifespan of your equipment by preventing over-lubrication.",
+                    "Detect Bearing Failures: Listen to bearing conditions to identify issues before they become serious.",
+                    "Reduce Operating Costs: Lower maintenance costs and improve efficiency by optimizing lubrication practices."
+                  ],
+                  "paragraph_2": [
+                    "Ultrasonic Monitoring: Converts high-frequency sound waves into audible sounds, making it easy to hear and identify bearing conditions.",
+                    "LED Display: Visualizes ultrasonic amplitudes on an easy-to-read screen.",
+                    "Built-In Flashlight: Illuminates dark areas for easier inspection.",
+                    "Rotating Base: Adapts to various angles for flexible use.",
+                    "Industrial Headphones: Effective in noisy environments to ensure clear audio.",
+                    "Magnetic Transducer Mount: Facilitates easy attachment and use.",
+                    "Optional Belt Holster: Provides convenient carrying options."
+                  ],
+                  "paragraph_3": [
+                    "Grease Caddy Unit: With LED display, headphones, and battery charger.",
+                    "Rotating Mounting Kit: For attaching grease guns securely.",
+                    "Battery Charger: For maintaining power levels.",
+                    "Industrial Noise-Canceling Headphones: For use in high-noise environments.",
+                    "Comprehensive User Manual: Detailed instructions for effective use."
+                  ],
                   "paragraph_4": "",
                   "paragraph_5": "",
                   "link_2": "",
-                  "typesHeader": "Product images",
-                  "images": [
-                    {
-                      "imgPath": "/image/ultrasonic/",
-                      "alt": ""
-                    }
-                  ]
+                  "typesHeader": "",
+                  "images": []
                 }
               ]
             }
