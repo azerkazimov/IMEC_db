@@ -4603,6 +4603,58 @@
                   "images": []
                 },
                 {
+                  "name": "FLIR T560 - Advanced",
+                  "path": "/product-item/devices-product/thermal-camera/flir-t560-advanced",
+                  "title": "FLIR T560: Advanced Thermal Imaging for Efficient Inspections",
+                  "description": "The FLIR T560 thermal camera is designed to enhance visibility and simplify critical inspections, whether you're assessing transformer components, manufacturing equipment, or electro-mechanical systems. Equipped with a 180° rotating lens platform and optional internal Inspection Routing system, the T560 helps you capture and organize temperature data and images in a logical sequence for faster troubleshooting and repairs. Regular predictive maintenance with the T560 can prevent costly electrical outages and facility shutdowns. Use FLIR Thermal Studio Pro to develop inspection routes and optimize workflow with the optional Inspection Routing module.",
+                  "img": "/image/thermal-camera/thermal_16.jpg",
+                  "sectionImg_1": "/image/thermal-camera/thermal_16.jpg",
+                  "sectionImg_2": "/image/thermal-camera/thermal_17.jpg",
+                  "sectionImg_3": "/image/thermal-camera/thermal_18.jpg",
+                  "sectionImg_4": "",
+                  "sectionImg_5": "",
+                  "head_1": "Prevent Costly Interruptions and Component Failures",
+                  "head_2": "Technical Specifications",
+                  "head_3": "Included Accessories & Battery",
+                  "head_4": "",
+                  "head_5": "",
+                  "paragraph_1": [
+                    "Rapid Assessment: Evaluate the thermal health of electrical systems, mechanical equipment, and facility-wide systems from any lighting point, under any lighting conditions.",
+                    "Exceptional Measurement Precision: Gain access to sharp thermal images and workflow optimizations to gather and share critical data more efficiently."
+                  ],
+                  "paragraph_2": [
+                    "IR Resolution: 640 × 480 pixels.",
+                    "Laser Marker: Yes.",
+                    "Programmable Buttons: 2.",
+                    "Spectral Range: 7.5 – 14.0 µm.",
+                    "Text: Predefined list or touchscreen keyboard.",
+                    "Time-Lapse: 10 seconds to 24 hours.",
+                    "Audio: 60 seconds internal microphone (with speaker) or Bluetooth for adding recordings to still images or videos.",
+                    "Weight & Dimensions (without lens): 1.3 kg (2.9 lbs), 140 x 201 x 84 mm (5.5 x 7.9 x 3.3 in)."
+                  ],
+                  "paragraph_3": [
+                    "Battery Life: Approximately 4 hours at 25°C (77°F) ambient temperature with typical usage.",
+                    "Battery Type: Li-ion battery, chargeable in the camera or separate charger.",
+                    "Image File Format: Standard JPEG with measurement data.",
+                    "Image Storage Mode: Infrared, visual, MSX®, Picture-in-Picture.",
+                    "Lensless Infrared Camera.",
+                    "2 Batteries.",
+                    "Charger.",
+                    "Hard Carrying Case.",
+                    "Neck Straps.",
+                    "Front Lens Cap.",
+                    "Power Sources.",
+                    "Printed Documentation.",
+                    "SD Card (8 GB).",
+                    "Cables: USB 2.0 A to USB Type-C, USB Type-C to HDMI, USB Type-C to USB Type-C."
+                  ],
+                  "paragraph_4": "",
+                  "paragraph_5": "",
+                  "link_1": "",
+                  "typesHeader": "",
+                  "images": []
+                },
+                {
                   "name": "",
                   "path": "/product-item/devices-product/thermal-camera/",
                   "title": "",
