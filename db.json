@@ -619,7 +619,7 @@
               "description": "IMEC Valve Group offers high-performance valves designed for a variety of industrial applications, ensuring precise flow control and durability. Our extensive product range includes ball valves, gate valves, globe valves, butterfly valves, check valves, and more. Engineered for optimal performance and reliability, IMEC valves meet the stringent demands of modern industries. Trust IMEC Valve Group for all your valve solutions.",
               "typesHeader": "IMEC Valve Group: Comprehensive Valve Solutions for All Industrial Needs",
               "typesDescription": "IMEC Valve Group offers a wide range of high-quality valves designed to meet the diverse requirements of various industries. Our product lineup includes Knife Valves, Pinch Valves, Diaphragm Valves, Plug Valves, Butterfly Valves, Ball Valves, Check Valves, Filters and Strainers, Needle Valves, Gate Valves, Globe Valves, Segment Valves, Control Valves, Safety Valves, Pressure Reducers, Blasting Discs, Electric Actuators, Pneumatic Actuators, Positioners, Solenoid Valves, and Limit Switch Boxes. Each valve is engineered for precision, durability, and reliability, ensuring efficient flow control and seamless operation. Trust IMEC Valve Group for all your valve solutions, tailored to your specific needs.",
-              "subCats":[
+              "subCats": [
                 {
                   "name": "Gate Valve DIN F4",
                   "path": "/product-item/spare-parts-group/valves-group/gate-valve-dinf4",
@@ -644,10 +644,53 @@
                   "link_1": "",
                   "link_2": "",
                   "typesHeader": "Product images",
+                  "typesDescription": "Gate Valve with Rubber-Coated Wedge per DIN F4",
+                  "types": [
+                    {
+                      "id": 221011,
+                      "type": "Series: SG45R-16D"
+                    },
+                    {
+                      "id": 221012,
+                      "type": "DN: 50-1000"
+                    },
+                    {
+                      "id": 221013,
+                      "type": "PN: 16"
+                    },
+                    {
+                      "id": 221014,
+                      "type": "Temperature Range: -25°C to +130°C"
+                    },
+                    {
+                      "id": 221015,
+                      "type": "Body Material: Ductile Iron (GJS)"
+                    },
+                    {
+                      "id": 221016,
+                      "type": "Wedge Material: Ductile Iron (GJS) coated with EPDM"
+                    },
+                    {
+                      "id": 221017,
+                      "type": "Class: A according to GOST 54808-2011"
+                    }
+                  ],
                   "images": [
                     {
-                      "imgPath": "",
-                      "alt": ""
+                      "imgPath": "/image/valve/valve_01.jpg",
+                      "alt": "Gate Valve"
+                    },
+                    {
+                      "imgPath": "/image/valve/valve_02.jpg",
+                      "alt": "Gate Valve"
+                    },
+                    {
+                      "imgPath": "/image/valve/valve_03.jpg",
+                      "alt": "Gate Valve"
+                    },
+                    {
+                      "imgPath": "/image/valve/valve_04.jpg",
+                      "alt": "Gate Valve"
                     }
                   ]
                 }
