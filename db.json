@@ -3269,7 +3269,7 @@
                   "paragraph_3": "",
                   "paragraph_4": "",
                   "paragraph_5": "",
-                  "link_2":"https://youtu.be/aK1JPrf3p3g?si=z_dXq75T1_vY7pLE",
+                  "link_2": "https://youtu.be/aK1JPrf3p3g?si=z_dXq75T1_vY7pLE",
                   "typesHeader": "Product images",
                   "images": [
                     {
@@ -3495,7 +3495,7 @@
                   "paragraph_3": "EVO sensors feature a 30 mm CCD detector, ensuring exceptional precision alignment and unique repeatability regardless of ambient light and measurement conditions. An additional advantage is the compact size of the sensors, measuring only 33 mm in thickness, allowing them to easily fit into even the tightest spaces.",
                   "paragraph_4": "The VertiZontal™ Moves feature precisely indicates how much adjustment is needed for a misaligned machine by adding or removing shims at the machine's feet. This eliminates the need for re-measurement between vertical and horizontal phases when correcting horizontal misalignment. As an industry first, this function saves time and guarantees accuracy on the first try.",
                   "paragraph_5": "",
-                  "link_1":"https://youtu.be/pgK3Vah7zaM?si=EvXongC4KV6nyN7z",
+                  "link_1": "https://youtu.be/pgK3Vah7zaM?si=EvXongC4KV6nyN7z",
                   "typesHeader": "",
                   "images": []
                 },
@@ -3552,7 +3552,7 @@
                   "paragraph_3": "",
                   "paragraph_4": "",
                   "paragraph_5": "",
-                  "link_1":"https://youtu.be/h9CWv4juQhE?si=vkpUkRUV23A36V4f",
+                  "link_1": "https://youtu.be/h9CWv4juQhE?si=vkpUkRUV23A36V4f",
                   "link_2": "https://youtu.be/rkJ9NN0ymbE?si=Rv6-Hw13N5YI4A8E",
                   "typesHeader": "",
                   "images": [
@@ -4251,17 +4251,17 @@
               ]
             },
             {
-              "id": 233,
+              "id": 234,
               "name": "MOTION AMPLIFICATION",
               "title": "RDI Motion Amplification Service",
-              "path": "/maintenance/service/rdi-motion-amplification",
+              "path": "/product-item/devices-product/motion-amplification",
               "img": "/image/maintenance/rdi.jpg",
-              "header": "Enhancing Industrial Maintenance with Precision Motion Analysis",
+              "sectionImg": "/image/maintenance/rdi.jpg",
               "description": "At IMEC, we are committed to providing cutting-edge solutions for industrial maintenance and reliability. Our RDI Motion Amplification Service is a revolutionary technology that amplifies tiny movements to help you identify and diagnose machinery issues with unprecedented clarity and accuracy.",
               "subCats": [
                 {
                   "name": "IRIS M",
-                  "path": "/maintenance/service/rdi-motion-amplification/iris-m",
+                  "path": "/product-item/devices-product/motion-amplification/iris-m",
                   "title": "Iris M: Revolutionizing Motion Detection with Advanced RDI Technology",
                   "description": "The Iris M platform, developed by RDI Technologies, uncovers movements invisible to the naked eye through its cutting-edge motion amplification software. This revolutionary technology converts subtle vibrations into visible motion, enhancing operational efficiency, reliability, and quality monitoring. By transforming every pixel of the camera into a sensor, Iris M delivers millions of measurements per second without any physical connection, providing real-time insights for improved decision-making.",
                   "img": "/image/maintenance/iris-m-rdi.png",
@@ -4285,7 +4285,7 @@
                 },
                 {
                   "name": "IRIS MX",
-                  "path": "/maintenance/service/rdi-motion-amplification/iris-mx",
+                  "path": "/product-item/devices-product/motion-amplification/iris-mx",
                   "title": "Iris MX: Expanding Motion Amplification® to High-Speed Applications",
                   "description": "RDI Technologies introduces Iris MX, an extension of the revolutionary Iris M™ platform, bringing Motion Amplification® to high-speed applications. Capable of capturing up to 1400 FPS in HD resolution and utilizing frame rates over 10,000 FPS, Iris MX visualizes movements exceeding 5,000 Hz, allowing users to diagnose machines quickly and thoroughly. This advanced technology provides unparalleled insights by converting complex vibrations into easy-to-understand videos, bridging communication gaps between technical and non-technical personnel.",
                   "img": "/image/maintenance/iris-mx_1.png",
@@ -4310,7 +4310,7 @@
                 },
                 {
                   "name": "RDI IRIS M™ TRAVELER",
-                  "path": "/maintenance/service/rdi-motion-amplification/iris-m-traveler",
+                  "path": "/product-item/devices-product/motion-amplification/iris-m-traveler",
                   "title": "Iris M™ Traveler: Portable Vibration Analysis with Motion Amplification®",
                   "description": "Experience the power of Motion Amplification® on the go with the Iris M™ Traveler. This portable, compact, and lightweight vibration analysis system is designed to move with you, capturing millions of data points quickly in challenging environments. With minimal setup time, you can easily gather critical data in tight spaces and logistically difficult areas, enhancing the capacity and reach of your reliability program.",
                   "img": "/image/maintenance/iris-m-traveler.png",
@@ -4334,7 +4334,7 @@
                 },
                 {
                   "name": "Iris CM",
-                  "path": "/maintenance/service/rdi-motion-amplification/iris-cm",
+                  "path": "/product-item/devices-product/motion-amplification/iris-cm",
                   "title": "Iris CM: Continuous Equipment Monitoring with Motion Amplification®",
                   "description": "Iris CM is the most innovative technology designed for monitoring the condition of your equipment or machinery. With Iris CM, Motion Amplification® becomes a flexible and scalable solution that continuously monitors your equipment even when you're away. This tool ensures you don’t miss anything in your facility by combining traditional vibration inputs with RDI's patented video-based vibration measurements.",
                   "img": "/image/maintenance/iris-cm.png",
@@ -4356,28 +4356,7 @@
                   "typesHeader": "",
                   "images": []
                 }
-              ],
-              "content": {
-                "what_is_it": "Motion Amplification is a video-based technology that detects and visualizes subtle movements that are not visible to the naked eye. By amplifying these movements, our system converts them into easy-to-understand visual data, allowing for precise identification of issues in machinery and structures.",
-                "features": [
-                  "High-Definition Video Analysis: Captures high-resolution video of your machinery in action, ensuring every detail is recorded.",
-                  "Non-Invasive Technique: Requires no physical contact with your equipment, minimizing downtime and disruption.",
-                  "Comprehensive Diagnostics: Identifies issues such as misalignment, imbalance, looseness, and structural defects.",
-                  "Real-Time Reporting: Provides immediate feedback and detailed reports, facilitating quick decision-making."
-                ],
-                "benefits": [
-                  "Increased Reliability: Early detection of potential issues prevents unexpected failures and extends machinery life.",
-                  "Cost Savings: Reduces the need for frequent manual inspections and costly unplanned downtime.",
-                  "Enhanced Safety: Identifies and mitigates risks before they become critical, ensuring a safer working environment.",
-                  "Optimized Performance: Ensures machinery operates at peak efficiency, improving overall productivity."
-                ],
-                "applications": [
-                  "Rotating Equipment: Pumps, motors, fans, and compressors.",
-                  "Structural Components: Beams, foundations, and piping.",
-                  "Mechanical Systems: Conveyors, gearboxes, and couplings."
-                ],
-                "why_choose_imec": "IMEC combines advanced technology with expert knowledge to deliver unparalleled motion amplification services. Our team of experienced professionals is dedicated to helping you achieve optimal machinery performance and reliability."
-              }
+              ]
             }
           ]
         }
