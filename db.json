@@ -3243,8 +3243,8 @@
               "name": "Alignment Devices",
               "title": "Precision Alignment Devices: Simplifying Shaft Alignment",
               "path": "/product-item/devices-product/alignment-devices",
-              "img": "/image/alignment-devices/alignment_1.png",
-              "sectionImg": "/image/alignment-devices/alignment_1.png",
+              "img": "/image/ultrasonic/",
+              "sectionImg": "/image/ultrasonic/",
               "description": "Precision alignment devices, like the Fixturlaser NXA Pro, streamline both standard and complex shaft alignment tasks. These advanced tools not only handle conventional horizontal and vertical alignments but also tackle unconventional applications with efficiency. Featuring intuitive user interfaces with universal colors and easily understandable symbols, these devices enable users to perform accurate alignments quickly and effortlessly, saving valuable time and reducing labor.",
               "typesHeader": "Alignment devices: ",
               "subCats": [
@@ -3253,8 +3253,8 @@
                   "path": "/product-item/devices-product/alignment-devices/fixturlaser-nxa-pro",
                   "title": "Fixturlaser NXA Pro: Advanced Shaft Alignment Made Easy",
                   "description": "The Fixturlaser NXA Pro enhances efficiency by handling standard horizontal and vertical shaft alignment tasks, as well as more complex alignment applications, with ease. Its intuitive user interface, featuring universal colors and clear symbols, allows users to execute alignment procedures effectively, ensuring accuracy while saving both time and effort.",
-                  "img": "/image/alignment-devices/alignment_1.png",
-                  "sectionImg_1": "/image/alignment-devices/alignment_2.png",
+                  "img": "/image/ultrasonic/",
+                  "sectionImg_1": "/image/ultrasonic/",
                   "sectionImg_2": "",
                   "sectionImg_3": "",
                   "sectionImg_4": "",
@@ -3273,23 +3273,23 @@
                   "typesHeader": "Product images",
                   "images": [
                     {
-                      "imgPath": "/image/alignment-devices/alignment_1.png",
+                      "imgPath": "/image/ultrasonic/",
                       "alt": "Fixturlaser NXA Pro"
                     },
                     {
-                      "imgPath": "/image/alignment-devices/alignment_2.png",
+                      "imgPath": "/image/ultrasonic/",
                       "alt": "Fixturlaser NXA Pro"
                     },
                     {
-                      "imgPath": "/image/alignment-devices/alignment_3.png",
+                      "imgPath": "/image/ultrasonic/",
                       "alt": "Fixturlaser NXA Pro"
                     },
                     {
-                      "imgPath": "/image/alignment-devices/alignment_4.png",
+                      "imgPath": "/image/ultrasonic/",
                       "alt": "Fixturlaser NXA Pro"
                     },
                     {
-                      "imgPath": "/image/alignment-devices/alignment_5.png",
+                      "imgPath": "/image/ultrasonic/",
                       "alt": "Fixturlaser NXA Pro"
                     }
                   ]
@@ -3299,8 +3299,8 @@
                   "path": "/product-item/devices-product/alignment-devices/fixturlaser-exo",
                   "title": "FIXTURLASER EXO: Certified Smart Alignment System for Hazardous Areas",
                   "description": "The FIXTURLASER EXO is a cutting-edge alignment system specifically engineered for use in hazardous environments, offering robust and precise performance. It features advanced technologies such as True Live, which provides continuous real-time updates of machine positioning, and VertiZontal Moves™, allowing for simultaneous alignment adjustments in both horizontal and vertical axes without the need for repeated measurements. The system's EX-certified smart sensors and integrated Bluetooth ensure reliable wireless communication and accurate readings, even in challenging conditions. With its user-friendly, icon-based interface and color-coded displays, the FIXTURLASER EXO simplifies complex alignment tasks, reduces the risk of operator error, and accelerates setup time. This system not only enhances alignment accuracy but also contributes to significant time and cost savings across maintenance and production operations.",
-                  "img": "/image/alignment-devices/exo_1.png",
-                  "sectionImg_1": "/image/alignment-devices/exo_2.png",
+                  "img": "/image/ultrasonic/",
+                  "sectionImg_1": "/image/ultrasonic/",
                   "sectionImg_2": "",
                   "sectionImg_3": "",
                   "sectionImg_4": "",
@@ -3318,27 +3318,27 @@
                   "typesHeader": "Product images",
                   "images": [
                     {
-                      "imgPath": "/image/alignment-devices/exo_1.png",
+                      "imgPath": "/image/ultrasonic/",
                       "alt": "FIXTURLASER EXO"
                     },
                     {
-                      "imgPath": "/image/alignment-devices/exo_2.png",
+                      "imgPath": "/image/ultrasonic/",
                       "alt": "FIXTURLASER EXO"
                     },
                     {
-                      "imgPath": "/image/alignment-devices/exo_3.png",
+                      "imgPath": "/image/ultrasonic/",
                       "alt": "FIXTURLASER EXO"
                     },
                     {
-                      "imgPath": "/image/alignment-devices/exo_4.png",
+                      "imgPath": "/image/ultrasonic/",
                       "alt": "FIXTURLASER EXO"
                     },
                     {
-                      "imgPath": "/image/alignment-devices/exo_5.png",
+                      "imgPath": "/image/ultrasonic/",
                       "alt": "FIXTURLASER EXO"
                     },
                     {
-                      "imgPath": "/image/alignment-devices/exo_6.png",
+                      "imgPath": "/image/ultrasonic/",
                       "alt": "FIXTURLASER EXO"
                     }
                   ]
@@ -3348,11 +3348,11 @@
                   "path": "/product-item/devices-product/alignment-devices/rt-300",
                   "title": "Shaft Alignment",
                   "description": "Robust Sensor Design: Featuring an IP65-certified sensor design, the system is built to withstand challenging environments. The 30 mm digital sensor detector combined with a line laser eliminates the need for rough alignment and ensures a quick setup process. Pre-mounted fixtures and compact sensors enable rapid installation even in confined spaces.",
-                  "img": "/image/alignment-devices/rt-300_1.png",
-                  "sectionImg_1": "/image/alignment-devices/rt-300_1.png",
-                  "sectionImg_2": "/image/alignment-devices/rt-300_2.png",
-                  "sectionImg_3": "/image/alignment-devices/rt-300_3.png",
-                  "sectionImg_4": "/image/alignment-devices/rt-300_4.png",
+                  "img": "/image/ultrasonic/",
+                  "sectionImg_1": "/image/ultrasonic/",
+                  "sectionImg_2": "/image/ultrasonic/",
+                  "sectionImg_3": "/image/ultrasonic/",
+                  "sectionImg_4": "/image/ultrasonic/",
                   "sectionImg_5": "",
                   "head_1": "True Live Technology",
                   "head_2": "Pre-Alignment",
@@ -3367,19 +3367,19 @@
                   "typesHeader": "Product images",
                   "images": [
                     {
-                      "imgPath": "/image/alignment-devices/rt-300_1.png",
+                      "imgPath": "/image/ultrasonic/",
                       "alt": "rt-300"
                     },
                     {
-                      "imgPath": "/image/alignment-devices/rt-300_2.png",
+                      "imgPath": "/image/ultrasonic/",
                       "alt": "rt-300"
                     },
                     {
-                      "imgPath": "/image/alignment-devices/rt-300_3.png",
+                      "imgPath": "/image/ultrasonic/",
                       "alt": "rt-300"
                     },
                     {
-                      "imgPath": "/image/alignment-devices/rt-300_4.png",
+                      "imgPath": "/image/ultrasonic/",
                       "alt": "rt-300"
                     }
                   ]
@@ -3389,9 +3389,9 @@
                   "path": "/product-item/devices-product/alignment-devices/at-200",
                   "title": "Smart Maintenance for Smart Shaft Alignment",
                   "description": "Integrated with connectivity, mobile devices, and applications, the AT-200 becomes a rapid tool for addressing machine failures and corrective actions. Smart sensors utilize CCD technology for superior measurement performance and precise alignment.",
-                  "img": "/image/alignment-devices/at-200_1.png",
-                  "sectionImg_1": "/image/alignment-devices/at-200_2.png",
-                  "sectionImg_2": "/image/alignment-devices/at-200_3.png",
+                  "img": "/image/ultrasonic/",
+                  "sectionImg_1": "/image/ultrasonic/",
+                  "sectionImg_2": "/image/ultrasonic/",
                   "sectionImg_3": "",
                   "sectionImg_4": "",
                   "sectionImg_5": "",
@@ -3419,23 +3419,23 @@
                   "typesHeader": "Product images",
                   "images": [
                     {
-                      "imgPath": "/image/alignment-devices/at-200_1.png",
+                      "imgPath": "/image/ultrasonic/",
                       "alt": "AT 200"
                     },
                     {
-                      "imgPath": "/image/alignment-devices/at-200_2.png",
+                      "imgPath": "/image/ultrasonic/",
                       "alt": "AT 200"
                     },
                     {
-                      "imgPath": "/image/alignment-devices/at-200_3.png",
+                      "imgPath": "/image/ultrasonic/",
                       "alt": "AT 200"
                     },
                     {
-                      "imgPath": "/image/alignment-devices/at-200_4.png",
+                      "imgPath": "/image/ultrasonic/",
                       "alt": "AT 200"
                     },
                     {
-                      "imgPath": "/image/alignment-devices/at-200_5.png",
+                      "imgPath": "/image/ultrasonic/",
                       "alt": "AT 200"
                     }
                   ]
@@ -3445,8 +3445,8 @@
                   "path": "/product-item/devices-product/alignment-devices/nxa-ultimate",
                   "title": "NXA Ultimate: The Pinnacle of Measurement Tools",
                   "description": "The NXA Ultimate stands out as a premier measurement tool, expertly designed to handle both geometric and shaft alignment applications. This versatile instrument ensures optimal operational conditions by first verifying the flatness of machine foundations and then precisely aligning the machinery post-installation. By addressing both pre-installation and operational alignment, the NXA Ultimate guarantees that your machinery performs at its best.",
-                  "img": "/image/alignment-devices/nxa-du_1.png",
-                  "sectionImg_1": "/image/alignment-devices/nxa-du_1.png",
+                  "img": "/image/ultrasonic/",
+                  "sectionImg_1": "/image/ultrasonic/",
                   "sectionImg_2": "",
                   "sectionImg_3": "",
                   "sectionImg_4": "",
@@ -3479,11 +3479,11 @@
                   "path": "/product-item/devices-product/alignment-devices/evo",
                   "title": "EVO Laser Shaft Alignment System",
                   "description": "Meeting today’s demands for multi-disciplinary and efficient technicians, the EVO stands out with its compact size and ease of use. Designed to deliver high efficiency with minimal labor, EVO's compact design ensures effective alignment solutions even in confined spaces, providing precise results with reduced physical intervention.",
-                  "img": "/image/alignment-devices/evo_1.png",
-                  "sectionImg_1": "/image/alignment-devices/evo_4.png",
-                  "sectionImg_2": "/image/alignment-devices/evo_2.png",
-                  "sectionImg_3": "/image/alignment-devices/evo_3.png",
-                  "sectionImg_4": "/image/alignment-devices/evo_1.png",
+                  "img": "/image/ultrasonic/",
+                  "sectionImg_1": "/image/ultrasonic/",
+                  "sectionImg_2": "/image/ultrasonic/",
+                  "sectionImg_3": "/image/ultrasonic/",
+                  "sectionImg_4": "/image/ultrasonic/",
                   "sectionImg_5": "",
                   "head_1": "Laser Shaft Alignment: Compact Solutions for Modern Needs",
                   "head_2": "Alignment Simplified, but Not Simpler",
@@ -3504,10 +3504,10 @@
                   "path": "/product-item/devices-product/alignment-devices/eco",
                   "title": "Fully Digital Wireless ECO: Dedicated to Horizontal Shaft Alignment",
                   "description": "The ECO is a fully digital wireless entry-level system dedicated to horizontal shaft alignment. Its compact display unit, equipped with a 4” color screen, ensures easy use in confined spaces. The intuitive user interface provides industry-leading ease of use. Combined with wireless sensors and an IP 65 certified design, the ECO offers a cost-effective precision device specifically designed for horizontal shaft alignment.",
-                  "img": "/image/alignment-devices/eco_2.png",
-                  "sectionImg_1": "/image/alignment-devices/eco_4.png",
-                  "sectionImg_2": "/image/alignment-devices/eco_3.png",
-                  "sectionImg_3": "/image/alignment-devices/eco_1.png",
+                  "img": "/image/ultrasonic/",
+                  "sectionImg_1": "/image/ultrasonic/",
+                  "sectionImg_2": "/image/ultrasonic/",
+                  "sectionImg_3": "/image/ultrasonic/",
                   "sectionImg_4": "",
                   "sectionImg_5": "",
                   "head_1": "Cost-Effective Innovative Shaft Alignment",
@@ -3528,9 +3528,9 @@
                   "path": "/product-item/devices-product/alignment-devices/laser-kit",
                   "title": "Laser Shaft Alignment",
                   "description": "The Laser Kit is designed for affordability without compromising on quality or usability. The system includes two digital smart sensors with 30 mm CCD detectors, providing exceptional alignment precision and repeatability regardless of ambient light conditions. The compact sensor design, only 33 mm thick, allows for easy fitting in even the tightest spaces. The intuitive, text-free graphical user interface ensures ease of use and eliminates language barriers. The software provides real-time guidance throughout the alignment process, with automatic reporting to ensure complete and accurate documentation of all alignment activities. Pre-mounted fixtures and pre-configured setups further enhance the efficiency and ease of use, making the Laser Kit an ideal solution for precise shaft alignment in various industrial applications.",
-                  "img": "/image/alignment-devices/laser-kit_3.png",
-                  "sectionImg_1": "/image/alignment-devices/laser-kit_1.png",
-                  "sectionImg_2": "/image/alignment-devices/laser-kit_4.png",
+                  "img": "/image/ultrasonic/",
+                  "sectionImg_1": "/image/ultrasonic/",
+                  "sectionImg_2": "/image/ultrasonic/",
                   "sectionImg_3": "",
                   "sectionImg_4": "",
                   "sectionImg_5": "",
@@ -3557,11 +3557,11 @@
                   "typesHeader": "",
                   "images": [
                     {
-                      "imgPath": "/image/alignment-devices/laser-kit_3.png",
+                      "imgPath": "/image/ultrasonic/",
                       "alt": "Laser Kit"
                     },
                     {
-                      "imgPath": "/image/alignment-devices/laser-kit_2.png",
+                      "imgPath": "/image/ultrasonic/",
                       "alt": "Laser Kit"
                     }
                   ]
@@ -3571,9 +3571,9 @@
                   "path": "/product-item/devices-product/alignment-devices/fixturlaser-level",
                   "title": "Fixturlaser Level: Precision and Flexibility in Machine Alignment",
                   "description": "Fixturlaser Level is a battery-powered measurement sensor that wirelessly connects to the Fixturlaser NXA display unit via Bluetooth. Designed to level machines or machine parts during installation, it provides accurate measurement results with a wide measurement range (± 50 mm/m) and high precision, measuring angular deviations from the surface with a resolution of up to 0.01 mm/m. The measurement sensors can be mounted using magnetic feet or directly onto a table, offering maximum flexibility.",
-                  "img": "/image/alignment-devices/level-rg4_1.png",
-                  "sectionImg_1": "/image/alignment-devices/level-rg4_2.png",
-                  "sectionImg_2": "/image/alignment-devices/level-rg4_3.png",
+                  "img": "/image/ultrasonic/",
+                  "sectionImg_1": "/image/ultrasonic/",
+                  "sectionImg_2": "/image/ultrasonic/",
                   "sectionImg_3": "",
                   "sectionImg_4": "",
                   "sectionImg_5": "",
@@ -3595,12 +3595,12 @@
                   "path": "/product-item/devices-product/alignment-devices/acoem-smc-ex",
                   "title": "Acoem SMC: Advanced Machine Diagnostics and Alignment",
                   "description": "The Acoem SMC provides rapid and precise machine diagnostics and alignment through advanced technologies. With features like the Accurex™ automatic machine diagnosis, integrated stroboscope, internal camera, three-axis wireless sensor, and laser pyrometer, the Acoem SMC ensures comprehensive and accurate machine evaluations. Designed for ease of use with a limited lifetime warranty, it is an essential tool for maintaining optimal machine performance.",
-                  "img": "/image/alignment-devices/acoem_3.png",
-                  "sectionImg_1": "/image/alignment-devices/acoem_1.png",
-                  "sectionImg_2": "/image/alignment-devices/acoem_2.png",
-                  "sectionImg_3": "/image/alignment-devices/acoem_5.png",
-                  "sectionImg_4": "/image/alignment-devices/acoem_6.png",
-                  "sectionImg_5": "/image/alignment-devices/acoem_7.png",
+                  "img": "/image/ultrasonic/",
+                  "sectionImg_1": "/image/ultrasonic/",
+                  "sectionImg_2": "/image/ultrasonic/",
+                  "sectionImg_3": "/image/ultrasonic/",
+                  "sectionImg_4": "/image/ultrasonic/",
+                  "sectionImg_5": "/image/ultrasonic/",
                   "head_1": "Three Simple Steps for Fast and Accurate Machine Diagnosis",
                   "head_2": "Accurex™ - Automated Machine Diagnosis",
                   "head_3": "Integrated Stroboscope for RPM Measurement",
@@ -3618,15 +3618,15 @@
                   "typesHeader": "",
                   "images": [
                     {
-                      "imgPath": "/image/alignment-devices/acoem_1.png",
+                      "imgPath": "/image/ultrasonic/",
                       "alt": "Acoem SMC EX"
                     },
                     {
-                      "imgPath": "/image/alignment-devices/acoem_2.png",
+                      "imgPath": "/image/ultrasonic/",
                       "alt": "Acoem SMC EX"
                     },
                     {
-                      "imgPath": "/image/alignment-devices/acoem_3.png",
+                      "imgPath": "/image/ultrasonic/",
                       "alt": "Acoem SMC EX"
                     }
                   ]
@@ -3636,12 +3636,12 @@
                   "path": "/product-item/devices-product/alignment-devices/pat",
                   "title": "PAT Laser Alignment System: Precision and Ease in Machine Alignment",
                   "description": "The PAT Laser Alignment System provides precise machine alignment using two visible laser emitters, each equipped with spring-loaded guides that fit pulley grooves. The system simplifies alignment by allowing operators to instantly see parallel offsets, angular errors, and distortions. With easy installation and versatile mounting options, PAT ensures that machine alignment processes are quick and accurate.",
-                  "img": "/image/alignment-devices/pat_1.png",
-                  "sectionImg_1": "/image/alignment-devices/pat_4.png",
-                  "sectionImg_2": "/image/alignment-devices/pat_5.png",
-                  "sectionImg_3": "/image/alignment-devices/pat_2.png",
-                  "sectionImg_4": "/image/alignment-devices/pat_7.png",
-                  "sectionImg_5": "/image/alignment-devices/pat_3.png",
+                  "img": "/image/ultrasonic/",
+                  "sectionImg_1": "/image/ultrasonic/",
+                  "sectionImg_2": "/image/ultrasonic/",
+                  "sectionImg_3": "/image/ultrasonic/",
+                  "sectionImg_4": "/image/ultrasonic/",
+                  "sectionImg_5": "/image/ultrasonic/",
                   "head_1": "Visible Laser Line with Dual Emitters",
                   "head_2": "Easy Mounting of Emitters",
                   "head_3": "Simplified Alignment Process",
@@ -3660,10 +3660,10 @@
                   "path": "/product-item/devices-product/alignment-devices/nxa",
                   "title": "GuideU - Adaptive Graphical User Interface",
                   "description": "Acoem’s laser-based geometry systems are distinguished by their industry-leading adaptive graphical user interface, designed for ease of use. Whether used regularly or only a few times a year, our products are developed to be as user-friendly as possible, valuing your time and ensuring efficiency. GuideU's interface accompanies you throughout the entire measurement, adjustment, or alignment process, providing real-time guidance and eliminating the need for second-guessing.",
-                  "img": "/image/alignment-devices/nxa_1.png",
-                  "sectionImg_1": "/image/alignment-devices/nxa_4.png",
-                  "sectionImg_2": "/image/alignment-devices/nxa_5.png",
-                  "sectionImg_3": "/image/alignment-devices/nxa_3.png",
+                  "img": "/image/ultrasonic/",
+                  "sectionImg_1": "/image/ultrasonic/",
+                  "sectionImg_2": "/image/ultrasonic/",
+                  "sectionImg_3": "/image/ultrasonic/",
                   "sectionImg_4": "",
                   "sectionImg_5": "",
                   "head_1": "Receiver Options and Sensor Capabilities",
@@ -3679,20 +3679,112 @@
                   "typesHeader": "Transmitters",
                   "images": [
                     {
-                      "imgPath": "/image/alignment-devices/nxa_6.png",
+                      "imgPath": "/image/ultrasonic/",
                       "alt": "Transmitters"
                     },
                     {
-                      "imgPath": "/image/alignment-devices/nxa_7.png",
+                      "imgPath": "/image/ultrasonic/",
                       "alt": "Transmitters"
                     },
                     {
-                      "imgPath": "/image/alignment-devices/nxa_8.png",
+                      "imgPath": "/image/ultrasonic/",
                       "alt": "Transmitters"
                     },
                     {
-                      "imgPath": "/image/alignment-devices/nxa_9.png",
+                      "imgPath": "/image/ultrasonic/",
                       "alt": "Transmitters"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 233,
+              "name": "Ultrasonic Analyzers",
+              "title": "Maximize Equipment Reliability with Advanced Ultrasonic Analyzers",
+              "path": "/product-item/devices-product/ultrasonic-analyzers",
+              "img": "/image/ultrasonic/ultrasonic_1.png",
+              "sectionImg": "/image/ultrasonic/ultrasonic_1.png",
+              "description": "Ultrasonic analyzers provide precise and efficient detection of mechanical issues and leaks by capturing high-frequency sound waves beyond human hearing. These tools enable early fault detection, helping to prevent equipment failures and reduce maintenance costs. Ideal for a range of industrial applications, ultrasonic analyzers offer real-time monitoring and detailed analysis to ensure the optimal performance and longevity of your machinery.",
+              "typesHeader": "",
+              "subCats": [
+                {
+                  "name": "FLIR Si124-LD",
+                  "path": "/product-item/devices-product/ultrasonic-analyzers/flir-si124-ld",
+                  "title": "Revolutionize Leak Detection with the FLIR Si124-LD Acoustic Imaging Camera",
+                  "description": "The FLIR Si124-LD Acoustic Imaging Camera enables the detection of pressurized air leaks up to 10 times faster than traditional methods. Equipped with 124 microphones, this lightweight, handheld device visually displays ultrasonic information, even in noisy industrial environments, allowing for precise leak localization. It seamlessly integrates with FLIR Thermal Studio for advanced offline analysis and reporting, while also offering cloud-based field analysis via FLIR Acoustic Camera Viewer.",
+                  "img": "/image/ultrasonic/ultrasonic_1.png",
+                  "sectionImg_1": "/image/ultrasonic/ultrasonic_1.png",
+                  "sectionImg_2": "/image/ultrasonic/ultrasonic_1.png",
+                  "sectionImg_3": "",
+                  "sectionImg_4": "",
+                  "sectionImg_5": "",
+                  "head_1": "Find Leaks Faster",
+                  "head_2": "Enhance Efficiency and Reduce Costs",
+                  "head_3": "",
+                  "head_4": "",
+                  "head_5": "",
+                  "paragraph_1": "The FLIR Si124-LD utilizes advanced acoustic imaging technology to detect pressurized air leaks up to 10 times faster than traditional methods. By employing a sophisticated array of 124 microphones, it captures and visualizes high-frequency ultrasonic waves to pinpoint leaks with exceptional precision. The real-time visual representation of these ultrasonic signals, even in noisy industrial environments, allows for quick and accurate leak localization, enabling maintenance teams to address problems before they escalate and cause significant damage.",
+                  "paragraph_2": "Optimize the performance of your pneumatic systems with the FLIR Si124-LD to drive down operational costs, minimize equipment failures, and reduce downtime. Its ergonomic, one-handed design ensures ease of use, allowing for efficient scanning and analysis of pressurized systems. The ability to detect leaks early not only helps in avoiding costly repairs but also contributes to energy savings and extends the lifespan of your equipment. Integrating this camera into your maintenance routine can lead to substantial cost savings and improved operational efficiency, making it a valuable asset for any industrial facility.",
+                  "paragraph_3": "",
+                  "paragraph_4": "",
+                  "paragraph_5": "",
+                  "link_2": "",
+                  "typesHeader": "Product images",
+                  "images": []
+                },
+                {
+                  "name": "FLIR Si124-PD",
+                  "path": "/product-item/devices-product/ultrasonic-analyzers/flir-si124-pd",
+                  "title": "Accelerate Partial Discharge Detection with the FLIR Si124-PD Acoustic Imaging Camera",
+                  "description": "The FLIR Si124-PD Acoustic Imaging Camera offers up to 10 times faster detection of partial discharges in high-voltage electrical systems compared to traditional methods. Featuring 124 microphones, this lightweight, handheld camera provides precise ultrasonic imaging, even in noisy industrial environments. It delivers real-time acoustic visuals overlayed on digital camera images for accurate localization of discharge sources. The camera integrates with FLIR Thermal Studio for advanced offline editing and reporting, and supports cloud-based field analysis via FLIR Acoustic Camera Viewer, making it an essential tool for maintaining electrical system efficiency and reducing operational costs.",
+                  "img": "/image/ultrasonic/ultrasonic_2.png",
+                  "sectionImg_1": "/image/ultrasonic/ultrasonic_2.png",
+                  "sectionImg_2": "/image/ultrasonic/ultrasonic_2.png",
+                  "sectionImg_3": "",
+                  "sectionImg_4": "",
+                  "sectionImg_5": "",
+                  "head_1": "Detect Discharges Faster",
+                  "head_2": "Optimize Efficiency and Reduce Downtime",
+                  "head_3": "",
+                  "head_4": "",
+                  "head_5": "",
+                  "paragraph_1": "With the FLIR Si124-PD, detect partial discharges in high-voltage electrical systems up to 10 times faster than conventional techniques. Its advanced acoustic imaging technology, powered by 124 microphones, provides clear and precise ultrasonic visuals that allow for rapid and accurate identification of electrical discharge sources, even in challenging industrial environments.",
+                  "paragraph_2": "Enhance your maintenance routine with the FLIR Si124-PD to minimize equipment failures and downtime. By providing real-time classification of partial discharges, this easy-to-use, one-handed camera helps ensure that electrical systems operate efficiently, ultimately leading to cost savings and improved reliability of your high-voltage equipment. Integrate with FLIR Thermal Studio and FLIR Acoustic Camera Viewer for comprehensive analysis and reporting, further supporting efficient maintenance practices.",
+                  "paragraph_3": "",
+                  "paragraph_4": "",
+                  "paragraph_5": "",
+                  "link_2": "",
+                  "typesHeader": "",
+                  "images": []
+                },
+                {
+                  "name": "",
+                  "path": "/product-item/devices-product/ultrasonic-analyzers/",
+                  "title": "",
+                  "description": "",
+                  "img": "/image/ultrasonic/",
+                  "sectionImg_1": "/image/ultrasonic/",
+                  "sectionImg_2": "",
+                  "sectionImg_3": "",
+                  "sectionImg_4": "",
+                  "sectionImg_5": "",
+                  "head_1": "",
+                  "head_2": "",
+                  "head_3": "",
+                  "head_4": "",
+                  "head_5": "",
+                  "paragraph_1": "",
+                  "paragraph_2": "",
+                  "paragraph_3": "",
+                  "paragraph_4": "",
+                  "paragraph_5": "",
+                  "link_2": "",
+                  "typesHeader": "Product images",
+                  "images": [
+                    {
+                      "imgPath": "/image/ultrasonic/",
+                      "alt": ""
                     }
                   ]
                 }
