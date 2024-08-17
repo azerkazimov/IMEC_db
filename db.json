@@ -3759,6 +3759,79 @@
                   "images": []
                 },
                 {
+                  "name": "FLIR Si124",
+                  "path": "/product-item/devices-product/ultrasonic-analyzers/flir-si124",
+                  "title": "Efficient Leak and Partial Discharge Detection with the FLIR Si124 Acoustic Imaging Camera",
+                  "description": "The FLIR Si124 Acoustic Imaging Camera is designed to detect pressurized air leaks and partial discharges in high-voltage electrical systems with remarkable speed, up to 10 times faster than traditional methods. This lightweight, one-handed solution utilizes 124 microphones to provide precise ultrasonic imaging, even in noisy environments. Real-time acoustic visuals are overlaid on digital camera images for accurate source localization. The FLIR Acoustic Camera Viewer enables cloud-based field analysis and automatic storage of captured images, facilitating in-depth analysis and issue classification. Regular use of the Si124 can help facilities reduce electricity costs and delay the need for new compressor installations.",
+                  "img": "/image/ultrasonic/ultrasonic_3.png",
+                  "sectionImg_1": "/image/ultrasonic/ultrasonic_3.png",
+                  "sectionImg_2": "/image/ultrasonic/ultrasonic_3.png",
+                  "sectionImg_3": "",
+                  "sectionImg_4": "",
+                  "sectionImg_5": "",
+                  "head_1": "Find Problems Faste",
+                  "head_2": "Reduce Costs and Enhance Reliability",
+                  "head_3": "",
+                  "head_4": "",
+                  "head_5": "",
+                  "paragraph_1": "Detect pressurized air leaks, partial discharges, and electrical discharges up to 10 times faster than traditional methods with the FLIR Si124. This advanced acoustic imaging technology, featuring 124 microphones, offers rapid and precise identification of issues, even in noisy industrial settings.",
+                  "paragraph_2": "Minimize operational costs, equipment failures, and downtime by accurately detecting and classifying partial discharges or electrical discharges with the FLIR Si124. This easy-to-use, one-handed camera helps maintain optimal pneumatic pressure and electrical system performance, contributing to significant cost savings and improved reliability.",
+                  "paragraph_3": "",
+                  "paragraph_4": "",
+                  "paragraph_5": "",
+                  "link_2": "",
+                  "typesHeader": "",
+                  "images": []
+                },
+                {
+                  "name": "Ultraprobe 15.000",
+                  "path": "/product-item/devices-product/ultrasonic-analyzers/ultraprobe-15-000",
+                  "title": "Comprehensive Condition Monitoring with the Ultraprobe 15,000",
+                  "description": "The Ultraprobe 15,000 offers a powerful, all-in-one solution for detecting leaks and performing condition monitoring across industrial facilities. Featuring touch screen technology and an integrated spectrum analyzer, this device allows for easy on-site data collection, analysis, and reporting. Capture temperature readings, photos, and sound recordings with a single touch, while the built-in infrared thermometer and strobe light enable accurate measurements and RPM recording. Ideal for ultrasonic applications, the Ultraprobe 15,000 includes free licensed software for data management and spectral analysis, making it a top choice for managing critical equipment and ensuring operational efficiency.",
+                  "img": "/image/ultrasonic/ultrasonic_5.png",
+                  "sectionImg_1": "/image/ultrasonic/ultrasonic_7.png",
+                  "sectionImg_2": "/image/ultrasonic/ultrasonic_9.png",
+                  "sectionImg_3": "/image/ultrasonic/ultrasonic_10.png",
+                  "sectionImg_4": "/image/ultrasonic/ultrasonic_11.png",
+                  "sectionImg_5": "/image/ultrasonic/ultrasonic_12.png",
+                  "head_1": "Advanced Touchscreen Technology",
+                  "head_2": "Comprehensive Data Analysis and Monitoring",
+                  "head_3": "Integrated Infrared Thermometer",
+                  "head_4": "Reliable Data for Informed Decisions",
+                  "head_5": "Built to Last, Designed for Convenience",
+                  "paragraph_1": [
+                    "User-friendly touchscreen interface",
+                    "Easy navigation and quick access",
+                    "Durable and easy-to-clean surface",
+                    "Digital technology for fast operations",
+                    "One-touch data access"
+                  ],
+                  "paragraph_2": [
+                    "Multiple data displays (dB, temperature, spectrum analysis)",
+                    "On-site spectrum analysis capability",
+                    "Integrated strobe light for RPM measurement",
+                    "Precise targeting with laser pointer",
+                    "Review and storage of historical data"
+                  ],
+                  "paragraph_3": [
+                    "Infrared thermometer for accurate temperature readings",
+                    "Emissivity adjustment for precise measurements",
+                    "Seamless integration with device functions",
+                    "Immediate temperature data on the screen",
+                    "Reliable data for monitoring and reporting"
+                  ],
+                  "paragraph_4": "With the Ultraprobe 15,000, you can trust that the data you collect is accurate and reliable. The device’s integrated data management system ensures that all recorded information is securely stored and easily accessible. This allows for informed decision-making, helping maintenance teams address potential issues before they escalate into major problems.",
+                  "paragraph_5": "Durability and ease of use are at the core of the Ultraprobe 15,000’s design. The robust construction ensures that the device can withstand the rigors of industrial environments, while the touch screen interface and intuitive controls make it easy to operate. Whether you’re performing routine inspections or in-depth analyses, the Ultraprobe 15,000 is built to deliver consistent performance in any setting.",
+                  "link_2": "",
+                  "typesHeader": "",
+                  "images": [
+                    {
+                      "imgPath": "/image/ultrasonic/",
+                      "alt": ""
+                    }
+                  ]
+                },
+                {
                   "name": "",
                   "path": "/product-item/devices-product/ultrasonic-analyzers/",
                   "title": "",
