@@ -3243,8 +3243,8 @@
               "name": "Alignment Devices",
               "title": "Precision Alignment Devices: Simplifying Shaft Alignment",
               "path": "/product-item/devices-product/alignment-devices",
-              "img": "/image/ultrasonic/",
-              "sectionImg": "/image/ultrasonic/",
+              "img": "/image/alignment-devices/alignment_1.png",
+              "sectionImg": "/image/alignment-devices/alignment_1.png",
               "description": "Precision alignment devices, like the Fixturlaser NXA Pro, streamline both standard and complex shaft alignment tasks. These advanced tools not only handle conventional horizontal and vertical alignments but also tackle unconventional applications with efficiency. Featuring intuitive user interfaces with universal colors and easily understandable symbols, these devices enable users to perform accurate alignments quickly and effortlessly, saving valuable time and reducing labor.",
               "typesHeader": "Alignment devices: ",
               "subCats": [
@@ -3253,8 +3253,8 @@
                   "path": "/product-item/devices-product/alignment-devices/fixturlaser-nxa-pro",
                   "title": "Fixturlaser NXA Pro: Advanced Shaft Alignment Made Easy",
                   "description": "The Fixturlaser NXA Pro enhances efficiency by handling standard horizontal and vertical shaft alignment tasks, as well as more complex alignment applications, with ease. Its intuitive user interface, featuring universal colors and clear symbols, allows users to execute alignment procedures effectively, ensuring accuracy while saving both time and effort.",
-                  "img": "/image/ultrasonic/",
-                  "sectionImg_1": "/image/ultrasonic/",
+                  "img": "/image/alignment-devices/alignment_1.png",
+                  "sectionImg_1": "/image/alignment-devices/alignment_2.png",
                   "sectionImg_2": "",
                   "sectionImg_3": "",
                   "sectionImg_4": "",
@@ -3269,27 +3269,27 @@
                   "paragraph_3": "",
                   "paragraph_4": "",
                   "paragraph_5": "",
-                  "link_2": "https://youtu.be/aK1JPrf3p3g?si=z_dXq75T1_vY7pLE",
+                  "link_2":"https://youtu.be/aK1JPrf3p3g?si=z_dXq75T1_vY7pLE",
                   "typesHeader": "Product images",
                   "images": [
                     {
-                      "imgPath": "/image/ultrasonic/",
+                      "imgPath": "/image/alignment-devices/alignment_1.png",
                       "alt": "Fixturlaser NXA Pro"
                     },
                     {
-                      "imgPath": "/image/ultrasonic/",
+                      "imgPath": "/image/alignment-devices/alignment_2.png",
                       "alt": "Fixturlaser NXA Pro"
                     },
                     {
-                      "imgPath": "/image/ultrasonic/",
+                      "imgPath": "/image/alignment-devices/alignment_3.png",
                       "alt": "Fixturlaser NXA Pro"
                     },
                     {
-                      "imgPath": "/image/ultrasonic/",
+                      "imgPath": "/image/alignment-devices/alignment_4.png",
                       "alt": "Fixturlaser NXA Pro"
                     },
                     {
-                      "imgPath": "/image/ultrasonic/",
+                      "imgPath": "/image/alignment-devices/alignment_5.png",
                       "alt": "Fixturlaser NXA Pro"
                     }
                   ]
@@ -3299,8 +3299,8 @@
                   "path": "/product-item/devices-product/alignment-devices/fixturlaser-exo",
                   "title": "FIXTURLASER EXO: Certified Smart Alignment System for Hazardous Areas",
                   "description": "The FIXTURLASER EXO is a cutting-edge alignment system specifically engineered for use in hazardous environments, offering robust and precise performance. It features advanced technologies such as True Live, which provides continuous real-time updates of machine positioning, and VertiZontal Moves™, allowing for simultaneous alignment adjustments in both horizontal and vertical axes without the need for repeated measurements. The system's EX-certified smart sensors and integrated Bluetooth ensure reliable wireless communication and accurate readings, even in challenging conditions. With its user-friendly, icon-based interface and color-coded displays, the FIXTURLASER EXO simplifies complex alignment tasks, reduces the risk of operator error, and accelerates setup time. This system not only enhances alignment accuracy but also contributes to significant time and cost savings across maintenance and production operations.",
-                  "img": "/image/ultrasonic/",
-                  "sectionImg_1": "/image/ultrasonic/",
+                  "img": "/image/alignment-devices/exo_1.png",
+                  "sectionImg_1": "/image/alignment-devices/exo_2.png",
                   "sectionImg_2": "",
                   "sectionImg_3": "",
                   "sectionImg_4": "",
@@ -3318,27 +3318,27 @@
                   "typesHeader": "Product images",
                   "images": [
                     {
-                      "imgPath": "/image/ultrasonic/",
+                      "imgPath": "/image/alignment-devices/exo_1.png",
                       "alt": "FIXTURLASER EXO"
                     },
                     {
-                      "imgPath": "/image/ultrasonic/",
+                      "imgPath": "/image/alignment-devices/exo_2.png",
                       "alt": "FIXTURLASER EXO"
                     },
                     {
-                      "imgPath": "/image/ultrasonic/",
+                      "imgPath": "/image/alignment-devices/exo_3.png",
                       "alt": "FIXTURLASER EXO"
                     },
                     {
-                      "imgPath": "/image/ultrasonic/",
+                      "imgPath": "/image/alignment-devices/exo_4.png",
                       "alt": "FIXTURLASER EXO"
                     },
                     {
-                      "imgPath": "/image/ultrasonic/",
+                      "imgPath": "/image/alignment-devices/exo_5.png",
                       "alt": "FIXTURLASER EXO"
                     },
                     {
-                      "imgPath": "/image/ultrasonic/",
+                      "imgPath": "/image/alignment-devices/exo_6.png",
                       "alt": "FIXTURLASER EXO"
                     }
                   ]
@@ -3348,11 +3348,11 @@
                   "path": "/product-item/devices-product/alignment-devices/rt-300",
                   "title": "Shaft Alignment",
                   "description": "Robust Sensor Design: Featuring an IP65-certified sensor design, the system is built to withstand challenging environments. The 30 mm digital sensor detector combined with a line laser eliminates the need for rough alignment and ensures a quick setup process. Pre-mounted fixtures and compact sensors enable rapid installation even in confined spaces.",
-                  "img": "/image/ultrasonic/",
-                  "sectionImg_1": "/image/ultrasonic/",
-                  "sectionImg_2": "/image/ultrasonic/",
-                  "sectionImg_3": "/image/ultrasonic/",
-                  "sectionImg_4": "/image/ultrasonic/",
+                  "img": "/image/alignment-devices/rt-300_1.png",
+                  "sectionImg_1": "/image/alignment-devices/rt-300_1.png",
+                  "sectionImg_2": "/image/alignment-devices/rt-300_2.png",
+                  "sectionImg_3": "/image/alignment-devices/rt-300_3.png",
+                  "sectionImg_4": "/image/alignment-devices/rt-300_4.png",
                   "sectionImg_5": "",
                   "head_1": "True Live Technology",
                   "head_2": "Pre-Alignment",
@@ -3367,19 +3367,19 @@
                   "typesHeader": "Product images",
                   "images": [
                     {
-                      "imgPath": "/image/ultrasonic/",
+                      "imgPath": "/image/alignment-devices/rt-300_1.png",
                       "alt": "rt-300"
                     },
                     {
-                      "imgPath": "/image/ultrasonic/",
+                      "imgPath": "/image/alignment-devices/rt-300_2.png",
                       "alt": "rt-300"
                     },
                     {
-                      "imgPath": "/image/ultrasonic/",
+                      "imgPath": "/image/alignment-devices/rt-300_3.png",
                       "alt": "rt-300"
                     },
                     {
-                      "imgPath": "/image/ultrasonic/",
+                      "imgPath": "/image/alignment-devices/rt-300_4.png",
                       "alt": "rt-300"
                     }
                   ]
@@ -3389,9 +3389,9 @@
                   "path": "/product-item/devices-product/alignment-devices/at-200",
                   "title": "Smart Maintenance for Smart Shaft Alignment",
                   "description": "Integrated with connectivity, mobile devices, and applications, the AT-200 becomes a rapid tool for addressing machine failures and corrective actions. Smart sensors utilize CCD technology for superior measurement performance and precise alignment.",
-                  "img": "/image/ultrasonic/",
-                  "sectionImg_1": "/image/ultrasonic/",
-                  "sectionImg_2": "/image/ultrasonic/",
+                  "img": "/image/alignment-devices/at-200_1.png",
+                  "sectionImg_1": "/image/alignment-devices/at-200_2.png",
+                  "sectionImg_2": "/image/alignment-devices/at-200_3.png",
                   "sectionImg_3": "",
                   "sectionImg_4": "",
                   "sectionImg_5": "",
@@ -3419,23 +3419,23 @@
                   "typesHeader": "Product images",
                   "images": [
                     {
-                      "imgPath": "/image/ultrasonic/",
+                      "imgPath": "/image/alignment-devices/at-200_1.png",
                       "alt": "AT 200"
                     },
                     {
-                      "imgPath": "/image/ultrasonic/",
+                      "imgPath": "/image/alignment-devices/at-200_2.png",
                       "alt": "AT 200"
                     },
                     {
-                      "imgPath": "/image/ultrasonic/",
+                      "imgPath": "/image/alignment-devices/at-200_3.png",
                       "alt": "AT 200"
                     },
                     {
-                      "imgPath": "/image/ultrasonic/",
+                      "imgPath": "/image/alignment-devices/at-200_4.png",
                       "alt": "AT 200"
                     },
                     {
-                      "imgPath": "/image/ultrasonic/",
+                      "imgPath": "/image/alignment-devices/at-200_5.png",
                       "alt": "AT 200"
                     }
                   ]
@@ -3445,8 +3445,8 @@
                   "path": "/product-item/devices-product/alignment-devices/nxa-ultimate",
                   "title": "NXA Ultimate: The Pinnacle of Measurement Tools",
                   "description": "The NXA Ultimate stands out as a premier measurement tool, expertly designed to handle both geometric and shaft alignment applications. This versatile instrument ensures optimal operational conditions by first verifying the flatness of machine foundations and then precisely aligning the machinery post-installation. By addressing both pre-installation and operational alignment, the NXA Ultimate guarantees that your machinery performs at its best.",
-                  "img": "/image/ultrasonic/",
-                  "sectionImg_1": "/image/ultrasonic/",
+                  "img": "/image/alignment-devices/nxa-du_1.png",
+                  "sectionImg_1": "/image/alignment-devices/nxa-du_1.png",
                   "sectionImg_2": "",
                   "sectionImg_3": "",
                   "sectionImg_4": "",
@@ -3479,11 +3479,11 @@
                   "path": "/product-item/devices-product/alignment-devices/evo",
                   "title": "EVO Laser Shaft Alignment System",
                   "description": "Meeting today’s demands for multi-disciplinary and efficient technicians, the EVO stands out with its compact size and ease of use. Designed to deliver high efficiency with minimal labor, EVO's compact design ensures effective alignment solutions even in confined spaces, providing precise results with reduced physical intervention.",
-                  "img": "/image/ultrasonic/",
-                  "sectionImg_1": "/image/ultrasonic/",
-                  "sectionImg_2": "/image/ultrasonic/",
-                  "sectionImg_3": "/image/ultrasonic/",
-                  "sectionImg_4": "/image/ultrasonic/",
+                  "img": "/image/alignment-devices/evo_1.png",
+                  "sectionImg_1": "/image/alignment-devices/evo_4.png",
+                  "sectionImg_2": "/image/alignment-devices/evo_2.png",
+                  "sectionImg_3": "/image/alignment-devices/evo_3.png",
+                  "sectionImg_4": "/image/alignment-devices/evo_1.png",
                   "sectionImg_5": "",
                   "head_1": "Laser Shaft Alignment: Compact Solutions for Modern Needs",
                   "head_2": "Alignment Simplified, but Not Simpler",
@@ -3495,7 +3495,7 @@
                   "paragraph_3": "EVO sensors feature a 30 mm CCD detector, ensuring exceptional precision alignment and unique repeatability regardless of ambient light and measurement conditions. An additional advantage is the compact size of the sensors, measuring only 33 mm in thickness, allowing them to easily fit into even the tightest spaces.",
                   "paragraph_4": "The VertiZontal™ Moves feature precisely indicates how much adjustment is needed for a misaligned machine by adding or removing shims at the machine's feet. This eliminates the need for re-measurement between vertical and horizontal phases when correcting horizontal misalignment. As an industry first, this function saves time and guarantees accuracy on the first try.",
                   "paragraph_5": "",
-                  "link_1": "https://youtu.be/pgK3Vah7zaM?si=EvXongC4KV6nyN7z",
+                  "link_1":"https://youtu.be/pgK3Vah7zaM?si=EvXongC4KV6nyN7z",
                   "typesHeader": "",
                   "images": []
                 },
@@ -3504,10 +3504,10 @@
                   "path": "/product-item/devices-product/alignment-devices/eco",
                   "title": "Fully Digital Wireless ECO: Dedicated to Horizontal Shaft Alignment",
                   "description": "The ECO is a fully digital wireless entry-level system dedicated to horizontal shaft alignment. Its compact display unit, equipped with a 4” color screen, ensures easy use in confined spaces. The intuitive user interface provides industry-leading ease of use. Combined with wireless sensors and an IP 65 certified design, the ECO offers a cost-effective precision device specifically designed for horizontal shaft alignment.",
-                  "img": "/image/ultrasonic/",
-                  "sectionImg_1": "/image/ultrasonic/",
-                  "sectionImg_2": "/image/ultrasonic/",
-                  "sectionImg_3": "/image/ultrasonic/",
+                  "img": "/image/alignment-devices/eco_2.png",
+                  "sectionImg_1": "/image/alignment-devices/eco_4.png",
+                  "sectionImg_2": "/image/alignment-devices/eco_3.png",
+                  "sectionImg_3": "/image/alignment-devices/eco_1.png",
                   "sectionImg_4": "",
                   "sectionImg_5": "",
                   "head_1": "Cost-Effective Innovative Shaft Alignment",
@@ -3528,9 +3528,9 @@
                   "path": "/product-item/devices-product/alignment-devices/laser-kit",
                   "title": "Laser Shaft Alignment",
                   "description": "The Laser Kit is designed for affordability without compromising on quality or usability. The system includes two digital smart sensors with 30 mm CCD detectors, providing exceptional alignment precision and repeatability regardless of ambient light conditions. The compact sensor design, only 33 mm thick, allows for easy fitting in even the tightest spaces. The intuitive, text-free graphical user interface ensures ease of use and eliminates language barriers. The software provides real-time guidance throughout the alignment process, with automatic reporting to ensure complete and accurate documentation of all alignment activities. Pre-mounted fixtures and pre-configured setups further enhance the efficiency and ease of use, making the Laser Kit an ideal solution for precise shaft alignment in various industrial applications.",
-                  "img": "/image/ultrasonic/",
-                  "sectionImg_1": "/image/ultrasonic/",
-                  "sectionImg_2": "/image/ultrasonic/",
+                  "img": "/image/alignment-devices/laser-kit_3.png",
+                  "sectionImg_1": "/image/alignment-devices/laser-kit_1.png",
+                  "sectionImg_2": "/image/alignment-devices/laser-kit_4.png",
                   "sectionImg_3": "",
                   "sectionImg_4": "",
                   "sectionImg_5": "",
@@ -3552,16 +3552,16 @@
                   "paragraph_3": "",
                   "paragraph_4": "",
                   "paragraph_5": "",
-                  "link_1": "https://youtu.be/h9CWv4juQhE?si=vkpUkRUV23A36V4f",
+                  "link_1":"https://youtu.be/h9CWv4juQhE?si=vkpUkRUV23A36V4f",
                   "link_2": "https://youtu.be/rkJ9NN0ymbE?si=Rv6-Hw13N5YI4A8E",
                   "typesHeader": "",
                   "images": [
                     {
-                      "imgPath": "/image/ultrasonic/",
+                      "imgPath": "/image/alignment-devices/laser-kit_3.png",
                       "alt": "Laser Kit"
                     },
                     {
-                      "imgPath": "/image/ultrasonic/",
+                      "imgPath": "/image/alignment-devices/laser-kit_2.png",
                       "alt": "Laser Kit"
                     }
                   ]
@@ -3571,9 +3571,9 @@
                   "path": "/product-item/devices-product/alignment-devices/fixturlaser-level",
                   "title": "Fixturlaser Level: Precision and Flexibility in Machine Alignment",
                   "description": "Fixturlaser Level is a battery-powered measurement sensor that wirelessly connects to the Fixturlaser NXA display unit via Bluetooth. Designed to level machines or machine parts during installation, it provides accurate measurement results with a wide measurement range (± 50 mm/m) and high precision, measuring angular deviations from the surface with a resolution of up to 0.01 mm/m. The measurement sensors can be mounted using magnetic feet or directly onto a table, offering maximum flexibility.",
-                  "img": "/image/ultrasonic/",
-                  "sectionImg_1": "/image/ultrasonic/",
-                  "sectionImg_2": "/image/ultrasonic/",
+                  "img": "/image/alignment-devices/level-rg4_1.png",
+                  "sectionImg_1": "/image/alignment-devices/level-rg4_2.png",
+                  "sectionImg_2": "/image/alignment-devices/level-rg4_3.png",
                   "sectionImg_3": "",
                   "sectionImg_4": "",
                   "sectionImg_5": "",
@@ -3595,12 +3595,12 @@
                   "path": "/product-item/devices-product/alignment-devices/acoem-smc-ex",
                   "title": "Acoem SMC: Advanced Machine Diagnostics and Alignment",
                   "description": "The Acoem SMC provides rapid and precise machine diagnostics and alignment through advanced technologies. With features like the Accurex™ automatic machine diagnosis, integrated stroboscope, internal camera, three-axis wireless sensor, and laser pyrometer, the Acoem SMC ensures comprehensive and accurate machine evaluations. Designed for ease of use with a limited lifetime warranty, it is an essential tool for maintaining optimal machine performance.",
-                  "img": "/image/ultrasonic/",
-                  "sectionImg_1": "/image/ultrasonic/",
-                  "sectionImg_2": "/image/ultrasonic/",
-                  "sectionImg_3": "/image/ultrasonic/",
-                  "sectionImg_4": "/image/ultrasonic/",
-                  "sectionImg_5": "/image/ultrasonic/",
+                  "img": "/image/alignment-devices/acoem_3.png",
+                  "sectionImg_1": "/image/alignment-devices/acoem_1.png",
+                  "sectionImg_2": "/image/alignment-devices/acoem_2.png",
+                  "sectionImg_3": "/image/alignment-devices/acoem_5.png",
+                  "sectionImg_4": "/image/alignment-devices/acoem_6.png",
+                  "sectionImg_5": "/image/alignment-devices/acoem_7.png",
                   "head_1": "Three Simple Steps for Fast and Accurate Machine Diagnosis",
                   "head_2": "Accurex™ - Automated Machine Diagnosis",
                   "head_3": "Integrated Stroboscope for RPM Measurement",
@@ -3618,15 +3618,15 @@
                   "typesHeader": "",
                   "images": [
                     {
-                      "imgPath": "/image/ultrasonic/",
+                      "imgPath": "/image/alignment-devices/acoem_1.png",
                       "alt": "Acoem SMC EX"
                     },
                     {
-                      "imgPath": "/image/ultrasonic/",
+                      "imgPath": "/image/alignment-devices/acoem_2.png",
                       "alt": "Acoem SMC EX"
                     },
                     {
-                      "imgPath": "/image/ultrasonic/",
+                      "imgPath": "/image/alignment-devices/acoem_3.png",
                       "alt": "Acoem SMC EX"
                     }
                   ]
@@ -3636,12 +3636,12 @@
                   "path": "/product-item/devices-product/alignment-devices/pat",
                   "title": "PAT Laser Alignment System: Precision and Ease in Machine Alignment",
                   "description": "The PAT Laser Alignment System provides precise machine alignment using two visible laser emitters, each equipped with spring-loaded guides that fit pulley grooves. The system simplifies alignment by allowing operators to instantly see parallel offsets, angular errors, and distortions. With easy installation and versatile mounting options, PAT ensures that machine alignment processes are quick and accurate.",
-                  "img": "/image/ultrasonic/",
-                  "sectionImg_1": "/image/ultrasonic/",
-                  "sectionImg_2": "/image/ultrasonic/",
-                  "sectionImg_3": "/image/ultrasonic/",
-                  "sectionImg_4": "/image/ultrasonic/",
-                  "sectionImg_5": "/image/ultrasonic/",
+                  "img": "/image/alignment-devices/pat_1.png",
+                  "sectionImg_1": "/image/alignment-devices/pat_4.png",
+                  "sectionImg_2": "/image/alignment-devices/pat_5.png",
+                  "sectionImg_3": "/image/alignment-devices/pat_2.png",
+                  "sectionImg_4": "/image/alignment-devices/pat_7.png",
+                  "sectionImg_5": "/image/alignment-devices/pat_3.png",
                   "head_1": "Visible Laser Line with Dual Emitters",
                   "head_2": "Easy Mounting of Emitters",
                   "head_3": "Simplified Alignment Process",
@@ -3660,10 +3660,10 @@
                   "path": "/product-item/devices-product/alignment-devices/nxa",
                   "title": "GuideU - Adaptive Graphical User Interface",
                   "description": "Acoem’s laser-based geometry systems are distinguished by their industry-leading adaptive graphical user interface, designed for ease of use. Whether used regularly or only a few times a year, our products are developed to be as user-friendly as possible, valuing your time and ensuring efficiency. GuideU's interface accompanies you throughout the entire measurement, adjustment, or alignment process, providing real-time guidance and eliminating the need for second-guessing.",
-                  "img": "/image/ultrasonic/",
-                  "sectionImg_1": "/image/ultrasonic/",
-                  "sectionImg_2": "/image/ultrasonic/",
-                  "sectionImg_3": "/image/ultrasonic/",
+                  "img": "/image/alignment-devices/nxa_1.png",
+                  "sectionImg_1": "/image/alignment-devices/nxa_4.png",
+                  "sectionImg_2": "/image/alignment-devices/nxa_5.png",
+                  "sectionImg_3": "/image/alignment-devices/nxa_3.png",
                   "sectionImg_4": "",
                   "sectionImg_5": "",
                   "head_1": "Receiver Options and Sensor Capabilities",
@@ -3679,19 +3679,19 @@
                   "typesHeader": "Transmitters",
                   "images": [
                     {
-                      "imgPath": "/image/ultrasonic/",
+                      "imgPath": "/image/alignment-devices/nxa_6.png",
                       "alt": "Transmitters"
                     },
                     {
-                      "imgPath": "/image/ultrasonic/",
+                      "imgPath": "/image/alignment-devices/nxa_7.png",
                       "alt": "Transmitters"
                     },
                     {
-                      "imgPath": "/image/ultrasonic/",
+                      "imgPath": "/image/alignment-devices/nxa_8.png",
                       "alt": "Transmitters"
                     },
                     {
-                      "imgPath": "/image/ultrasonic/",
+                      "imgPath": "/image/alignment-devices/nxa_9.png",
                       "alt": "Transmitters"
                     }
                   ]
@@ -4249,6 +4249,135 @@
                   "images": []
                 }
               ]
+            },
+            {
+              "id": 233,
+              "name": "MOTION AMPLIFICATION",
+              "title": "RDI Motion Amplification Service",
+              "path": "/maintenance/service/rdi-motion-amplification",
+              "img": "/image/maintenance/rdi.jpg",
+              "header": "Enhancing Industrial Maintenance with Precision Motion Analysis",
+              "description": "At IMEC, we are committed to providing cutting-edge solutions for industrial maintenance and reliability. Our RDI Motion Amplification Service is a revolutionary technology that amplifies tiny movements to help you identify and diagnose machinery issues with unprecedented clarity and accuracy.",
+              "subCats": [
+                {
+                  "name": "IRIS M",
+                  "path": "/maintenance/service/rdi-motion-amplification/iris-m",
+                  "title": "Iris M: Revolutionizing Motion Detection with Advanced RDI Technology",
+                  "description": "The Iris M platform, developed by RDI Technologies, uncovers movements invisible to the naked eye through its cutting-edge motion amplification software. This revolutionary technology converts subtle vibrations into visible motion, enhancing operational efficiency, reliability, and quality monitoring. By transforming every pixel of the camera into a sensor, Iris M delivers millions of measurements per second without any physical connection, providing real-time insights for improved decision-making.",
+                  "img": "/image/maintenance/iris-m-rdi.png",
+                  "sectionImg_1": "/image/maintenance/iris-m-rdi.png",
+                  "sectionImg_2": "",
+                  "sectionImg_3": "",
+                  "sectionImg_4": "",
+                  "sectionImg_5": "",
+                  "head_1": "Live Motion Amplification® Technology",
+                  "head_2": "",
+                  "head_3": "",
+                  "head_4": "",
+                  "head_5": "",
+                  "paragraph_1": "Iris M offers the groundbreaking capability to visualize even the most subtle movements in real-time using Live Motion Amplification® technology. This feature enables users to monitor and analyze vibrations across various regions simultaneously, making it possible to identify issues with unparalleled precision. The platform also supports advanced data export options and frequency filtering, ensuring comprehensive analysis and stabilization for accurate results. With Iris M, both technical and non-technical personnel can communicate more effectively, leading to faster and more informed decisions, ultimately saving time and money.",
+                  "paragraph_2": "",
+                  "paragraph_3": "",
+                  "paragraph_4": "",
+                  "paragraph_5": "",
+                  "typesHeader": "",
+                  "images": []
+                },
+                {
+                  "name": "IRIS MX",
+                  "path": "/maintenance/service/rdi-motion-amplification/iris-mx",
+                  "title": "Iris MX: Expanding Motion Amplification® to High-Speed Applications",
+                  "description": "RDI Technologies introduces Iris MX, an extension of the revolutionary Iris M™ platform, bringing Motion Amplification® to high-speed applications. Capable of capturing up to 1400 FPS in HD resolution and utilizing frame rates over 10,000 FPS, Iris MX visualizes movements exceeding 5,000 Hz, allowing users to diagnose machines quickly and thoroughly. This advanced technology provides unparalleled insights by converting complex vibrations into easy-to-understand videos, bridging communication gaps between technical and non-technical personnel.",
+                  "img": "/image/maintenance/iris-mx_1.png",
+                  "sectionImg_1": "/image/maintenance/iris-mx_1.png",
+                  "sectionImg_2": "",
+                  "sectionImg_3": "",
+                  "sectionImg_4": "",
+                  "sectionImg_5": "",
+                  "head_1": " Advanced High-Speed Motion Visualization",
+                  "head_2": "",
+                  "head_3": "",
+                  "head_4": "",
+                  "head_5": "",
+                  "paragraph_1": "Iris MX sets a new standard in high-speed motion visualization by enabling Motion Amplification® at extraordinary frame rates. This allows users to see every subtle movement within a scene and produce infinite absolute measurements, all in real-time. The ability to visualize the entire machine, structure, and surroundings helps in identifying root causes quickly. Iris MX simplifies complex diagnostics into clear, actionable video content, empowering teams to make informed decisions and resolve issues efficiently.",
+                  "paragraph_2": "",
+                  "paragraph_3": "",
+                  "paragraph_4": "",
+                  "paragraph_5": "",
+                  "link_2": "https://www.youtube.com/embed/UpCs6znyFlQ?si=g614j4eTz08OuCt7",
+                  "typesHeader": "",
+                  "images": []
+                },
+                {
+                  "name": "RDI IRIS M™ TRAVELER",
+                  "path": "/maintenance/service/rdi-motion-amplification/iris-m-traveler",
+                  "title": "Iris M™ Traveler: Portable Vibration Analysis with Motion Amplification®",
+                  "description": "Experience the power of Motion Amplification® on the go with the Iris M™ Traveler. This portable, compact, and lightweight vibration analysis system is designed to move with you, capturing millions of data points quickly in challenging environments. With minimal setup time, you can easily gather critical data in tight spaces and logistically difficult areas, enhancing the capacity and reach of your reliability program.",
+                  "img": "/image/maintenance/iris-m-traveler.png",
+                  "sectionImg_1": "/image/maintenance/iris-m-traveler.png",
+                  "sectionImg_2": "",
+                  "sectionImg_3": "",
+                  "sectionImg_4": "",
+                  "sectionImg_5": "",
+                  "head_1": "Advanced Visualization and Measurement",
+                  "head_2": "Efficient Fault Detection and Communication",
+                  "head_3": "",
+                  "head_4": "",
+                  "head_5": "",
+                  "paragraph_1": "The Iris M™ Traveler uses Motion Amplification® to make invisible displacements visible, turning every pixel into a sensor capable of detecting minute movements. This system not only visualizes but also quantifies mechanical or structural behaviors with the precision of a contact displacement sensor, ensuring you can capture critical data with accuracy and ease.",
+                  "paragraph_2": "With its ability to filter data and visualize motion at specific frequencies, the Iris M™ Traveler helps you quickly identify and diagnose the root causes of mechanical issues. The clear, amplified videos produced by the system bridge the communication gap between technical and non-technical team members, making problem-solving more efficient and collaborative.",
+                  "paragraph_3": "",
+                  "paragraph_4": "",
+                  "paragraph_5": "",
+                  "typesHeader": "",
+                  "images": []
+                },
+                {
+                  "name": "Iris CM",
+                  "path": "/maintenance/service/rdi-motion-amplification/iris-cm",
+                  "title": "Iris CM: Continuous Equipment Monitoring with Motion Amplification®",
+                  "description": "Iris CM is the most innovative technology designed for monitoring the condition of your equipment or machinery. With Iris CM, Motion Amplification® becomes a flexible and scalable solution that continuously monitors your equipment even when you're away. This tool ensures you don’t miss anything in your facility by combining traditional vibration inputs with RDI's patented video-based vibration measurements.",
+                  "img": "/image/maintenance/iris-cm.png",
+                  "sectionImg_1": "/image/maintenance/iris-cm.png",
+                  "sectionImg_2": "",
+                  "sectionImg_3": "",
+                  "sectionImg_4": "",
+                  "sectionImg_5": "",
+                  "head_1": "Comprehensive Real-Time Monitoring",
+                  "head_2": "",
+                  "head_3": "",
+                  "head_4": "",
+                  "head_5": "",
+                  "paragraph_1": "Iris CM allows for real-time, continuous monitoring of your equipment, connecting to a network of cameras to capture synchronized data from multiple views of a process, test, or machine part. With its ability to interface with accelerometers, tachometers, and any 4-20 mA inputs, Iris CM records and stores HD data from each connected camera, alongside external sensor data. Users can trigger video and data recordings based on external inputs, virtual camera-based points of interest, and motion thresholds, enabling precise quantification of vibration, amplitude, phase, and frequency for any visible event in both live Motion Amplification® and recorded footage.",
+                  "paragraph_2": "",
+                  "paragraph_3": "",
+                  "paragraph_4": "",
+                  "paragraph_5": "",
+                  "typesHeader": "",
+                  "images": []
+                }
+              ],
+              "content": {
+                "what_is_it": "Motion Amplification is a video-based technology that detects and visualizes subtle movements that are not visible to the naked eye. By amplifying these movements, our system converts them into easy-to-understand visual data, allowing for precise identification of issues in machinery and structures.",
+                "features": [
+                  "High-Definition Video Analysis: Captures high-resolution video of your machinery in action, ensuring every detail is recorded.",
+                  "Non-Invasive Technique: Requires no physical contact with your equipment, minimizing downtime and disruption.",
+                  "Comprehensive Diagnostics: Identifies issues such as misalignment, imbalance, looseness, and structural defects.",
+                  "Real-Time Reporting: Provides immediate feedback and detailed reports, facilitating quick decision-making."
+                ],
+                "benefits": [
+                  "Increased Reliability: Early detection of potential issues prevents unexpected failures and extends machinery life.",
+                  "Cost Savings: Reduces the need for frequent manual inspections and costly unplanned downtime.",
+                  "Enhanced Safety: Identifies and mitigates risks before they become critical, ensuring a safer working environment.",
+                  "Optimized Performance: Ensures machinery operates at peak efficiency, improving overall productivity."
+                ],
+                "applications": [
+                  "Rotating Equipment: Pumps, motors, fans, and compressors.",
+                  "Structural Components: Beams, foundations, and piping.",
+                  "Mechanical Systems: Conveyors, gearboxes, and couplings."
+                ],
+                "why_choose_imec": "IMEC combines advanced technology with expert knowledge to deliver unparalleled motion amplification services. Our team of experienced professionals is dedicated to helping you achieve optimal machinery performance and reliability."
+              }
             }
           ]
         }
