@@ -691,6 +691,10 @@
                     {
                       "imgPath": "/image/valve/valve_04.jpg",
                       "alt": "Gate Valve"
+                    },
+                    {
+                      "imgPath": "/image/valve/valve_43.jpg",
+                      "alt": "Gate Valve"
                     }
                   ]
                 }
