@@ -3968,7 +3968,99 @@
                     "Multiple kit configurations available, tailored to specific inspection needs and environments."
                   ],
                   "link_2": "",
-                  "typesHeader": "Product images",
+                  "typesHeader": "",
+                  "images": []
+                },
+                {
+                  "name": "Ultraprobe 3000",
+                  "path": "/product-item/devices-product/ultrasonic-analyzers/ultraprobe-3000",
+                  "title": "Efficient Detection and Management with Ultraprobe® 3000",
+                  "description": "The Ultraprobe® 3000 is a versatile digital ultrasonic inspection device designed for precise detection and management of air leaks, gas leaks, steam traps, and electrical issues. With its ergonomic design and advanced data management capabilities, this device helps in reducing energy waste, extending operational uptime, and promoting environmental sustainability.",
+                  "img": "/image/ultrasonic/ultrasonic_33.png",
+                  "sectionImg_1": "/image/ultrasonic/ultrasonic_33.png",
+                  "sectionImg_2": "/image/ultrasonic/ultrasonic_34.png",
+                  "sectionImg_3": "/image/ultrasonic/ultrasonic_35.png",
+                  "sectionImg_4": "/image/ultrasonic/ultrasonic_36.png",
+                  "sectionImg_5": "/image/ultrasonic/ultrasonic_37.png",
+                  "head_1": "Comprehensive Detection and Reporting",
+                  "head_2": "User-Friendly and Efficient Operation",
+                  "head_3": "Advanced Data Management Features",
+                  "head_4": "Essential Components for Accurate Inspections",
+                  "head_5": "Specialized Kits for Diverse Applications",
+                  "paragraph_1": [
+                    "Accurately identify and report leaks with cost analysis using DMS software.",
+                    "Inspect and monitor faulty steam traps for effective maintenance.",
+                    "Detect issues in electrical systems and mechanical components with precision."
+                  ],
+                  "paragraph_2": [
+                    "Simple to use with 400 storage points for accurate and repeatable digital data.",
+                    "Ideal for pinpoint troubleshooting and energy-saving programs.",
+                    "Free DMS software provides detailed annual cost reports for each leak detected."
+                  ],
+                  "paragraph_3": [
+                    "Upload and manage leak data via USB with Ultratrend DMS™.",
+                    "Add comments and images to your data, and convert reports into Excel files.",
+                    "Access dynamic precision range and data storage with ease."
+                  ],
+                  "paragraph_4": [
+                    "Includes a user-friendly gun unit with desibel reading and 16-segment bar graph.",
+                    "Features dynamic precision adjustment and 400 data storage points.",
+                    "Comes with a durable Zero Halliburton aluminum carrying case and comprehensive user manual."
+                  ],
+                  "paragraph_5": [
+                    "UP3000LRM: Long-Range Kit - Includes Trisonic scanning module, focusing probe, and stethoscope probe for long-range leak detection.",
+                    "UP3000KT: Standard Kit - Equipped with essential scanning and focusing probes, and a stethoscope probe for general use.",
+                    "UP3000SL: Leak Detection Kit - Specially designed for accurate leak detection with long-range capabilities.",
+                    "UP3000SC: Stethoscope/Scanner Kit - Includes stethoscope and scanning modules for comprehensive inspections.",
+                    "UP3000S: Scanner Kit - Provides scanning capabilities for various ultrasonic applications.",
+                    "UP3000C: Stethoscope Kit - Focuses on internal ultrasonic inspection with stethoscope probes."
+                  ],
+                  "link_2": "",
+                  "typesHeader": "",
+                  "images": []
+                },
+                {
+                  "name": "Ultraprobe 2000 ATEX",
+                  "path": "/product-item/devices-product/ultrasonic-analyzers/ultraprobe-2000-atex",
+                  "title": "Ultraprobe® 2000ATEX: Comprehensive ATEX-Certified Ultrasonic",
+                  "description": "The Ultraprobe® 2000ATEX is the most comprehensive ATEX-rated analog ultrasonic device in its sector, offering exceptional flexibility and compatibility across various testing fields. This device excels in leak detection, mechanical inspections, and electrical assessments, providing high performance and reliability in hazardous environments.",
+                  "img": "/image/ultrasonic/ultrasonic_38.png",
+                  "sectionImg_1": "/image/ultrasonic/ultrasonic_39.png",
+                  "sectionImg_2": "/image/ultrasonic/ultrasonic_40.png",
+                  "sectionImg_3": "/image/ultrasonic/ultrasonic_41.png",
+                  "sectionImg_4": "/image/ultrasonic/ultrasonic_42.png",
+                  "sectionImg_5": "/image/ultrasonic/ultrasonic_43.png",
+                  "head_1": "Superior Performance in Hazardous Areas",
+                  "head_2": "Key Features and Benefits",
+                  "head_3": "Advanced Ultrasonic Technology",
+                  "head_4": "Essential Components for Effective Inspection",
+                  "head_5": "Adaptable and Safe Testing Equipment",
+                  "paragraph_1": [
+                    "Leak Detection and Mechanical Inspection: Detect pressure air leaks, faulty steam traps, and prevent machine malfunctions.",
+                    "Versatile Functionality: Ideal for use in ATEX or EX zones, ensuring safety and efficiency in explosive atmospheres."
+                  ],
+                  "paragraph_2": [
+                    "Ease of Use: Intuitive design for quick operation, with frequency adjustment ranging from 20-100 kHz.",
+                    "Precision Measurement: Analog meter with measurement mode functions, pinpointing issues effectively.",
+                    "ATEX Compliance: FM and CSA certified for self-contained safety in Class I, Zone 1, Groups A-B-C-D; ATEX group IIC."
+                  ],
+                  "paragraph_3": [
+                    "Versatility: Adaptable for various inspections with minimal interference from external noise.",
+                    "Early Warning System: Detects potential issues early through changes in ultrasonic sound.",
+                    "Ease of Operation: Designed for use in noisy environments, converting ultrasonic sounds into audible signals."
+                  ],
+                  "paragraph_4": [
+                    "Complete Kit: Includes a pistol grip housing, ballistic meter, frequency adjustment dial, and more.",
+                    "Industrial Accessories: Comes with noise-reducing headphones, battery charger, and a Halliburton aluminum carrying case.",
+                    "Additional Tools: Trisonic scanning module, focusing probe, stethoscope probe, extension probe, and warble tone generator."
+                  ],
+                  "paragraph_5": [
+                    "Frequencies and Modes: Adjust frequencies to minimize background noise and focus on specific issues.",
+                    "Measurement Modes: Switch between real-time response and average response times for precise leak and mechanical inspections.",
+                    "Audible Conversion: Transforms ultrasonic sounds into audible noise for easier detection and analysis."
+                  ],
+                  "link_2": "",
+                  "typesHeader": "",
                   "images": []
                 },
                 {
