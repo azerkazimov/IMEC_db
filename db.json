@@ -3824,12 +3824,62 @@
                   "paragraph_5": "Durability and ease of use are at the core of the Ultraprobe 15,000’s design. The robust construction ensures that the device can withstand the rigors of industrial environments, while the touch screen interface and intuitive controls make it easy to operate. Whether you’re performing routine inspections or in-depth analyses, the Ultraprobe 15,000 is built to deliver consistent performance in any setting.",
                   "link_2": "",
                   "typesHeader": "",
-                  "images": [
-                    {
-                      "imgPath": "/image/ultrasonic/",
-                      "alt": ""
-                    }
-                  ]
+                  "images": []
+                },
+                {
+                  "name": "Ultraprobe 10.000",
+                  "path": "/product-item/devices-product/ultrasonic-analyzers/ultraprobe-10-000",
+                  "title": "Ultraprobe 10,000: The Ultimate Ultrasonic Inspection and Data Management Tool",
+                  "description": "The Ultraprobe 10,000 revolutionizes ultrasonic inspection with its advanced features, enabling users to conduct condition analysis, record sound, and manage data efficiently. With its versatile applications, from detecting leaks to monitoring electrical systems, this device is a comprehensive solution for all your industrial maintenance needs. Equipped with user-friendly “Press and Listen” technology and robust data management software, the Ultraprobe 10,000 ensures accurate, repeatable results and seamless integration into your maintenance programs. Complete with a full accessory set, it’s designed to meet the most demanding inspection requirements.",
+                  "img": "/image/ultrasonic/ultrasonic_14.png",
+                  "sectionImg_1": "/image/ultrasonic/ultrasonic_13.png",
+                  "sectionImg_2": "/image/ultrasonic/ultrasonic_15.png",
+                  "sectionImg_3": "/image/ultrasonic/ultrasonic_17.png",
+                  "sectionImg_4": "/image/ultrasonic/ultrasonic_19.png",
+                  "sectionImg_5": "/image/ultrasonic/ultrasonic_18.png",
+                  "head_1": "Comprehensive Ultrasonic Applications",
+                  "head_2": "Efficient Data Management",
+                  "head_3": "Advanced Sound Recording and Analysis",
+                  "head_4": "User-Friendly Design and Operation",
+                  "head_5": "Complete Accessory Set for Effective Monitoring",
+                  "paragraph_1": [
+                    "Perform condition analysis and data recording",
+                    "Create bearing and lubrication routes",
+                    "Inspect and report on electrical systems",
+                    "Monitor steam traps for faults",
+                    "Calculate and report leak costs with DMS software"
+                  ],
+                  "paragraph_2": [
+                    "Manage routes and data with Ultratrend DMS™",
+                    "Transfer data via USB connection",
+                    "View and analyze data in multiple formats",
+                    "Generate trend charts and historical tables",
+                    "Export data to Excel for reporting"
+                  ],
+                  "paragraph_3": [
+                    "Record sound directly on the device with “Press and Listen” technology",
+                    "Analyze sound files using FFT and time series formats",
+                    "Generate detailed analysis reports",
+                    "Continue and compare with previous recordings",
+                    "Identify electrical faults with precision"
+                  ],
+                  "paragraph_4": [
+                    "Equipped with a “Press and Listen” interface for easy sound recording",
+                    "Capable of storing up to 400 recordings in device memory",
+                    "Flexible testing options with customizable application screens",
+                    "Connect to external devices for enhanced functionality",
+                    "Provides extensive reporting options"
+                  ],
+                  "paragraph_5": [
+                    "ULTRAPROBE pistol grip body with “Press and Listen” display",
+                    "Industrial noise-canceling headphones",
+                    "Flash card reader and rechargeable battery kit",
+                    "Zero Halliburton aluminum carrying case",
+                    "Warble tone generator with adjustable amplitude selection"
+                  ],
+                  "link_2": "",
+                  "typesHeader": "",
+                  "images": []
                 },
                 {
                   "name": "",
