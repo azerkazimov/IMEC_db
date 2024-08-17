@@ -3969,12 +3969,7 @@
                   ],
                   "link_2": "",
                   "typesHeader": "Product images",
-                  "images": [
-                    {
-                      "imgPath": "/image/ultrasonic/",
-                      "alt": ""
-                    }
-                  ]
+                  "images": []
                 },
                 {
                   "name": "",
