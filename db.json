@@ -5534,6 +5534,60 @@
                   ]
                 },
                 {
+                  "name": "OilMoisture",
+                  "path": "/product-item/devices-product/oil-analysis/oilmoisture",
+                  "title": "OilMoisture: Advanced Sensor for Accurate Water Detection in Lubrication Systems",
+                  "description": "OilMoisture is an advanced online sensor that utilizes infrared technology to accurately measure water content in hydraulic and lubrication systems. Water is a major contaminant that not only signifies leakage but also accelerates wear on critical machine components and degrades lubrication oil. By detecting water presence and assessing the risk of oil degradation, OilMoisture helps prevent potential failures and enhances the reliability of machinery and processes. Its versatility allows for direct integration into lubrication systems, simplifying installation and ensuring efficient monitoring.",
+                  "img": "/image/oil/oil_9.png",
+                  "sectionImg_1": "/image/oil/oil_9.png",
+                  "sectionImg_2": "/image/oil/oil_8.png",
+                  "sectionImg_3": "",
+                  "sectionImg_4": "",
+                  "sectionImg_5": "",
+                  "head_1": "Key Features of OilMoisture Products",
+                  "head_2": "OilMoisture Product Highlights",
+                  "head_3": "",
+                  "head_4": "",
+                  "head_5": "",
+                  "paragraph_1": [
+                    "Moisture Level (ppm) (OilMoisture & OilHealth Probe Max)",
+                    "Fluid Temperature",
+                    "Moisture Percentage (OilMoisture & OilHealth Probe Max)"
+                  ],
+                  "paragraph_2": [
+                    "Maximum Savings: OilMoisture extends the service life of lubricating oil, reducing the frequency of oil changes and overall operational costs.",
+                    "Integration: OilMoisture comes with full SCADA/PC/PLC integration via digital communication and is also compatible with CMS systems.",
+                    "High Functionality: OilMoisture ensures that oil flow remains optimal, providing greater precision, increasing productivity, and extending machine uptime.",
+                    "Minimal Damage: By reducing the frequency of oil changes and minimizing waste, OilMoisture contributes to a positive environmental impact.",
+                    "Instant Measurement: OilMoisture detects abnormalities in the lubricant both at the start and during the process, helping to resolve issues before they occur.",
+                    "Early Detection: The sensor’s early detection capability helps reduce potential failures related to the presence of water, enhancing the reliability of machinery and processes."
+                  ],
+                  "paragraph_3": [],
+                  "paragraph_4": "",
+                  "paragraph_5": "",
+                  "link_1": "",
+                  "link_2": "",
+                  "typesHeader": "Parts of the Equipment",
+                  "images": [
+                    {
+                      "imgPath": "/image/oil/part_14.png",
+                      "alt": "oil sensor part"
+                    },
+                    {
+                      "imgPath": "/image/oil/part_15.png",
+                      "alt": "oil sensor part"
+                    },
+                    {
+                      "imgPath": "/image/oil/part_16.png",
+                      "alt": "oil sensor part"
+                    },
+                    {
+                      "imgPath": "/image/oil/part_17.png",
+                      "alt": "oil sensor part"
+                    }
+                  ]
+                },
+                {
                   "name": "",
                   "path": "/product-item/devices-product/oil-analysis/",
                   "title": "",
