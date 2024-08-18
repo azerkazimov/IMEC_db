@@ -5054,6 +5054,47 @@
                   "images": []
                 },
                 {
+                  "name": "FLIR E5 XT - Semi-Professional",
+                  "path": "/product-item/devices-product/thermal-camera/flir-e5-xt",
+                  "title": "FLIR E5-XT: Versatile Thermal Imaging for Accurate Diagnostics",
+                  "description": "The FLIR E5-XT is a versatile thermal imaging camera equipped with a 160 × 120 pixel infrared detector and a temperature range of -20 °C to 400 °C, making it ideal for diagnosing electrical, mechanical, and building issues. It features FLIR's patented MSX® image enhancement technology, which adds sharp details from digital images to thermal images, providing exceptional clarity. Built-in Wi-Fi allows users to quickly share images and generate reports from anywhere using the FLIR Tools® Mobile app.",
+                  "img": "/image/thermal-camera/thermal_46.jpg",
+                  "sectionImg_1": "/image/thermal-camera/thermal_46.jpg",
+                  "sectionImg_2": "/image/thermal-camera/thermal_47.jpg",
+                  "sectionImg_3": "/image/thermal-camera/thermal_48.jpg",
+                  "sectionImg_4": "",
+                  "sectionImg_5": "",
+                  "head_1": "MSX®: The New Dimension in Thermal Imaging",
+                  "head_2": "Software and Reporting",
+                  "head_3": "Included Accessories & Battery",
+                  "head_4": "",
+                  "head_5": "",
+                  "paragraph_1": [
+                    "The innovative MSX mode overlays sharp details like text, labels, numbers, and patterns from the visual image onto the thermal image, enhancing clarity. This unique imaging mode, developed by FLIR, is available across the entire EX series and is particularly useful for predictive maintenance units.",
+                    "The E5-XT, with its 19,200-pixel 160×120 detector, offers a resolution tailored to your target size, working distance, and budget, making it a cost-effective choice."
+                  ],
+                  "paragraph_2": [
+                    "FLIR Tools software, fully available in Turkish, can be downloaded for free for all Ex-Series models. This software allows for easy analysis of every point on the thermal image and the creation of professional reports.",
+                    "It supports hybrid memory recording for MSX, thermal, picture-in-picture, and visible mode photographs.",
+                    "With center spot, max/min temperature information, and on-screen location of these points, field measurements are made easier. Isotherm functions for above/below specific set values are also included."
+                  ],
+                  "paragraph_3": [
+                    "Rechargeable battery",
+                    "Fast download",
+                    "File sharing via USB and Wi-Fi",
+                    "Fast reporting",
+                    "Measurement accuracy (0.06 °C sensitivity in the E8 model)",
+                    "Adjustable emissivity and reflected temperature parameters for reliable results",
+                    "640x480 pixel visible light camera",
+                    "FLIR offers a 2-year warranty on the camera and a 10-year warranty on the detector if the purchased products are registered on their website. If not registered, the warranty period is 1 year. To register your product, please visit the link provided on their website."
+                  ],
+                  "paragraph_4": "",
+                  "paragraph_5": "",
+                  "link_1": "https://www.youtube.com/embed/RfuHiWEJRNY?si=pfR7PdB948IwUzq-",
+                  "typesHeader": "",
+                  "images": []
+                },
+                {
                   "name": "",
                   "path": "/product-item/devices-product/thermal-camera/",
                   "title": "",
