@@ -5379,7 +5379,7 @@
               "subCats": [
                 {
                   "name": "OilWear",
-                  "path": "/product-item/devices-product/oil-analysis/",
+                  "path": "/product-item/devices-product/oil-analysis/oilWear",
                   "title": "OilWear® Online Sensor: Advanced Real-Time Monitoring for Machine Fluid Contamination",
                   "description": "This online sensor is unique in its field and can detect particles and bubbles larger than 4 microns in machine fluid and classify them into six size ranges. Designed for online operation, this sensor provides real-time machine status information based on fluid contamination with a robust, modular design that can be easily integrated into any CMS or data acquisition system. OilWear® offers an advanced solution for monitoring and preventive maintenance of industrial machinery.",
                   "img": "/image/oil/oil_3.png",
