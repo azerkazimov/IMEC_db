@@ -5130,6 +5130,47 @@
                   "images": []
                 },
                 {
+                  "name": "FLIR C5 Pocket Size - Entry Level",
+                  "path": "/product-item/devices-product/thermal-camera/flir-c5",
+                  "title": "Compact and Powerful Thermal Imaging Camera",
+                  "description": "The FLIR C5, with a 160 × 120 (19,200 pixel) true thermal resolution, MSX® (Multi-Spectral Dynamic Imaging) technology, 5-megapixel camera, and LED flashlight, makes it easy to identify issues that are not visible to the naked eye. The C5 allows you to quickly upload your images to the FLIR Ignite™ app for easy backup and instantly share these images with clients to report issues effectively.",
+                  "img": "/image/thermal-camera/thermal_52.jpg",
+                  "sectionImg_1": "/image/thermal-camera/thermal_52.jpg",
+                  "sectionImg_2": "/image/thermal-camera/thermal_53.jpg",
+                  "sectionImg_3": "/image/thermal-camera/thermal_54.jpg",
+                  "sectionImg_4": "",
+                  "sectionImg_5": "",
+                  "head_1": "Durable, Reliable, Compact",
+                  "head_2": "Technical Specifications",
+                  "head_3": "Included Accessories & Battery",
+                  "head_4": "",
+                  "head_5": "",
+                  "paragraph_1": [
+                    "Description: MSX technology and 160 × 120 true thermal resolution help you quickly find hidden faults and reduce diagnostic time.",
+                    "Description: Use the FLIR Ignite™ connection to directly upload images, then create professional reports and easily send them to clients via email.",
+                    "Description: The C5 is designed to be durable with IP54-rated protection against water and dust and can withstand drops from up to 2 meters. Its compact design makes it portable for any job."
+                  ],
+                  "paragraph_2": [
+                    "Accuracy: At ambient temperature of 15 to 35 °C and object temperature above 0 °C (32 °F), 0 to 100 °C (32 to 212 °F): ± 3 °C (± 5.5 °F), 100 to 400 °C (212 to 752 °F): ± 3%",
+                    "Object Temperature Range: -20 to 400 °C (-4 to 752 °F)",
+                    "IR Sensor: 160 × 120 (19,200 pixels)",
+                    "Touchscreen: Yes",
+                    "Screen Rotation: Yes"
+                  ],
+                  "paragraph_3": [
+                    "Bluetooth: PAN",
+                    "Storage: Internal memory and FLIR Cloud connection (Wi-Fi)",
+                    "USB: USB 2.0, Type-C connector",
+                    "Wireless Internet: 802.11 a/ac/b/g/n (2.4 and 5 GHz)",
+                    "Image Upload: FLIR Ignite"
+                  ],
+                  "paragraph_4": "",
+                  "paragraph_5": "",
+                  "link_1": "https://www.youtube.com/embed/FPXE_7KPNEQ?si=4RLF610QrPpSKxZl",
+                  "typesHeader": "",
+                  "images": []
+                },
+                {
                   "name": "",
                   "path": "/product-item/devices-product/thermal-camera/",
                   "title": "",
