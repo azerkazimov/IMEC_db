@@ -5370,66 +5370,136 @@
             },
             {
               "id": 237,
-              "name": "",
-              "title": "",
-              "path": "/product-item/devices-product/",
-              "img": "/image/",
-              "sectionImg": "/image/",
-              "description": "",
+              "name": "OIL ANALYSIS",
+              "title": "Oil Analysis Equipment",
+              "path": "/product-item/devices-product/oil-analysis",
+              "img": "/image/oil/oil.png",
+              "sectionImg": "/image/oil/oil.png",
+              "description": "Oil analysis is a critical process for maintaining the performance and longevity of machinery. By examining oil samples, these devices can detect contaminants, wear particles, and chemical changes that indicate potential issues within the equipment. This proactive maintenance strategy helps identify problems early, reducing the risk of unexpected breakdowns and extending the lifespan of machinery. Oil analysis equipment provides valuable insights into oil condition, contamination levels, and the overall health of mechanical systems, enabling informed decisions on maintenance and repairs.",
               "subCats": [
                 {
-                  "name": "4-20 mA Vibration Sensors",
-                  "path": "/product-item/devices-product/vibration-sensors/4-20-mA",
-                  "title": "4-20mA Total Value Sensors",
-                  "description": "4-20 mA total value sensors are designed to convert measured vibrations into total value output in velocity and/or acceleration units, allowing direct connection to PLC/DCS/IIoT systems. Ex Proof sensor options are also available for explosive environments.",
-                  "img": "/image/sensor/sensor_1.png",
-                  "sectionImg_1": "/image/sensor/sensor_1.png",
-                  "sectionImg_2": "/image/sensor/sensor_4.png",
-                  "sectionImg_3": "/image/sensor/sensor_5.png",
-                  "sectionImg_4": "",
-                  "sectionImg_5": "",
-                  "head_1": "4-20 mA Sensors",
-                  "head_2": "Mounting Options",
-                  "head_3": "Cables",
-                  "head_4": "",
-                  "head_5": "",
+                  "name": "OilWear",
+                  "path": "/product-item/devices-product/oil-analysis/",
+                  "title": "OilWear® Online Sensor: Advanced Real-Time Monitoring for Machine Fluid Contamination",
+                  "description": "This online sensor is unique in its field and can detect particles and bubbles larger than 4 microns in machine fluid and classify them into six size ranges. Designed for online operation, this sensor provides real-time machine status information based on fluid contamination with a robust, modular design that can be easily integrated into any CMS or data acquisition system. OilWear® offers an advanced solution for monitoring and preventive maintenance of industrial machinery.",
+                  "img": "/image/oil/oil_3.png",
+                  "sectionImg_1": "/image/oil/oil_1.png",
+                  "sectionImg_2": "/image/oil/oil_2.png",
+                  "sectionImg_3": "/image/oil/oil_3.png",
+                  "sectionImg_4": "/image/oil/oil_4.png",
+                  "sectionImg_5": "/image/oil/oil_5.png",
+                  "head_1": "Series C",
+                  "head_2": "Series S",
+                  "head_3": "Series S SS",
+                  "head_4": "Series S EX",
+                  "head_5": "Key Advantages of OilWear® Sensor Technology",
                   "paragraph_1": [
-                    "HS-420: 4-20 mA Velocity",
-                    "HS-421: 4-20 mA Velocity and AC Acceleration",
-                    "HS-422: 4-20 mA Acceleration",
-                    "HS-423: 4-20 mA Acceleration and AC Acceleration"
+                    "Particle counting >4 microns according to ISO 4406 standard",
+                    "Separation and counting of air bubbles",
+                    "Classification of particles into 6 size ranges (>4, >6, >14, >21, >38, 70 μm)"
                   ],
                   "paragraph_2": [
-                    "Magnets: Flat and dual-foot magnets for secure sensor placement.",
-                    "Adhesive Pads: For stable mounting on various surfaces.",
-                    "Screws: For fixed installation on machinery.",
-                    "Electrically Insulated Mounts: To prevent electrical interference.",
-                    "Thermal Dampers: To minimize the impact of temperature fluctuations.",
-                    "Motor Blade Adapters: Custom mounts for specific applications."
+                    "Particle counting >4 microns according to ISO 4406 standard",
+                    "Separation and counting of air bubbles",
+                    "Classification of particles into 6 size ranges (>4, >6, >14, >21, >38, 70 μm)",
+                    "Oil degradation monitoring",
+                    "Shape analysis for root cause detection"
                   ],
                   "paragraph_3": [
-                    "Custom Cables: Tailored solutions with various connector types and cable specifications.",
-                    "Portable Analyzer Cables: Specific cables for portable analyzers available upon request."
+                    "Particle counting >4 microns according to ISO 4406 standard",
+                    "Separation and counting of air bubbles",
+                    "Classification of particles into 6 size ranges (>4, >6, >14, >21, >38, 70 μm)",
+                    "Oil degradation monitoring",
+                    "Shape analysis for root cause detection",
+                    "Fluid image storage",
+                    "Stainless steel material for use with abrasive fluids"
                   ],
+                  "paragraph_4": [
+                    "Particle counting according to ISO 4406 standard",
+                    "Separation and counting of air bubbles",
+                    "Classification of particles into 6 size ranges (>4, >6, >14, >21, >38, 70 μm)",
+                    "Oil degradation monitoring",
+                    "Shape analysis for root cause detection",
+                    "Fluid image storage",
+                    "Suitable for explosive environments"
+                  ],
+                  "paragraph_5": [
+                    "Maximum Savings: To reduce operational risk and address critical machine failures, the permanently installed sensor optimizes asset performance, providing greater and better returns.",
+                    "High Precision: OilWear can detect particles larger than 4μ, categorize them by shape, and distinguish between particles and bubbles, accurately identifying different types of faults.",
+                    "Integration: OilWear comes with SCADA/PC/PLC integration using both analog and digital communication, meaning a single sensor can provide information about oil degradation and contamination.",
+                    "Reliability: OilWear® meticulously monitors the condition of critical machines, allowing you to optimize operation and maintenance intervals, thereby increasing process uptime.",
+                    "Durability: OilWear delivers proven results in any setting. The sensor has been tested and integrated into condition monitoring systems, demonstrating its durability in all environments and conditions.",
+                    "Timing: OilWear can provide predictions for pre-planned maintenance schedules, resulting in less downtime in convenient locations.",
+                    "Immediacy: OilWear can be used for the early prediction of potential failures. It provides advance information on the condition of critical machines, giving insights into various operational levels.",
+                    "Real-Time: OilWear detects anomalies in real-time, providing information at any point to resolve issues before they escalate."
+                  ],
+                  "link_1": "https://www.youtube.com/embed/cphE_aA6u9s?si=Ndskeuwee8iRQWfi",
+                  "link_2": "",
+                  "typesHeader": "Parts of the Equipment",
+                  "images": [
+                    {
+                      "imgPath": "/image/oil/part_1.png",
+                      "alt": "oil sensor part"
+                    },
+                    {
+                      "imgPath": "/image/oil/part_2.png",
+                      "alt": "oil sensor part"
+                    },
+                    {
+                      "imgPath": "/image/oil/part_3.png",
+                      "alt": "oil sensor part"
+                    },
+                    {
+                      "imgPath": "/image/oil/part_4.png",
+                      "alt": "oil sensor part"
+                    },
+                    {
+                      "imgPath": "/image/oil/part_5.png",
+                      "alt": "oil sensor part"
+                    },
+                    {
+                      "imgPath": "/image/oil/part_6.png",
+                      "alt": "oil sensor part"
+                    },
+                    {
+                      "imgPath": "/image/oil/part_7.png",
+                      "alt": "oil sensor part"
+                    },
+                    {
+                      "imgPath": "/image/oil/part_8.png",
+                      "alt": "oil sensor part"
+                    },
+                    {
+                      "imgPath": "/image/oil/part_9.png",
+                      "alt": "oil sensor part"
+                    }
+                  ]
+                },
+                {
+                  "name": "",
+                  "path": "/product-item/devices-product/oil-analysis/",
+                  "title": "",
+                  "description": "",
+                  "img": "/image/",
+                  "sectionImg_1": "/image/",
+                  "sectionImg_2": "/image/",
+                  "sectionImg_3": "/image/",
+                  "sectionImg_4": "",
+                  "sectionImg_5": "",
+                  "head_1": "",
+                  "head_2": "",
+                  "head_3": "",
+                  "head_4": "",
+                  "head_5": "",
+                  "paragraph_1": [],
+                  "paragraph_2": [],
+                  "paragraph_3": [],
                   "paragraph_4": "",
                   "paragraph_5": "",
                   "link_1": "",
-                  "link_2": "https://www.youtube.com/embed/Wnu1XpPBduo?si=WkOdggYyPtk7gZ3K",
+                  "link_2": "",
                   "typesHeader": "",
-                  "images": [
-                    {
-                      "imgPath": "/image/sensor/sensor_1.png",
-                      "alt": "vibration sensor"
-                    },
-                    {
-                      "imgPath": "/image/sensor/sensor_2.png",
-                      "alt": "vibration sensor"
-                    },
-                    {
-                      "imgPath": "/image/sensor/sensor_3.png",
-                      "alt": "vibration sensor"
-                    }
-                  ]
+                  "images": []
                 }
               ]
             }
