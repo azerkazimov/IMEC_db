@@ -5095,6 +5095,41 @@
                   "images": []
                 },
                 {
+                  "name": "FLIR E4 - Semi-Professional",
+                  "path": "/product-item/devices-product/thermal-camera/flir-e4",
+                  "title": "FLIR E4: Entry-Level Thermal Imaging Excellence",
+                  "description": "The FLIR E4 thermal imaging camera offers a cost-effective solution for detecting electrical, mechanical, and building issues. With a 4,800-pixel infrared resolution and FLIR's advanced MSX® technology, it ensures detailed thermal imaging and accurate temperature readings. Ideal for professionals seeking an accessible tool for reliable diagnostics and reporting.",
+                  "img": "/image/thermal-camera/thermal_49.jpg",
+                  "sectionImg_1": "/image/thermal-camera/thermal_49.jpg",
+                  "sectionImg_2": "/image/thermal-camera/thermal_50.jpg",
+                  "sectionImg_3": "/image/thermal-camera/thermal_51.jpg",
+                  "sectionImg_4": "",
+                  "sectionImg_5": "",
+                  "head_1": "Advanced MSX® Imaging Technology",
+                  "head_2": "Software and Reporting",
+                  "head_3": "Included Accessories & Battery",
+                  "head_4": "",
+                  "head_5": "",
+                  "paragraph_1": [
+                    "The patented MSX® technology overlays digital image details onto thermal images, enhancing visibility of text, labels, and patterns. This feature ensures clear, detailed thermal images for more precise diagnostics."
+                  ],
+                  "paragraph_2": [
+                    "The E4 comes with the FLIR Tools software, available in Turkish, which allows for comprehensive analysis and professional report creation. The software supports seamless data integration and efficient reporting, enhancing the overall diagnostic workflow.",
+                    "Fast Download & Sharing: Quick file transfer via USB and Wi-Fi for efficient data handling.",
+                    "Flexible Measurement Functions: Features like center spot temperature and isotherm functions enhance field measurement accuracy and ease."
+                  ],
+                  "paragraph_3": [
+                    "The camera package includes a rechargeable battery for extended use, along with essential accessories such as USB and Wi-Fi cables for fast data transfer. The included items ensure that users have all they need to start using the camera effectively right out of the box.",
+                    "Rechargeable Battery: Ensures long-lasting power for extended use.",
+                    "Camera Warranty: 2 years, with an extended 10-year warranty on the detector if registered on the FLIR website. Unregistered products come with a 1-year warranty. For detailed warranty conditions and registration, visit FLIR's website."
+                  ],
+                  "paragraph_4": "",
+                  "paragraph_5": "",
+                  "link_1": "https://www.youtube.com/embed/ChqVYe2hbF4?si=m7oIIibCPPsuBxio",
+                  "typesHeader": "",
+                  "images": []
+                },
+                {
                   "name": "",
                   "path": "/product-item/devices-product/thermal-camera/",
                   "title": "",
