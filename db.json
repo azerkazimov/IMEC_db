@@ -5328,32 +5328,40 @@
                   ]
                 },
                 {
-                  "name": "",
-                  "path": "/product-item/devices-product/vibration-sensors/",
-                  "title": "",
-                  "description": "",
-                  "img": "/image/sensor/",
-                  "sectionImg_1": "/image/sensor/",
-                  "sectionImg_2": "/image/sensor/",
-                  "sectionImg_3": "/image/sensor/",
+                  "name": "Panels and Vibration Switches",
+                  "path": "/product-item/devices-product/vibration-sensors/switches",
+                  "title": "Panels and Vibration Switches",
+                  "description": "Difficult and hazardous locations do not have to be a barrier to your vibration measurement processes. You can transport compact, high-temperature-resistant sensors to connection boxes with specialized cables and safely obtain measurements from secure locations. Vibration switches allow you to stop equipment or receive alerts when high vibration levels are detected. ATEX certified panels suitable for explosive environments are also available.",
+                  "img": "/image/sensor/sensor_13.png",
+                  "sectionImg_1": "/image/sensor/sensor_12.png",
+                  "sectionImg_2": "/image/sensor/sensor_15.png",
+                  "sectionImg_3": "/image/sensor/sensor_5.png",
                   "sectionImg_4": "",
                   "sectionImg_5": "",
-                  "head_1": "",
-                  "head_2": "",
-                  "head_3": "",
+                  "head_1": "Panels and Connection Boxes",
+                  "head_2": "Vibration Switches",
+                  "head_3": "Cables",
                   "head_4": "",
                   "head_5": "",
-                  "paragraph_1": [],
-                  "paragraph_2": [],
-                  "paragraph_3": [],
+                  "paragraph_1": "You don't have to exclude hard-to-reach and hazardous locations from your vibration measurement strategy. Durable sensors can be connected to secure connection boxes via cables, enabling you to obtain measurements safely and reliably. Connection boxes are available with various options, such as different connector outputs, measurement clocks, or multiple connector outputs, tailored to your measurement system.",
+                  "paragraph_2": "Vibration switches compatible with both AC and 4-20 mA sensors enable cost-effective management of vibration alarms and allow for the stopping of rotating equipment based on vibration levels. The HS-429 series offers a choice with easily adjustable alarm settings. The HS-535 series switch provides 4-20 mA output for PLC systems and BNC output for portable analyzers.",
+                  "paragraph_3": "We offer a range of cables tailored to your applications, with various connector types and cable specifications available. For cables needed for portable analyzers or other specific requirements, please contact us.",
                   "paragraph_4": "",
                   "paragraph_5": "",
                   "link_1": "",
-                  "link_2": "",
+                  "link_2": "https://www.youtube.com/embed/Wnu1XpPBduo?si=ks4d22qlJa_rMjM7",
                   "typesHeader": "",
                   "images": [
                     {
-                      "imgPath": "/image/sensor/sensor_4.png",
+                      "imgPath": "/image/sensor/sensor_13.png",
+                      "alt": "vibration sensor"
+                    },
+                    {
+                      "imgPath": "/image/sensor/sensor_14.png",
+                      "alt": "vibration sensor"
+                    },
+                    {
+                      "imgPath": "/image/sensor/sensor_12.png",
                       "alt": "vibration sensor"
                     }
                   ]
