@@ -5476,6 +5476,64 @@
                   ]
                 },
                 {
+                  "name": "OilHealth",
+                  "path": "/product-item/devices-product/oil-analysis/oilhealth",
+                  "title": "Advanced Online Sensor for Lubricant Oil Degradation Detection",
+                  "description": "This product is an online sensor based on optical principles that precisely determines the degradation status of lubricant oil, detecting its wear and contamination throughout its service life. The sensor positively impacts environmental and process sustainability by reducing the number of required oil changes. With a probe-like design, it can be directly installed into the lubrication system or oil storage tank without the need for any bypass. The connection enables direct integration with SCADA/PC/PLC and even CMS systems, allowing for immediate resolution of any incidents.",
+                  "img": "/image/oil/oil_6.png",
+                  "sectionImg_1": "/image/oil_8.png",
+                  "sectionImg_2": "/image/oil_6.png",
+                  "sectionImg_3": "/image/oil_7.png",
+                  "sectionImg_4": "",
+                  "sectionImg_5": "",
+                  "head_1": "OilHealth Probe",
+                  "head_2": "OilHealth Probe Max",
+                  "head_3": "",
+                  "head_4": "",
+                  "head_5": "",
+                  "paragraph_1": [
+                    "Oil degradation measurement",
+                    "Fluid temperature "
+                  ],
+                  "paragraph_2": [
+                    "Oil degradation measurement",
+                    "Measurement of moisture level in ppm (OilMoisture & OilHealth Probe Max)",
+                    "Fluid temperature",
+                    "Moisture percentage (OilMoisture & OilHealth Probe Max)",
+                    "Extending the oil's service life, reducing replacement costs."
+                  ],
+                  "paragraph_3": [
+                    "Maximum Savings: Extends the service life of lubricating oil, significantly reducing costs.",
+                    "Integration: Offers full SCADA/PC/PLC integration via digital communication and is compatible with CMS.",
+                    "High Functionality: Maintains optimal oil flow for greater accuracy, enhancing machine uptime and productivity.",
+                    "Minimal Impact: Reduces oil change frequency and waste, contributing to a more favorable environmental impact.",
+                    "Instant Measurement: Monitors abnormalities in lubricants both at the initial state and throughout usage, aiming to resolve issues before they arise."
+                  ],
+                  "paragraph_4": "",
+                  "paragraph_5": "",
+                  "link_1": "",
+                  "link_2": "",
+                  "typesHeader": "Parts of the Equipment",
+                  "images": [
+                    {
+                      "imgPath": "/image/oil/part_10.png",
+                      "alt": "oil sensor part"
+                    },
+                    {
+                      "imgPath": "/image/oil/part_11.png",
+                      "alt": "oil sensor part"
+                    },
+                    {
+                      "imgPath": "/image/oil/part_12.png",
+                      "alt": "oil sensor part"
+                    },
+                    {
+                      "imgPath": "/image/oil/part_13.png",
+                      "alt": "oil sensor part"
+                    }
+                  ]
+                },
+                {
                   "name": "",
                   "path": "/product-item/devices-product/oil-analysis/",
                   "title": "",
