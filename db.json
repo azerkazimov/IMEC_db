@@ -5289,6 +5289,45 @@
                   ]
                 },
                 {
+                  "name": "100 mV/g AC Sensors",
+                  "path": "/product-item/devices-product/vibration-sensors/100-mv-g-ac-sensor",
+                  "title": "100 mV/g AC Sensors",
+                  "description": "AC output accelerometers can be produced to meet a wide range of demands. Sensors can be tailored according to connector type, connector orientation, sensor dimensions, sensitivity values, IP protection class, cable specifications, and mounting options. Single-axis or multi-axis sensors are available, and for more details on cables and other components, please refer to the brochure or contact us. ATEX certified sensors for explosive environments are also available for all options.",
+                  "img": "/image/sensor/sensor_6.png",
+                  "sectionImg_1": "/image/sensor/sensor_9.png",
+                  "sectionImg_2": "/image/sensor/sensor_10.png",
+                  "sectionImg_3": "/image/sensor/sensor_11.png",
+                  "sectionImg_4": "/image/sensor/sensor_4.png",
+                  "sectionImg_5": "/image/sensor/sensor_5.png",
+                  "head_1": "AC Standard - HS-100 Series",
+                  "head_2": "AC Premium - HS-150 and HS-170 Series",
+                  "head_3": "AC Premium Biaxial & Triaxial",
+                  "head_4": "Mounts and Magnets ",
+                  "head_5": "Cables",
+                  "paragraph_1": "HS-100 series sensors are piezoelectric vibration sensors with AC output in acceleration units, designed for online or portable vibration measurement systems. They come with various sensitivity values, connector types and orientations, mounting options, and protection classes. Maximum operating temperature is 150°C. The HS-105 series can be used up to 250°C.",
+                  "paragraph_2": "The Premium series accelerometers are made with advanced shear mode technology, offering more stable results and faster adjustment times compared to the HS-100 series. They can be customized with various sensitivity values, connector types and orientations, mounting options, and protection classes. Maximum operating temperature is 150°C, with the HS-170 series available in smaller sizes for restricted spaces. Details can be found in the brochure.",
+                  "paragraph_3": "The HS-172 and HS-173 series premium sensors allow for simultaneous vibration measurements from two or three channels. Suitable for both portable and online systems, with a maximum temperature of 130°C. Further details can be found in the brochure.",
+                  "paragraph_4": "Proper installation of sensors and analyzers is crucial for accurate vibration measurements. We offer various solutions including flat and dual-foot magnets, adhesive pads, screws, electrically isolated mounts, thermal dampers, and mounts for motor blades. Please refer to the brochure for more details.",
+                  "paragraph_5": "We provide a range of cables tailored to your applications, with various connector types and cable specifications available. For portable analyzers or other cable needs, please contact us.",
+                  "link_1": "",
+                  "link_2": "https://www.youtube.com/embed/Wnu1XpPBduo?si=JaKeAs8zXlJk_0Of",
+                  "typesHeader": "",
+                  "images": [
+                    {
+                      "imgPath": "/image/sensor/sensor_6.png",
+                      "alt": "vibration sensor"
+                    },
+                    {
+                      "imgPath": "/image/sensor/sensor_7.png",
+                      "alt": "vibration sensor"
+                    },
+                    {
+                      "imgPath": "/image/sensor/sensor_8.png",
+                      "alt": "vibration sensor"
+                    }
+                  ]
+                },
+                {
                   "name": "",
                   "path": "/product-item/devices-product/vibration-sensors/",
                   "title": "",
