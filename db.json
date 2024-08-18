@@ -5224,6 +5224,102 @@
                   "images": []
                 }
               ]
+            },
+            {
+              "id": 236,
+              "name": "Vibration Sensors",
+              "title": "Vibration Sensors: Essential Monitoring Tools for Machinery Health",
+              "path": "/product-item/devices-product/vibration-sensors",
+              "img": "/image/sensor/sensor.png",
+              "sectionImg": "/image/image/sensor/sensor.png",
+              "description": "Vibration sensors are essential tools for monitoring and analyzing machinery health. They detect and measure vibrations in mechanical systems, providing valuable data to prevent equipment failures and optimize performance. Available in various types and configurations, these sensors offer outputs in velocity, acceleration, or displacement units. They can integrate with PLC, DCS, and IIoT systems, and are often equipped with features like dual outputs for additional data, rugged designs for harsh environments, and options for explosive atmospheres (Ex Proof). Reliable and precise, vibration sensors help ensure the longevity and efficiency of industrial equipment.",
+              "subCats": [
+                {
+                  "name": "4-20 mA Vibration Sensors",
+                  "path": "/product-item/devices-product/vibration-sensors/4-20-mA",
+                  "title": "4-20mA Total Value Sensors",
+                  "description": "4-20 mA total value sensors are designed to convert measured vibrations into total value output in velocity and/or acceleration units, allowing direct connection to PLC/DCS/IIoT systems. Ex Proof sensor options are also available for explosive environments.",
+                  "img": "/image/sensor/sensor_1.png",
+                  "sectionImg_1": "/image/sensor/sensor_1.png",
+                  "sectionImg_2": "/image/sensor/sensor_4.png",
+                  "sectionImg_3": "/image/sensor/sensor_5.png",
+                  "sectionImg_4": "",
+                  "sectionImg_5": "",
+                  "head_1": "4-20 mA Sensors",
+                  "head_2": "Mounting Options",
+                  "head_3": "Cables",
+                  "head_4": "",
+                  "head_5": "",
+                  "paragraph_1": [
+                    "HS-420: 4-20 mA Velocity",
+                    "HS-421: 4-20 mA Velocity and AC Acceleration",
+                    "HS-422: 4-20 mA Acceleration",
+                    "HS-423: 4-20 mA Acceleration and AC Acceleration"
+                  ],
+                  "paragraph_2": [
+                    "Magnets: Flat and dual-foot magnets for secure sensor placement.",
+                    "Adhesive Pads: For stable mounting on various surfaces.",
+                    "Screws: For fixed installation on machinery.",
+                    "Electrically Insulated Mounts: To prevent electrical interference.",
+                    "Thermal Dampers: To minimize the impact of temperature fluctuations.",
+                    "Motor Blade Adapters: Custom mounts for specific applications."
+                  ],
+                  "paragraph_3": [
+                    "Custom Cables: Tailored solutions with various connector types and cable specifications.",
+                    "Portable Analyzer Cables: Specific cables for portable analyzers available upon request."
+                  ],
+                  "paragraph_4": "",
+                  "paragraph_5": "",
+                  "link_1": "",
+                  "link_2": "https://www.youtube.com/embed/Wnu1XpPBduo?si=WkOdggYyPtk7gZ3K",
+                  "typesHeader": "",
+                  "images": [
+                    {
+                      "imgPath": "/image/sensor/sensor_1.png",
+                      "alt": "vibration sensor"
+                    },
+                    {
+                      "imgPath": "/image/sensor/sensor_2.png",
+                      "alt": "vibration sensor"
+                    },
+                    {
+                      "imgPath": "/image/sensor/sensor_3.png",
+                      "alt": "vibration sensor"
+                    }
+                  ]
+                },
+                {
+                  "name": "",
+                  "path": "/product-item/devices-product/vibration-sensors/",
+                  "title": "",
+                  "description": "",
+                  "img": "/image/sensor/",
+                  "sectionImg_1": "/image/sensor/",
+                  "sectionImg_2": "/image/sensor/",
+                  "sectionImg_3": "/image/sensor/",
+                  "sectionImg_4": "",
+                  "sectionImg_5": "",
+                  "head_1": "",
+                  "head_2": "",
+                  "head_3": "",
+                  "head_4": "",
+                  "head_5": "",
+                  "paragraph_1": [],
+                  "paragraph_2": [],
+                  "paragraph_3": [],
+                  "paragraph_4": "",
+                  "paragraph_5": "",
+                  "link_1": "",
+                  "link_2": "",
+                  "typesHeader": "",
+                  "images": [
+                    {
+                      "imgPath": "/image/sensor/sensor_4.png",
+                      "alt": "vibration sensor"
+                    }
+                  ]
+                }
+              ]
             }
           ]
         }
