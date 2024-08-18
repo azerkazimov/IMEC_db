@@ -4948,6 +4948,40 @@
                   "images": []
                 },
                 {
+                  "name": "FLIR E54 - Professional",
+                  "path": "/product-item/devices-product/thermal-camera/flir-e54-professional",
+                  "title": "FLIR E54: Entry-Level Excellence for Essential Inspections",
+                  "description": "The FLIR E54 is the entry model in the Exx Series, delivering the resolution and sensitivity you need for basic condition monitoring, electrical/mechanical inspections, and building diagnostics. The 320 × 240 pixel thermal detector accurately measures temperatures up to 650°C (1202°F), producing clear, vivid images enhanced with FLIR’s patented MSX® technology for additional detail and perspective. The built-in FLIR Inspection Route feature helps inspectors stay organized by following pre-planned survey routes, even when inspecting large or multiple locations. For a limited time, purchasing the FLIR E54 includes a 3-month subscription to FLIR Thermal Studio Pro and FLIR Route Creator.",
+                  "img": "/image/thermal-camera/thermal_37.jpg",
+                  "sectionImg_1": "/image/thermal-camera/thermal_37.jpg",
+                  "sectionImg_2": "/image/thermal-camera/thermal_38.jpg",
+                  "sectionImg_3": "/image/thermal-camera/thermal_39.jpg",
+                  "sectionImg_4": "",
+                  "sectionImg_5": "",
+                  "head_1": "Enhanced Contrast for Faster Troubleshooting",
+                  "head_2": "Simplified Reporting",
+                  "head_3": "Included Accessories & Battery",
+                  "head_4": "",
+                  "head_5": "",
+                  "paragraph_1": [
+                    "Instant Contrast Enhancement: Use FLIR’s 1-Touch Level/Span to instantly improve image contrast and highlight potential electrical or mechanical issues.",
+                    "Accurate Measurements: The E54 measures temperatures up to 650°C (1202°F), offers 3 spot meters, and displays maximum/minimum temperatures in a live area on the screen."
+                  ],
+                  "paragraph_2": [
+                    "Integrated Software: Built-in integration with FLIR’s routing software* includes a microphone for voice annotations and comprehensive reporting features to streamline your workflow.",
+                    "Image File Format: Standard JPEG with measurement data. Infrared-only mode.",
+                    "Image Storage Mode: Infrared, Visual, MSX®, Picture-in-Picture, Gallery."
+                  ],
+                  "paragraph_3": [
+                    "Packaging: Includes infrared camera with lens, 2 batteries, battery charger, hard carrying case, neck strap, front lens cap, power sources, SD card (8 GB), camera straps (hand, wrist, cord), carabiner clip, front protection, cables (USB 2.0 A – USB Type-C, USB Type-C – HDMI, USB Type-C – USB Type-C), strap brackets, screws, Torx T10 wrench, printed documents."
+                  ],
+                  "paragraph_4": "",
+                  "paragraph_5": "",
+                  "link_1": "https://www.youtube.com/embed/JeVjQY0aa-0?si=oSBp0DqR6AF8giAG",
+                  "typesHeader": "",
+                  "images": []
+                },
+                {
                   "name": "",
                   "path": "/product-item/devices-product/thermal-camera/",
                   "title": "",
@@ -4955,7 +4989,7 @@
                   "img": "/image/",
                   "sectionImg_1": "/image/",
                   "sectionImg_2": "",
-                  "sectionImg_3": "",
+                  "sectionImg_3": "Included Accessories & Battery",
                   "sectionImg_4": "",
                   "sectionImg_5": "",
                   "head_1": "",
