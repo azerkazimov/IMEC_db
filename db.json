@@ -5520,15 +5520,15 @@
                       "alt": "oil sensor part"
                     },
                     {
-                      "imgPath": "/image/oil/part_11.png",
+                      "imgPath": "/image/oil/part_7.png",
                       "alt": "oil sensor part"
                     },
                     {
-                      "imgPath": "/image/oil/part_12.png",
+                      "imgPath": "/image/oil/part_8.png",
                       "alt": "oil sensor part"
                     },
                     {
-                      "imgPath": "/image/oil/part_13.png",
+                      "imgPath": "/image/oil/part_9.png",
                       "alt": "oil sensor part"
                     }
                   ]
@@ -5570,20 +5570,76 @@
                   "typesHeader": "Parts of the Equipment",
                   "images": [
                     {
-                      "imgPath": "/image/oil/part_14.png",
+                      "imgPath": "/image/oil/part_10.png",
                       "alt": "oil sensor part"
                     },
                     {
-                      "imgPath": "/image/oil/part_15.png",
+                      "imgPath": "/image/oil/part_7.png",
                       "alt": "oil sensor part"
                     },
                     {
-                      "imgPath": "/image/oil/part_16.png",
+                      "imgPath": "/image/oil/part_8.png",
                       "alt": "oil sensor part"
                     },
                     {
-                      "imgPath": "/image/oil/part_17.png",
+                      "imgPath": "/image/oil/part_9.png",
                       "alt": "oil sensor part"
+                    }
+                  ]
+                },
+                {
+                  "name": "SMK",
+                  "path": "/product-item/devices-product/oil-analysis/smk",
+                  "title": "SMK: Real-Time Fluid Monitoring with Integrated HMI Display",
+                  "description": "The SMK combines the unique capability of the OilWear® sensor with a built-in HMI display to present relevant information right next to the machine. The advanced technology of the sensor can detect particles and bubbles larger than 4 microns in machine fluids and classify them into different size ranges. This data is presented in real-time, providing precise information about the machine's condition based on fluid contamination. The SMK is a plug-and-play integration kit compatible with all hydraulic systems, regardless of brand. It includes a flow condition solution to monitor working conditions in both pressurized and non-pressurized systems, independent of fluid dynamics. The HMI display allows you to monitor the system, view data in real-time, and store and export it via USB. Additionally, you can remotely connect for digitalized, oil-based monitoring of your assets.",
+                  "img": "/image/oil/oil_10.png",
+                  "sectionImg_1": "/image/oil/oil_10.png",
+                  "sectionImg_2": "/image/oil/oil_11.png",
+                  "sectionImg_3": "/image/oil/oil_12.png",
+                  "sectionImg_4": "",
+                  "sectionImg_5": "",
+                  "head_1": "SMK",
+                  "head_2": "SMKP",
+                  "head_3": "Maximized Efficiency",
+                  "head_4": "",
+                  "head_5": "",
+                  "paragraph_1": [
+                    "Particle counting according to ISO 4406 standards",
+                    "Bubble separation and counting",
+                    "Classification based on shape for root cause analysis",
+                    "Oil degradation detection",
+                    "Flow rate control: Pressurized or non-pressurized",
+                    "Integrated 7' display"
+                  ],
+                  "paragraph_2": [
+                    "Particle counting according to ISO 4406 standards",
+                    "Bubble separation and counting",
+                    "Classification based on shape for root cause analysis",
+                    "Oil degradation detection",
+                    "Flow rate control: Pressurized or non-pressurized",
+                    "Integrated 7' display",
+                    "Includes pump"
+                  ],
+                  "paragraph_3": [
+                    "Cost Savings: This continuously attached sensor optimizes operations to detect operational risks and identify specific faults, leading to greater efficiency and better returns.",
+                    "High Precision: OilWear detects particles as small as 4 μm, classifies them, and accurately differentiates between various fault types with precise particle-bubble separation.",
+                    "Integration: OilWear comes equipped with 3G/4G wireless communication solutions, enabling it to interact with various digital services and industrial functions.",
+                    "Enhanced Reliability: By meticulously monitoring the condition of critical machines, OilWear helps you optimize operational and maintenance schedules.",
+                    "Robustness: SMK is designed to withstand the harshest conditions, with a stainless steel enclosure that guarantees protection against water and dust, ensuring durability and reliability in any environment.",
+                    "Planning: OilWear facilitates the advance planning of maintenance schedules, reducing disruptions and downtime in favorable locations.",
+                    "Instant Information: OilWear provides real-time insights into the condition of critical machines, allowing for early detection of potential failures and adaptation to different operating conditions.",
+                    "Real-Time: OilWear detects abnormalities instantly and provides information at any moment, preventing failures before they occur.",
+                    "Maximum Visibility: SMK's 7' display allows for immediate reading of data on the machine, giving you instant awareness of the machine's condition and enabling seamless integration into your control systems."
+                  ],
+                  "paragraph_4": "",
+                  "paragraph_5": "",
+                  "link_1": "",
+                  "link_2": "",
+                  "typesHeader": "Parts of the Equipment",
+                  "images": [
+                    {
+                      "imgPath": "/image/oil/part_11.png",
+                      "alt": "Oil Sensor"
                     }
                   ]
                 },
