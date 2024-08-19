@@ -5755,6 +5755,44 @@
                   "images": []
                 },
                 {
+                  "name": "WEARDETECT DISPLAY",
+                  "path": "/product-item/devices-product/oil-analysis/weardetect-display",
+                  "title": "WearDetect Display Oil Condition Sensor",
+                  "description": "The GILL 4212 WearDetect Display Oil Condition Sensor consists of two main components. The sensor probe, available with various connection options, is attached to the gear box oil line using a simple magnetic coupling adapter. It is then connected to a separate driver circuit via a cable. The driver circuit converts the data from the sensor into a usable data set. This data is transferred to analysis systems using analog or digital communication protocols. Additionally, in the version with a display, the driver circuit provides information about the extent of wear directly at the machine using an LED system.",
+                  "img": "/image/oil/oil_16.png",
+                  "sectionImg_1": "/image/oil/oil_17.png",
+                  "sectionImg_2": "/image/oil/oil_18.png",
+                  "sectionImg_3": "/image/oil/oil_19.png",
+                  "sectionImg_4": "/image/oil/oil_20.png",
+                  "sectionImg_5": "/image/oil/oil_21.png",
+                  "head_1": "Real-Time and Continuous Condition Monitoring",
+                  "head_2": "Detect Failures Timely and Easily",
+                  "head_3": "",
+                  "head_4": "",
+                  "head_5": "",
+                  "paragraph_1": [
+                    "Real-Time and Continuous Condition Monitoring: Provides ongoing and immediate tracking of the system’s condition.",
+                    "Separate Monitoring of Large and Small Particles: Enables distinct tracking of both large and small particles.",
+                    "Oil Contamination Tracking: Monitors contamination levels in the oil.",
+                    "Oil Temperature and Depletion Tracking: Keeps track of the oil’s temperature and levels.",
+                    "Communication with PLC/DCS/CMMS/SCADA and IIoT Systems: Interfaces with various industrial systems for comprehensive data integration.",
+                    "Reduced Unplanned Downtime: Helps minimize unexpected machine stoppages."
+                  ],
+                  "paragraph_2": [
+                    "The WearDetect oil condition sensor is preferred by leading factories worldwide for early detection of faults in machinery.",
+                    "Monitor the oil condition in real time.",
+                    "Unlike other predictive maintenance methods, analyzing and interpreting results does not require expensive training or expert experience.",
+                    "Use the data from the WearDetect sensor to detect faults early and plan your maintenance actions. WearDetect supports you throughout the entire process, from increasing the frequency of laboratory oil sample tests to making heavy maintenance decisions."
+                  ],
+                  "paragraph_3": [],
+                  "paragraph_4": "",
+                  "paragraph_5": "",
+                  "link_1": "",
+                  "link_2": "",
+                  "typesHeader": "",
+                  "images": []
+                },
+                {
                   "name": "",
                   "path": "/product-item/devices-product/oil-analysis/",
                   "title": "",
