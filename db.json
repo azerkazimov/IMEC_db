@@ -5755,7 +5755,7 @@
                   "images": []
                 },
                 {
-                  "name": "WEARDETECT DISPLAY",
+                  "name": "WearDetect Display",
                   "path": "/product-item/devices-product/oil-analysis/weardetect-display",
                   "title": "WearDetect Display Oil Condition Sensor",
                   "description": "The GILL 4212 WearDetect Display Oil Condition Sensor consists of two main components. The sensor probe, available with various connection options, is attached to the gear box oil line using a simple magnetic coupling adapter. It is then connected to a separate driver circuit via a cable. The driver circuit converts the data from the sensor into a usable data set. This data is transferred to analysis systems using analog or digital communication protocols. Additionally, in the version with a display, the driver circuit provides information about the extent of wear directly at the machine using an LED system.",
