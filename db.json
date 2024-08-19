@@ -5855,6 +5855,43 @@
                   "images": []
                 }
               ]
+            },
+            {
+              "id": 238,
+              "name": "Gas Cameras",
+              "title": "Advanced Gas Leak Detection Cameras",
+              "path": "/product-item/devices-product/gas-camera",
+              "img": "/image/gas/gas.png",
+              "sectionImg": "/image/gas/gas.png",
+              "description": "Discover cutting-edge gas leak detection cameras designed for precision and efficiency. Our advanced models feature high-resolution thermal imaging technology, allowing for accurate and reliable detection of methane, VOCs, and other gas leaks. Equipped with state-of-the-art sensors and integrated leak quantification systems, these cameras offer enhanced safety by identifying potential hazards from a safe distance and providing detailed leak analysis. Ideal for industrial and safety applications, our gas cameras ensure comprehensive monitoring and swift response to prevent and manage gas leaks effectively.",
+              "subCats": [
+                {
+                  "name": "",
+                  "path": "/product-item/devices-product/",
+                  "title": "",
+                  "description": "",
+                  "img": "",
+                  "sectionImg_1": "",
+                  "sectionImg_2": "",
+                  "sectionImg_3": "",
+                  "sectionImg_4": "",
+                  "sectionImg_5": "",
+                  "head_1": "",
+                  "head_2": "",
+                  "head_3": "",
+                  "head_4": "",
+                  "head_5": "",
+                  "paragraph_1": "",
+                  "paragraph_2": "",
+                  "paragraph_3": "",
+                  "paragraph_4": "",
+                  "paragraph_5": "",
+                  "link_1": "",
+                  "link_2": "",
+                  "typesHeader": "",
+                  "images": []
+                }
+              ]
             }
           ]
         }
