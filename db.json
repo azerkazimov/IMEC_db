@@ -6046,6 +6046,32 @@
                   "link_2": "",
                   "typesHeader": "",
                   "images": []
+                },
+                {
+                  "name": "FLIR QL320",
+                  "path": "/product-item/devices-product/gas-camera/flir-ql320",
+                  "title": "QL320 by Providence Photonics",
+                  "description": "The QL320 is an integrated reporting system that allows you to rate leak rates for methane and other hydrocarbons and automatically generate reports. This system, which works in conjunction with a gas camera, enables you to rate and report leaks without the need for an additional analyzer or close contact with the gas. By avoiding close contact with the gas, it also helps you meet safety requirements.",
+                  "img": "/image/gas/gas_18.png",
+                  "sectionImg_1": "/image/gas/gas_18.png",
+                  "sectionImg_2": "/image/gas/gas_19.png",
+                  "sectionImg_3": "/image/gas/gas_20.png",
+                  "sectionImg_4": "",
+                  "sectionImg_5": "",
+                  "head_1": "RELIABLE MEASUREMENTS WITH QUICK RESULTS",
+                  "head_2": "EFFECTIVE DETECTION AND REPORTING",
+                  "head_3": "DESIGNED FOR INDUSTRIAL ENVIRONMENTS",
+                  "head_4": "",
+                  "head_5": "",
+                  "paragraph_1": "The QL320 is portable, easy to use, and provides results in seconds while in the field. It connects seamlessly to the FLIR GFx320 and FLIR GF320 without requiring any additional setup. The QL320 can also synchronize with multiple optics and temperature ranges. With the QL320, you can determine the mass leak rates (lb/hr or g/hr) or volumetric leak rates (cc/min or L/min) of most hydrocarbon gases. Measure leak rates from safe distances of up to 300 meters!",
+                  "paragraph_2": "The QL320 has built-in tools necessary to validate leak points and a Δ temperature scanning tool to determine the suitability of background temperatures. It allows for field reporting, archiving of measurements, access to raw data for post-processing, and analysis with color-coded video.",
+                  "paragraph_3": "The QL320 is a tablet-based system that meets the necessary requirements for use in gas fields, refineries, and other industrial environments. The dust- and water-resistant touchscreen tablet provides high contrast for easy reading in outdoor conditions.",
+                  "paragraph_4": "",
+                  "paragraph_5": "",
+                  "link_1": "",
+                  "link_2": "https://www.youtube.com/embed/KsBFKHzgrh8?si=NIhXPPb_Oq7zCgoZ",
+                  "typesHeader": "",
+                  "images": []
                 }
               ]
             }
