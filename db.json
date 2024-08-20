@@ -6154,9 +6154,9 @@
               "name": "CONSULTANCY SERVICE",
               "title": "",
               "path": "/product-item/devices-product/consultancy-service",
-              "img": "/image/consultancy/consultancy_1.png",
-              "sectionImg": "/image/consultancy/consultancy_1.png",
-              "description": "",
+              "img": "maintenance/acceptance_1.jpg",
+              "sectionImg": "maintenance/acceptance_1.jpg",
+              "description": "Our consultancy service provides expert guidance tailored to your specific needs, helping you optimize and elevate your predictive maintenance program. We focus on understanding your equipment, operational conditions, and production environment to recommend the best tools and evaluation methods. Whether you need to start from scratch or enhance an existing program, our experienced consultants offer practical solutions to ensure your maintenance practices are effective and valuable.",
               "subCats": [
                 {
                   "name": "Acceptance Tests",
