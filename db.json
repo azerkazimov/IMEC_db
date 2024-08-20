@@ -289,6 +289,11 @@
               "id": 239,
               "name": "On-Site Balancing Devices",
               "path": "/product-item/devices-product/balancing"
+            },
+            {
+              "id": 240,
+              "name": "On-Site Balancing Devices",
+              "path": "/product-item/devices-product/consultancy-service"
             }
           ]
         }
@@ -6141,6 +6146,69 @@
                       "alt": "Falcon Smart Balancer"
                     }
                   ]
+                }
+              ]
+            },
+            {
+              "id": 240,
+              "name": "CONSULTANCY SERVICE",
+              "title": "",
+              "path": "/product-item/devices-product/consultancy-service",
+              "img": "/image/consultancy/consultancy_1.png",
+              "sectionImg": "/image/consultancy/consultancy_1.png",
+              "description": "",
+              "subCats": [
+                {
+                  "name": "Acceptance Tests",
+                  "path": "/product-item/devices-product/consultancy-service/acceptance-tests",
+                  "title": "Condition Testing and Expert Reporting Services",
+                  "description": "If you need comprehensive condition testing for newly installed machinery or equipment being delivered to your clients, and require an expert report from our certified engineers, please contact us.",
+                  "img": "/image/maintenance/acceptance_1.jpg",
+                  "sectionImg_1": "/image/maintenance/acceptance_4.jpg",
+                  "sectionImg_2": "/image/maintenance/consultancy_3.png",
+                  "sectionImg_3": "",
+                  "sectionImg_4": "",
+                  "sectionImg_5": "",
+                  "head_1": "For Production Facilities",
+                  "head_2": "For Machine Manufacturers",
+                  "head_3": "",
+                  "head_4": "",
+                  "head_5": "",
+                  "paragraph_1": "Our certified and highly specialized engineers at RI-SE will conduct detailed measurements and evaluations of equipment purchased or maintained by you, either on-site or at the manufacturer/maintenance workshop. The assessment will use limits, standards, or guidelines set by the manufacturer, providing you with a report on the equipment's condition. Based on this report, you can decide on the acceptance or rejection of the equipment. RI-SE will operate as an independent entity, evaluating and sharing the results within ethical guidelines.",
+                  "paragraph_2": "RI-SE's certified and highly specialized engineers will perform detailed measurements and evaluations of equipment installed or maintained by you, either at the production facility or on your site. The evaluation will use limits, standards, or guidelines set by you, providing information on the equipment's condition. Based on this report, you can decide on the acceptance or rejection of the equipment. RI-SE will function as an independent organization, evaluating and sharing the results in accordance with ethical standards.",
+                  "paragraph_3": "",
+                  "paragraph_4": "",
+                  "paragraph_5": "",
+                  "link_1": "",
+                  "link_2": "",
+                  "typesHeader": "",
+                  "images": []
+                },
+                {
+                  "name": "Predictive Maintenance Consulting",
+                  "path": "/product-item/devices-product/consultancy-service/predictive-maintenance-consulting",
+                  "title": "Predictive Maintenance Consulting",
+                  "description": "",
+                  "img": "/image/maintenance/acceptance_3.jpg",
+                  "sectionImg_1": "/image/maintenance/acceptance_5.jpg",
+                  "sectionImg_2": "/image/maintenance/advanced.jpg",
+                  "sectionImg_3": "",
+                  "sectionImg_4": "",
+                  "sectionImg_5": "",
+                  "head_1": "Enhance Your Predictive Maintenance Program",
+                  "head_2": "Tailored Consultancy for Your Predictive Maintenance Needs",
+                  "head_3": "",
+                  "head_4": "",
+                  "head_5": "",
+                  "paragraph_1": "Your facility might be starting from scratch with predictive maintenance or running a program that hasn’t added much value. You may be struggling to find time for maintenance work and other factory tasks, and unable to focus on your predictive maintenance program. ",
+                  "paragraph_2": "Regardless of the brand or model of the devices and software used in your factory, we focus on your specific needs. We provide consultancy on the tools you should use for testing and how to evaluate them based on the internal structure, operating conditions, and production environment of your machines. Contact us to elevate your predictive maintenance program together!",
+                  "paragraph_3": "",
+                  "paragraph_4": "",
+                  "paragraph_5": "",
+                  "link_1": "",
+                  "link_2": "",
+                  "typesHeader": "",
+                  "images": []
                 }
               ]
             }
