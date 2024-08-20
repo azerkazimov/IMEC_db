@@ -6074,6 +6074,75 @@
                   "images": []
                 }
               ]
+            },
+            {
+              "id": 239,
+              "name": "ON-SITE BALANCING DEVICES",
+              "title": "Falcon Smart Balancer",
+              "path": "/product-item/devices-product/balancing",
+              "img": "/image/balancer/balancer_1.png",
+              "sectionImg": "/image/balancer/balancer_1.png",
+              "description": "Falcon Smart Balancer is a versatile tool designed to eliminate imbalances in machines of all sizes, from the simplest to the most complex. It supports on-site balancing across 1, 2, 3, or 4 planes and enables synchronized data measurement from multiple sensors. With an intuitive 'Guiding' interface, the Falcon Smart Balancer simplifies the entire balancing process, offering features like automatic trial weight estimation, vibration control, and result evaluation according to ISO standards. This tool ensures precise, safe, and efficient balancing, accompanied by detailed reports for thorough analysis.",
+              "subCats": [
+                {
+                  "name": "Falcon Smart Balancer",
+                  "path": "/product-item/devices-product/",
+                  "title": "Falcon Smart Balancer",
+                  "description": "The Falcon Smart Balancer allows you to eliminate imbalance in your machines. You can balance rotors of any size, from the simplest to the most complex, on-site (1, 2, 3, or 4-plane balancing). By performing multi-channel data measurements, it's possible to take synchronized readings from all sensors. The FALCON Balancer includes all the necessary tools to guide the user throughout the entire on-site balancing process and control the results:",
+                  "img": "/image/balancer/balancer_1.png",
+                  "sectionImg_1": "/image/balancer/balancer_2.png",
+                  "sectionImg_2": "/image/balancer/balancer_3.png",
+                  "sectionImg_3": "",
+                  "sectionImg_4": "",
+                  "sectionImg_5": "",
+                  "head_1": "Key Features of the Falcon Smart Balancer",
+                  "head_2": "Falcon Smart Balancer: Precision and Efficiency in On-Site Machine Balancing",
+                  "head_3": "",
+                  "head_4": "",
+                  "head_5": "",
+                  "paragraph_1": [
+                    "Easy to use with the 'Guiding' interface",
+                    "Polar diagram view of vibration results and weight positions",
+                    "Automatic estimation of trial weight amount and location",
+                    "Recommendations to improve balance quality and data checks at every step",
+                    "Speed control",
+                    "Control of disruptive vibrations (e.g., beating) with time-synchronized average control",
+                    "Balancing without the trial weight step by recording influence coefficients",
+                    "Tools to split or combine weights",
+                    "Result evaluation according to ISO 10816-3 and ISO 1940",
+                    "Detailed automatic report documented with histograms, images, and spectra"
+                  ],
+                  "paragraph_2": "With the FALCON Smart Balancer, you can achieve more precise, safer, and faster balancing of your machines.",
+                  "paragraph_3": "",
+                  "paragraph_4": "",
+                  "paragraph_5": "",
+                  "link_1": "",
+                  "link_2": "",
+                  "typesHeader": "Falcon Smart Balancer",
+                  "images": [
+                    {
+                      "imgPath": "/image/balancer/balancer_1.png",
+                      "alt": "Falcon Smart Balancer"
+                    },
+                    {
+                      "imgPath": "/image/balancer/balancer_2.png",
+                      "alt": "Falcon Smart Balancer"
+                    },
+                    {
+                      "imgPath": "/image/balancer/balancer_3.png",
+                      "alt": "Falcon Smart Balancer"
+                    },
+                    {
+                      "imgPath": "/image/balancer/balancer_4.png",
+                      "alt": "Falcon Smart Balancer"
+                    },
+                    {
+                      "imgPath": "/image/balancer/balancer_5.png",
+                      "alt": "Falcon Smart Balancer"
+                    }
+                  ]
+                }
+              ]
             }
           ]
         }
